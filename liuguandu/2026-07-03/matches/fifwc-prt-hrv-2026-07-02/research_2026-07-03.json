@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-prt-hrv-2026-07-02",
+  "event_title": "Portugal vs. Croatia",
+  "event_start": "2026-06-28T10:11:05.994573Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718920",
+        "slug": "fifwc-prt-hrv-2026-07-02-draw",
+        "question": "Will Portugal vs. Croatia end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.26125\", \"0.73875\"]",
+        "bestBid": 0.26,
+        "bestAsk": 0.2625,
+        "liquidity": 391164.103875,
+        "volume": 457079.6766950025,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 10:42:05 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:48:09 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 11:53:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Cristiano Ronaldo And Portugal Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEdfNEdxZl82YnNkY09nTndQaEM3clQ2ckllWmYtSF9mNkxUdXlXVFdYc1lyR2F5bmxjd1E1dzFXNENjU2RRTkJkWHQyWjUwNnpkMHRwdTFyRENFRVpCbklZRkZ0Y1pEV3pXQ3JCdldaWTVBbHI0R2tfSldYTXF4Um1MM3A0NEZTQ2dZTF9jOTNFc2I4NzRFRm1aRVJqMm1fSkHSAaIBQVVfeXFMTVVwX1gya0pSbGp0di0zenhtYS1KUzhLTUVmcnlGcVhiQVoxb0Y5MjNvcEpEUzJ5bm14aFdoR19vby1NX05KZlBRRjZ2STNLekpYbndQUUx1Z2hCMmVPLUJhb0pLZ2dXWURRSzJkNWdQaS1EYkoyY2s5c2ljR2xfeW1jbm1qcTNHSkpOa01uSXFoOExSWUY0MlZXN3JzWTA4QWl3?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 03:21:55 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How And Where To Watch: Portugal vs Croatia in the Round of 32 of the 2026 FIFA World Cup - beIN SPORTS",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczh3M0gxMm0zODFqM2l5UU50UTE1NlhJYnRkSnBLSUdjVy1aOHJ1U2xSSUR3dWl1bzRKa2JlN2xHVmZVSVUyMmdIUV9hdXhsUS1CVVRmZHo0dGk1ZW5OTVhYd1BYcFFCVjhEcGlzc1dYUmJXRThFUEZFMWhHaG95RTRzM2tkOE9qRmZuQnZNOGF3VHJaTUhzZXp6a1RzUVRNcEdUSl9rTUlZaXdlalJoOThVbWs5aUNhdXZXNEczNVNpLWxzR2JWcUpDY29oYWNFbkFPbnpocG10Y3N3VHdscE1fVE4ydzVjQy01dmNxbk0yQU1maEU1U0JqTDI?oc=5",
+          "source": "beIN SPORTS",
+          "published": "Thu, 02 Jul 2026 02:40:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia prediction, picks, odds, betting preview, start time for 2026 World Cup match Thursday - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUY3aEdJc1ZnUERxNVh6YlpCbWdlUXM3NWNWWHdCVzBMX1VVOFJBTk1pODhCWjdpRF9qWTVKb3NER0ZDdjhfalVwTE93bGJjVXZneHdDRXNEZGduOUw2WlBFUGgydnBveUpmZDBaTll5UVZ3aFFCS0FtZGVIaUFZX05FWnJRSXBvOVNUeG9jd2RUQ1Q2LW9UemJZYTdlN2ljNThOUW9rWmJCVFdtbTk5R0gzbkZjbUFlU3MxaDJfU0xTM1EtVk9RZXVjMmVoazFUYTgtSm5oeHA?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 12:00:39 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tzaW5WZno4NkM2ZDBuMW1zTzlVaC1DM29wVlhaSHdJeWJ5M2FUQkZObjZKS2FBNlctekx2c1VRbW1jajY3N1kzTDR2VGNyT25idF9UajBWTExzZUdvMXZhZmNtcm94eGhodGlsU1lhd2RZVjh5WEN4c2NmeW1acWNfVHVsTVBLTWh0ZDdJbEZLeC1WTzVvSXFzRkpnSmZaRl96aG5MUWlvd1BUWHc?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 21:48:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718919",
+        "slug": "fifwc-prt-hrv-2026-07-02-prt",
+        "question": "Will Portugal win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Portugal wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.56375\", \"0.43625\"]",
+        "bestBid": 0.5625,
+        "bestAsk": 0.565,
+        "liquidity": 835017.383725,
+        "volume": 1850684.4754849868,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 10:42:05 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:48:09 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 11:53:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Cristiano Ronaldo And Portugal Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEdfNEdxZl82YnNkY09nTndQaEM3clQ2ckllWmYtSF9mNkxUdXlXVFdYc1lyR2F5bmxjd1E1dzFXNENjU2RRTkJkWHQyWjUwNnpkMHRwdTFyRENFRVpCbklZRkZ0Y1pEV3pXQ3JCdldaWTVBbHI0R2tfSldYTXF4Um1MM3A0NEZTQ2dZTF9jOTNFc2I4NzRFRm1aRVJqMm1fSkHSAaIBQVVfeXFMTVVwX1gya0pSbGp0di0zenhtYS1KUzhLTUVmcnlGcVhiQVoxb0Y5MjNvcEpEUzJ5bm14aFdoR19vby1NX05KZlBRRjZ2STNLekpYbndQUUx1Z2hCMmVPLUJhb0pLZ2dXWURRSzJkNWdQaS1EYkoyY2s5c2ljR2xfeW1jbm1qcTNHSkpOa01uSXFoOExSWUY0MlZXN3JzWTA4QWl3?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 03:21:55 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How And Where To Watch: Portugal vs Croatia in the Round of 32 of the 2026 FIFA World Cup - beIN SPORTS",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczh3M0gxMm0zODFqM2l5UU50UTE1NlhJYnRkSnBLSUdjVy1aOHJ1U2xSSUR3dWl1bzRKa2JlN2xHVmZVSVUyMmdIUV9hdXhsUS1CVVRmZHo0dGk1ZW5OTVhYd1BYcFFCVjhEcGlzc1dYUmJXRThFUEZFMWhHaG95RTRzM2tkOE9qRmZuQnZNOGF3VHJaTUhzZXp6a1RzUVRNcEdUSl9rTUlZaXdlalJoOThVbWs5aUNhdXZXNEczNVNpLWxzR2JWcUpDY29oYWNFbkFPbnpocG10Y3N3VHdscE1fVE4ydzVjQy01dmNxbk0yQU1maEU1U0JqTDI?oc=5",
+          "source": "beIN SPORTS",
+          "published": "Thu, 02 Jul 2026 02:40:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia prediction, picks, odds, betting preview, start time for 2026 World Cup match Thursday - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUY3aEdJc1ZnUERxNVh6YlpCbWdlUXM3NWNWWHdCVzBMX1VVOFJBTk1pODhCWjdpRF9qWTVKb3NER0ZDdjhfalVwTE93bGJjVXZneHdDRXNEZGduOUw2WlBFUGgydnBveUpmZDBaTll5UVZ3aFFCS0FtZGVIaUFZX05FWnJRSXBvOVNUeG9jd2RUQ1Q2LW9UemJZYTdlN2ljNThOUW9rWmJCVFdtbTk5R0gzbkZjbUFlU3MxaDJfU0xTM1EtVk9RZXVjMmVoazFUYTgtSm5oeHA?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 12:00:39 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tzaW5WZno4NkM2ZDBuMW1zTzlVaC1DM29wVlhaSHdJeWJ5M2FUQkZObjZKS2FBNlctekx2c1VRbW1jajY3N1kzTDR2VGNyT25idF9UajBWTExzZUdvMXZhZmNtcm94eGhodGlsU1lhd2RZVjh5WEN4c2NmeW1acWNfVHVsTVBLTWh0ZDdJbEZLeC1WTzVvSXFzRkpnSmZaRl96aG5MUWlvd1BUWHc?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 21:48:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718922",
+        "slug": "fifwc-prt-hrv-2026-07-02-hrv",
+        "question": "Will Croatia win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Croatia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.17875\", \"0.82125\"]",
+        "bestBid": 0.1775,
+        "bestAsk": 0.18,
+        "liquidity": 448410.04435,
+        "volume": 590112.3974950048,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 10:42:05 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:48:09 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 11:53:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Cristiano Ronaldo And Portugal Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEdfNEdxZl82YnNkY09nTndQaEM3clQ2ckllWmYtSF9mNkxUdXlXVFdYc1lyR2F5bmxjd1E1dzFXNENjU2RRTkJkWHQyWjUwNnpkMHRwdTFyRENFRVpCbklZRkZ0Y1pEV3pXQ3JCdldaWTVBbHI0R2tfSldYTXF4Um1MM3A0NEZTQ2dZTF9jOTNFc2I4NzRFRm1aRVJqMm1fSkHSAaIBQVVfeXFMTVVwX1gya0pSbGp0di0zenhtYS1KUzhLTUVmcnlGcVhiQVoxb0Y5MjNvcEpEUzJ5bm14aFdoR19vby1NX05KZlBRRjZ2STNLekpYbndQUUx1Z2hCMmVPLUJhb0pLZ2dXWURRSzJkNWdQaS1EYkoyY2s5c2ljR2xfeW1jbm1qcTNHSkpOa01uSXFoOExSWUY0MlZXN3JzWTA4QWl3?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 03:21:55 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How And Where To Watch: Portugal vs Croatia in the Round of 32 of the 2026 FIFA World Cup - beIN SPORTS",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczh3M0gxMm0zODFqM2l5UU50UTE1NlhJYnRkSnBLSUdjVy1aOHJ1U2xSSUR3dWl1bzRKa2JlN2xHVmZVSVUyMmdIUV9hdXhsUS1CVVRmZHo0dGk1ZW5OTVhYd1BYcFFCVjhEcGlzc1dYUmJXRThFUEZFMWhHaG95RTRzM2tkOE9qRmZuQnZNOGF3VHJaTUhzZXp6a1RzUVRNcEdUSl9rTUlZaXdlalJoOThVbWs5aUNhdXZXNEczNVNpLWxzR2JWcUpDY29oYWNFbkFPbnpocG10Y3N3VHdscE1fVE4ydzVjQy01dmNxbk0yQU1maEU1U0JqTDI?oc=5",
+          "source": "beIN SPORTS",
+          "published": "Thu, 02 Jul 2026 02:40:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia prediction, picks, odds, betting preview, start time for 2026 World Cup match Thursday - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdUY3aEdJc1ZnUERxNVh6YlpCbWdlUXM3NWNWWHdCVzBMX1VVOFJBTk1pODhCWjdpRF9qWTVKb3NER0ZDdjhfalVwTE93bGJjVXZneHdDRXNEZGduOUw2WlBFUGgydnBveUpmZDBaTll5UVZ3aFFCS0FtZGVIaUFZX05FWnJRSXBvOVNUeG9jd2RUQ1Q2LW9UemJZYTdlN2ljNThOUW9rWmJCVFdtbTk5R0gzbkZjbUFlU3MxaDJfU0xTM1EtVk9RZXVjMmVoazFUYTgtSm5oeHA?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 12:00:39 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "'Icons' Modric, Ronaldo battle to avoid World Cup send-off - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tzaW5WZno4NkM2ZDBuMW1zTzlVaC1DM29wVlhaSHdJeWJ5M2FUQkZObjZKS2FBNlctekx2c1VRbW1jajY3N1kzTDR2VGNyT25idF9UajBWTExzZUdvMXZhZmNtcm94eGhodGlsU1lhd2RZVjh5WEN4c2NmeW1acWNfVHVsTVBLTWh0ZDdJbEZLeC1WTzVvSXFzRkpnSmZaRl96aG5MUWlvd1BUWHc?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 21:48:00 GMT",
+          "query": "Portugal vs. Croatia 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

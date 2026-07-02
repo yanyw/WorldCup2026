@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-che-alg-2026-07-02-first-to-score",
+  "event_title": "Switzerland vs. Algeria - First Team to Score",
+  "event_start": "2026-06-28T10:22:02.043335Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719088",
+        "slug": "fifwc-che-alg-2026-07-02-first-to-score-home",
+        "question": "Switzerland to score first vs. Algeria?",
+        "description": "In the upcoming match between Switzerland and Algeria, scheduled for July 2, 2026 at 11:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Algeria\" if Algeria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.555\", \"0.445\"]",
+        "bestBid": 0.55,
+        "bestAsk": 0.56,
+        "liquidity": 55082.8798,
+        "volume": 2583.7666980000013,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup Preview, Odds and Team News - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9yN2lKS1JnMWpmNkRKdlZPZWlyVUhDdkNQdzZlaXdMUFAxV0drR05hZHcwSE1wUldVQ0g2aHZqaFMtdjltZWNybnJwRGhuNk10eUM4YjNPMFY4M18xQW5zTVNxLVJLS1BhbVFYVjFGYkF2ZkF4aU9FX0RPYkYzWE5xd1Q?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 22:00:42 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTJUbEJybFlLU2E4R01fdm5YNUduUEtaWUMySkc4bTcyZlVxbmluTnZGbzNCdnZWT25oM01IOXRibDRyQkR1X0NVMWFGUWRzOHFselRseElnc291TEVoeXFHTjZnUWU5OWFpcTJWNHowN21ydXJfc0ZwUlBtZXFNM2d2M1paSE45ZFJPeGRvbFBrUE0?oc=5",
+          "source": "Goal.com",
+          "published": "Wed, 01 Jul 2026 11:01:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria World Cup 2026 R32 Predictions - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yM0wwU0o1UHF5and1MG1mX0Z3VkNrRTR5SXZ0bS1YUHVZbXFOM3Y1VUpGOFlkMWMzTVZBbEFqOENMbHNzRWFROXRiOGs3YUFqYUotS01va1lGSFBDd3AydFpURzdOMEdDQXJDMEJmS2tvME5zZWpDTA?oc=5",
+          "source": "Juvefc.com",
+          "published": "Mon, 29 Jun 2026 15:50:13 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Every Round of 32 Match at the 2026 World Cup: Dates, Kickoff Times - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Sun, 28 Jun 2026 04:06:23 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtfSzUwR1dwZWV5ZWJRX2M1OGgzQjhJZTFweE5Gck5pcy1FWlBSMFZNdjJSVDZzZ2FMUlJiM0xOYW91STZPWE1UX0pURDdmc1FWNktWZWdTeVd5cmZLdzNrVnFiVkR5SWxiOU1nN2FoSlNIR1M1dWxuNlF4cF9GeVNob0JxMUgtb3lSS2dfQklRWnQ4TGNCV05B?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 08:15:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719089",
+        "slug": "fifwc-che-alg-2026-07-02-first-to-score-away",
+        "question": "Algeria to score first vs. Switzerland?",
+        "description": "In the upcoming match between Switzerland and Algeria, scheduled for July 2, 2026 at 11:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Algeria\" if Algeria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.365\", \"0.635\"]",
+        "bestBid": 0.36,
+        "bestAsk": 0.37,
+        "liquidity": 64051.2415,
+        "volume": 2056.0268159999996,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup Preview, Odds and Team News - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9yN2lKS1JnMWpmNkRKdlZPZWlyVUhDdkNQdzZlaXdMUFAxV0drR05hZHcwSE1wUldVQ0g2aHZqaFMtdjltZWNybnJwRGhuNk10eUM4YjNPMFY4M18xQW5zTVNxLVJLS1BhbVFYVjFGYkF2ZkF4aU9FX0RPYkYzWE5xd1Q?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 22:00:42 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTJUbEJybFlLU2E4R01fdm5YNUduUEtaWUMySkc4bTcyZlVxbmluTnZGbzNCdnZWT25oM01IOXRibDRyQkR1X0NVMWFGUWRzOHFselRseElnc291TEVoeXFHTjZnUWU5OWFpcTJWNHowN21ydXJfc0ZwUlBtZXFNM2d2M1paSE45ZFJPeGRvbFBrUE0?oc=5",
+          "source": "Goal.com",
+          "published": "Wed, 01 Jul 2026 11:01:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria World Cup 2026 R32 Predictions - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yM0wwU0o1UHF5and1MG1mX0Z3VkNrRTR5SXZ0bS1YUHVZbXFOM3Y1VUpGOFlkMWMzTVZBbEFqOENMbHNzRWFROXRiOGs3YUFqYUotS01va1lGSFBDd3AydFpURzdOMEdDQXJDMEJmS2tvME5zZWpDTA?oc=5",
+          "source": "Juvefc.com",
+          "published": "Mon, 29 Jun 2026 15:50:13 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Every Round of 32 Match at the 2026 World Cup: Dates, Kickoff Times - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Sun, 28 Jun 2026 04:06:23 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtfSzUwR1dwZWV5ZWJRX2M1OGgzQjhJZTFweE5Gck5pcy1FWlBSMFZNdjJSVDZzZ2FMUlJiM0xOYW91STZPWE1UX0pURDdmc1FWNktWZWdTeVd5cmZLdzNrVnFiVkR5SWxiOU1nN2FoSlNIR1M1dWxuNlF4cF9GeVNob0JxMUgtb3lSS2dfQklRWnQ4TGNCV05B?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 08:15:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719090",
+        "slug": "fifwc-che-alg-2026-07-02-first-to-score-neither",
+        "question": "Switzerland vs. Algeria: Neither team to score first?",
+        "description": "In the upcoming match between Switzerland and Algeria, scheduled for July 2, 2026 at 11:00 PM ET: This market will resolve to \"Switzerland\" if Switzerland are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Algeria\" if Algeria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.085\", \"0.915\"]",
+        "bestBid": 0.08,
+        "bestAsk": 0.09,
+        "liquidity": 46856.8369,
+        "volume": 6462.920654,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup Preview, Odds and Team News - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSW9yN2lKS1JnMWpmNkRKdlZPZWlyVUhDdkNQdzZlaXdMUFAxV0drR05hZHcwSE1wUldVQ0g2aHZqaFMtdjltZWNybnJwRGhuNk10eUM4YjNPMFY4M18xQW5zTVNxLVJLS1BhbVFYVjFGYkF2ZkF4aU9FX0RPYkYzWE5xd1Q?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 22:00:42 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria FIFA World Cup 2026 Preview: Everything you need to know - Goal.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeTJUbEJybFlLU2E4R01fdm5YNUduUEtaWUMySkc4bTcyZlVxbmluTnZGbzNCdnZWT25oM01IOXRibDRyQkR1X0NVMWFGUWRzOHFselRseElnc291TEVoeXFHTjZnUWU5OWFpcTJWNHowN21ydXJfc0ZwUlBtZXFNM2d2M1paSE45ZFJPeGRvbFBrUE0?oc=5",
+          "source": "Goal.com",
+          "published": "Wed, 01 Jul 2026 11:01:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria World Cup 2026 R32 Predictions - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4yM0wwU0o1UHF5and1MG1mX0Z3VkNrRTR5SXZ0bS1YUHVZbXFOM3Y1VUpGOFlkMWMzTVZBbEFqOENMbHNzRWFROXRiOGs3YUFqYUotS01va1lGSFBDd3AydFpURzdOMEdDQXJDMEJmS2tvME5zZWpDTA?oc=5",
+          "source": "Juvefc.com",
+          "published": "Mon, 29 Jun 2026 15:50:13 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Every Round of 32 Match at the 2026 World Cup: Dates, Kickoff Times - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HZmFwNFZ6S1JYNUFYMFh5WGhTWWp6Y2ZQc0pFLW9CVURLSmRNZXUzVTgtMkN5UVJERmFXNFdJMUlnLV84YXFxRzYxV0NuV2wtblhxeVozY2t3QzNTa3Q2VDBPeGF3Mm1ub2lGUzFjZGxBdG9fdFN0NklMcnZaQTQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Sun, 28 Jun 2026 04:06:23 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtfSzUwR1dwZWV5ZWJRX2M1OGgzQjhJZTFweE5Gck5pcy1FWlBSMFZNdjJSVDZzZ2FMUlJiM0xOYW91STZPWE1UX0pURDdmc1FWNktWZWdTeVd5cmZLdzNrVnFiVkR5SWxiOU1nN2FoSlNIR1M1dWxuNlF4cF9GeVNob0JxMUgtb3lSS2dfQklRWnQ4TGNCV05B?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 08:15:20 GMT",
+          "query": "Switzerland vs. Algeria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-esp-aut-2026-07-02",
+  "event_title": "Spain vs. Austria",
+  "event_start": "2026-06-28T10:15:06.877891Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718915",
+        "slug": "fifwc-esp-aut-2026-07-02-aut",
+        "question": "Will Austria win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Austria wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.07625\", \"0.92375\"]",
+        "bestBid": 0.075,
+        "bestAsk": 0.0775,
+        "liquidity": 609090.444425,
+        "volume": 729337.3805270002,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718913",
+        "slug": "fifwc-esp-aut-2026-07-02-esp",
+        "question": "Will Spain win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Spain wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.76125\", \"0.23875\"]",
+        "bestBid": 0.76,
+        "bestAsk": 0.7625,
+        "liquidity": 848969.536575,
+        "volume": 1848882.8760739942,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718914",
+        "slug": "fifwc-esp-aut-2026-07-02-draw",
+        "question": "Will Spain vs. Austria end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.17375\", \"0.82625\"]",
+        "bestBid": 0.1725,
+        "bestAsk": 0.175,
+        "liquidity": 479512.070925,
+        "volume": 219152.29046999864,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

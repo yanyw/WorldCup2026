@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-esp-aut-2026-07-02-first-to-score",
+  "event_title": "Spain vs. Austria - First Team to Score",
+  "event_start": "2026-06-28T10:15:22.563179Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719036",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-home",
+        "question": "Spain to score first vs. Austria?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.755\", \"0.245\"]",
+        "bestBid": 0.75,
+        "bestAsk": 0.76,
+        "liquidity": 80076.0808,
+        "volume": 18401.96725599999,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria Prediction: Picks, Lineups & Best Bets Today World Cup 2026 Round of 32 - FanDuel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUHJjdVBlbHJQeDlscy1kUENmTHMweFJRdkd0ak13R2VHbk90Ymt3VDVVSTFMY0p0T0VBNXRqMkE3V1Z4am53SGtsTDB5Mi16c3JyQVVuZFRqWlMwaXhFM0ZLbFZ6RkdiNG5yQzloS2E5UDNQMllMemlUU3RUYV8tb1BPNENnWllCQ2s4VFJtZVpuUW1Xd3l0RVg1eC1GSkh2TlhIeno4SVYzTWVpQ2VNRDI5WFB5LXRMVno2djVn?oc=5",
+          "source": "FanDuel",
+          "published": "Thu, 02 Jul 2026 02:22:13 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup Preview, Team News and Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTzdUSDNkcm12WWpsWEEwLWt4TEZKd1hWMW90TUVqWDJITGZudG1LY1ExekRqbEEtUnhrUE1abG5xNnIzZzdyanlIMThvZm82X2tnN1VZNTFUV0pQWGJObGtnRHFDV19pYmNJc3g2VTB0WTFTYzBlc1BDNGQ?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 21:35:05 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXh5WEtaYUN1Qi1sa2l5UDNQUVpfVzd5WUhEaFNNZV9oVWdsX29WQWk4ZnEzazVWb3FRSmJHaEg2V0R2b0VYMG13MHU5SUpGbmVVZnlEOGx6UHdKNXZGRUZGeTVwaDdNeTdhUGUyVzQ4a0k0RHI2NGRnY3FPMG5ja1NiaHVsT01oMTVYajJoQndWM3BKRXc?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 01:00:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHZpQUREVHNYQW1RMjdPbjZLNVE5ckpfclN1bmZvMHRwaHNmSEtSREtiSm91dmNGaGktdGxSZi02ZVlPM0UwbWxrZVM2T0ZuVEd0QWM0ck1WaTNGZ25lVC1sZ24xZUcySWdURklnVllTMVZ5RkJ4bk5Qbm1IcVotVDF2bkw0R3VvR0hnYlZZbnFrTTNDdF9YSnZONHVZYTBqTkotSzdRVUNDTHFVUDR0WENERnHSAbQBQVVfeXFMTzR2aUFERFRzWEFtUTI3T242SzVROXJKX3JTdW5mbzB0cGhzZkhLUkRLYkpvdXZjRmhpLXRsUmYtNmVZTzNFMG1sa2VTNk9GblRHdEFjNHJNVmkzRmduZVQtbGduMWVHMklnVEZJZ1ZZUzFWeUZCeG5OUG5tSHFaLVQxdm5MNEd1b0dIZ2JWWW5xa00zQ3RfWEp2TjR1WWEwak5KLUs3UVVDQ0xxVVA0dFhDREZx?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:27:25 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Experts release new Round of 32 predictions with Lamine Yamal, Spain heavily favored over Austria - OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3lSMGZuaVJPNUItQlJPaS1XOS05TVZ0WGxmZFlVUlUwcm9OZEItaFlOYVlkazhtclJaM2VObkdiUTM2blMwcFRZN1UtdnZrN2F0TnpZM01wWHlkUTFPdmt2Tk9OYjhGU19sRXVTWmUxX3BGdkJpbUUxOEJEVUhfaEtzNl93VjVWcXRIeGhOTE9rdWJTTUNaQVZ4ZnhWU0lnWDh5LW0tQ0FLcHRDVDdEaHljXzB4aHdPVHg2QWlkYWZzY1dwLVhtajZhYUJxZmFsdE40Ykl6czQ1aGFL?oc=5",
+          "source": "OregonLive.com",
+          "published": "Thu, 02 Jul 2026 00:55:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719037",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-away",
+        "question": "Austria to score first vs. Spain?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.205\", \"0.795\"]",
+        "bestBid": 0.2,
+        "bestAsk": 0.21,
+        "liquidity": 76534.3934,
+        "volume": 10913.323391,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria Prediction: Picks, Lineups & Best Bets Today World Cup 2026 Round of 32 - FanDuel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUHJjdVBlbHJQeDlscy1kUENmTHMweFJRdkd0ak13R2VHbk90Ymt3VDVVSTFMY0p0T0VBNXRqMkE3V1Z4am53SGtsTDB5Mi16c3JyQVVuZFRqWlMwaXhFM0ZLbFZ6RkdiNG5yQzloS2E5UDNQMllMemlUU3RUYV8tb1BPNENnWllCQ2s4VFJtZVpuUW1Xd3l0RVg1eC1GSkh2TlhIeno4SVYzTWVpQ2VNRDI5WFB5LXRMVno2djVn?oc=5",
+          "source": "FanDuel",
+          "published": "Thu, 02 Jul 2026 02:22:13 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup Preview, Team News and Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTzdUSDNkcm12WWpsWEEwLWt4TEZKd1hWMW90TUVqWDJITGZudG1LY1ExekRqbEEtUnhrUE1abG5xNnIzZzdyanlIMThvZm82X2tnN1VZNTFUV0pQWGJObGtnRHFDV19pYmNJc3g2VTB0WTFTYzBlc1BDNGQ?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 21:35:05 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXh5WEtaYUN1Qi1sa2l5UDNQUVpfVzd5WUhEaFNNZV9oVWdsX29WQWk4ZnEzazVWb3FRSmJHaEg2V0R2b0VYMG13MHU5SUpGbmVVZnlEOGx6UHdKNXZGRUZGeTVwaDdNeTdhUGUyVzQ4a0k0RHI2NGRnY3FPMG5ja1NiaHVsT01oMTVYajJoQndWM3BKRXc?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 01:00:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHZpQUREVHNYQW1RMjdPbjZLNVE5ckpfclN1bmZvMHRwaHNmSEtSREtiSm91dmNGaGktdGxSZi02ZVlPM0UwbWxrZVM2T0ZuVEd0QWM0ck1WaTNGZ25lVC1sZ24xZUcySWdURklnVllTMVZ5RkJ4bk5Qbm1IcVotVDF2bkw0R3VvR0hnYlZZbnFrTTNDdF9YSnZONHVZYTBqTkotSzdRVUNDTHFVUDR0WENERnHSAbQBQVVfeXFMTzR2aUFERFRzWEFtUTI3T242SzVROXJKX3JTdW5mbzB0cGhzZkhLUkRLYkpvdXZjRmhpLXRsUmYtNmVZTzNFMG1sa2VTNk9GblRHdEFjNHJNVmkzRmduZVQtbGduMWVHMklnVEZJZ1ZZUzFWeUZCeG5OUG5tSHFaLVQxdm5MNEd1b0dIZ2JWWW5xa00zQ3RfWEp2TjR1WWEwak5KLUs3UVVDQ0xxVVA0dFhDREZx?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:27:25 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Experts release new Round of 32 predictions with Lamine Yamal, Spain heavily favored over Austria - OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3lSMGZuaVJPNUItQlJPaS1XOS05TVZ0WGxmZFlVUlUwcm9OZEItaFlOYVlkazhtclJaM2VObkdiUTM2blMwcFRZN1UtdnZrN2F0TnpZM01wWHlkUTFPdmt2Tk9OYjhGU19sRXVTWmUxX3BGdkJpbUUxOEJEVUhfaEtzNl93VjVWcXRIeGhOTE9rdWJTTUNaQVZ4ZnhWU0lnWDh5LW0tQ0FLcHRDVDdEaHljXzB4aHdPVHg2QWlkYWZzY1dwLVhtajZhYUJxZmFsdE40Ykl6czQ1aGFL?oc=5",
+          "source": "OregonLive.com",
+          "published": "Thu, 02 Jul 2026 00:55:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719038",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-neither",
+        "question": "Spain vs. Austria: Neither team to score first?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.045\", \"0.955\"]",
+        "bestBid": 0.04,
+        "bestAsk": 0.05,
+        "liquidity": 59314.0696,
+        "volume": 7323.083274,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria Prediction: Picks, Lineups & Best Bets Today World Cup 2026 Round of 32 - FanDuel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUHJjdVBlbHJQeDlscy1kUENmTHMweFJRdkd0ak13R2VHbk90Ymt3VDVVSTFMY0p0T0VBNXRqMkE3V1Z4am53SGtsTDB5Mi16c3JyQVVuZFRqWlMwaXhFM0ZLbFZ6RkdiNG5yQzloS2E5UDNQMllMemlUU3RUYV8tb1BPNENnWllCQ2s4VFJtZVpuUW1Xd3l0RVg1eC1GSkh2TlhIeno4SVYzTWVpQ2VNRDI5WFB5LXRMVno2djVn?oc=5",
+          "source": "FanDuel",
+          "published": "Thu, 02 Jul 2026 02:22:13 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup Preview, Team News and Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qTzdUSDNkcm12WWpsWEEwLWt4TEZKd1hWMW90TUVqWDJITGZudG1LY1ExekRqbEEtUnhrUE1abG5xNnIzZzdyanlIMThvZm82X2tnN1VZNTFUV0pQWGJObGtnRHFDV19pYmNJc3g2VTB0WTFTYzBlc1BDNGQ?oc=5",
+          "source": "rg.org",
+          "published": "Wed, 01 Jul 2026 21:35:05 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQXh5WEtaYUN1Qi1sa2l5UDNQUVpfVzd5WUhEaFNNZV9oVWdsX29WQWk4ZnEzazVWb3FRSmJHaEg2V0R2b0VYMG13MHU5SUpGbmVVZnlEOGx6UHdKNXZGRUZGeTVwaDdNeTdhUGUyVzQ4a0k0RHI2NGRnY3FPMG5ja1NiaHVsT01oMTVYajJoQndWM3BKRXc?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 01:00:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHZpQUREVHNYQW1RMjdPbjZLNVE5ckpfclN1bmZvMHRwaHNmSEtSREtiSm91dmNGaGktdGxSZi02ZVlPM0UwbWxrZVM2T0ZuVEd0QWM0ck1WaTNGZ25lVC1sZ24xZUcySWdURklnVllTMVZ5RkJ4bk5Qbm1IcVotVDF2bkw0R3VvR0hnYlZZbnFrTTNDdF9YSnZONHVZYTBqTkotSzdRVUNDTHFVUDR0WENERnHSAbQBQVVfeXFMTzR2aUFERFRzWEFtUTI3T242SzVROXJKX3JTdW5mbzB0cGhzZkhLUkRLYkpvdXZjRmhpLXRsUmYtNmVZTzNFMG1sa2VTNk9GblRHdEFjNHJNVmkzRmduZVQtbGduMWVHMklnVEZJZ1ZZUzFWeUZCeG5OUG5tSHFaLVQxdm5MNEd1b0dIZ2JWWW5xa00zQ3RfWEp2TjR1WWEwak5KLUs3UVVDQ0xxVVA0dFhDREZx?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:27:25 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Experts release new Round of 32 predictions with Lamine Yamal, Spain heavily favored over Austria - OregonLive.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3lSMGZuaVJPNUItQlJPaS1XOS05TVZ0WGxmZFlVUlUwcm9OZEItaFlOYVlkazhtclJaM2VObkdiUTM2blMwcFRZN1UtdnZrN2F0TnpZM01wWHlkUTFPdmt2Tk9OYjhGU19sRXVTWmUxX3BGdkJpbUUxOEJEVUhfaEtzNl93VjVWcXRIeGhOTE9rdWJTTUNaQVZ4ZnhWU0lnWDh5LW0tQ0FLcHRDVDdEaHljXzB4aHdPVHg2QWlkYWZzY1dwLVhtajZhYUJxZmFsdE40Ykl6czQ1aGFL?oc=5",
+          "source": "OregonLive.com",
+          "published": "Thu, 02 Jul 2026 00:55:00 GMT",
+          "query": "Spain vs. Austria - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

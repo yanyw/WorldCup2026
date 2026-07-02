@@ -1,0 +1,382 @@
+# 概率预测报告
+
+- 报告日期: 2026-07-03
+- 比赛日期字段: 2026-07-02
+- 模型模式: baseline_fallback
+- 治理规则: 无证据，不交易。本 fallback 只使用盘口隐含概率、已抓取公开标题、流动性和保守修正；不虚构私有数据。
+- 已应用教训: 胜率与让分穿盘概率分开；保留弱势方进球路径；缺少确认首发/硬技术数据时限制置信度。
+
+## 覆盖审计
+- 已解析请求数: 9
+- 缺失请求数: 0
+- 已选盘口类型数量: {"match_1x2": 9, "first_team_to_score": 9, "spread_lines": 30, "totals_lines": 45, "btts": 9, "team_total_lines": 42}
+
+## 瑞士 vs 阿尔及利亚 [fifwc-che-alg-2026-07-02]
+
+### 共享信息源
+1. Switzerland vs. Algeria at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN | ESPN | https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazA2NDVFRUljVGZ5NFJHNnNsQlBsRC1Ea1U2WDJQRWpiNEdUMWVRSUd5dm1JUEJvNjRrTTZBRlF6d1NsWjRKSFRMWFptQU0wdzJmSFZ2Ni1nbTlkek9WMWwyXzdLbTI2NVQ1OS1aam9meE1hWExXS01fWEFSRmJic1lWT213QkhOTHRtWjQ4b1FUTmg1YXdhUFZNU2RsaGRiUzVLX2k0SWhQRE92LWl1RjdaazdibFI3Sk1QWEN6enhtSlp2YTJuMFMxZ240TkMyNHJIbS1URElBY1VYZzdWcVlodmtUY2JZN1p2MXVB?oc=5
+2. World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports | Yahoo Sports | https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5
+3. Swiss seek another World Cup round-of-16 berth as Algeria chase historic knockout win - Reuters | Reuters | https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlNwa1lXUXJyOVdaTG9tNmhPMG11aUFLQzNfcnYxVTBRalgyYUxqT2MyUGo5YTN3R1oycmY4VzBMMlM5R281WE5IMndaNDVSRWhnYXZqSzIzT1dwaTBJZ2dKQTJ1WUt6TzhmYWlWX3hJejE1Y3NlMmJPX3FYc3pqLTJwVFhUVjZfN25jaGY2aFp2cEE4N1p5RXk3SV8yUVVjcEEyYk9UdnoxeU8wNkdxRkxLTW1SNTd0NXlaNHdqQXlwWmNWenc0?oc=5
+4. Switzerland vs Algeria World Cup prediction, picks, analysis - USA Today | USA Today | https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDlzYmYwSnUxaWFDeDNfeW56U2VTanlhWUJ1VXp1dV9hYkI2SVFlYTBqWlJldThMTVgyMnlRVzlQVm9FUjRodzJXU1hnc2dKd1dfSzdybFlYSTNwVUZFZHM1NWVnZXc5alN4dHY4VjNpOU5oam4xRHFScEJ4X3kxVzZLS3ozekgwQ0lKRF9Gbjl6NmlUeHNWU1ZIVDBXbkMxYURMLTlmYjRGX3luYVhfQUVxRy04ZGZITWRyNTUwcmU2aHdGRzlKOS1ZU1g?oc=5
+5. Switzerland vs. Algeria—World Cup: Preview, Predictions and Lineups - Sports Illustrated | Sports Illustrated | https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmxXLUpVOG9wc0pKSmhRdTJYajNaME1iaEg4S2Z3eWZXM1FIckVsdFNaOURGVGo0VjllUnJPM09YajA2ZG1jYkY5WUJKcUFiZFJISGNlaXRUVDh6QUFUamI3MVhVYmZtaFB6a1J1cXVlc1VhQkxNbzBadm83X1dKNXFhZ0czSkJSc002eUdnRjljZTNDRktiWQ?oc=5
+
+### 比赛层面解读
+- 证据链：
+  1. Polymarket 胜平负价格定义球队强弱和打平风险的基础先验。
+  2. 让分、总进球、双方均进球、首支进球队伍和球队进球数盘口用于内部一致性校验。
+  3. 已抓取的公开预览只能提供弱定性支持，因此置信度不会升到高档。
+- 推理链：
+  1. 对热门方，除非让分价格本身确认大比分分布，否则穿盘概率相对胜率打折。
+  2. 不能因为一方更强就买双方均进球否或球队小球；必须明确否定弱势方进球路径。
+  3. 当前 edge 低于 4 个百分点的盘口维持跳过；条件触发价放在交易策略报告中处理。
+- 反证：信息源集合缺少确认首发、射门质量、压迫强度或 xG 拆分等硬数据。
+- 失效观察：临场轮换、天气、战术变化，或价格移动超过 4 个百分点。
+
+### 胜平负
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-alg | 阿尔及利亚 会在 2026-07-02 获胜吗？ | 是 | 22.4% | 22.9% | +0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-che | 瑞士 会在 2026-07-02 获胜吗？ | 是 | 47.9% | 46.9% | -1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-draw | 瑞士 vs 阿尔及利亚 会打平吗？ | 是 | 29.9% | 30.9% | +1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+
+### 让分盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-spread-home-1pt5 | 让分：瑞士 (-1.5) | 瑞士 | 23.6% | 22.6% | -1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-spread-away-1pt5 | 让分：阿尔及利亚 (-1.5) | 阿尔及利亚 | 7.4% | 7.2% | -0.2% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-spread-home-2pt5 | 让分：瑞士 (-2.5) | 瑞士 | 8.4% | 7.9% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-spread-away-2pt5 | 让分：阿尔及利亚 (-2.5) | 阿尔及利亚 | 1.8% | 1.6% | -0.2% | 偏低+ | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-spread-home-3pt5 | 让分：瑞士 (-3.5) | 瑞士 | 2.5% | 2.0% | -0.5% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-spread-away-3pt5 | 让分：阿尔及利亚 (-3.5) | 阿尔及利亚 | 0.5% | 0.3% | -0.2% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-spread-home-4pt5 | 让分：瑞士 (-4.5) | 瑞士 | 0.9% | 0.4% | -0.5% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-spread-away-4pt5 | 让分：阿尔及利亚 (-4.5) | 阿尔及利亚 | 0.2% | 0.1% | -0.1% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-spread-home-5pt5 | 让分：瑞士 (-5.5) | 瑞士 | 0.2% | 0.1% | -0.1% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-spread-away-5pt5 | 让分：阿尔及利亚 (-5.5) | 阿尔及利亚 | 0.1% | 0.1% | +0.0% | 低 | 跳过 | 价格过于极端 |
+
+### 总进球盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-total-0pt5 | 瑞士 vs 阿尔及利亚：总进球大小 0.5 | 大 | 90.8% | 90.8% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-1pt5 | 瑞士 vs 阿尔及利亚：总进球大小 1.5 | 大 | 70.4% | 70.4% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-3pt5 | 瑞士 vs 阿尔及利亚：总进球大小 3.5 | 大 | 22.9% | 22.9% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-4pt5 | 瑞士 vs 阿尔及利亚：总进球大小 4.5 | 大 | 9.8% | 9.2% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-5pt5 | 瑞士 vs 阿尔及利亚：总进球大小 5.5 | 大 | 3.5% | 3.0% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-6pt5 | 瑞士 vs 阿尔及利亚：总进球大小 6.5 | 大 | 1.1% | 0.6% | -0.5% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-total-7pt5 | 瑞士 vs 阿尔及利亚：总进球大小 7.5 | 大 | 0.5% | 0.1% | -0.4% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-total-8pt5 | 瑞士 vs 阿尔及利亚：总进球大小 8.5 | 大 | 0.5% | 0.1% | -0.4% | 低 | 跳过 | 价格过于极端 |
+| fifwc-che-alg-2026-07-02-first-half-total-0pt5 | 瑞士 vs 阿尔及利亚：上半场 大小 0.5 | 大 | 66.0% | 66.0% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-total-1pt5 | 瑞士 vs 阿尔及利亚：上半场 大小 1.5 | 大 | 28.5% | 28.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-total-2pt5 | 瑞士 vs 阿尔及利亚：上半场 大小 2.5 | 大 | 9.0% | 10.5% | +1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-total-0pt5 | 瑞士 vs 阿尔及利亚：下半场 大小 0.5 | 大 | 74.0% | 74.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-total-1pt5 | 瑞士 vs 阿尔及利亚：下半场 大小 1.5 | 大 | 40.0% | 40.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-total-2pt5 | 瑞士 vs 阿尔及利亚：下半场 大小 2.5 | 大 | 17.0% | 18.5% | +1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-total-2pt5 | 瑞士 vs 阿尔及利亚：总进球大小 2.5 | 大 | 43.6% | 45.1% | +1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+
+### 双方均进球
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-btts | 瑞士 vs 阿尔及利亚: 双方均进球 | 是 | 51.5% | 52.0% | +0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-btts-first-half | 瑞士 vs 阿尔及利亚: 上半场双方均进球 | 是 | 17.0% | 17.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-btts-second-half | 瑞士 vs 阿尔及利亚: 下半场双方均进球 | 是 | 26.0% | 26.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 首支进球队伍
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-first-to-score-home | 瑞士 会先于 阿尔及利亚 进球吗？ | 是 | 55.5% | 55.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-to-score-away | 阿尔及利亚 会先于 瑞士 进球吗？ | 是 | 36.5% | 36.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-to-score-neither | 瑞士 vs 阿尔及利亚: 无球队先进球? | 是 | 8.5% | 8.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 球队进球数
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-che-alg-2026-07-02-second-half-team-total-home-0pt5 | 瑞士 vs 阿尔及利亚：瑞士 下半场 大小 0.5 | 大 | 56.0% | 56.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-team-total-home-1pt5 | 瑞士 vs 阿尔及利亚：瑞士 下半场 大小 1.5 | 大 | 22.0% | 21.5% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-team-total-away-0pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 下半场 大小 0.5 | 大 | 42.0% | 41.0% | -1.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-second-half-team-total-away-1pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 下半场 大小 1.5 | 大 | 11.5% | 11.5% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-home-0pt5 | 瑞士 vs 阿尔及利亚：瑞士 大小 0.5 | 大 | 78.5% | 78.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-home-1pt5 | 瑞士 vs 阿尔及利亚：瑞士 大小 1.5 | 大 | 44.0% | 43.5% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-home-2pt5 | 瑞士 vs 阿尔及利亚：瑞士 大小 2.5 | 大 | 17.5% | 17.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-away-0pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 大小 0.5 | 大 | 62.5% | 61.5% | -1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-away-1pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 大小 1.5 | 大 | 24.5% | 24.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-team-total-away-2pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 大小 2.5 | 大 | 6.5% | 6.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-team-total-home-0pt5 | 瑞士 vs 阿尔及利亚：瑞士 上半场 大小 0.5 | 大 | 48.5% | 48.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-team-total-home-1pt5 | 瑞士 vs 阿尔及利亚：瑞士 上半场 大小 1.5 | 大 | 13.5% | 13.0% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-team-total-away-0pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 上半场 大小 0.5 | 大 | 33.0% | 32.0% | -1.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-che-alg-2026-07-02-first-half-team-total-away-1pt5 | 瑞士 vs 阿尔及利亚：阿尔及利亚 上半场 大小 1.5 | 大 | 6.0% | 6.0% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+
+## 西班牙 vs 奥地利 [fifwc-esp-aut-2026-07-02]
+
+### 共享信息源
+1. Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports | FOX Sports | https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5
+2. Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5
+3. Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports | CBS Sports | https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5
+4. Algeria, Austria dismiss trying not to win to avoid Spain - ESPN | ESPN | https://news.google.com/rss/articles/CBMipAFBVV95cUxNalkzVnVyRkxCVlBIbjJUM2Y5SklVb1JscHBhX2FuT0VxTjVkUGt0UUVZUkt3cEVrM1VtUEhEWHVReENpcFgyVlBnTl9mNlB0bTl0VTBIdXUzRzFqLXkyajI4VkV3Ti0xSjBPU1FaTEJLLXNPNzlWRFVld3ZINnZ1QXVNWVJoWlBwWVhtMUpfUnc5Z0NkbnZ2ZkREakZqZ0MxbEU1Rw?oc=5
+5. Spain Predicted Lineup vs. Austria—World Cup Round of 32 - Sports Illustrated | Sports Illustrated | https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1lYd3pqbXF6bXFHNjZrcVZlLWdqUlcxZGQ3ejMzS3Z6TjNtdGF0UjBiMXV2QVdBY0MzMjNJRFFCaE1HZ0Zmd20zUHktU2JaLTJ4ZFlwNkVXUDJSUGxPa1F0U2hucWdVcG15VFhhU0RzYnFfTDJsZk9zRGVYRENxOWZR?oc=5
+
+### 比赛层面解读
+- 证据链：
+  1. Polymarket 胜平负价格定义球队强弱和打平风险的基础先验。
+  2. 让分、总进球、双方均进球、首支进球队伍和球队进球数盘口用于内部一致性校验。
+  3. 已抓取的公开预览只能提供弱定性支持，因此置信度不会升到高档。
+- 推理链：
+  1. 对热门方，除非让分价格本身确认大比分分布，否则穿盘概率相对胜率打折。
+  2. 不能因为一方更强就买双方均进球否或球队小球；必须明确否定弱势方进球路径。
+  3. 当前 edge 低于 4 个百分点的盘口维持跳过；条件触发价放在交易策略报告中处理。
+- 反证：信息源集合缺少确认首发、射门质量、压迫强度或 xG 拆分等硬数据。
+- 失效观察：临场轮换、天气、战术变化，或价格移动超过 4 个百分点。
+
+### 胜平负
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-aut | 奥地利 会在 2026-07-02 获胜吗？ | 是 | 7.6% | 7.6% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-esp | 西班牙 会在 2026-07-02 获胜吗？ | 是 | 76.1% | 74.6% | -1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-draw | 西班牙 vs 奥地利 会打平吗？ | 是 | 17.4% | 17.9% | +0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+
+### 让分盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-spread-home-1pt5 | 让分：西班牙 (-1.5) | 西班牙 | 51.6% | 50.1% | -1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-spread-away-1pt5 | 让分：奥地利 (-1.5) | 奥地利 | 1.5% | 1.3% | -0.2% | 偏低+ | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-spread-home-2pt5 | 让分：西班牙 (-2.5) | 西班牙 | 27.9% | 27.4% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-spread-away-2pt5 | 让分：奥地利 (-2.5) | 奥地利 | 0.5% | 0.3% | -0.2% | 偏低+ | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-spread-home-3pt5 | 让分：西班牙 (-3.5) | 西班牙 | 12.4% | 11.9% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-spread-away-3pt5 | 让分：奥地利 (-3.5) | 奥地利 | 0.1% | 0.1% | -0.0% | 低 | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-spread-home-4pt5 | 让分：西班牙 (-4.5) | 西班牙 | 4.4% | 3.9% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-spread-away-4pt5 | 让分：奥地利 (-4.5) | 奥地利 | 0.1% | 0.1% | -0.0% | 低 | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-spread-home-5pt5 | 让分：西班牙 (-5.5) | 西班牙 | 1.4% | 0.9% | -0.5% | 低 | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-spread-away-5pt5 | 让分：奥地利 (-5.5) | 奥地利 | 0.1% | 0.1% | +0.0% | 低 | 跳过 | 价格过于极端 |
+
+### 总进球盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-first-half-total-0pt5 | 西班牙 vs 奥地利：上半场 大小 0.5 | 大 | 74.5% | 74.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-total-1pt5 | 西班牙 vs 奥地利：上半场 大小 1.5 | 大 | 38.5% | 38.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-total-2pt5 | 西班牙 vs 奥地利：上半场 大小 2.5 | 大 | 14.0% | 15.5% | +1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-total-0pt5 | 西班牙 vs 奥地利：下半场 大小 0.5 | 大 | 80.5% | 80.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-total-1pt5 | 西班牙 vs 奥地利：下半场 大小 1.5 | 大 | 50.0% | 50.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-total-2pt5 | 西班牙 vs 奥地利：下半场 大小 2.5 | 大 | 23.0% | 24.5% | +1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-0pt5 | 西班牙 vs 奥地利：总进球大小 0.5 | 大 | 95.1% | 95.1% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-1pt5 | 西班牙 vs 奥地利：总进球大小 1.5 | 大 | 81.1% | 81.1% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-2pt5 | 西班牙 vs 奥地利：总进球大小 2.5 | 大 | 57.4% | 58.9% | +1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-3pt5 | 西班牙 vs 奥地利：总进球大小 3.5 | 大 | 33.6% | 33.6% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-4pt5 | 西班牙 vs 奥地利：总进球大小 4.5 | 大 | 16.9% | 16.4% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-5pt5 | 西班牙 vs 奥地利：总进球大小 5.5 | 大 | 6.6% | 6.1% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-6pt5 | 西班牙 vs 奥地利：总进球大小 6.5 | 大 | 2.2% | 1.7% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-total-7pt5 | 西班牙 vs 奥地利：总进球大小 7.5 | 大 | 0.8% | 0.2% | -0.5% | 偏低+ | 跳过 | 价格过于极端 |
+| fifwc-esp-aut-2026-07-02-total-8pt5 | 西班牙 vs 奥地利：总进球大小 8.5 | 大 | 0.5% | 0.1% | -0.4% | 低 | 跳过 | 价格过于极端 |
+
+### 双方均进球
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-btts | 西班牙 vs 奥地利: 双方均进球 | 是 | 43.5% | 46.0% | +2.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-btts-first-half | 西班牙 vs 奥地利: 上半场双方均进球 | 是 | 15.5% | 15.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-btts-second-half | 西班牙 vs 奥地利: 下半场双方均进球 | 是 | 25.0% | 25.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 首支进球队伍
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-first-to-score-home | 西班牙 会先于 奥地利 进球吗？ | 是 | 75.5% | 75.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-to-score-away | 奥地利 会先于 西班牙 进球吗？ | 是 | 20.5% | 20.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-to-score-neither | 西班牙 vs 奥地利: 无球队先进球? | 是 | 4.5% | 4.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 球队进球数
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-esp-aut-2026-07-02-team-total-home-0pt5 | 西班牙 vs 奥地利：西班牙 大小 0.5 | 大 | 91.5% | 91.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-team-total-home-1pt5 | 西班牙 vs 奥地利：西班牙 大小 1.5 | 大 | 69.5% | 69.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-team-total-home-2pt5 | 西班牙 vs 奥地利：西班牙 大小 2.5 | 大 | 40.5% | 40.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-team-total-away-0pt5 | 西班牙 vs 奥地利：奥地利 大小 0.5 | 大 | 47.5% | 49.0% | +1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-team-total-away-1pt5 | 西班牙 vs 奥地利：奥地利 大小 1.5 | 大 | 13.5% | 13.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-team-total-away-2pt5 | 西班牙 vs 奥地利：奥地利 大小 2.5 | 大 | 2.5% | 2.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-team-total-home-0pt5 | 西班牙 vs 奥地利：西班牙 上半场 大小 0.5 | 大 | 67.0% | 67.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-team-total-home-1pt5 | 西班牙 vs 奥地利：西班牙 上半场 大小 1.5 | 大 | 28.0% | 28.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-team-total-away-0pt5 | 西班牙 vs 奥地利：奥地利 上半场 大小 0.5 | 大 | 24.0% | 25.5% | +1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-first-half-team-total-away-1pt5 | 西班牙 vs 奥地利：奥地利 上半场 大小 1.5 | 大 | 3.6% | 3.6% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-team-total-home-0pt5 | 西班牙 vs 奥地利：西班牙 下半场 大小 0.5 | 大 | 70.0% | 70.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-team-total-home-1pt5 | 西班牙 vs 奥地利：西班牙 下半场 大小 1.5 | 大 | 38.0% | 38.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-team-total-away-0pt5 | 西班牙 vs 奥地利：奥地利 下半场 大小 0.5 | 大 | 32.0% | 33.5% | +1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-esp-aut-2026-07-02-second-half-team-total-away-1pt5 | 西班牙 vs 奥地利：奥地利 下半场 大小 1.5 | 大 | 2.2% | 2.2% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+
+## 葡萄牙 vs 克罗地亚 [fifwc-prt-hrv-2026-07-02]
+
+### 共享信息源
+1. FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5
+2. Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters | Reuters | https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5
+3. Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today | USA Today | https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5
+4. Who Will Cristiano Ronaldo And Portugal Play In The World Cup Round Of 32? - FOX Sports | FOX Sports | https://news.google.com/rss/articles/CBMiogFBVV95cUxObEdfNEdxZl82YnNkY09nTndQaEM3clQ2ckllWmYtSF9mNkxUdXlXVFdYc1lyR2F5bmxjd1E1dzFXNENjU2RRTkJkWHQyWjUwNnpkMHRwdTFyRENFRVpCbklZRkZ0Y1pEV3pXQ3JCdldaWTVBbHI0R2tfSldYTXF4Um1MM3A0NEZTQ2dZTF9jOTNFc2I4NzRFRm1aRVJqMm1fSkHSAaIBQVVfeXFMTVVwX1gya0pSbGp0di0zenhtYS1KUzhLTUVmcnlGcVhiQVoxb0Y5MjNvcEpEUzJ5bm14aFdoR19vby1NX05KZlBRRjZ2STNLekpYbndQUUx1Z2hCMmVPLUJhb0pLZ2dXWURRSzJkNWdQaS1EYkoyY2s5c2ljR2xfeW1jbm1qcTNHSkpOa01uSXFoOExSWUY0MlZXN3JzWTA4QWl3?oc=5
+5. World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times | The New York Times | https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5
+
+### 比赛层面解读
+- 证据链：
+  1. Polymarket 胜平负价格定义球队强弱和打平风险的基础先验。
+  2. 让分、总进球、双方均进球、首支进球队伍和球队进球数盘口用于内部一致性校验。
+  3. 已抓取的公开预览只能提供弱定性支持，因此置信度不会升到高档。
+- 推理链：
+  1. 对热门方，除非让分价格本身确认大比分分布，否则穿盘概率相对胜率打折。
+  2. 不能因为一方更强就买双方均进球否或球队小球；必须明确否定弱势方进球路径。
+  3. 当前 edge 低于 4 个百分点的盘口维持跳过；条件触发价放在交易策略报告中处理。
+- 反证：信息源集合缺少确认首发、射门质量、压迫强度或 xG 拆分等硬数据。
+- 失效观察：临场轮换、天气、战术变化，或价格移动超过 4 个百分点。
+
+### 胜平负
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-draw | 葡萄牙 vs 克罗地亚 会打平吗？ | 是 | 26.1% | 27.1% | +1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-prt | 葡萄牙 会在 2026-07-02 获胜吗？ | 是 | 56.4% | 54.9% | -1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-hrv | 克罗地亚 会在 2026-07-02 获胜吗？ | 是 | 17.9% | 18.4% | +0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+
+### 让分盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-spread-home-1pt5 | 让分：葡萄牙 (-1.5) | 葡萄牙 | 32.0% | 30.0% | -2.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-spread-away-1pt5 | 让分：克罗地亚 (-1.5) | 克罗地亚 | 5.9% | 5.7% | -0.2% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-spread-home-2pt5 | 让分：葡萄牙 (-2.5) | 葡萄牙 | 14.5% | 14.0% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-spread-away-2pt5 | 让分：克罗地亚 (-2.5) | 克罗地亚 | 1.2% | 1.1% | -0.2% | 偏低+ | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-spread-home-3pt5 | 让分：葡萄牙 (-3.5) | 葡萄牙 | 5.2% | 4.8% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-spread-away-3pt5 | 让分：克罗地亚 (-3.5) | 克罗地亚 | 0.4% | 0.2% | -0.2% | 低 | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-spread-home-4pt5 | 让分：葡萄牙 (-4.5) | 葡萄牙 | 2.8% | 2.3% | -0.5% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-spread-away-4pt5 | 让分：克罗地亚 (-4.5) | 克罗地亚 | 0.2% | 0.1% | -0.1% | 低 | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-spread-home-5pt5 | 让分：葡萄牙 (-5.5) | 葡萄牙 | 0.6% | 0.1% | -0.5% | 低 | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-spread-away-5pt5 | 让分：克罗地亚 (-5.5) | 克罗地亚 | 0.1% | 0.1% | -0.0% | 低 | 跳过 | 价格过于极端 |
+
+### 总进球盘
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-total-0pt5 | 葡萄牙 vs 克罗地亚：总进球大小 0.5 | 大 | 93.6% | 93.6% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-1pt5 | 葡萄牙 vs 克罗地亚：总进球大小 1.5 | 大 | 78.9% | 78.9% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-2pt5 | 葡萄牙 vs 克罗地亚：总进球大小 2.5 | 大 | 54.1% | 53.6% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-3pt5 | 葡萄牙 vs 克罗地亚：总进球大小 3.5 | 大 | 32.4% | 32.4% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-4pt5 | 葡萄牙 vs 克罗地亚：总进球大小 4.5 | 大 | 15.6% | 15.1% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-5pt5 | 葡萄牙 vs 克罗地亚：总进球大小 5.5 | 大 | 6.6% | 6.1% | -0.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-6pt5 | 葡萄牙 vs 克罗地亚：总进球大小 6.5 | 大 | 2.2% | 1.7% | -0.5% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-7pt5 | 葡萄牙 vs 克罗地亚：总进球大小 7.5 | 大 | 0.6% | 0.1% | -0.5% | 低 | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-second-half-total-0pt5 | 葡萄牙 vs 克罗地亚：下半场 大小 0.5 | 大 | 80.0% | 80.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-second-half-total-1pt5 | 葡萄牙 vs 克罗地亚：下半场 大小 1.5 | 大 | 44.5% | 44.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-second-half-total-2pt5 | 葡萄牙 vs 克罗地亚：下半场 大小 2.5 | 大 | 20.0% | 19.5% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-total-8pt5 | 葡萄牙 vs 克罗地亚：总进球大小 8.5 | 大 | 0.5% | 0.1% | -0.4% | 低 | 跳过 | 价格过于极端 |
+| fifwc-prt-hrv-2026-07-02-first-half-total-0pt5 | 葡萄牙 vs 克罗地亚：上半场 大小 0.5 | 大 | 72.5% | 72.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-total-1pt5 | 葡萄牙 vs 克罗地亚：上半场 大小 1.5 | 大 | 35.5% | 35.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-total-2pt5 | 葡萄牙 vs 克罗地亚：上半场 大小 2.5 | 大 | 12.5% | 12.0% | -0.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 双方均进球
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-btts | 葡萄牙 vs 克罗地亚: 双方均进球 | 是 | 57.5% | 56.0% | -1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-btts-first-half | 葡萄牙 vs 克罗地亚: 上半场双方均进球 | 是 | 20.0% | 20.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-btts-second-half | 葡萄牙 vs 克罗地亚: 下半场双方均进球 | 是 | 29.0% | 29.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 首支进球队伍
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-first-to-score-home | 葡萄牙 会先于 克罗地亚 进球吗？ | 是 | 60.5% | 60.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-to-score-away | 克罗地亚 会先于 葡萄牙 进球吗？ | 是 | 32.0% | 32.0% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-to-score-neither | 葡萄牙 vs 克罗地亚: 无球队先进球? | 是 | 6.5% | 6.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+
+### 球队进球数
+| 盘口 slug | 问题/盘口 | 方向 | 市场概率 | 模型概率 | edge | 置信度 | 状态 | 跳过原因 |
+|---|---|---:|---:|---:|---:|---|---|---|
+| fifwc-prt-hrv-2026-07-02-second-half-team-total-home-0pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 下半场 大小 0.5 | 大 | 63.5% | 63.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-second-half-team-total-home-1pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 下半场 大小 1.5 | 大 | 24.0% | 23.0% | -1.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-second-half-team-total-away-0pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 下半场 大小 0.5 | 大 | 41.5% | 40.0% | -1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-second-half-team-total-away-1pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 下半场 大小 1.5 | 大 | 11.5% | 11.5% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-home-0pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 大小 0.5 | 大 | 85.5% | 85.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-home-1pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 大小 1.5 | 大 | 55.5% | 54.5% | -1.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-home-2pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 大小 2.5 | 大 | 28.5% | 28.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-away-0pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 大小 0.5 | 大 | 64.5% | 63.0% | -1.5% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-away-1pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 大小 1.5 | 大 | 26.5% | 26.5% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-team-total-away-2pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 大小 2.5 | 大 | 7.6% | 7.6% | +0.0% | 中低 | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-team-total-home-0pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 上半场 大小 0.5 | 大 | 56.5% | 56.5% | +0.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-team-total-home-1pt5 | 葡萄牙 vs 克罗地亚：葡萄牙 上半场 大小 1.5 | 大 | 19.0% | 18.0% | -1.0% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-team-total-away-0pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 上半场 大小 0.5 | 大 | 36.5% | 35.0% | -1.5% | 偏低+ | 跳过 | edge 低于 4 个百分点 |
+| fifwc-prt-hrv-2026-07-02-first-half-team-total-away-1pt5 | 葡萄牙 vs 克罗地亚：克罗地亚 上半场 大小 1.5 | 大 | 6.5% | 6.5% | +0.0% | 低 | 跳过 | edge 低于 4 个百分点 |
+
+## 策略观察项详细证据
+### 西班牙 vs 奥地利 | fifwc-esp-aut-2026-07-02-team-total-away-0pt5
+- 候选项：奥地利球队进球数大 0.5；动作=条件买入大球，价格 <= 0.45；参考方向=大；市场概率=47.5%；模型概率=49.0%；当前 edge=+1.5%；状态=仅观察。
+- 证据链：
+  1. Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports | FOX Sports | https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5
+  2. Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5
+  3. Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports | CBS Sports | https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。
+
+### 瑞士 vs 阿尔及利亚 | fifwc-che-alg-2026-07-02-btts
+- 候选项：瑞士 vs 阿尔及利亚双方均进球是；动作=条件买入是，价格 <= 0.48；参考方向=是；市场概率=51.5%；模型概率=52.0%；当前 edge=+0.5%；状态=仅观察。
+- 证据链：
+  1. Switzerland vs. Algeria at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN | ESPN | https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazA2NDVFRUljVGZ5NFJHNnNsQlBsRC1Ea1U2WDJQRWpiNEdUMWVRSUd5dm1JUEJvNjRrTTZBRlF6d1NsWjRKSFRMWFptQU0wdzJmSFZ2Ni1nbTlkek9WMWwyXzdLbTI2NVQ1OS1aam9meE1hWExXS01fWEFSRmJic1lWT213QkhOTHRtWjQ4b1FUTmg1YXdhUFZNU2RsaGRiUzVLX2k0SWhQRE92LWl1RjdaazdibFI3Sk1QWEN6enhtSlp2YTJuMFMxZ240TkMyNHJIbS1URElBY1VYZzdWcVlodmtUY2JZN1p2MXVB?oc=5
+  2. World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports | Yahoo Sports | https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5
+  3. Swiss seek another World Cup round-of-16 berth as Algeria chase historic knockout win - Reuters | Reuters | https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlNwa1lXUXJyOVdaTG9tNmhPMG11aUFLQzNfcnYxVTBRalgyYUxqT2MyUGo5YTN3R1oycmY4VzBMMlM5R281WE5IMndaNDVSRWhnYXZqSzIzT1dwaTBJZ2dKQTJ1WUt6TzhmYWlWX3hJejE1Y3NlMmJPX3FYc3pqLTJwVFhUVjZfN25jaGY2aFp2cEE4N1p5RXk3SV8yUVVjcEEyYk9UdnoxeU8wNkdxRkxLTW1SNTd0NXlaNHdqQXlwWmNWenc0?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。
+
+### 葡萄牙 vs 克罗地亚 | fifwc-prt-hrv-2026-07-02-spread-home-1pt5
+- 候选项：葡萄牙 -1.5 否；动作=条件买入否，价格 <= 0.64；参考方向=葡萄牙；市场概率=68.0%；模型概率=70.0%；当前 edge=+2.0%；状态=仅观察。
+- 证据链：
+  1. FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5
+  2. Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters | Reuters | https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5
+  3. Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today | USA Today | https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。
+
+### 西班牙 vs 奥地利 | fifwc-esp-aut-2026-07-02-spread-home-1pt5
+- 候选项：西班牙 -1.5 否；动作=条件买入否，价格 <= 0.46；参考方向=西班牙；市场概率=48.4%；模型概率=49.9%；当前 edge=+1.5%；状态=仅观察。
+- 证据链：
+  1. Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports | FOX Sports | https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5
+  2. Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5
+  3. Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports | CBS Sports | https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。
+
+### 葡萄牙 vs 克罗地亚 | fifwc-prt-hrv-2026-07-02-btts
+- 候选项：葡萄牙 vs 克罗地亚双方均进球是；动作=条件买入是，价格 <= 0.52；参考方向=是；市场概率=57.5%；模型概率=56.0%；当前 edge=-1.5%；状态=仅观察。
+- 证据链：
+  1. FIFA World Cup: Portugal vs Croatia prediction, schedules, round of 16 race - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMisgFBVV95cUxOYjlxVFgzMjFPSU42NG5HR09KSDFyUF95cFFCTGNCdWYwSGYxbXJvc2xtc24xczR3aDV2eFFBR3V1TWlRemVYMlpfeXF6dFpoVUl2TFEtbnNOcFBMWFFqSUlvUlRJa0x4cVBnWk5XRVdrcEhOeWhlUHJwdElScU1RekpoY20xOTFNbmFXakFiQ0p6NUtSdGNnQUwyTlI2MUR5NVFxcW9mOVY1VVptQmZmWExn0gG3AUFVX3lxTFBsbDhnOGoxNUV4dmNacHgxTk1HN2pLSTJIbUhDY3IxV1g2M0RiWUJ0dHdHaFNWR2pKVE9wdGlxaEtYMG4wTHVCcGIzLTZCcDVfWEZ5WXZLbXVQUm9EUEEzbHBCclJlMXZ1NHY4UG5vQU1JOXd4NUxOeUVtWU43THk1N3VFZjRZNVpKX091T1RzQmJ0bGRKa2lzdkJRcUNUV1FRZDA3WGk2VWZtRUxzRWxjejBwMEcxNA?oc=5
+  2. Soccer - Portugal look to ignite World Cup campaign against evergreen Croatia - Reuters | Reuters | https://news.google.com/rss/articles/CBMivwFBVV95cUxOMmhYM3VaRV8xTmRWbGFwOGpGQUZOSzZDNExKMlpFbDZSRmQwZnB6RnlBR3J3bkdFRGZPN2JhQ3RVSGdONk52ZlhwZUZLM0F0aTNpVWVNRldHdjFfaUM2cEtvYnZTM2Jld1hoZU90Y0VDSV9nWWtNaHRnbG5GTXRRRFhiOVRiOTZJTi1hTlZfT1hqcTZGSFlnUEJCblVvZGw5TmhrSllrQ3hmN2Y3bWRPeE1qSVNCVDE4c1k0dFBhMA?oc=5
+  3. Where is the Portugal vs. Croatia FIFA World Cup round of 32 match? - USA Today | USA Today | https://news.google.com/rss/articles/CBMivwFBVV95cUxONjZ4WHEzNVhaWWxlZzBfV0dxZU54MmRYMW4xWXhsZU9XdTRkWjF3amNaMWxLQ0NReGZqeHIzalZaSi14STVmX3NkcW9iYmhzdTR4UVVESWt3SGhVa3BBa3NhdWZvUlZ2TG5INUlMOXF0X2ZvNW1nVGd3cmtMd2J2TGRDeU9LSVg1Z0FkY09TLTU1SzVRUl9sLVZNYTRlbENiY1kzV2RLell1a0JhOHZYY2VVWWs3MjlVTmR1bWxaOA?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。
+
+### 西班牙 vs 奥地利 | fifwc-esp-aut-2026-07-02-total-2pt5
+- 候选项：西班牙 vs 奥地利大 2.5；动作=条件买入大球，价格 <= 0.54；参考方向=大；市场概率=57.4%；模型概率=58.9%；当前 edge=+1.5%；状态=仅观察。
+- 证据链：
+  1. Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports | FOX Sports | https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5
+  2. Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera | Al Jazeera | https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5
+  3. Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports | CBS Sports | https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5
+- 推理链：
+  1. 当前市场价格被视为最强先验；由于抓取到的信息多为赛前预览和阵容标题，模型只做小幅修正。
+  2. 胜平负概率与让分穿盘概率分开处理，热门方胜率不会自动外推为大让分穿盘。
+  3. 除非首发、伤停或战术证据明确削弱弱势方进球路径，否则保留弱势方进球可能，避免把强弱差直接写成 BTTS NO。
+- 反证：
+  1. 本次流程没有接入已验证的 Opta/WhoScored 技术统计源，也没有确认首发，因此所有模型修正都被限制在保守范围。
+- 失效观察：
+  1. 只有当价格达到触发价，且首发/伤停消息没有否定相关进球路径时，才允许把观察项升级为限价单。

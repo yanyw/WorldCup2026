@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-esp-aut-2026-07-02",
+  "event_title": "Spain vs. Austria",
+  "event_start": "2026-06-28T10:15:06.877891Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718915",
+        "slug": "fifwc-esp-aut-2026-07-02-aut",
+        "question": "Will Austria win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Austria wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.07625\", \"0.92375\"]",
+        "bestBid": 0.075,
+        "bestAsk": 0.0775,
+        "liquidity": 609090.444425,
+        "volume": 729337.3805270002,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:35:03 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Algeria, Austria dismiss trying not to win to avoid Spain - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalkzVnVyRkxCVlBIbjJUM2Y5SklVb1JscHBhX2FuT0VxTjVkUGt0UUVZUkt3cEVrM1VtUEhEWHVReENpcFgyVlBnTl9mNlB0bTl0VTBIdXUzRzFqLXkyajI4VkV3Ti0xSjBPU1FaTEJLLXNPNzlWRFVld3ZINnZ1QXVNWVJoWlBwWVhtMUpfUnc5Z0NkbnZ2ZkREakZqZ0MxbEU1Rw?oc=5",
+          "source": "ESPN",
+          "published": "Fri, 26 Jun 2026 23:58:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain Predicted Lineup vs. Austria—World Cup Round of 32 - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1lYd3pqbXF6bXFHNjZrcVZlLWdqUlcxZGQ3ejMzS3Z6TjNtdGF0UjBiMXV2QVdBY0MzMjNJRFFCaE1HZ0Zmd20zUHktU2JaLTJ4ZFlwNkVXUDJSUGxPa1F0U2hucWdVcG15VFhhU0RzYnFfTDJsZk9zRGVYRENxOWZR?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Wed, 01 Jul 2026 15:55:18 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmJaOTd3ZlNHNHlVbnQ1SldNNzMxbWdVMkFyVXFrUUpUUlNIV2RtRGZoektrMlM1Q3YxWkRRX3puU2psYWFnSFFrMzk4dGxFX2hPd3A2ay1YRk1wekRsNHlNMlR6bmo5UmZqaVZPRUZkeGhMNHEwTFlnemxVN3AxalNNd0N6ZWx1Z0lJTmR3dk4yX3M?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:03:31 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmpRTmZKTWVpcVU1SXpuMmROVUpkeG1Lc3BfUlRMdlZOaUpUWTVQMDV0ajdoZEdQRGJhbTctaDVZcG9qcG9TWGVhbnRLUF9abU82N1Q3VW81d212UnU3Yndwdk90LXcxUzk1dDQ2ck16VHVjYXpsOEZibE1qWkVoa1pkYWRyY3U1WVJZM2I2WjlMeDRSOUp4UDhqTkFLSlFRb3MtQjZmVGNwcnAyalNBc25jN1FGaExVTU9hbV8yWDE2Nnp2?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718913",
+        "slug": "fifwc-esp-aut-2026-07-02-esp",
+        "question": "Will Spain win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Spain wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.76125\", \"0.23875\"]",
+        "bestBid": 0.76,
+        "bestAsk": 0.7625,
+        "liquidity": 848969.536575,
+        "volume": 1848882.8760739942,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:35:03 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Algeria, Austria dismiss trying not to win to avoid Spain - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalkzVnVyRkxCVlBIbjJUM2Y5SklVb1JscHBhX2FuT0VxTjVkUGt0UUVZUkt3cEVrM1VtUEhEWHVReENpcFgyVlBnTl9mNlB0bTl0VTBIdXUzRzFqLXkyajI4VkV3Ti0xSjBPU1FaTEJLLXNPNzlWRFVld3ZINnZ1QXVNWVJoWlBwWVhtMUpfUnc5Z0NkbnZ2ZkREakZqZ0MxbEU1Rw?oc=5",
+          "source": "ESPN",
+          "published": "Fri, 26 Jun 2026 23:58:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain Predicted Lineup vs. Austria—World Cup Round of 32 - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1lYd3pqbXF6bXFHNjZrcVZlLWdqUlcxZGQ3ejMzS3Z6TjNtdGF0UjBiMXV2QVdBY0MzMjNJRFFCaE1HZ0Zmd20zUHktU2JaLTJ4ZFlwNkVXUDJSUGxPa1F0U2hucWdVcG15VFhhU0RzYnFfTDJsZk9zRGVYRENxOWZR?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Wed, 01 Jul 2026 15:55:18 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmJaOTd3ZlNHNHlVbnQ1SldNNzMxbWdVMkFyVXFrUUpUUlNIV2RtRGZoektrMlM1Q3YxWkRRX3puU2psYWFnSFFrMzk4dGxFX2hPd3A2ay1YRk1wekRsNHlNMlR6bmo5UmZqaVZPRUZkeGhMNHEwTFlnemxVN3AxalNNd0N6ZWx1Z0lJTmR3dk4yX3M?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:03:31 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmpRTmZKTWVpcVU1SXpuMmROVUpkeG1Lc3BfUlRMdlZOaUpUWTVQMDV0ajdoZEdQRGJhbTctaDVZcG9qcG9TWGVhbnRLUF9abU82N1Q3VW81d212UnU3Yndwdk90LXcxUzk1dDQ2ck16VHVjYXpsOEZibE1qWkVoa1pkYWRyY3U1WVJZM2I2WjlMeDRSOUp4UDhqTkFLSlFRb3MtQjZmVGNwcnAyalNBc25jN1FGaExVTU9hbV8yWDE2Nnp2?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718914",
+        "slug": "fifwc-esp-aut-2026-07-02-draw",
+        "question": "Will Spain vs. Austria end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.17375\", \"0.82625\"]",
+        "bestBid": 0.1725,
+        "bestAsk": 0.175,
+        "liquidity": 479512.070925,
+        "volume": 219152.29046999864,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Spain vs. Austria Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVnFjT09JbG5TaXlPTUQtMC1hZjZPbWZCN1VyLThlYmRYYUM5TEhiT2I1LVYtRkM1eTFoSkRlczFBQkhkbzFPUnROSElURFk4cUJIWHg0VmF0ay1rNi04RElaV1ZiaUZLMlNKNjhwbm1ZV2I1MG9sSksyTWpEaVVKcnRGa1ExYWpRSnlaLS1iUkluNHZwR2I4VWQ5MNIBmwFBVV95cUxPQm5fQm1KUXdTMFhiR3hLUDY4RnE4b2VvdjZsanBkQzlTakIyRjFGcG9IOGdudm5ZUUVPTGlpaHlCSEhTWlRjOXhWcjRWVXVsMEhGQ2tEZWJmODFNQ1JXYnBVb3pRMWx5WEE2eThldWYxeXVwQ3lTc1hOQVM1MG1oU2tDSUItRlNveDNsb0lxMXBHMlE4WEdmdzV4UQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 09:00:56 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria: World Cup Round of 32 – Preview, predictions, team news - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdRejhzWkhHbG5Fd2VvY1JVVnY4U2VxN0VTdUh1R0M5MjVKN1hIM1JWU3UzbkVFcVd1M0NSYXJPSk02OV80RUwza04tbndJalAzQ1oxYnRlWHZSTFA3R0c3bXlRbEhJSE5lT2trM3YxX1VFVWVLT1JGbDc1V2VOWjZDYVZIUVNZWWNIYy12OEFfYy1jaWdVUnRhX01IUUhRcGRMNE5QU1JmaEx5aHZr0gG0AUFVX3lxTE80dmlBRERUc1hBbVEyN09uNks1UTlySl9yU3VuZm8wdHBoc2ZIS1JES2JKb3V2Y0ZoaS10bFJmLTZlWU8zRTBtbGtlUzZPRm5UR3RBYzRyTVZpM0ZnbmVULWxnbjFlRzJJZ1RGSWdWWVMxVnlGQnhuTlBubUhxWi1UMXZuTDRHdW9HSGdiVllucWtNM0N0X1hKdk40dVlhMGpOSi1LN1FVQ0NMcVVQNHRYQ0RGcQ?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 07:35:03 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria odds, prediction, time: 2026 World Cup Round of 32 picks from expert on 12-5 roll - CBS Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXlsYklUNXYxNmRpM0lmcGRWdlNjYms4VFJfTXl5T2U5MHk4VnF3UVhadlQ4dzBBSFhTOFNlYVlFd09sUlZ2cWpkYkctdFBQdi12ZUg1a3RZVFVNcFBWcVdDdGExOVpRM1A2Ml8wR3JLYUs0eHMtdC1vQ0FkSVBOZlNJQ0V0bmFoUzlLN01PbkRhWkFmbU4yODBHSXdOcFdUR2tYcjNDdmI3UQ?oc=5",
+          "source": "CBS Sports",
+          "published": "Thu, 02 Jul 2026 00:20:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Algeria, Austria dismiss trying not to win to avoid Spain - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalkzVnVyRkxCVlBIbjJUM2Y5SklVb1JscHBhX2FuT0VxTjVkUGt0UUVZUkt3cEVrM1VtUEhEWHVReENpcFgyVlBnTl9mNlB0bTl0VTBIdXUzRzFqLXkyajI4VkV3Ti0xSjBPU1FaTEJLLXNPNzlWRFVld3ZINnZ1QXVNWVJoWlBwWVhtMUpfUnc5Z0NkbnZ2ZkREakZqZ0MxbEU1Rw?oc=5",
+          "source": "ESPN",
+          "published": "Fri, 26 Jun 2026 23:58:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain Predicted Lineup vs. Austria—World Cup Round of 32 - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ1lYd3pqbXF6bXFHNjZrcVZlLWdqUlcxZGQ3ejMzS3Z6TjNtdGF0UjBiMXV2QVdBY0MzMjNJRFFCaE1HZ0Zmd20zUHktU2JaLTJ4ZFlwNkVXUDJSUGxPa1F0U2hucWdVcG15VFhhU0RzYnFfTDJsZk9zRGVYRENxOWZR?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Wed, 01 Jul 2026 15:55:18 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs. Austria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmJaOTd3ZlNHNHlVbnQ1SldNNzMxbWdVMkFyVXFrUUpUUlNIV2RtRGZoektrMlM1Q3YxWkRRX3puU2psYWFnSFFrMzk4dGxFX2hPd3A2ay1YRk1wekRsNHlNMlR6bmo5UmZqaVZPRUZkeGhMNHEwTFlnemxVN3AxalNNd0N6ZWx1Z0lJTmR3dk4yX3M?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:03:31 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Spain vs Austria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmpRTmZKTWVpcVU1SXpuMmROVUpkeG1Lc3BfUlRMdlZOaUpUWTVQMDV0ajdoZEdQRGJhbTctaDVZcG9qcG9TWGVhbnRLUF9abU82N1Q3VW81d212UnU3Yndwdk90LXcxUzk1dDQ2ck16VHVjYXpsOEZibE1qWkVoa1pkYWRyY3U1WVJZM2I2WjlMeDRSOUp4UDhqTkFLSlFRb3MtQjZmVGNwcnAyalNBc25jN1FGaExVTU9hbV8yWDE2Nnp2?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Spain vs. Austria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

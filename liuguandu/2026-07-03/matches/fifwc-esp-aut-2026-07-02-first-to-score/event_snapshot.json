@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-esp-aut-2026-07-02-first-to-score",
+  "event_title": "Spain vs. Austria - First Team to Score",
+  "event_start": "2026-06-28T10:15:22.563179Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719036",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-home",
+        "question": "Spain to score first vs. Austria?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.755\", \"0.245\"]",
+        "bestBid": 0.75,
+        "bestAsk": 0.76,
+        "liquidity": 80076.0808,
+        "volume": 18401.96725599999,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719037",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-away",
+        "question": "Austria to score first vs. Spain?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.205\", \"0.795\"]",
+        "bestBid": 0.2,
+        "bestAsk": 0.21,
+        "liquidity": 76534.3934,
+        "volume": 10913.323391,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719038",
+        "slug": "fifwc-esp-aut-2026-07-02-first-to-score-neither",
+        "question": "Spain vs. Austria: Neither team to score first?",
+        "description": "In the upcoming match between Spain and Austria, scheduled for July 2, 2026 at 3:00 PM ET: This market will resolve to \"Spain\" if Spain are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Austria\" if Austria are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.045\", \"0.955\"]",
+        "bestBid": 0.04,
+        "bestAsk": 0.05,
+        "liquidity": 59314.0696,
+        "volume": 7323.083274,
+        "endDate": "2026-07-02T19:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

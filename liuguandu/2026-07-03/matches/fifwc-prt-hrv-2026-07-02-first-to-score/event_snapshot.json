@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-prt-hrv-2026-07-02-first-to-score",
+  "event_title": "Portugal vs. Croatia - First Team to Score",
+  "event_start": "2026-06-28T10:21:20.526171Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719062",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-home",
+        "question": "Portugal to score first vs. Croatia?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.605\", \"0.395\"]",
+        "bestBid": 0.6,
+        "bestAsk": 0.61,
+        "liquidity": 67606.7372,
+        "volume": 2995.8601380000005,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719063",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-away",
+        "question": "Croatia to score first vs. Portugal?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.32\", \"0.68\"]",
+        "bestBid": 0.31,
+        "bestAsk": 0.33,
+        "liquidity": 73377.0417,
+        "volume": 865.9135920000002,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719064",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-neither",
+        "question": "Portugal vs. Croatia: Neither team to score first?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.065\", \"0.935\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.07,
+        "liquidity": 54217.0665,
+        "volume": 9829.398486,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

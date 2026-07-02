@@ -1,0 +1,93 @@
+{
+  "date": "2026-07-03",
+  "as_of": "2026-07-02T13:33:01.593794+00:00",
+  "verdict": "PASS_WITH_WARNINGS",
+  "market_count_catalog": 144,
+  "market_count_in_probability_report": 144,
+  "coverage_requested_missing": 0,
+  "priority_order_slugs": [],
+  "conditional_watchlist_slugs": [
+    "fifwc-che-alg-2026-07-02-btts",
+    "fifwc-esp-aut-2026-07-02-spread-home-1pt5",
+    "fifwc-esp-aut-2026-07-02-team-total-away-0pt5",
+    "fifwc-esp-aut-2026-07-02-total-2pt5",
+    "fifwc-prt-hrv-2026-07-02-btts",
+    "fifwc-prt-hrv-2026-07-02-spread-home-1pt5"
+  ],
+  "detailed_evidence_slugs": [
+    "fifwc-che-alg-2026-07-02-btts",
+    "fifwc-esp-aut-2026-07-02-spread-home-1pt5",
+    "fifwc-esp-aut-2026-07-02-team-total-away-0pt5",
+    "fifwc-esp-aut-2026-07-02-total-2pt5",
+    "fifwc-prt-hrv-2026-07-02-btts",
+    "fifwc-prt-hrv-2026-07-02-spread-home-1pt5"
+  ],
+  "source_summary_by_match": {
+    "fifwc-che-alg-2026-07-02": {
+      "base_slug": "fifwc-che-alg-2026-07-02",
+      "event_title": "Switzerland vs. Algeria",
+      "home_team": "Switzerland",
+      "away_team": "Algeria",
+      "event_start": "2026-06-28T10:03:59.38304Z",
+      "source_count": 20,
+      "source_tiers": {
+        "other": 20
+      }
+    },
+    "fifwc-esp-aut-2026-07-02": {
+      "base_slug": "fifwc-esp-aut-2026-07-02",
+      "event_title": "Spain vs. Austria",
+      "home_team": "Spain",
+      "away_team": "Austria",
+      "event_start": "2026-06-28T10:15:06.877891Z",
+      "source_count": 21,
+      "source_tiers": {
+        "other": 21
+      }
+    },
+    "fifwc-prt-hrv-2026-07-02": {
+      "base_slug": "fifwc-prt-hrv-2026-07-02",
+      "event_title": "Portugal vs. Croatia",
+      "home_team": "Portugal",
+      "away_team": "Croatia",
+      "event_start": "2026-06-28T10:11:05.994573Z",
+      "source_count": 22,
+      "source_tiers": {
+        "other": 22
+      }
+    }
+  },
+  "severity_counts": {
+    "WARN": 4
+  },
+  "findings": [
+    {
+      "severity": "WARN",
+      "check": "reasoning_specificity",
+      "market_slug": "fifwc-esp-aut-2026-07-02-spread-home-1pt5",
+      "issue": "reasoning_chain 偏通用，没有充分绑定球队、盘口类型或该 market_slug。",
+      "remediation": "补充该盘口的具体概率路径，例如弱侧进球路径、净胜球分布、总分节奏或首球路径。"
+    },
+    {
+      "severity": "WARN",
+      "check": "reasoning_specificity",
+      "market_slug": "fifwc-esp-aut-2026-07-02-team-total-away-0pt5",
+      "issue": "reasoning_chain 偏通用，没有充分绑定球队、盘口类型或该 market_slug。",
+      "remediation": "补充该盘口的具体概率路径，例如弱侧进球路径、净胜球分布、总分节奏或首球路径。"
+    },
+    {
+      "severity": "WARN",
+      "check": "reasoning_specificity",
+      "market_slug": "fifwc-esp-aut-2026-07-02-total-2pt5",
+      "issue": "reasoning_chain 偏通用，没有充分绑定球队、盘口类型或该 market_slug。",
+      "remediation": "补充该盘口的具体概率路径，例如弱侧进球路径、净胜球分布、总分节奏或首球路径。"
+    },
+    {
+      "severity": "WARN",
+      "check": "reasoning_specificity",
+      "market_slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
+      "issue": "reasoning_chain 偏通用，没有充分绑定球队、盘口类型或该 market_slug。",
+      "remediation": "补充该盘口的具体概率路径，例如弱侧进球路径、净胜球分布、总分节奏或首球路径。"
+    }
+  ]
+}

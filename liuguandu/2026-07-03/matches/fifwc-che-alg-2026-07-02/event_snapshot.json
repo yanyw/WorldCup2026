@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-che-alg-2026-07-02",
+  "event_title": "Switzerland vs. Algeria",
+  "event_start": "2026-06-28T10:03:59.38304Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718928",
+        "slug": "fifwc-che-alg-2026-07-02-alg",
+        "question": "Will Algeria win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Algeria wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.22375\", \"0.77625\"]",
+        "bestBid": 0.2225,
+        "bestAsk": 0.225,
+        "liquidity": 551135.026675,
+        "volume": 105371.59719299988,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718925",
+        "slug": "fifwc-che-alg-2026-07-02-che",
+        "question": "Will Switzerland win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Switzerland wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.47875\", \"0.52125\"]",
+        "bestBid": 0.4775,
+        "bestAsk": 0.48,
+        "liquidity": 719451.305575,
+        "volume": 1287428.0775709928,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718926",
+        "slug": "fifwc-che-alg-2026-07-02-draw",
+        "question": "Will Switzerland vs. Algeria end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.29875\", \"0.70125\"]",
+        "bestBid": 0.2975,
+        "bestAsk": 0.3,
+        "liquidity": 337264.3533,
+        "volume": 130594.55034299933,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

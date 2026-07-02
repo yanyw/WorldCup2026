@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-prt-hrv-2026-07-02-first-to-score",
+  "event_title": "Portugal vs. Croatia - First Team to Score",
+  "event_start": "2026-06-28T10:21:20.526171Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719062",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-home",
+        "question": "Portugal to score first vs. Croatia?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.605\", \"0.395\"]",
+        "bestBid": 0.6,
+        "bestAsk": 0.61,
+        "liquidity": 67606.7372,
+        "volume": 2995.8601380000005,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Will Cristiano Ronaldo Play Today? Portugal Star’s Status vs. Croatia - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXVGMUI5VkJkNzdKRjZjYTkwME9IcFBmU3ZDUDhkTG8yeHotb0xyRHdsQlppRHYtdFJYTDNpYzdhV0k2amlNMGY1WmVHaHBOTkVYSERYOEZHd0R3TEdVcS14cXVIUmZZcTRCYnNWN1ByVXZhYVFINGNlNGZWNEstTW9lMVB6SWR5elcyWVloVWNVTjhBNnh4SjI4NXUyNE9jcThxQ3hXQVJBT1XSAasBQVVfeXFMTWdaLWxoVlBoR3JEZ2pDSXZvSXpWeHNqN1o2S0Z5QVFmZ2c1UG1ZLWh1ZGZSa1hpTWt0N08ycTI3Y1RzamVYR3JmeUxqekZPZnktUm0tamJUR1F4LXlTOFo5WWZkd1hkSnBvMlA1UDNaamc5QXdpS3RScVFPWkJwdEhWOHNiX2FQcFBOeDRWSDNqbktlOHVjSWx6N3lYZERTeG5UcVE3UWdtbFBF?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 04:00:35 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia: World Cup Round of 32 – Ronaldo-Modric and prediction - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWtqNTdLY3B4WUhVaHVpd3UzbnJiRG9uSmQ0MkFpZm9ObUlhMDllMTJWbjJheHhCZF9qbnJrSDMtQ19aSUlhRFBqYzBCV2QtMURvVC1JMTFiclZvS2FFVVVLWWxJRkNXZ01mNWotVE93aXQ1THRTbUstVi1uWlg2d0JzZkVYQWFKWmJxdlhXT2xXRy0zOFZxaE9VODA1SHBWdTZpU3JPNFJTbXhGNE5Pa204QXc4dWlLdVY5bThrY9IBxAFBVV95cUxOaUlIcVBxdnJfcjdQWk0zdV81blA5NXpseWVoamNHaFNtYWVlTnpVWE5SVWtObWp6UTg1cm9JaWlzYUpyUU4tM2xscU12Um9TZmx3U1E0b3JoSUFaNlJQSG4wcDAzcmJUdHZqeDdCZUhqRzhUSTVuZGxIdUV4US1BcVZLbXA0X2hCaUxtWEZYZXhyOE1INHlsdmJRSVdJbXMzU3lIdmdZZ2FUclBKMUlFV3F3TFQ2UVl0VHRxU1J3WEVDcHhV?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 12:36:22 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGx6RkpJVmdmZmdpZ2R5UVZTUFN3OTVNMkYxYjVGRy1TUVJIUTJmbkE5bzVtTExtY2ItWVpHQmtEQkl2Q0dBQzNDWHRtNFVYVTB0bVB4ZjNIRkNILUFUbGk5NVNSVkVUa0xzYWx2em5UV0dPR1ktdi02c0RrckNMSFBlb00wN0xIMEhYS1ZXY0dQSDhq?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNFFwNlAyQmc0SFl3bEpjNktmNE5rblYwS09OZ1R6T0F6eklOYXl1eWdqVld1TDBGN2VJXzFCWFAxcnlNMjdfQXRBVHVTYW4yd2hOejFPTE1ONEY2ZWpERmJ2dmpSenBwZ0wyTl8yTjdwOC10OGtsQ004bVlJOXRCSG9Yc1NJMjBuSE9vZDk5X014S0prN0tIdGJMYTg0YUk1OGcxdGJXRXNnaXBuSUo3dDdBcFhKczgzTXM2WGprZnhGNkw3aENJM1lDN3NDMm1SWTdIMEN6NkEyTWp4WElrUQ?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 07:58:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719063",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-away",
+        "question": "Croatia to score first vs. Portugal?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.32\", \"0.68\"]",
+        "bestBid": 0.31,
+        "bestAsk": 0.33,
+        "liquidity": 73377.0417,
+        "volume": 865.9135920000002,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Will Cristiano Ronaldo Play Today? Portugal Star’s Status vs. Croatia - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXVGMUI5VkJkNzdKRjZjYTkwME9IcFBmU3ZDUDhkTG8yeHotb0xyRHdsQlppRHYtdFJYTDNpYzdhV0k2amlNMGY1WmVHaHBOTkVYSERYOEZHd0R3TEdVcS14cXVIUmZZcTRCYnNWN1ByVXZhYVFINGNlNGZWNEstTW9lMVB6SWR5elcyWVloVWNVTjhBNnh4SjI4NXUyNE9jcThxQ3hXQVJBT1XSAasBQVVfeXFMTWdaLWxoVlBoR3JEZ2pDSXZvSXpWeHNqN1o2S0Z5QVFmZ2c1UG1ZLWh1ZGZSa1hpTWt0N08ycTI3Y1RzamVYR3JmeUxqekZPZnktUm0tamJUR1F4LXlTOFo5WWZkd1hkSnBvMlA1UDNaamc5QXdpS3RScVFPWkJwdEhWOHNiX2FQcFBOeDRWSDNqbktlOHVjSWx6N3lYZERTeG5UcVE3UWdtbFBF?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 04:00:35 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia: World Cup Round of 32 – Ronaldo-Modric and prediction - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWtqNTdLY3B4WUhVaHVpd3UzbnJiRG9uSmQ0MkFpZm9ObUlhMDllMTJWbjJheHhCZF9qbnJrSDMtQ19aSUlhRFBqYzBCV2QtMURvVC1JMTFiclZvS2FFVVVLWWxJRkNXZ01mNWotVE93aXQ1THRTbUstVi1uWlg2d0JzZkVYQWFKWmJxdlhXT2xXRy0zOFZxaE9VODA1SHBWdTZpU3JPNFJTbXhGNE5Pa204QXc4dWlLdVY5bThrY9IBxAFBVV95cUxOaUlIcVBxdnJfcjdQWk0zdV81blA5NXpseWVoamNHaFNtYWVlTnpVWE5SVWtObWp6UTg1cm9JaWlzYUpyUU4tM2xscU12Um9TZmx3U1E0b3JoSUFaNlJQSG4wcDAzcmJUdHZqeDdCZUhqRzhUSTVuZGxIdUV4US1BcVZLbXA0X2hCaUxtWEZYZXhyOE1INHlsdmJRSVdJbXMzU3lIdmdZZ2FUclBKMUlFV3F3TFQ2UVl0VHRxU1J3WEVDcHhV?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 12:36:22 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGx6RkpJVmdmZmdpZ2R5UVZTUFN3OTVNMkYxYjVGRy1TUVJIUTJmbkE5bzVtTExtY2ItWVpHQmtEQkl2Q0dBQzNDWHRtNFVYVTB0bVB4ZjNIRkNILUFUbGk5NVNSVkVUa0xzYWx2em5UV0dPR1ktdi02c0RrckNMSFBlb00wN0xIMEhYS1ZXY0dQSDhq?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNFFwNlAyQmc0SFl3bEpjNktmNE5rblYwS09OZ1R6T0F6eklOYXl1eWdqVld1TDBGN2VJXzFCWFAxcnlNMjdfQXRBVHVTYW4yd2hOejFPTE1ONEY2ZWpERmJ2dmpSenBwZ0wyTl8yTjdwOC10OGtsQ004bVlJOXRCSG9Yc1NJMjBuSE9vZDk5X014S0prN0tIdGJMYTg0YUk1OGcxdGJXRXNnaXBuSUo3dDdBcFhKczgzTXM2WGprZnhGNkw3aENJM1lDN3NDMm1SWTdIMEN6NkEyTWp4WElrUQ?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 07:58:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719064",
+        "slug": "fifwc-prt-hrv-2026-07-02-first-to-score-neither",
+        "question": "Portugal vs. Croatia: Neither team to score first?",
+        "description": "In the upcoming match between Portugal and Croatia, scheduled for July 2, 2026 at 7:00 PM ET: This market will resolve to \"Portugal\" if Portugal are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Croatia\" if Croatia are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.065\", \"0.935\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.07,
+        "liquidity": 54217.0665,
+        "volume": 9829.398486,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Will Cristiano Ronaldo Play Today? Portugal Star’s Status vs. Croatia - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWXVGMUI5VkJkNzdKRjZjYTkwME9IcFBmU3ZDUDhkTG8yeHotb0xyRHdsQlppRHYtdFJYTDNpYzdhV0k2amlNMGY1WmVHaHBOTkVYSERYOEZHd0R3TEdVcS14cXVIUmZZcTRCYnNWN1ByVXZhYVFINGNlNGZWNEstTW9lMVB6SWR5elcyWVloVWNVTjhBNnh4SjI4NXUyNE9jcThxQ3hXQVJBT1XSAasBQVVfeXFMTWdaLWxoVlBoR3JEZ2pDSXZvSXpWeHNqN1o2S0Z5QVFmZ2c1UG1ZLWh1ZGZSa1hpTWt0N08ycTI3Y1RzamVYR3JmeUxqekZPZnktUm0tamJUR1F4LXlTOFo5WWZkd1hkSnBvMlA1UDNaamc5QXdpS3RScVFPWkJwdEhWOHNiX2FQcFBOeDRWSDNqbktlOHVjSWx6N3lYZERTeG5UcVE3UWdtbFBF?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 04:00:35 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia: World Cup Round of 32 – Ronaldo-Modric and prediction - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcWtqNTdLY3B4WUhVaHVpd3UzbnJiRG9uSmQ0MkFpZm9ObUlhMDllMTJWbjJheHhCZF9qbnJrSDMtQ19aSUlhRFBqYzBCV2QtMURvVC1JMTFiclZvS2FFVVVLWWxJRkNXZ01mNWotVE93aXQ1THRTbUstVi1uWlg2d0JzZkVYQWFKWmJxdlhXT2xXRy0zOFZxaE9VODA1SHBWdTZpU3JPNFJTbXhGNE5Pa204QXc4dWlLdVY5bThrY9IBxAFBVV95cUxOaUlIcVBxdnJfcjdQWk0zdV81blA5NXpseWVoamNHaFNtYWVlTnpVWE5SVWtObWp6UTg1cm9JaWlzYUpyUU4tM2xscU12Um9TZmx3U1E0b3JoSUFaNlJQSG4wcDAzcmJUdHZqeDdCZUhqRzhUSTVuZGxIdUV4US1BcVZLbXA0X2hCaUxtWEZYZXhyOE1INHlsdmJRSVdJbXMzU3lIdmdZZ2FUclBKMUlFV3F3TFQ2UVl0VHRxU1J3WEVDcHhV?oc=5",
+          "source": "Al Jazeera",
+          "published": "Thu, 02 Jul 2026 12:36:22 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs. Croatia—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeGx6RkpJVmdmZmdpZ2R5UVZTUFN3OTVNMkYxYjVGRy1TUVJIUTJmbkE5bzVtTExtY2ItWVpHQmtEQkl2Q0dBQzNDWHRtNFVYVTB0bVB4ZjNIRkNILUFUbGk5NVNSVkVUa0xzYWx2em5UV0dPR1ktdi02c0RrckNMSFBlb00wN0xIMEhYS1ZXY0dQSDhq?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions, round of 32: Portugal vs Croatia, Spain vs Austria and rest of matchday 22 - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNzhIWjBXNEo3Z0JOaDltTG05VFZoeVRZT1paVjRPTEM4QzZua1k5bHhnZTR5UFNNRzEzb0xtdjh6YjU0S29qSTBZYWdsQW40VDhEbUU0NTJJNEU5V0ZoaVhvN0Z6eG5Mam9GdUdSQ3ZKTVppa1BQejJlV1JoSXhoaXNtTDRJcEktQllSLTZMVQ?oc=5",
+          "source": "The New York Times",
+          "published": "Thu, 02 Jul 2026 08:35:04 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Portugal vs Croatia Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNFFwNlAyQmc0SFl3bEpjNktmNE5rblYwS09OZ1R6T0F6eklOYXl1eWdqVld1TDBGN2VJXzFCWFAxcnlNMjdfQXRBVHVTYW4yd2hOejFPTE1ONEY2ZWpERmJ2dmpSenBwZ0wyTl8yTjdwOC10OGtsQ004bVlJOXRCSG9Yc1NJMjBuSE9vZDk5X014S0prN0tIdGJMYTg0YUk1OGcxdGJXRXNnaXBuSUo3dDdBcFhKczgzTXM2WGprZnhGNkw3aENJM1lDN3NDMm1SWTdIMEN6NkEyTWp4WElrUQ?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 07:58:00 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Portugal vs. Croatia - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

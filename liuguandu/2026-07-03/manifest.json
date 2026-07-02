@@ -1,0 +1,11 @@
+{
+  "report_date": "2026-07-03",
+  "match_date": "2026-07-02",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "root": "/Users/lgd/Desktop/回测/wc2026_agent/reports/daily/2026-07-03",
+  "stages": {
+    "snapshot": "01_snapshot",
+    "info": "02_info",
+    "prediction": "03_prediction"
+  }
+}

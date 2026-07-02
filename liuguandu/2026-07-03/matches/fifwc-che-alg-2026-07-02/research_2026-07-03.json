@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-che-alg-2026-07-02",
+  "event_title": "Switzerland vs. Algeria",
+  "event_start": "2026-06-28T10:03:59.38304Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718928",
+        "slug": "fifwc-che-alg-2026-07-02-alg",
+        "question": "Will Algeria win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Algeria wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.22375\", \"0.77625\"]",
+        "bestBid": 0.2225,
+        "bestAsk": 0.225,
+        "liquidity": 551135.026675,
+        "volume": 105371.59719299988,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Switzerland vs. Algeria at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazA2NDVFRUljVGZ5NFJHNnNsQlBsRC1Ea1U2WDJQRWpiNEdUMWVRSUd5dm1JUEJvNjRrTTZBRlF6d1NsWjRKSFRMWFptQU0wdzJmSFZ2Ni1nbTlkek9WMWwyXzdLbTI2NVQ1OS1aam9meE1hWExXS01fWEFSRmJic1lWT213QkhOTHRtWjQ4b1FUTmg1YXdhUFZNU2RsaGRiUzVLX2k0SWhQRE92LWl1RjdaazdibFI3Sk1QWEN6enhtSlp2YTJuMFMxZ240TkMyNHJIbS1URElBY1VYZzdWcVlodmtUY2JZN1p2MXVB?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 08:50:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Swiss seek another World Cup round-of-16 berth as Algeria chase historic knockout win - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlNwa1lXUXJyOVdaTG9tNmhPMG11aUFLQzNfcnYxVTBRalgyYUxqT2MyUGo5YTN3R1oycmY4VzBMMlM5R281WE5IMndaNDVSRWhnYXZqSzIzT1dwaTBJZ2dKQTJ1WUt6TzhmYWlWX3hJejE1Y3NlMmJPX3FYc3pqLTJwVFhUVjZfN25jaGY2aFp2cEE4N1p5RXk3SV8yUVVjcEEyYk9UdnoxeU8wNkdxRkxLTW1SNTd0NXlaNHdqQXlwWmNWenc0?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:36:08 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDlzYmYwSnUxaWFDeDNfeW56U2VTanlhWUJ1VXp1dV9hYkI2SVFlYTBqWlJldThMTVgyMnlRVzlQVm9FUjRodzJXU1hnc2dKd1dfSzdybFlYSTNwVUZFZHM1NWVnZXc5alN4dHY4VjNpOU5oam4xRHFScEJ4X3kxVzZLS3ozekgwQ0lKRF9Gbjl6NmlUeHNWU1ZIVDBXbkMxYURMLTlmYjRGX3luYVhfQUVxRy04ZGZITWRyNTUwcmU2aHdGRzlKOS1ZU1g?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmxXLUpVOG9wc0pKSmhRdTJYajNaME1iaEg4S2Z3eWZXM1FIckVsdFNaOURGVGo0VjllUnJPM09YajA2ZG1jYkY5WUJKcUFiZFJISGNlaXRUVDh6QUFUamI3MVhVYmZtaFB6a1J1cXVlc1VhQkxNbzBadm83X1dKNXFhZ0czSkJSc002eUdnRjljZTNDRktiWQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 10:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRwNjFmOVJnLWt2QU9SNmp5dHNTTmF6MmxFX0dPNzJBSkdNVlloOHRlR0Rxb0ZNZm5QYm8tLWlMbXFYTUh5U3V2NHhWZ1JvQUl1bmk0NHFuckVGWmxEanREbjl2NnNXYUlPcjBwYzVTQVdlNUlVcXNjQ0NkRUp5c3MwTUdWQkdUVzJzZUo5aXBVTTFTa2dsODVMUQ?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:07:21 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria - Live Score - July 02, 2026 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjBrR3lYWG5CUW1rR3NMbVdsbXlyU0dvN0hLR1pJWGtlejZsZHVfMVdDWDFnd2JuODNMRk5vaGpwUEVSSEtXY2NBVDRndnZfZWpDTDIwcFIweVZQQ2VkODZfUzc3RGMyQWl2TVRoWGRHZktmNXdsdThZV2hyeVdHalMtaDZ0U3VSelhaNFY0UUJ6UmZ6RHEyeGRjQWRsTDZOQUx3OFFJOURqRGs?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 10:57:04 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria picks, predictions for World Cup match Thursday - azcentral.com and The Arizona Republic",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHkwOGU2bHFFVWVyaWlmQVdXUEU3ZTVNWThVWWM3dUEzQ0gxS1dqZ01FcVc1QjNlYzVNYVF3YV9wTm5weFFYLVY5aVBmVFdSOXpZMVo0eTYycVM1OTZpZEpQYlBfWV9Zbmw2TVBrUHFCRXpNak9KamlaVS0zM0M5XzFrUHhnOWZReXZDZ2N1UGF3NVhTcU9aVi1JcUpFMmppajN0dUpwa193S1prUWk5RjdiNTVpMFZZYjhKQ19lT0VIdDRFZ0t4ZlNaTXZERFdsLTRzaXc3MG45NUNsS1E?oc=5",
+          "source": "azcentral.com and The Arizona Republic",
+          "published": "Wed, 01 Jul 2026 17:36:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718925",
+        "slug": "fifwc-che-alg-2026-07-02-che",
+        "question": "Will Switzerland win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Switzerland wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.47875\", \"0.52125\"]",
+        "bestBid": 0.4775,
+        "bestAsk": 0.48,
+        "liquidity": 719451.305575,
+        "volume": 1287428.0775709928,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Switzerland vs. Algeria at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazA2NDVFRUljVGZ5NFJHNnNsQlBsRC1Ea1U2WDJQRWpiNEdUMWVRSUd5dm1JUEJvNjRrTTZBRlF6d1NsWjRKSFRMWFptQU0wdzJmSFZ2Ni1nbTlkek9WMWwyXzdLbTI2NVQ1OS1aam9meE1hWExXS01fWEFSRmJic1lWT213QkhOTHRtWjQ4b1FUTmg1YXdhUFZNU2RsaGRiUzVLX2k0SWhQRE92LWl1RjdaazdibFI3Sk1QWEN6enhtSlp2YTJuMFMxZ240TkMyNHJIbS1URElBY1VYZzdWcVlodmtUY2JZN1p2MXVB?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 08:50:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Swiss seek another World Cup round-of-16 berth as Algeria chase historic knockout win - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlNwa1lXUXJyOVdaTG9tNmhPMG11aUFLQzNfcnYxVTBRalgyYUxqT2MyUGo5YTN3R1oycmY4VzBMMlM5R281WE5IMndaNDVSRWhnYXZqSzIzT1dwaTBJZ2dKQTJ1WUt6TzhmYWlWX3hJejE1Y3NlMmJPX3FYc3pqLTJwVFhUVjZfN25jaGY2aFp2cEE4N1p5RXk3SV8yUVVjcEEyYk9UdnoxeU8wNkdxRkxLTW1SNTd0NXlaNHdqQXlwWmNWenc0?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:36:08 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDlzYmYwSnUxaWFDeDNfeW56U2VTanlhWUJ1VXp1dV9hYkI2SVFlYTBqWlJldThMTVgyMnlRVzlQVm9FUjRodzJXU1hnc2dKd1dfSzdybFlYSTNwVUZFZHM1NWVnZXc5alN4dHY4VjNpOU5oam4xRHFScEJ4X3kxVzZLS3ozekgwQ0lKRF9Gbjl6NmlUeHNWU1ZIVDBXbkMxYURMLTlmYjRGX3luYVhfQUVxRy04ZGZITWRyNTUwcmU2aHdGRzlKOS1ZU1g?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmxXLUpVOG9wc0pKSmhRdTJYajNaME1iaEg4S2Z3eWZXM1FIckVsdFNaOURGVGo0VjllUnJPM09YajA2ZG1jYkY5WUJKcUFiZFJISGNlaXRUVDh6QUFUamI3MVhVYmZtaFB6a1J1cXVlc1VhQkxNbzBadm83X1dKNXFhZ0czSkJSc002eUdnRjljZTNDRktiWQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 10:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRwNjFmOVJnLWt2QU9SNmp5dHNTTmF6MmxFX0dPNzJBSkdNVlloOHRlR0Rxb0ZNZm5QYm8tLWlMbXFYTUh5U3V2NHhWZ1JvQUl1bmk0NHFuckVGWmxEanREbjl2NnNXYUlPcjBwYzVTQVdlNUlVcXNjQ0NkRUp5c3MwTUdWQkdUVzJzZUo5aXBVTTFTa2dsODVMUQ?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:07:21 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria - Live Score - July 02, 2026 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjBrR3lYWG5CUW1rR3NMbVdsbXlyU0dvN0hLR1pJWGtlejZsZHVfMVdDWDFnd2JuODNMRk5vaGpwUEVSSEtXY2NBVDRndnZfZWpDTDIwcFIweVZQQ2VkODZfUzc3RGMyQWl2TVRoWGRHZktmNXdsdThZV2hyeVdHalMtaDZ0U3VSelhaNFY0UUJ6UmZ6RHEyeGRjQWRsTDZOQUx3OFFJOURqRGs?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 10:57:04 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria picks, predictions for World Cup match Thursday - azcentral.com and The Arizona Republic",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHkwOGU2bHFFVWVyaWlmQVdXUEU3ZTVNWThVWWM3dUEzQ0gxS1dqZ01FcVc1QjNlYzVNYVF3YV9wTm5weFFYLVY5aVBmVFdSOXpZMVo0eTYycVM1OTZpZEpQYlBfWV9Zbmw2TVBrUHFCRXpNak9KamlaVS0zM0M5XzFrUHhnOWZReXZDZ2N1UGF3NVhTcU9aVi1JcUpFMmppajN0dUpwa193S1prUWk5RjdiNTVpMFZZYjhKQ19lT0VIdDRFZ0t4ZlNaTXZERFdsLTRzaXc3MG45NUNsS1E?oc=5",
+          "source": "azcentral.com and The Arizona Republic",
+          "published": "Wed, 01 Jul 2026 17:36:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718926",
+        "slug": "fifwc-che-alg-2026-07-02-draw",
+        "question": "Will Switzerland vs. Algeria end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.29875\", \"0.70125\"]",
+        "bestBid": 0.2975,
+        "bestAsk": 0.3,
+        "liquidity": 337264.3533,
+        "volume": 130594.55034299933,
+        "endDate": "2026-07-03T03:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Switzerland vs. Algeria at World Cup 2026: TV channel, how to watch, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQazA2NDVFRUljVGZ5NFJHNnNsQlBsRC1Ea1U2WDJQRWpiNEdUMWVRSUd5dm1JUEJvNjRrTTZBRlF6d1NsWjRKSFRMWFptQU0wdzJmSFZ2Ni1nbTlkek9WMWwyXzdLbTI2NVQ1OS1aam9meE1hWExXS01fWEFSRmJic1lWT213QkhOTHRtWjQ4b1FUTmg1YXdhUFZNU2RsaGRiUzVLX2k0SWhQRE92LWl1RjdaazdibFI3Sk1QWEN6enhtSlp2YTJuMFMxZ240TkMyNHJIbS1URElBY1VYZzdWcVlodmtUY2JZN1p2MXVB?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 08:50:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Switzerland vs. Algeria Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcy1rRjdyejNyMkI5UFljV3RYemxncFhLRzBpeEpjS2djdDZlMFZPcFV4dTZvWFhyQzlHOTYtcUowMzdPWFBCd0NuVXFYTVE2WjhWd3dmVERGemM5OS1FVUY5bE03a1g4ZHZ3VTZOZmIzbU8tT2w2RHA1cjJmVFJlMGVYTHItQQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Mon, 29 Jun 2026 16:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Swiss seek another World Cup round-of-16 berth as Algeria chase historic knockout win - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMlNwa1lXUXJyOVdaTG9tNmhPMG11aUFLQzNfcnYxVTBRalgyYUxqT2MyUGo5YTN3R1oycmY4VzBMMlM5R281WE5IMndaNDVSRWhnYXZqSzIzT1dwaTBJZ2dKQTJ1WUt6TzhmYWlWX3hJejE1Y3NlMmJPX3FYc3pqLTJwVFhUVjZfN25jaGY2aFp2cEE4N1p5RXk3SV8yUVVjcEEyYk9UdnoxeU8wNkdxRkxLTW1SNTd0NXlaNHdqQXlwWmNWenc0?oc=5",
+          "source": "Reuters",
+          "published": "Tue, 30 Jun 2026 17:36:08 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria World Cup prediction, picks, analysis - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWDlzYmYwSnUxaWFDeDNfeW56U2VTanlhWUJ1VXp1dV9hYkI2SVFlYTBqWlJldThMTVgyMnlRVzlQVm9FUjRodzJXU1hnc2dKd1dfSzdybFlYSTNwVUZFZHM1NWVnZXc5alN4dHY4VjNpOU5oam4xRHFScEJ4X3kxVzZLS3ozekgwQ0lKRF9Gbjl6NmlUeHNWU1ZIVDBXbkMxYURMLTlmYjRGX3luYVhfQUVxRy04ZGZITWRyNTUwcmU2aHdGRzlKOS1ZU1g?oc=5",
+          "source": "USA Today",
+          "published": "Thu, 02 Jul 2026 10:31:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria—World Cup: Preview, Predictions and Lineups - Sports Illustrated",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmxXLUpVOG9wc0pKSmhRdTJYajNaME1iaEg4S2Z3eWZXM1FIckVsdFNaOURGVGo0VjllUnJPM09YajA2ZG1jYkY5WUJKcUFiZFJISGNlaXRUVDh6QUFUamI3MVhVYmZtaFB6a1J1cXVlc1VhQkxNbzBadm83X1dKNXFhZ0czSkJSc002eUdnRjljZTNDRktiWQ?oc=5",
+          "source": "Sports Illustrated",
+          "published": "Thu, 02 Jul 2026 10:20:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria 2026 livestream: How to watch World Cup for free - Mashable",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSTRwNjFmOVJnLWt2QU9SNmp5dHNTTmF6MmxFX0dPNzJBSkdNVlloOHRlR0Rxb0ZNZm5QYm8tLWlMbXFYTUh5U3V2NHhWZ1JvQUl1bmk0NHFuckVGWmxEanREbjl2NnNXYUlPcjBwYzVTQVdlNUlVcXNjQ0NkRUp5c3MwTUdWQkdUVzJzZUo5aXBVTTFTa2dsODVMUQ?oc=5",
+          "source": "Mashable",
+          "published": "Thu, 02 Jul 2026 09:07:21 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs. Algeria - Live Score - July 02, 2026 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNjBrR3lYWG5CUW1rR3NMbVdsbXlyU0dvN0hLR1pJWGtlejZsZHVfMVdDWDFnd2JuODNMRk5vaGpwUEVSSEtXY2NBVDRndnZfZWpDTDIwcFIweVZQQ2VkODZfUzc3RGMyQWl2TVRoWGRHZktmNXdsdThZV2hyeVdHalMtaDZ0U3VSelhaNFY0UUJ6UmZ6RHEyeGRjQWRsTDZOQUx3OFFJOURqRGs?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 02 Jul 2026 10:57:04 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Switzerland vs Algeria picks, predictions for World Cup match Thursday - azcentral.com and The Arizona Republic",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUHkwOGU2bHFFVWVyaWlmQVdXUEU3ZTVNWThVWWM3dUEzQ0gxS1dqZ01FcVc1QjNlYzVNYVF3YV9wTm5weFFYLVY5aVBmVFdSOXpZMVo0eTYycVM1OTZpZEpQYlBfWV9Zbmw2TVBrUHFCRXpNak9KamlaVS0zM0M5XzFrUHhnOWZReXZDZ2N1UGF3NVhTcU9aVi1JcUpFMmppajN0dUpwa193S1prUWk5RjdiNTVpMFZZYjhKQ19lT0VIdDRFZ0t4ZlNaTXZERFdsLTRzaXc3MG45NUNsS1E?oc=5",
+          "source": "azcentral.com and The Arizona Republic",
+          "published": "Wed, 01 Jul 2026 17:36:00 GMT",
+          "query": "Switzerland vs. Algeria 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

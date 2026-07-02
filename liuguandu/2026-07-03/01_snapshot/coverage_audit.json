@@ -1,0 +1,77 @@
+{
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "report_date": "2026-07-03",
+  "match_date": "2026-07-02",
+  "requested_input_total": 1,
+  "requested_total": 9,
+  "requested_resolved": 9,
+  "requested_missing": 0,
+  "expansion_items": [],
+  "resolved_items": [
+    {
+      "slug": "fifwc-che-alg-2026-07-02",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-che-alg-2026-07-02-more-markets",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-che-alg-2026-07-02-first-to-score",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-esp-aut-2026-07-02",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-esp-aut-2026-07-02-more-markets",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-esp-aut-2026-07-02-first-to-score",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-prt-hrv-2026-07-02",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-prt-hrv-2026-07-02-more-markets",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-prt-hrv-2026-07-02-first-to-score",
+      "kind": "event",
+      "status": "ok"
+    }
+  ],
+  "missing_items": [],
+  "event_count_all": 208,
+  "event_count_selected": 9,
+  "market_type_counts_all": {
+    "match_1x2": 9,
+    "first_team_to_score": 9,
+    "spread_lines": 30,
+    "totals_lines": 45,
+    "btts": 9,
+    "team_total_lines": 42,
+    "other": 9
+  },
+  "market_type_counts_selected": {
+    "match_1x2": 9,
+    "first_team_to_score": 9,
+    "spread_lines": 30,
+    "totals_lines": 45,
+    "btts": 9,
+    "team_total_lines": 42
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-prt-hrv-2026-07-02",
+  "event_title": "Portugal vs. Croatia",
+  "event_start": "2026-06-28T10:11:05.994573Z",
+  "as_of": "2026-07-02T13:25:32+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718920",
+        "slug": "fifwc-prt-hrv-2026-07-02-draw",
+        "question": "Will Portugal vs. Croatia end in a draw?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.26125\", \"0.73875\"]",
+        "bestBid": 0.26,
+        "bestAsk": 0.2625,
+        "liquidity": 391164.103875,
+        "volume": 457079.6766950025,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718919",
+        "slug": "fifwc-prt-hrv-2026-07-02-prt",
+        "question": "Will Portugal win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Portugal wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.56375\", \"0.43625\"]",
+        "bestBid": 0.5625,
+        "bestAsk": 0.565,
+        "liquidity": 835017.383725,
+        "volume": 1850684.4754849868,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2718922",
+        "slug": "fifwc-prt-hrv-2026-07-02-hrv",
+        "question": "Will Croatia win on 2026-07-02?",
+        "description": "In the upcoming game, scheduled for July 2, 2026\nIf Croatia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.17875\", \"0.82125\"]",
+        "bestBid": 0.1775,
+        "bestAsk": 0.18,
+        "liquidity": 448410.04435,
+        "volume": 590112.3974950048,
+        "endDate": "2026-07-02T23:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

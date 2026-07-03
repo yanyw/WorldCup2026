@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-can-mar-2026-07-04-first-to-score",
+  "event_title": "Canada vs. Morocco - First Team to Score",
+  "event_start": "2026-06-30T10:04:28.612091Z",
+  "as_of": "2026-07-02T14:04:40+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2740979",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-home",
+        "question": "Canada to score first vs. Morocco?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.305\", \"0.695\"]",
+        "bestBid": 0.3,
+        "bestAsk": 0.31,
+        "liquidity": 32838.3146,
+        "volume": 854.223103,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Netherlands vs Morocco Preview And Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUl9TLXBnQUZKeEt3X1dIalQyUGlFYy1RcElHS0RWVmswUWV0SFc1SjktWWNYUFE2bVN5RlBmamJxLVQxU0FwMzVzSF8yVE5Rb3FHUGl6OXJnTHJKZDJzTzluX0sxUE83Y2FldTJjc2lVQW1FVVFiZkZFU2otN2dZUHlNMEdsY1FydVY4Mw?oc=5",
+          "source": "rg.org",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Are co-hosts Canada becoming a contender? Re-ranking the 48 World Cup teams after day 18 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+          "source": "The New York Times",
+          "published": "Mon, 29 Jun 2026 10:16:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2740981",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-away",
+        "question": "Morocco to score first vs. Canada?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.605\", \"0.395\"]",
+        "bestBid": 0.6,
+        "bestAsk": 0.61,
+        "liquidity": 29800.2767,
+        "volume": 28.362326000000003,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Netherlands vs Morocco Preview And Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUl9TLXBnQUZKeEt3X1dIalQyUGlFYy1RcElHS0RWVmswUWV0SFc1SjktWWNYUFE2bVN5RlBmamJxLVQxU0FwMzVzSF8yVE5Rb3FHUGl6OXJnTHJKZDJzTzluX0sxUE83Y2FldTJjc2lVQW1FVVFiZkZFU2otN2dZUHlNMEdsY1FydVY4Mw?oc=5",
+          "source": "rg.org",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Are co-hosts Canada becoming a contender? Re-ranking the 48 World Cup teams after day 18 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+          "source": "The New York Times",
+          "published": "Mon, 29 Jun 2026 10:16:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2740982",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-neither",
+        "question": "Canada vs. Morocco: Neither team to score first?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.1\", \"0.9\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.11,
+        "liquidity": 37792.3917,
+        "volume": 97.752497,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Netherlands vs Morocco Preview And Odds - rg.org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUl9TLXBnQUZKeEt3X1dIalQyUGlFYy1RcElHS0RWVmswUWV0SFc1SjktWWNYUFE2bVN5RlBmamJxLVQxU0FwMzVzSF8yVE5Rb3FHUGl6OXJnTHJKZDJzTzluX0sxUE83Y2FldTJjc2lVQW1FVVFiZkZFU2otN2dZUHlNMEdsY1FydVY4Mw?oc=5",
+          "source": "rg.org",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Are co-hosts Canada becoming a contender? Re-ranking the 48 World Cup teams after day 18 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDJkWTlicVVraWlLUm5SMnNRRGcwU05TWldyM2JiUjdjVUZDUG9YaXppclFodHRZQnVndUdNakJHc1BkTkNFVDVleGxnY1JvT2lkd2g0UHA1UjBWQWo3WEM0RkNJcHJfYXBzOVk5a2dJSDRtQ05CdWtjckhWbnA5bkw0MFAtdE0?oc=5",
+          "source": "The New York Times",
+          "published": "Mon, 29 Jun 2026 10:16:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Canada vs. Morocco - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

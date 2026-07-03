@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-aus-egy-2026-07-03",
+  "event_title": "Australia vs. Egypt",
+  "event_start": "2026-06-27T10:06:19.23105Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707653",
+        "slug": "fifwc-aus-egy-2026-07-03-aus",
+        "question": "Will Australia win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Australia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.285\", \"0.715\"]",
+        "bestBid": 0.28,
+        "bestAsk": 0.29,
+        "liquidity": 488920.2055,
+        "volume": 71489.58311699987,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2707655",
+        "slug": "fifwc-aus-egy-2026-07-03-draw",
+        "question": "Will Australia vs. Egypt end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.335\", \"0.665\"]",
+        "bestBid": 0.33,
+        "bestAsk": 0.34,
+        "liquidity": 573469.4755,
+        "volume": 56171.32546800005,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2707656",
+        "slug": "fifwc-aus-egy-2026-07-03-egy",
+        "question": "Will Egypt win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Egypt wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.385\", \"0.615\"]",
+        "bestBid": 0.38,
+        "bestAsk": 0.39,
+        "liquidity": 705219.3308,
+        "volume": 109306.70272599798,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

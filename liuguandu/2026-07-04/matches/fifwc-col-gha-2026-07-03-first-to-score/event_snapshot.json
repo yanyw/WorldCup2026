@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-col-gha-2026-07-03-first-to-score",
+  "event_title": "Colombia vs. Ghana - First Team to Score",
+  "event_start": "2026-06-28T10:11:42.282028Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719114",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-home",
+        "question": "Colombia to score first vs. Ghana?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.685\", \"0.315\"]",
+        "bestBid": 0.68,
+        "bestAsk": 0.69,
+        "liquidity": 30279.9673,
+        "volume": 250.07922200000004,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719115",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-away",
+        "question": "Ghana to score first vs. Colombia?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.23\", \"0.77\"]",
+        "bestBid": 0.22,
+        "bestAsk": 0.24,
+        "liquidity": 31523.0917,
+        "volume": 145.13676099999998,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2719116",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-neither",
+        "question": "Colombia vs. Ghana: Neither team to score first?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.1\", \"0.9\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.11,
+        "liquidity": 24088.6262,
+        "volume": 230.076657,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

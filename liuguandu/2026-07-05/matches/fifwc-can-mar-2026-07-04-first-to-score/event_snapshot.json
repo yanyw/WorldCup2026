@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-can-mar-2026-07-04-first-to-score",
+  "event_title": "Canada vs. Morocco - First Team to Score",
+  "event_start": "2026-06-30T10:04:28.612091Z",
+  "as_of": "2026-07-02T14:04:40+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2740979",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-home",
+        "question": "Canada to score first vs. Morocco?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.305\", \"0.695\"]",
+        "bestBid": 0.3,
+        "bestAsk": 0.31,
+        "liquidity": 32838.3146,
+        "volume": 854.223103,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2740981",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-away",
+        "question": "Morocco to score first vs. Canada?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.605\", \"0.395\"]",
+        "bestBid": 0.6,
+        "bestAsk": 0.61,
+        "liquidity": 29800.2767,
+        "volume": 28.362326000000003,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2740982",
+        "slug": "fifwc-can-mar-2026-07-04-first-to-score-neither",
+        "question": "Canada vs. Morocco: Neither team to score first?",
+        "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.1\", \"0.9\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.11,
+        "liquidity": 37792.3917,
+        "volume": 97.752497,
+        "endDate": "2026-07-04T17:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

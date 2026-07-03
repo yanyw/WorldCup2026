@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-mex-eng-2026-07-05-first-to-score",
+  "event_title": "Mexico vs. England - First Team to Score",
+  "event_start": "2026-07-02T10:06:57.706746Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2766818",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-home",
+        "question": "Mexico to score first vs. England?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.41\", \"0.59\"]",
+        "bestBid": 0.4,
+        "bestAsk": 0.42,
+        "liquidity": 9979.3094,
+        "volume": 496.761903,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXRRcG54ZVh4V3VNR1hVRWtybnNrR01NSkVtdzJMVHptVldRaUNjeEt6ZVdzMlZBa1lYOVBSUVhyZmJHcmxuQ0RuVzVuSkVCTk9MV2MyMmFrWlQyM1RBdUJnMjB0ZDg4UHQ2UlhwT2lTSmxETDlISXBaQXNFUHg4S0JXelRMYTBNdzRqcjRWSGl1azNLcFdoRUE5RXd2OTJlUTZUcW9sWGlzUdIBrwFBVV95cUxPVnNpbkpSWC1rbU52RlV0NXdZWW5DQUx2eDRVUGJ3N0lIdUpkMlRGWG9RdU9yQXQ5MzJpSDhKWnNiOG9raEFQZ2FHQW54NlBVMk5Sc2tTT0pkN3VtZHRBUTcwdm5DVFVNbEhaMXJGLXF4TkstUWEzS3VweWFHMHZ1UjNKVjVBd1dXcUVSRi1kRjh3Y2R3YjRUV1dNY0k0d2RpMGl6X0lRQnhTRVFuRk1B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 04:47:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs England odds, early predictions for World Cup round of 16 - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmlvSUdMRVFRMnBGYlVSMjJxckV4dGFIc19pRFNGRFJYdi1zdTRRa2dmX3Z4UFlGZGxVUHZSQzVFSERNaHNueXY0WlBmLU84Nlc4WmpGekprbjlFYXFEdFpfV2FCQnF3SVhseHVnYkhMeXQyTS1IYWVSOTBMWmVzT241NFA4ZHhmZEZxd1NyVXV3N3JHLVJCSUR0SGVkZ3pYYlBJY1poNm5Oay1qUVBRcUIwaVozZ0paMHNBNmx3Ym9aNmZDT01BTW9keXNLOFptRXc?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 20:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Odds: Mexico Opens As Underdog vs. England In Round of 16 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lY3lQaGxnZVE0RncxWnRydk9Fd2N3MFRVQ05VRzlYRnJleVpBX2hsSmVHSElmcE4xYm8ta2QtVmN2d1NZNlAxa2RkUkV1dWJjY0JmaEVPUG9VOVRaX0N6TXV2V0VpNENHazRoM3BDRdIBb0FVX3lxTE5TaUVFem4yT2dYLS1xVWk0R2d1a0hoeGEyeXNRSUFRQWlrc2xVZmplUkNxSVpjemQ1bDM0UHJteDcydkdvcXhIb1ItQXZDaUhCdmVvbENlcF9DbXRGT1dvT3NHRmdZNlp0MUlqM2VsRQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:30:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2766819",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-away",
+        "question": "England to score first vs. Mexico?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.485\", \"0.515\"]",
+        "bestBid": 0.47,
+        "bestAsk": 0.5,
+        "liquidity": 9566.3168,
+        "volume": null,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXRRcG54ZVh4V3VNR1hVRWtybnNrR01NSkVtdzJMVHptVldRaUNjeEt6ZVdzMlZBa1lYOVBSUVhyZmJHcmxuQ0RuVzVuSkVCTk9MV2MyMmFrWlQyM1RBdUJnMjB0ZDg4UHQ2UlhwT2lTSmxETDlISXBaQXNFUHg4S0JXelRMYTBNdzRqcjRWSGl1azNLcFdoRUE5RXd2OTJlUTZUcW9sWGlzUdIBrwFBVV95cUxPVnNpbkpSWC1rbU52RlV0NXdZWW5DQUx2eDRVUGJ3N0lIdUpkMlRGWG9RdU9yQXQ5MzJpSDhKWnNiOG9raEFQZ2FHQW54NlBVMk5Sc2tTT0pkN3VtZHRBUTcwdm5DVFVNbEhaMXJGLXF4TkstUWEzS3VweWFHMHZ1UjNKVjVBd1dXcUVSRi1kRjh3Y2R3YjRUV1dNY0k0d2RpMGl6X0lRQnhTRVFuRk1B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 04:47:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs England odds, early predictions for World Cup round of 16 - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmlvSUdMRVFRMnBGYlVSMjJxckV4dGFIc19pRFNGRFJYdi1zdTRRa2dmX3Z4UFlGZGxVUHZSQzVFSERNaHNueXY0WlBmLU84Nlc4WmpGekprbjlFYXFEdFpfV2FCQnF3SVhseHVnYkhMeXQyTS1IYWVSOTBMWmVzT241NFA4ZHhmZEZxd1NyVXV3N3JHLVJCSUR0SGVkZ3pYYlBJY1poNm5Oay1qUVBRcUIwaVozZ0paMHNBNmx3Ym9aNmZDT01BTW9keXNLOFptRXc?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 20:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Odds: Mexico Opens As Underdog vs. England In Round of 16 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lY3lQaGxnZVE0RncxWnRydk9Fd2N3MFRVQ05VRzlYRnJleVpBX2hsSmVHSElmcE4xYm8ta2QtVmN2d1NZNlAxa2RkUkV1dWJjY0JmaEVPUG9VOVRaX0N6TXV2V0VpNENHazRoM3BDRdIBb0FVX3lxTE5TaUVFem4yT2dYLS1xVWk0R2d1a0hoeGEyeXNRSUFRQWlrc2xVZmplUkNxSVpjemQ1bDM0UHJteDcydkdvcXhIb1ItQXZDaUhCdmVvbENlcF9DbXRGT1dvT3NHRmdZNlp0MUlqM2VsRQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:30:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2766820",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-neither",
+        "question": "Mexico vs. England: Neither team to score first?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.095\", \"0.905\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.1,
+        "liquidity": 11515.0802,
+        "volume": null,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico beat Ecuador to reach World Cup Round of 16 and break 40-year curse - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXRRcG54ZVh4V3VNR1hVRWtybnNrR01NSkVtdzJMVHptVldRaUNjeEt6ZVdzMlZBa1lYOVBSUVhyZmJHcmxuQ0RuVzVuSkVCTk9MV2MyMmFrWlQyM1RBdUJnMjB0ZDg4UHQ2UlhwT2lTSmxETDlISXBaQXNFUHg4S0JXelRMYTBNdzRqcjRWSGl1azNLcFdoRUE5RXd2OTJlUTZUcW9sWGlzUdIBrwFBVV95cUxPVnNpbkpSWC1rbU52RlV0NXdZWW5DQUx2eDRVUGJ3N0lIdUpkMlRGWG9RdU9yQXQ5MzJpSDhKWnNiOG9raEFQZ2FHQW54NlBVMk5Sc2tTT0pkN3VtZHRBUTcwdm5DVFVNbEhaMXJGLXF4TkstUWEzS3VweWFHMHZ1UjNKVjVBd1dXcUVSRi1kRjh3Y2R3YjRUV1dNY0k0d2RpMGl6X0lRQnhTRVFuRk1B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 04:47:54 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs England odds, early predictions for World Cup round of 16 - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZmlvSUdMRVFRMnBGYlVSMjJxckV4dGFIc19pRFNGRFJYdi1zdTRRa2dmX3Z4UFlGZGxVUHZSQzVFSERNaHNueXY0WlBmLU84Nlc4WmpGekprbjlFYXFEdFpfV2FCQnF3SVhseHVnYkhMeXQyTS1IYWVSOTBMWmVzT241NFA4ZHhmZEZxd1NyVXV3N3JHLVJCSUR0SGVkZ3pYYlBJY1poNm5Oay1qUVBRcUIwaVozZ0paMHNBNmx3Ym9aNmZDT01BTW9keXNLOFptRXc?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 20:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Odds: Mexico Opens As Underdog vs. England In Round of 16 - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lY3lQaGxnZVE0RncxWnRydk9Fd2N3MFRVQ05VRzlYRnJleVpBX2hsSmVHSElmcE4xYm8ta2QtVmN2d1NZNlAxa2RkUkV1dWJjY0JmaEVPUG9VOVRaX0N6TXV2V0VpNENHazRoM3BDRdIBb0FVX3lxTE5TaUVFem4yT2dYLS1xVWk0R2d1a0hoeGEyeXNRSUFRQWlrc2xVZmplUkNxSVpjemQ1bDM0UHJteDcydkdvcXhIb1ItQXZDaUhCdmVvbENlcF9DbXRGT1dvT3NHRmdZNlp0MUlqM2VsRQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:30:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 Power Rankings after group stage: Who's No. 1? - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRG92YmxCdXpVQ09oTllTVVEzTmxUVGZ4Yk9lMExrbWxmbnVyWDVxNzhIVWhHRTZRYTRXWUUwbmNWRkxubC05b3REVmpyNzJjU0h5OU5MaHlxQVE5TFlQYkVyR2prdno4VDVzOHRJNEM2UXFVX1BCWGdlRTh0dExGaVlfZDBvVmljUnR5TXotSzhENWxOZncySFM4cTRkeUQ4SlBzMTRTb1Rxc3ZialF5am1mRTR1WWdvbWl0aEcyWnB1bzNvSXZVaDJrOF9hVkE?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 13:55:00 GMT",
+          "query": "Mexico vs. England - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

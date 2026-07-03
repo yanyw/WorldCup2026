@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-arg-cvi-2026-07-03",
+  "event_title": "Argentina vs. Cabo Verde",
+  "event_start": "2026-06-27T10:11:30.488684Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707658",
+        "slug": "fifwc-arg-cvi-2026-07-03-arg",
+        "question": "Will Argentina win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Argentina wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.845\", \"0.155\"]",
+        "bestBid": 0.84,
+        "bestAsk": 0.85,
+        "liquidity": 687731.7548,
+        "volume": 841954.6798850375,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Cape Verde: All to know before FIFA World Cup knockout against Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWJFLWMwSXBfNzJ2NzFzWVFQMmFSS3NKdlZqUUE4XzM0eEFEa0xjcFRDMlR0QmpCaFNQc2VmZ1paakY1eDNYaWJiTThiWjJpMWpmSTBINUNLNVNTbGQyN3Q5Tnd0anFSek56TW9oNHVVa3BIcnJRR0htNUFJNDNsR0IxRV93UFFGNEJqNTRqTUJNZ2R6ZFNqSjQ3c0RxaUxmSVJ2ZWU3Y1VtZzRoWHhV0gG0AUFVX3lxTE15eTQxamM4Mk9PTHdrMXlSTDFmeEYxQVpBbmYwdjBZV3F6bTRGN2ZweTN3TU4wdlVIZlF6T1JqU2x5X05fdlJvMHEzWnQycm5wUXlQMjljc01FX0ZBS0I2VzZ5Sks4cXFzekJKRzZubHA5ZFNhaFQ5ckVNdVZ3UHV0cHM5TmhIWFBwczRTMkt3bkJsMXFWQnFfZThEYXAwZ2ROVkNpNHNDdjZXcDlqT0ZRWUpCZA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 15:55:30 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde are celebrating one of World Cup’s greatest feats. Can they shock Messi and Argentina next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd240TjdZTXZxX2dvQTBYMmhkamFkQkRlVWtjNnlMN3UyVjlmaTlia1BuNmFLQ2JJaHA0QnZXaFJIMExMdUZhR3gwSkVuaVFRX2NodVZJTFV5RDc5U09kWWhqYnhXUUU1aUQyVEstQzNDRGVFbzVDQVo4ckh2aUZ0VEhhcmM0ek4tbkFnRDVIVF9BbnNTUUxWYXhxREdlbDc5?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:40:47 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Argentina vs. Cape Verde Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0lXWWRWbG5PSE84b3FYZmtreExnSW16T29JNXNheTlONXlnWU9fVXpQZmpsRzNVOVQ1LWdnVkpPLTVGV3FkRVlwS0dibWtrTzdpY1FEbjR5eEV6TWpRaWNaMktjeXRicGxMTlE5Vjk4eHRzclBobzBKNlB5U05XODNGUQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 09:25:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Lionel Messi And Argentina Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEZVamc0bmZPRjhpUzFrSXQ1Y1JGRDdlV0hMWWswNlY1akJfNWhQLXFPNUhwUGVHZnl4NndXV2IxOGo0cGF0WG93ZWFjVFNQaHh4VnRKS0R4NTNtRm5GYmU2ZFkydXNpNy0wS0tTeUNiX1JWeFdJZnFGOU9pSDFRN1A2cGtWQU5mZlVTQWI5ZWZmUWJFRk1zQTl6OXBfd9IBngFBVV95cUxQWUZJdFNkYkUxN25FMG9pMWVJT0pfc2lyZFRnWWlmLTdLRVVCa0FLQ1JPUTY0ODFpQ1owWU5FdEVFc0ItMC1FbmtRaXVVZ2w3RmtFc1dlMkE1UXFzSnVRYmxWSEpYUW9MRlRsaHBhbHZtaW5MaFM4aHdia0FOcXh1TFpqX3BhZlhzZHhJb2VqdTZnaldMNUdDR2RGX0dUdw?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 05:49:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde will beat Argentina 1-0 in World Cup clash, predicts president - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84T1pXT0FLNU1YN0xNenVlTXc3aVFFMjBJWk1JSERadWE2a3BFU3VUWkJoS3RGMkY5RXI5bTBNT1hvR3FNekVQMnRtQWpTWDlYYWtJYXhsd3VnQQ?oc=5",
+          "source": "BBC",
+          "published": "Tue, 30 Jun 2026 12:47:52 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Jubilant Cape Verde set date with Argentina in World Cup round of 32 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWxmNDBfN1h2Wm9ZaF9VMXRnQjNCaC12UGZGXzFsTzVWcXgwRDF5OHl3TWYxYk1FS3I5NktTU1d6QXI1YXRtdnl1SHlKWUpLTmhSRWVoN2JXTHVPNU9iMlQ5X291Z1piZDY5WDFrdFlvQlpvdzc1eTdyNmNGMldGMlgzaGROd0lMdlFOY3NDMFUtYUNsX0lwUXh1a3Qyejhtd05yU1BWSGFQY0RSNkNRUmxB?oc=5",
+          "source": "Reuters",
+          "published": "Sat, 27 Jun 2026 02:19:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Best bets for the knockout round - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVZDTVExVVJrdDhtV19YdkxVQ3lTRnFaTVl0SXA3dy1rdGdOemR5UkN4MDNWTWJRTHBYdVdweXQ0XzdJMEszcEMzcGhNTFRuVWtxYVNibWh6RXFEbkhrYmtnS091TXBtd2tiNldSWk5kcW1BZ2NrbmxqQ2JQM1ZBR0NFUF9PaWo1RGx0aGlCa2NoaWRZakx2OHZiMEwxMjlqdUNnQWd5eldaY090eG9UUUU1ekVmTVF1amJqWVVFRy1WWFViM0FaVDR6MA?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 14:15:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cabo Verde or Cape Verde? World Cup run fuels debate in RI and beyond - The Providence Journal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmZzSThSTzVpSTI1endhbzdVT1poVkZQSlBvVHdWTEUtSDhjREd1TDlqTkxIQkNwcXJ0a0VhM3pVS3BEbHRwV2pDV2ZrQ3NMTnFSX3JMV1BjMlRGcmpLUGRUUWtYWkF3bUl1S2lJX2xEUGxEYkRBa25WZWxLOFBkcFE3cEFHSUd1QmVxRUpKQmRvck9aUEhndEZNUU1yNnlERXllRlQ0U1NaYXAyaWVxSHhaajlmRjMtSnhTeVdFR1RvaHBwOTdBTjFB?oc=5",
+          "source": "The Providence Journal",
+          "published": "Tue, 30 Jun 2026 09:06:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707659",
+        "slug": "fifwc-arg-cvi-2026-07-03-draw",
+        "question": "Will Argentina vs. Cabo Verde end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.115\", \"0.885\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.12,
+        "liquidity": 473310.973,
+        "volume": 244219.47907199914,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Cape Verde: All to know before FIFA World Cup knockout against Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWJFLWMwSXBfNzJ2NzFzWVFQMmFSS3NKdlZqUUE4XzM0eEFEa0xjcFRDMlR0QmpCaFNQc2VmZ1paakY1eDNYaWJiTThiWjJpMWpmSTBINUNLNVNTbGQyN3Q5Tnd0anFSek56TW9oNHVVa3BIcnJRR0htNUFJNDNsR0IxRV93UFFGNEJqNTRqTUJNZ2R6ZFNqSjQ3c0RxaUxmSVJ2ZWU3Y1VtZzRoWHhV0gG0AUFVX3lxTE15eTQxamM4Mk9PTHdrMXlSTDFmeEYxQVpBbmYwdjBZV3F6bTRGN2ZweTN3TU4wdlVIZlF6T1JqU2x5X05fdlJvMHEzWnQycm5wUXlQMjljc01FX0ZBS0I2VzZ5Sks4cXFzekJKRzZubHA5ZFNhaFQ5ckVNdVZ3UHV0cHM5TmhIWFBwczRTMkt3bkJsMXFWQnFfZThEYXAwZ2ROVkNpNHNDdjZXcDlqT0ZRWUpCZA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 15:55:30 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde are celebrating one of World Cup’s greatest feats. Can they shock Messi and Argentina next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd240TjdZTXZxX2dvQTBYMmhkamFkQkRlVWtjNnlMN3UyVjlmaTlia1BuNmFLQ2JJaHA0QnZXaFJIMExMdUZhR3gwSkVuaVFRX2NodVZJTFV5RDc5U09kWWhqYnhXUUU1aUQyVEstQzNDRGVFbzVDQVo4ckh2aUZ0VEhhcmM0ek4tbkFnRDVIVF9BbnNTUUxWYXhxREdlbDc5?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:40:47 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Argentina vs. Cape Verde Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0lXWWRWbG5PSE84b3FYZmtreExnSW16T29JNXNheTlONXlnWU9fVXpQZmpsRzNVOVQ1LWdnVkpPLTVGV3FkRVlwS0dibWtrTzdpY1FEbjR5eEV6TWpRaWNaMktjeXRicGxMTlE5Vjk4eHRzclBobzBKNlB5U05XODNGUQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 09:25:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Lionel Messi And Argentina Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEZVamc0bmZPRjhpUzFrSXQ1Y1JGRDdlV0hMWWswNlY1akJfNWhQLXFPNUhwUGVHZnl4NndXV2IxOGo0cGF0WG93ZWFjVFNQaHh4VnRKS0R4NTNtRm5GYmU2ZFkydXNpNy0wS0tTeUNiX1JWeFdJZnFGOU9pSDFRN1A2cGtWQU5mZlVTQWI5ZWZmUWJFRk1zQTl6OXBfd9IBngFBVV95cUxQWUZJdFNkYkUxN25FMG9pMWVJT0pfc2lyZFRnWWlmLTdLRVVCa0FLQ1JPUTY0ODFpQ1owWU5FdEVFc0ItMC1FbmtRaXVVZ2w3RmtFc1dlMkE1UXFzSnVRYmxWSEpYUW9MRlRsaHBhbHZtaW5MaFM4aHdia0FOcXh1TFpqX3BhZlhzZHhJb2VqdTZnaldMNUdDR2RGX0dUdw?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 05:49:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde will beat Argentina 1-0 in World Cup clash, predicts president - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84T1pXT0FLNU1YN0xNenVlTXc3aVFFMjBJWk1JSERadWE2a3BFU3VUWkJoS3RGMkY5RXI5bTBNT1hvR3FNekVQMnRtQWpTWDlYYWtJYXhsd3VnQQ?oc=5",
+          "source": "BBC",
+          "published": "Tue, 30 Jun 2026 12:47:52 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Jubilant Cape Verde set date with Argentina in World Cup round of 32 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWxmNDBfN1h2Wm9ZaF9VMXRnQjNCaC12UGZGXzFsTzVWcXgwRDF5OHl3TWYxYk1FS3I5NktTU1d6QXI1YXRtdnl1SHlKWUpLTmhSRWVoN2JXTHVPNU9iMlQ5X291Z1piZDY5WDFrdFlvQlpvdzc1eTdyNmNGMldGMlgzaGROd0lMdlFOY3NDMFUtYUNsX0lwUXh1a3Qyejhtd05yU1BWSGFQY0RSNkNRUmxB?oc=5",
+          "source": "Reuters",
+          "published": "Sat, 27 Jun 2026 02:19:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Best bets for the knockout round - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVZDTVExVVJrdDhtV19YdkxVQ3lTRnFaTVl0SXA3dy1rdGdOemR5UkN4MDNWTWJRTHBYdVdweXQ0XzdJMEszcEMzcGhNTFRuVWtxYVNibWh6RXFEbkhrYmtnS091TXBtd2tiNldSWk5kcW1BZ2NrbmxqQ2JQM1ZBR0NFUF9PaWo1RGx0aGlCa2NoaWRZakx2OHZiMEwxMjlqdUNnQWd5eldaY090eG9UUUU1ekVmTVF1amJqWVVFRy1WWFViM0FaVDR6MA?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 14:15:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cabo Verde or Cape Verde? World Cup run fuels debate in RI and beyond - The Providence Journal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmZzSThSTzVpSTI1endhbzdVT1poVkZQSlBvVHdWTEUtSDhjREd1TDlqTkxIQkNwcXJ0a0VhM3pVS3BEbHRwV2pDV2ZrQ3NMTnFSX3JMV1BjMlRGcmpLUGRUUWtYWkF3bUl1S2lJX2xEUGxEYkRBa25WZWxLOFBkcFE3cEFHSUd1QmVxRUpKQmRvck9aUEhndEZNUU1yNnlERXllRlQ0U1NaYXAyaWVxSHhaajlmRjMtSnhTeVdFR1RvaHBwOTdBTjFB?oc=5",
+          "source": "The Providence Journal",
+          "published": "Tue, 30 Jun 2026 09:06:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707660",
+        "slug": "fifwc-arg-cvi-2026-07-03-cvi",
+        "question": "Will Cabo Verde win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Cabo Verde wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.0425\", \"0.9575\"]",
+        "bestBid": 0.042,
+        "bestAsk": 0.043,
+        "liquidity": 279817.7386,
+        "volume": 1097843.2439589985,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Cape Verde: All to know before FIFA World Cup knockout against Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWJFLWMwSXBfNzJ2NzFzWVFQMmFSS3NKdlZqUUE4XzM0eEFEa0xjcFRDMlR0QmpCaFNQc2VmZ1paakY1eDNYaWJiTThiWjJpMWpmSTBINUNLNVNTbGQyN3Q5Tnd0anFSek56TW9oNHVVa3BIcnJRR0htNUFJNDNsR0IxRV93UFFGNEJqNTRqTUJNZ2R6ZFNqSjQ3c0RxaUxmSVJ2ZWU3Y1VtZzRoWHhV0gG0AUFVX3lxTE15eTQxamM4Mk9PTHdrMXlSTDFmeEYxQVpBbmYwdjBZV3F6bTRGN2ZweTN3TU4wdlVIZlF6T1JqU2x5X05fdlJvMHEzWnQycm5wUXlQMjljc01FX0ZBS0I2VzZ5Sks4cXFzekJKRzZubHA5ZFNhaFQ5ckVNdVZ3UHV0cHM5TmhIWFBwczRTMkt3bkJsMXFWQnFfZThEYXAwZ2ROVkNpNHNDdjZXcDlqT0ZRWUpCZA?oc=5",
+          "source": "Al Jazeera",
+          "published": "Wed, 01 Jul 2026 15:55:30 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde are celebrating one of World Cup’s greatest feats. Can they shock Messi and Argentina next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd240TjdZTXZxX2dvQTBYMmhkamFkQkRlVWtjNnlMN3UyVjlmaTlia1BuNmFLQ2JJaHA0QnZXaFJIMExMdUZhR3gwSkVuaVFRX2NodVZJTFV5RDc5U09kWWhqYnhXUUU1aUQyVEstQzNDRGVFbzVDQVo4ckh2aUZ0VEhhcmM0ek4tbkFnRDVIVF9BbnNTUUxWYXhxREdlbDc5?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:40:47 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Argentina vs. Cape Verde Prediction: Knockout Preview & Best Bets - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT0lXWWRWbG5PSE84b3FYZmtreExnSW16T29JNXNheTlONXlnWU9fVXpQZmpsRzNVOVQ1LWdnVkpPLTVGV3FkRVlwS0dibWtrTzdpY1FEbjR5eEV6TWpRaWNaMktjeXRicGxMTlE5Vjk4eHRzclBobzBKNlB5U05XODNGUQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 09:25:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Will Lionel Messi And Argentina Play In The World Cup Round Of 32? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEZVamc0bmZPRjhpUzFrSXQ1Y1JGRDdlV0hMWWswNlY1akJfNWhQLXFPNUhwUGVHZnl4NndXV2IxOGo0cGF0WG93ZWFjVFNQaHh4VnRKS0R4NTNtRm5GYmU2ZFkydXNpNy0wS0tTeUNiX1JWeFdJZnFGOU9pSDFRN1A2cGtWQU5mZlVTQWI5ZWZmUWJFRk1zQTl6OXBfd9IBngFBVV95cUxQWUZJdFNkYkUxN25FMG9pMWVJT0pfc2lyZFRnWWlmLTdLRVVCa0FLQ1JPUTY0ODFpQ1owWU5FdEVFc0ItMC1FbmtRaXVVZ2w3RmtFc1dlMkE1UXFzSnVRYmxWSEpYUW9MRlRsaHBhbHZtaW5MaFM4aHdia0FOcXh1TFpqX3BhZlhzZHhJb2VqdTZnaldMNUdDR2RGX0dUdw?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 05:49:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde will beat Argentina 1-0 in World Cup clash, predicts president - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84T1pXT0FLNU1YN0xNenVlTXc3aVFFMjBJWk1JSERadWE2a3BFU3VUWkJoS3RGMkY5RXI5bTBNT1hvR3FNekVQMnRtQWpTWDlYYWtJYXhsd3VnQQ?oc=5",
+          "source": "BBC",
+          "published": "Tue, 30 Jun 2026 12:47:52 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Jubilant Cape Verde set date with Argentina in World Cup round of 32 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWxmNDBfN1h2Wm9ZaF9VMXRnQjNCaC12UGZGXzFsTzVWcXgwRDF5OHl3TWYxYk1FS3I5NktTU1d6QXI1YXRtdnl1SHlKWUpLTmhSRWVoN2JXTHVPNU9iMlQ5X291Z1piZDY5WDFrdFlvQlpvdzc1eTdyNmNGMldGMlgzaGROd0lMdlFOY3NDMFUtYUNsX0lwUXh1a3Qyejhtd05yU1BWSGFQY0RSNkNRUmxB?oc=5",
+          "source": "Reuters",
+          "published": "Sat, 27 Jun 2026 02:19:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Best bets for the knockout round - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUVZDTVExVVJrdDhtV19YdkxVQ3lTRnFaTVl0SXA3dy1rdGdOemR5UkN4MDNWTWJRTHBYdVdweXQ0XzdJMEszcEMzcGhNTFRuVWtxYVNibWh6RXFEbkhrYmtnS091TXBtd2tiNldSWk5kcW1BZ2NrbmxqQ2JQM1ZBR0NFUF9PaWo1RGx0aGlCa2NoaWRZakx2OHZiMEwxMjlqdUNnQWd5eldaY090eG9UUUU1ekVmTVF1amJqWVVFRy1WWFViM0FaVDR6MA?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 14:15:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cabo Verde or Cape Verde? World Cup run fuels debate in RI and beyond - The Providence Journal",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmZzSThSTzVpSTI1endhbzdVT1poVkZQSlBvVHdWTEUtSDhjREd1TDlqTkxIQkNwcXJ0a0VhM3pVS3BEbHRwV2pDV2ZrQ3NMTnFSX3JMV1BjMlRGcmpLUGRUUWtYWkF3bUl1S2lJX2xEUGxEYkRBa25WZWxLOFBkcFE3cEFHSUd1QmVxRUpKQmRvck9aUEhndEZNUU1yNnlERXllRlQ0U1NaYXAyaWVxSHhaajlmRjMtSnhTeVdFR1RvaHBwOTdBTjFB?oc=5",
+          "source": "The Providence Journal",
+          "published": "Tue, 30 Jun 2026 09:06:00 GMT",
+          "query": "Argentina vs. Cabo Verde 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

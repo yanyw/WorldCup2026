@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-04",
+  "as_of": "2026-07-02T14:14:45.945201+00:00",
+  "verdict": "PASS",
+  "market_count_catalog": 144,
+  "market_count_in_probability_report": 144,
+  "coverage_requested_missing": 0,
+  "priority_order_slugs": [
+    "fifwc-arg-cvi-2026-07-03-first-half-team-total-home-1pt5",
+    "fifwc-arg-cvi-2026-07-03-second-half-team-total-home-1pt5",
+    "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+    "fifwc-aus-egy-2026-07-03-btts",
+    "fifwc-col-gha-2026-07-03-spread-home-3pt5"
+  ],
+  "conditional_watchlist_slugs": [
+    "fifwc-arg-cvi-2026-07-03-total-5pt5",
+    "fifwc-aus-egy-2026-07-03-spread-away-2pt5",
+    "fifwc-col-gha-2026-07-03-spread-home-1pt5",
+    "fifwc-col-gha-2026-07-03-spread-home-2pt5"
+  ],
+  "detailed_evidence_slugs": [
+    "fifwc-arg-cvi-2026-07-03-first-half-team-total-home-1pt5",
+    "fifwc-arg-cvi-2026-07-03-second-half-team-total-home-1pt5",
+    "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+    "fifwc-arg-cvi-2026-07-03-total-5pt5",
+    "fifwc-aus-egy-2026-07-03-btts",
+    "fifwc-aus-egy-2026-07-03-spread-away-2pt5",
+    "fifwc-col-gha-2026-07-03-spread-home-1pt5",
+    "fifwc-col-gha-2026-07-03-spread-home-2pt5",
+    "fifwc-col-gha-2026-07-03-spread-home-3pt5"
+  ],
+  "source_summary_by_match": {
+    "fifwc-arg-cvi-2026-07-03": {
+      "base_slug": "fifwc-arg-cvi-2026-07-03",
+      "event_title": "Argentina vs. Cabo Verde",
+      "home_team": "Argentina",
+      "away_team": "Cabo Verde",
+      "event_start": "2026-06-27T10:11:30.488684Z",
+      "source_count": 23,
+      "source_tiers": {
+        "other": 23
+      }
+    },
+    "fifwc-aus-egy-2026-07-03": {
+      "base_slug": "fifwc-aus-egy-2026-07-03",
+      "event_title": "Australia vs. Egypt",
+      "home_team": "Australia",
+      "away_team": "Egypt",
+      "event_start": "2026-06-27T10:06:19.23105Z",
+      "source_count": 22,
+      "source_tiers": {
+        "other": 22
+      }
+    },
+    "fifwc-col-gha-2026-07-03": {
+      "base_slug": "fifwc-col-gha-2026-07-03",
+      "event_title": "Colombia vs. Ghana",
+      "home_team": "Colombia",
+      "away_team": "Ghana",
+      "event_start": "2026-06-28T10:03:26.142163Z",
+      "source_count": 24,
+      "source_tiers": {
+        "other": 24
+      }
+    }
+  },
+  "severity_counts": {},
+  "findings": []
+}

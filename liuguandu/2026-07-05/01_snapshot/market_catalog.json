@@ -1,0 +1,1586 @@
+[
+  {
+    "event_slug": "fifwc-can-mar-2026-07-04",
+    "event_title": "Canada vs. Morocco",
+    "event_start": "2026-06-30T10:03:46.600404Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2740919",
+          "slug": "fifwc-can-mar-2026-07-04-draw",
+          "question": "Will Canada vs. Morocco end in a draw?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.275\", \"0.725\"]",
+          "bestBid": 0.27,
+          "bestAsk": 0.28,
+          "liquidity": 389554.1716,
+          "volume": 12003.744268000035,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2740921",
+          "slug": "fifwc-can-mar-2026-07-04-mar",
+          "question": "Will Morocco win on 2026-07-04?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf Morocco wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.545\", \"0.455\"]",
+          "bestBid": 0.54,
+          "bestAsk": 0.55,
+          "liquidity": 471926.4307,
+          "volume": 954871.745724987,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2740917",
+          "slug": "fifwc-can-mar-2026-07-04-can",
+          "question": "Will Canada win on 2026-07-04?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf Canada wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.185\", \"0.815\"]",
+          "bestBid": 0.18,
+          "bestAsk": 0.19,
+          "liquidity": 469325.6606,
+          "volume": 120366.83198600044,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "match_1x2"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-can-mar-2026-07-04-first-to-score",
+    "event_title": "Canada vs. Morocco - First Team to Score",
+    "event_start": "2026-06-30T10:04:28.612091Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2740979",
+          "slug": "fifwc-can-mar-2026-07-04-first-to-score-home",
+          "question": "Canada to score first vs. Morocco?",
+          "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.305\", \"0.695\"]",
+          "bestBid": 0.3,
+          "bestAsk": 0.31,
+          "liquidity": 32838.3146,
+          "volume": 854.223103,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2740981",
+          "slug": "fifwc-can-mar-2026-07-04-first-to-score-away",
+          "question": "Morocco to score first vs. Canada?",
+          "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.605\", \"0.395\"]",
+          "bestBid": 0.6,
+          "bestAsk": 0.61,
+          "liquidity": 29800.2767,
+          "volume": 28.362326000000003,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2740982",
+          "slug": "fifwc-can-mar-2026-07-04-first-to-score-neither",
+          "question": "Canada vs. Morocco: Neither team to score first?",
+          "description": "In the upcoming match between Canada and Morocco, scheduled for July 4, 2026 at 1:00 PM ET: This market will resolve to \"Canada\" if Canada are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Morocco\" if Morocco are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.1\", \"0.9\"]",
+          "bestBid": 0.09,
+          "bestAsk": 0.11,
+          "liquidity": 37792.3917,
+          "volume": 97.752497,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-can-mar-2026-07-04-more-markets",
+    "event_title": "Canada vs. Morocco - More Markets",
+    "event_start": "2026-06-30T10:32:27.05407Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2741293",
+          "slug": "fifwc-can-mar-2026-07-04-total-3pt5",
+          "question": "Canada vs. Morocco: O/U 3.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.205\", \"0.795\"]",
+          "bestBid": 0.2,
+          "bestAsk": 0.21,
+          "liquidity": 94063.8329,
+          "volume": 306.691897,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741294",
+          "slug": "fifwc-can-mar-2026-07-04-total-4pt5",
+          "question": "Canada vs. Morocco: O/U 4.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.085\", \"0.915\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.09,
+          "liquidity": 98670.8757,
+          "volume": 48,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741296",
+          "slug": "fifwc-can-mar-2026-07-04-total-6pt5",
+          "question": "Canada vs. Morocco: O/U 6.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.015\", \"0.985\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.02,
+          "liquidity": 31631.23761,
+          "volume": 220.2196,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741298",
+          "slug": "fifwc-can-mar-2026-07-04-total-8pt5",
+          "question": "Canada vs. Morocco: O/U 8.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0035\", \"0.9965\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.005,
+          "liquidity": 31481.11004,
+          "volume": 1120.7909999999997,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741299",
+          "slug": "fifwc-can-mar-2026-07-04-btts",
+          "question": "Canada vs. Morocco: Both Teams to Score",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Canada and Morocco each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.455\", \"0.545\"]",
+          "bestBid": 0.45,
+          "bestAsk": 0.46,
+          "liquidity": 89419.6679,
+          "volume": 3364.4391450000007,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2741300",
+          "slug": "fifwc-can-mar-2026-07-04-btts-first-half",
+          "question": "Canada vs. Morocco: Both Teams to Score in First Half",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Yes\" if both Canada and Morocco each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.16\", \"0.84\"]",
+          "bestBid": 0.15,
+          "bestAsk": 0.17,
+          "liquidity": 37784.4509,
+          "volume": 6.25,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2741319",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-team-total-home-1pt5",
+          "question": "Canada vs. Morocco: Canada 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Canada score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Canada's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.09\", \"0.91\"]",
+          "bestBid": 0.05,
+          "bestAsk": 0.13,
+          "liquidity": 26218.6052,
+          "volume": 17.15775,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741320",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-team-total-away-0pt5",
+          "question": "Canada vs. Morocco: Morocco 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Morocco score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Morocco's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.585\", \"0.415\"]",
+          "bestBid": 0.55,
+          "bestAsk": 0.62,
+          "liquidity": 33602.4275,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741321",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-team-total-away-1pt5",
+          "question": "Canada vs. Morocco: Morocco 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Morocco score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Morocco's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.215\", \"0.785\"]",
+          "bestBid": 0.16,
+          "bestAsk": 0.27,
+          "liquidity": 44125.7615,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741280",
+          "slug": "fifwc-can-mar-2026-07-04-spread-home-1pt5",
+          "question": "Spread: Canada (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Canada\", \"Morocco\"]",
+          "outcomePrices": "[\"0.055\", \"0.945\"]",
+          "bestBid": 0.05,
+          "bestAsk": 0.06,
+          "liquidity": 48341.7095,
+          "volume": 3224.302855000001,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741281",
+          "slug": "fifwc-can-mar-2026-07-04-spread-away-1pt5",
+          "question": "Spread: Morocco (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Morocco\", \"Canada\"]",
+          "outcomePrices": "[\"0.275\", \"0.725\"]",
+          "bestBid": 0.27,
+          "bestAsk": 0.28,
+          "liquidity": 124135.3963,
+          "volume": 26972.822254999995,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741282",
+          "slug": "fifwc-can-mar-2026-07-04-spread-home-2pt5",
+          "question": "Spread: Canada (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Canada\", \"Morocco\"]",
+          "outcomePrices": "[\"0.0135\", \"0.9865\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.017,
+          "liquidity": 34047.02922,
+          "volume": 60.504,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741283",
+          "slug": "fifwc-can-mar-2026-07-04-spread-away-2pt5",
+          "question": "Spread: Morocco (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Morocco\", \"Canada\"]",
+          "outcomePrices": "[\"0.105\", \"0.895\"]",
+          "bestBid": 0.1,
+          "bestAsk": 0.11,
+          "liquidity": 82121.9271,
+          "volume": 761.998433,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741284",
+          "slug": "fifwc-can-mar-2026-07-04-spread-home-3pt5",
+          "question": "Spread: Canada (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Canada\", \"Morocco\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.009,
+          "liquidity": 33215.40269,
+          "volume": 1610.0089999999998,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741285",
+          "slug": "fifwc-can-mar-2026-07-04-spread-away-3pt5",
+          "question": "Spread: Morocco (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Morocco\", \"Canada\"]",
+          "outcomePrices": "[\"0.041\", \"0.959\"]",
+          "bestBid": 0.032,
+          "bestAsk": 0.05,
+          "liquidity": 39389.60473,
+          "volume": 850,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741286",
+          "slug": "fifwc-can-mar-2026-07-04-spread-home-4pt5",
+          "question": "Spread: Canada (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Canada\", \"Morocco\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 26053.14616,
+          "volume": 2875.103,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741287",
+          "slug": "fifwc-can-mar-2026-07-04-spread-away-4pt5",
+          "question": "Spread: Morocco (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Morocco\", \"Canada\"]",
+          "outcomePrices": "[\"0.0105\", \"0.9895\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.019,
+          "liquidity": 22599.16188,
+          "volume": 76.00019999999999,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741288",
+          "slug": "fifwc-can-mar-2026-07-04-spread-home-5pt5",
+          "question": "Spread: Canada (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Canada\" if Canada win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Morocco\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Canada\", \"Morocco\"]",
+          "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+          "bestBid": null,
+          "bestAsk": 0.001,
+          "liquidity": 8356.98596,
+          "volume": 2916.9700000000003,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741289",
+          "slug": "fifwc-can-mar-2026-07-04-spread-away-5pt5",
+          "question": "Spread: Morocco (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Morocco\" if Morocco win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Canada\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Morocco\", \"Canada\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 25653.72855,
+          "volume": 912.28109,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2741290",
+          "slug": "fifwc-can-mar-2026-07-04-total-0pt5",
+          "question": "Canada vs. Morocco: O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.9\", \"0.1\"]",
+          "bestBid": 0.89,
+          "bestAsk": 0.91,
+          "liquidity": 71844.483,
+          "volume": 37.943854,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741291",
+          "slug": "fifwc-can-mar-2026-07-04-total-1pt5",
+          "question": "Canada vs. Morocco: O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.675\", \"0.325\"]",
+          "bestBid": 0.67,
+          "bestAsk": 0.68,
+          "liquidity": 104910.1368,
+          "volume": 585.1879359999998,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741292",
+          "slug": "fifwc-can-mar-2026-07-04-total-2pt5",
+          "question": "Canada vs. Morocco: O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.405\", \"0.595\"]",
+          "bestBid": 0.4,
+          "bestAsk": 0.41,
+          "liquidity": 136456.2231,
+          "volume": 6016.455801000001,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741295",
+          "slug": "fifwc-can-mar-2026-07-04-total-5pt5",
+          "question": "Canada vs. Morocco: O/U 5.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0315\", \"0.9685\"]",
+          "bestBid": 0.024,
+          "bestAsk": 0.039,
+          "liquidity": 32863.08825,
+          "volume": 125,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741297",
+          "slug": "fifwc-can-mar-2026-07-04-total-7pt5",
+          "question": "Canada vs. Morocco: O/U 7.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET:\n\nThis market will resolve to \"Over\" if Canada and Morocco combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.003,
+          "bestAsk": 0.008,
+          "liquidity": 30352.60875,
+          "volume": 243.662,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741301",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-total-0pt5",
+          "question": "Canada vs. Morocco: 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.645\", \"0.355\"]",
+          "bestBid": 0.64,
+          "bestAsk": 0.65,
+          "liquidity": 76864.2627,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741302",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-total-1pt5",
+          "question": "Canada vs. Morocco: 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.28\", \"0.72\"]",
+          "bestBid": 0.27,
+          "bestAsk": 0.29,
+          "liquidity": 66650.3414,
+          "volume": 350.1575,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741303",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-total-2pt5",
+          "question": "Canada vs. Morocco: 1st Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.09\", \"0.91\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.1,
+          "liquidity": 33499.0115,
+          "volume": 262.37039899999996,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741304",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-home-0pt5",
+          "question": "Canada vs. Morocco: Canada O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Canada score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Canada's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.565\", \"0.435\"]",
+          "bestBid": 0.55,
+          "bestAsk": 0.58,
+          "liquidity": 57831.7954,
+          "volume": 768.1033319999999,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741305",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-home-1pt5",
+          "question": "Canada vs. Morocco: Canada O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Canada score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Canada's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.185\", \"0.815\"]",
+          "bestBid": 0.17,
+          "bestAsk": 0.2,
+          "liquidity": 34988.8489,
+          "volume": 72.907691,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741306",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-home-2pt5",
+          "question": "Canada vs. Morocco: Canada O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Canada score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Canada's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.05\", \"0.95\"]",
+          "bestBid": 0.04,
+          "bestAsk": 0.06,
+          "liquidity": 25625.2775,
+          "volume": 168.819975,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741307",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-away-0pt5",
+          "question": "Canada vs. Morocco: Morocco O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Morocco score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Morocco's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.8\", \"0.2\"]",
+          "bestBid": 0.79,
+          "bestAsk": 0.81,
+          "liquidity": 58856.514,
+          "volume": 824.0634410000001,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741308",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-away-1pt5",
+          "question": "Canada vs. Morocco: Morocco O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Morocco score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Morocco's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.45\", \"0.55\"]",
+          "bestBid": 0.44,
+          "bestAsk": 0.46,
+          "liquidity": 63839.3353,
+          "volume": 111.03190699999999,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741309",
+          "slug": "fifwc-can-mar-2026-07-04-team-total-away-2pt5",
+          "question": "Canada vs. Morocco: Morocco O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Morocco score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Morocco's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.2\", \"0.8\"]",
+          "bestBid": 0.19,
+          "bestAsk": 0.21,
+          "liquidity": 46086.2683,
+          "volume": 23.809522,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741310",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-team-total-home-0pt5",
+          "question": "Canada vs. Morocco: Canada 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Canada score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Canada's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.315\", \"0.685\"]",
+          "bestBid": 0.3,
+          "bestAsk": 0.33,
+          "liquidity": 37457.7777,
+          "volume": 39.511610000000005,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741311",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-team-total-home-1pt5",
+          "question": "Canada vs. Morocco: Canada 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Canada score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Canada's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.05\", \"0.95\"]",
+          "bestBid": 0.03,
+          "bestAsk": 0.07,
+          "liquidity": 29327.0556,
+          "volume": 11.81165,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741312",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-team-total-away-0pt5",
+          "question": "Canada vs. Morocco: Morocco 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Morocco score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Morocco's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.5\", \"0.5\"]",
+          "bestBid": 0.48,
+          "bestAsk": 0.52,
+          "liquidity": 51443.6582,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741313",
+          "slug": "fifwc-can-mar-2026-07-04-first-half-team-total-away-1pt5",
+          "question": "Canada vs. Morocco: Morocco 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Morocco score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Morocco score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Morocco's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.145\", \"0.855\"]",
+          "bestBid": 0.12,
+          "bestAsk": 0.17,
+          "liquidity": 36032.672,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2741314",
+          "slug": "fifwc-can-mar-2026-07-04-btts-second-half",
+          "question": "Canada vs. Morocco: Both Teams to Score in Second Half",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Yes\" if both Canada and Morocco each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.235\", \"0.765\"]",
+          "bestBid": 0.22,
+          "bestAsk": 0.25,
+          "liquidity": 45146.8915,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2741315",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-total-0pt5",
+          "question": "Canada vs. Morocco: 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.73\", \"0.27\"]",
+          "bestBid": 0.71,
+          "bestAsk": 0.75,
+          "liquidity": 44947.5663,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741316",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-total-1pt5",
+          "question": "Canada vs. Morocco: 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.38\", \"0.62\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.4,
+          "liquidity": 41840.9837,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741317",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-total-2pt5",
+          "question": "Canada vs. Morocco: 2nd Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada and Morocco combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.15\", \"0.85\"]",
+          "bestBid": 0.13,
+          "bestAsk": 0.17,
+          "liquidity": 52849.1807,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2741318",
+          "slug": "fifwc-can-mar-2026-07-04-second-half-team-total-home-0pt5",
+          "question": "Canada vs. Morocco: Canada 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Canada and Morocco, scheduled for July 4 at 1:00 PM ET: This market will resolve to \"Over\" if Canada score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Canada score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Canada's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.385\", \"0.615\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.41,
+          "liquidity": 38101.205,
+          "volume": null,
+          "endDate": "2026-07-04T17:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-par-fra-2026-07-04",
+    "event_title": "Paraguay vs. France",
+    "event_start": "2026-07-01T10:03:23.53868Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754627",
+          "slug": "fifwc-par-fra-2026-07-04-draw",
+          "question": "Will Paraguay vs. France end in a draw?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.125\", \"0.875\"]",
+          "bestBid": 0.12,
+          "bestAsk": 0.13,
+          "liquidity": 409606.961,
+          "volume": 11169.510215000013,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2754625",
+          "slug": "fifwc-par-fra-2026-07-04-par",
+          "question": "Will Paraguay win on 2026-07-04?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf Paraguay wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.045\", \"0.955\"]",
+          "bestBid": 0.04,
+          "bestAsk": 0.05,
+          "liquidity": 288092.8764,
+          "volume": 79995.71016999992,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2754628",
+          "slug": "fifwc-par-fra-2026-07-04-fra",
+          "question": "Will France win on 2026-07-04?",
+          "description": "In the upcoming game, scheduled for July 4, 2026\nIf France wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.835\", \"0.165\"]",
+          "bestBid": 0.83,
+          "bestAsk": 0.84,
+          "liquidity": 374863.8497,
+          "volume": 359197.28380399913,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "match_1x2"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-par-fra-2026-07-04-first-to-score",
+    "event_title": "Paraguay vs. France - First Team to Score",
+    "event_start": "2026-07-01T10:04:00.040613Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754692",
+          "slug": "fifwc-par-fra-2026-07-04-first-to-score-home",
+          "question": "Paraguay to score first vs. France?",
+          "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.135\", \"0.865\"]",
+          "bestBid": 0.11,
+          "bestAsk": 0.16,
+          "liquidity": 26389.3065,
+          "volume": 130.228231,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2754693",
+          "slug": "fifwc-par-fra-2026-07-04-first-to-score-away",
+          "question": "France to score first vs. Paraguay?",
+          "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.835\", \"0.165\"]",
+          "bestBid": 0.83,
+          "bestAsk": 0.84,
+          "liquidity": 28425.998,
+          "volume": 77.334091,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2754694",
+          "slug": "fifwc-par-fra-2026-07-04-first-to-score-neither",
+          "question": "Paraguay vs. France: Neither team to score first?",
+          "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.0415\", \"0.9585\"]",
+          "bestBid": 0.018,
+          "bestAsk": 0.065,
+          "liquidity": 22494.30631,
+          "volume": 41.79,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-par-fra-2026-07-04-more-markets",
+    "event_title": "Paraguay vs. France - More Markets",
+    "event_start": "2026-07-01T10:32:27.692793Z",
+    "as_of": "2026-07-02T14:04:40+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754872",
+          "slug": "fifwc-par-fra-2026-07-04-spread-home-1pt5",
+          "question": "Spread: Paraguay (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Paraguay\", \"France\"]",
+          "outcomePrices": "[\"0.009\", \"0.991\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.016,
+          "liquidity": 35418.89002,
+          "volume": 688.925776,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754873",
+          "slug": "fifwc-par-fra-2026-07-04-spread-away-1pt5",
+          "question": "Spread: France (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"France\", \"Paraguay\"]",
+          "outcomePrices": "[\"0.615\", \"0.385\"]",
+          "bestBid": 0.61,
+          "bestAsk": 0.62,
+          "liquidity": 191559.4215,
+          "volume": 36921.48276900002,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754874",
+          "slug": "fifwc-par-fra-2026-07-04-spread-home-2pt5",
+          "question": "Spread: Paraguay (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Paraguay\", \"France\"]",
+          "outcomePrices": "[\"0.004\", \"0.996\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.006,
+          "liquidity": 33840.77869,
+          "volume": 2132.55,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754875",
+          "slug": "fifwc-par-fra-2026-07-04-spread-away-2pt5",
+          "question": "Spread: France (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"France\", \"Paraguay\"]",
+          "outcomePrices": "[\"0.375\", \"0.625\"]",
+          "bestBid": 0.37,
+          "bestAsk": 0.38,
+          "liquidity": 107903.2277,
+          "volume": 25890.692388,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754876",
+          "slug": "fifwc-par-fra-2026-07-04-spread-home-3pt5",
+          "question": "Spread: Paraguay (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Paraguay\", \"France\"]",
+          "outcomePrices": "[\"0.005\", \"0.995\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.009,
+          "liquidity": 29770.14575,
+          "volume": 808.6234999999999,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754877",
+          "slug": "fifwc-par-fra-2026-07-04-spread-away-3pt5",
+          "question": "Spread: France (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"France\", \"Paraguay\"]",
+          "outcomePrices": "[\"0.185\", \"0.815\"]",
+          "bestBid": 0.18,
+          "bestAsk": 0.19,
+          "liquidity": 80171.9625,
+          "volume": 5760.157652,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754878",
+          "slug": "fifwc-par-fra-2026-07-04-spread-home-4pt5",
+          "question": "Spread: Paraguay (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Paraguay\", \"France\"]",
+          "outcomePrices": "[\"0.003\", \"0.997\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.005,
+          "liquidity": 60669.48002,
+          "volume": 2607.117,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754879",
+          "slug": "fifwc-par-fra-2026-07-04-spread-away-4pt5",
+          "question": "Spread: France (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"France\", \"Paraguay\"]",
+          "outcomePrices": "[\"0.085\", \"0.915\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.09,
+          "liquidity": 28922.7796,
+          "volume": 3193.57318,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754880",
+          "slug": "fifwc-par-fra-2026-07-04-spread-home-5pt5",
+          "question": "Spread: Paraguay (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Paraguay\" if Paraguay win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"France\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Paraguay\", \"France\"]",
+          "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.004,
+          "liquidity": 62112.95917,
+          "volume": 2591.72,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754881",
+          "slug": "fifwc-par-fra-2026-07-04-spread-away-5pt5",
+          "question": "Spread: France (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"France\" if France win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Paraguay\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"France\", \"Paraguay\"]",
+          "outcomePrices": "[\"0.0395\", \"0.9605\"]",
+          "bestBid": 0.012,
+          "bestAsk": 0.067,
+          "liquidity": 24035.67886,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754882",
+          "slug": "fifwc-par-fra-2026-07-04-total-0pt5",
+          "question": "Paraguay vs. France: O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.96\", \"0.04\"]",
+          "bestBid": 0.95,
+          "bestAsk": 0.97,
+          "liquidity": 40721.1312,
+          "volume": 2.1416500000000003,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754883",
+          "slug": "fifwc-par-fra-2026-07-04-total-1pt5",
+          "question": "Paraguay vs. France: O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.815\", \"0.185\"]",
+          "bestBid": 0.81,
+          "bestAsk": 0.82,
+          "liquidity": 87339.501,
+          "volume": 246.39368100000002,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754884",
+          "slug": "fifwc-par-fra-2026-07-04-total-2pt5",
+          "question": "Paraguay vs. France: O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.585\", \"0.415\"]",
+          "bestBid": 0.58,
+          "bestAsk": 0.59,
+          "liquidity": 122409.6572,
+          "volume": 3929.037225000001,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754885",
+          "slug": "fifwc-par-fra-2026-07-04-total-3pt5",
+          "question": "Paraguay vs. France: O/U 3.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.365\", \"0.635\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.37,
+          "liquidity": 120585.5178,
+          "volume": 24516.140373000002,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754886",
+          "slug": "fifwc-par-fra-2026-07-04-total-4pt5",
+          "question": "Paraguay vs. France: O/U 4.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.19\", \"0.81\"]",
+          "bestBid": 0.18,
+          "bestAsk": 0.2,
+          "liquidity": 93055.455,
+          "volume": 516.2491239999999,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754887",
+          "slug": "fifwc-par-fra-2026-07-04-total-5pt5",
+          "question": "Paraguay vs. France: O/U 5.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.085\", \"0.915\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.09,
+          "liquidity": 82988.2603,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754888",
+          "slug": "fifwc-par-fra-2026-07-04-total-6pt5",
+          "question": "Paraguay vs. France: O/U 6.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.03\", \"0.97\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.04,
+          "liquidity": 37510.05851,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754889",
+          "slug": "fifwc-par-fra-2026-07-04-total-7pt5",
+          "question": "Paraguay vs. France: O/U 7.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.015\", \"0.985\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.02,
+          "liquidity": 28668.99541,
+          "volume": 100,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754890",
+          "slug": "fifwc-par-fra-2026-07-04-total-8pt5",
+          "question": "Paraguay vs. France: O/U 8.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Over\" if Paraguay and France combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 29127.03477,
+          "volume": 5.01,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754891",
+          "slug": "fifwc-par-fra-2026-07-04-btts",
+          "question": "Paraguay vs. France: Both Teams to Score",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Paraguay and France each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.365\", \"0.635\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.37,
+          "liquidity": 95072.8834,
+          "volume": 1310.5303199999994,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754892",
+          "slug": "fifwc-par-fra-2026-07-04-btts-first-half",
+          "question": "Paraguay vs. France: Both Teams to Score in First Half",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Yes\" if both Paraguay and France each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.135\", \"0.865\"]",
+          "bestBid": 0.12,
+          "bestAsk": 0.15,
+          "liquidity": 26433.9392,
+          "volume": 10,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754893",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-total-0pt5",
+          "question": "Paraguay vs. France: 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.74\", \"0.26\"]",
+          "bestBid": 0.73,
+          "bestAsk": 0.75,
+          "liquidity": 45594.0346,
+          "volume": 124.26922400000001,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754894",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-total-1pt5",
+          "question": "Paraguay vs. France: 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.375\", \"0.625\"]",
+          "bestBid": 0.37,
+          "bestAsk": 0.38,
+          "liquidity": 71412.4891,
+          "volume": 10286.059191000002,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754895",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-total-2pt5",
+          "question": "Paraguay vs. France: 1st Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.16\", \"0.84\"]",
+          "bestBid": 0.15,
+          "bestAsk": 0.17,
+          "liquidity": 45304.1965,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754896",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-home-0pt5",
+          "question": "Paraguay vs. France: Paraguay O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Paraguay score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Paraguay's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.38\", \"0.62\"]",
+          "bestBid": 0.37,
+          "bestAsk": 0.39,
+          "liquidity": 64615.9461,
+          "volume": 628.116078,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754897",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-home-1pt5",
+          "question": "Paraguay vs. France: Paraguay O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Paraguay score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Paraguay's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.075\", \"0.925\"]",
+          "bestBid": 0.06,
+          "bestAsk": 0.09,
+          "liquidity": 34305.6111,
+          "volume": 192.880425,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754898",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-home-2pt5",
+          "question": "Paraguay vs. France: Paraguay O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Paraguay score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Paraguay's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.022\", \"0.978\"]",
+          "bestBid": 0.011,
+          "bestAsk": 0.033,
+          "liquidity": 26533.63251,
+          "volume": 346.9648,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754899",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-away-0pt5",
+          "question": "Paraguay vs. France: France O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If France score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on France's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.93\", \"0.07\"]",
+          "bestBid": 0.92,
+          "bestAsk": 0.94,
+          "liquidity": 33669.5095,
+          "volume": 108.602128,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754900",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-away-1pt5",
+          "question": "Paraguay vs. France: France O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If France score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on France's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.74\", \"0.26\"]",
+          "bestBid": 0.73,
+          "bestAsk": 0.75,
+          "liquidity": 57883.4624,
+          "volume": 550.733004,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754901",
+          "slug": "fifwc-par-fra-2026-07-04-team-total-away-2pt5",
+          "question": "Paraguay vs. France: France O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If France score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on France's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.48\", \"0.52\"]",
+          "bestBid": 0.47,
+          "bestAsk": 0.49,
+          "liquidity": 59743.7542,
+          "volume": 4905.849194,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754902",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-team-total-home-0pt5",
+          "question": "Paraguay vs. France: Paraguay 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Paraguay score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Paraguay's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.2\", \"0.8\"]",
+          "bestBid": 0.18,
+          "bestAsk": 0.22,
+          "liquidity": 30079.8908,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754903",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-team-total-home-1pt5",
+          "question": "Paraguay vs. France: Paraguay 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Paraguay score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Paraguay's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.023\", \"0.977\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.036,
+          "liquidity": 14002.70887,
+          "volume": 72.609462,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754904",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-team-total-away-0pt5",
+          "question": "Paraguay vs. France: France 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If France score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on France's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.685\", \"0.315\"]",
+          "bestBid": 0.66,
+          "bestAsk": 0.71,
+          "liquidity": 25695.0019,
+          "volume": 4.225351,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754905",
+          "slug": "fifwc-par-fra-2026-07-04-first-half-team-total-away-1pt5",
+          "question": "Paraguay vs. France: France 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If France score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on France's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.315\", \"0.685\"]",
+          "bestBid": 0.29,
+          "bestAsk": 0.34,
+          "liquidity": 37671.3426,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754906",
+          "slug": "fifwc-par-fra-2026-07-04-btts-second-half",
+          "question": "Paraguay vs. France: Both Teams to Score in Second Half",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Yes\" if both Paraguay and France each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.205\", \"0.795\"]",
+          "bestBid": 0.19,
+          "bestAsk": 0.22,
+          "liquidity": 31308.1423,
+          "volume": 154,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754907",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-total-0pt5",
+          "question": "Paraguay vs. France: 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.82\", \"0.18\"]",
+          "bestBid": 0.8,
+          "bestAsk": 0.84,
+          "liquidity": 30489.997,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754908",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-total-1pt5",
+          "question": "Paraguay vs. France: 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.51\", \"0.49\"]",
+          "bestBid": 0.48,
+          "bestAsk": 0.54,
+          "liquidity": 24880.7761,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754909",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-total-2pt5",
+          "question": "Paraguay vs. France: 2nd Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay and France combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.245\", \"0.755\"]",
+          "bestBid": 0.22,
+          "bestAsk": 0.27,
+          "liquidity": 31623.9078,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754910",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-team-total-home-0pt5",
+          "question": "Paraguay vs. France: Paraguay 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Paraguay score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Paraguay's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.265\", \"0.735\"]",
+          "bestBid": 0.24,
+          "bestAsk": 0.29,
+          "liquidity": 24602.8791,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754911",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-team-total-home-1pt5",
+          "question": "Paraguay vs. France: Paraguay 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if Paraguay score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Paraguay score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Paraguay's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.045\", \"0.955\"]",
+          "bestBid": 0.03,
+          "bestAsk": 0.06,
+          "liquidity": 14655.1784,
+          "volume": 77.0892,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754912",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-team-total-away-0pt5",
+          "question": "Paraguay vs. France: France 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If France score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on France's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.77\", \"0.23\"]",
+          "bestBid": 0.72,
+          "bestAsk": 0.82,
+          "liquidity": 25624.8269,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754913",
+          "slug": "fifwc-par-fra-2026-07-04-second-half-team-total-away-1pt5",
+          "question": "Paraguay vs. France: France 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Paraguay and France, scheduled for July 4 at 5:00 PM ET: This market will resolve to \"Over\" if France score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If France score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on France's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.425\", \"0.575\"]",
+          "bestBid": 0.4,
+          "bestAsk": 0.45,
+          "liquidity": 25364.5637,
+          "volume": null,
+          "endDate": "2026-07-04T21:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      }
+    ]
+  }
+]

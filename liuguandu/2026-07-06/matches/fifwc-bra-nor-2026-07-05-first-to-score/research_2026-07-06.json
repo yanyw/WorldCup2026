@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-bra-nor-2026-07-05-first-to-score",
+  "event_title": "Brazil vs. Norway - First Team to Score",
+  "event_start": "2026-07-01T10:04:31.310107Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754728",
+        "slug": "fifwc-bra-nor-2026-07-05-first-to-score-neither",
+        "question": "Brazil vs. Norway: Neither team to score first?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.055\", \"0.945\"]",
+        "bestBid": 0.05,
+        "bestAsk": 0.06,
+        "liquidity": 28845.432,
+        "volume": 154.916665,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup: Tuesday schedule, predictions and eliminated teams - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
+          "source": "Al Jazeera",
+          "published": "Tue, 30 Jun 2026 10:45:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast 1-2 Norway (Jun 30, 2026) Game Analysis - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZGt5bkZGZTdvVGtVb1JOT3N1UXAtTzl5cW5NSF9Xa2VTWlhUYm5RbGhlRmRBTU9qQTFPZmdVbEpLQXp3MkZVYkpKWWhNNmNOamN3M0ptZnBMR1FnUm5v?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 19:16:02 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast vs. Norway Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEdiQTZDZkNCb2x3R19rRU96YW9wZEJTMkc0U0lSX3lNNkpPRmVPWmZYeFNkbVUyMlEwNVVMSTJBMHdad2Jwc3gyb0cteGpnNm9rS1BPZjBJd21zTmRQWmhzWDg3NEgtVzRLSXlwaUs1QVR5SUtqUVVXZkhPbm9jejROS0gzZm10dS0wWjJhZlZpdEhGMktHbDNLclZmYmRpV2fSAaIBQVVfeXFMT0xfWWdEajk3Z2lqRktpak5BbUFfWWJfOTZDVFpqa3dCN0pSNVJUWWlQMDc3ZEhKMzg4R1dyWm1aWTZUR29XZmZ0bF9kak9XYXBURENvSFVabFBhbTlWTG0ycTVPV00tUjc3aGlnV1Q5WHpkOGk2Q2hlQjkwSWV6a3hmUl9EUXpTV2xtaV8xck9IUTFEWGFkc2F2d3BrM1Q4cWlB?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 11:00:55 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Haaland scores late as Norway send Ivory Coast out of World Cup - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdac0hQSHh4Y0kwZy14aHp6UnBzWGl6ZUNIdkMtcDhqRWZ0OVJYb1hKNTQ3RWhiSUtrNFFhOHBucktIVUQyQzVydDM1T25oSHNSUzlPLUl3QWNTTHF0Nk9QOUs3Rl9reDJ4MGpLSFRSNUF1U3FWSnVtNVk1WFl2MGxBM2NFbkVIdkkzQUY2cDMwSnVGbDhrU29kSnRXVG05bE1PVVMyb0d5R2RXUUQ0Tndn?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 18:59:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754726",
+        "slug": "fifwc-bra-nor-2026-07-05-first-to-score-home",
+        "question": "Brazil to score first vs. Norway?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.58\", \"0.42\"]",
+        "bestBid": 0.57,
+        "bestAsk": 0.59,
+        "liquidity": 31062.7194,
+        "volume": 167.22914200000002,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup: Tuesday schedule, predictions and eliminated teams - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
+          "source": "Al Jazeera",
+          "published": "Tue, 30 Jun 2026 10:45:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast 1-2 Norway (Jun 30, 2026) Game Analysis - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZGt5bkZGZTdvVGtVb1JOT3N1UXAtTzl5cW5NSF9Xa2VTWlhUYm5RbGhlRmRBTU9qQTFPZmdVbEpLQXp3MkZVYkpKWWhNNmNOamN3M0ptZnBMR1FnUm5v?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 19:16:02 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast vs. Norway Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEdiQTZDZkNCb2x3R19rRU96YW9wZEJTMkc0U0lSX3lNNkpPRmVPWmZYeFNkbVUyMlEwNVVMSTJBMHdad2Jwc3gyb0cteGpnNm9rS1BPZjBJd21zTmRQWmhzWDg3NEgtVzRLSXlwaUs1QVR5SUtqUVVXZkhPbm9jejROS0gzZm10dS0wWjJhZlZpdEhGMktHbDNLclZmYmRpV2fSAaIBQVVfeXFMT0xfWWdEajk3Z2lqRktpak5BbUFfWWJfOTZDVFpqa3dCN0pSNVJUWWlQMDc3ZEhKMzg4R1dyWm1aWTZUR29XZmZ0bF9kak9XYXBURENvSFVabFBhbTlWTG0ycTVPV00tUjc3aGlnV1Q5WHpkOGk2Q2hlQjkwSWV6a3hmUl9EUXpTV2xtaV8xck9IUTFEWGFkc2F2d3BrM1Q4cWlB?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 11:00:55 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Haaland scores late as Norway send Ivory Coast out of World Cup - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdac0hQSHh4Y0kwZy14aHp6UnBzWGl6ZUNIdkMtcDhqRWZ0OVJYb1hKNTQ3RWhiSUtrNFFhOHBucktIVUQyQzVydDM1T25oSHNSUzlPLUl3QWNTTHF0Nk9QOUs3Rl9reDJ4MGpLSFRSNUF1U3FWSnVtNVk1WFl2MGxBM2NFbkVIdkkzQUY2cDMwSnVGbDhrU29kSnRXVG05bE1PVVMyb0d5R2RXUUQ0Tndn?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 18:59:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754727",
+        "slug": "fifwc-bra-nor-2026-07-05-first-to-score-away",
+        "question": "Norway to score first vs. Brazil?",
+        "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.37\", \"0.63\"]",
+        "bestBid": 0.36,
+        "bestAsk": 0.38,
+        "liquidity": 35584.4125,
+        "volume": 125.300479,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup: Tuesday schedule, predictions and eliminated teams - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSzh3dzdqbDBpLWV3TEctSHFKaEcwbGJyZURNZ3FfZjBBbzBzNlc1SXNKRm1UWEkzaGcwbGJ5WEdqeXk0WXNkSkZvYUNzWjRhUnI3RkpZbDh6REh0eGRYRUN4RXBISHBoUjBOUXhoY2NDVnVZeG5DVHMwNmE0QXI0SlduSm5ZWFFTUFE0ZVdjN2t5SzU5TTRlS0VoM25qcGUtby05YjFQTVrSAa4BQVVfeXFMTVYwUnBhcW42dlU2ZF91VUJTam5OeWdhMGxXT0pZbUJINUZNWVVfemEtbzJUbzk0V2JnRzB5MEw3LThXbl9WY19YaHRLRWd5UnRoYlc0aXVUZUFJR3A1dHRRSTR3OWptcVBBak8zU0hFRWo5Y1hObWQydTBjTVFJNEhQeUVwSl9KZG5KN3I3X2ZDQ3J3SlRZS0M0YTNBa3JCclVHNEZiQlU0T2lnR0dB?oc=5",
+          "source": "Al Jazeera",
+          "published": "Tue, 30 Jun 2026 10:45:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast 1-2 Norway (Jun 30, 2026) Game Analysis - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZGt5bkZGZTdvVGtVb1JOT3N1UXAtTzl5cW5NSF9Xa2VTWlhUYm5RbGhlRmRBTU9qQTFPZmdVbEpLQXp3MkZVYkpKWWhNNmNOamN3M0ptZnBMR1FnUm5v?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 19:16:02 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ivory Coast vs. Norway Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZEdiQTZDZkNCb2x3R19rRU96YW9wZEJTMkc0U0lSX3lNNkpPRmVPWmZYeFNkbVUyMlEwNVVMSTJBMHdad2Jwc3gyb0cteGpnNm9rS1BPZjBJd21zTmRQWmhzWDg3NEgtVzRLSXlwaUs1QVR5SUtqUVVXZkhPbm9jejROS0gzZm10dS0wWjJhZlZpdEhGMktHbDNLclZmYmRpV2fSAaIBQVVfeXFMT0xfWWdEajk3Z2lqRktpak5BbUFfWWJfOTZDVFpqa3dCN0pSNVJUWWlQMDc3ZEhKMzg4R1dyWm1aWTZUR29XZmZ0bF9kak9XYXBURENvSFVabFBhbTlWTG0ycTVPV00tUjc3aGlnV1Q5WHpkOGk2Q2hlQjkwSWV6a3hmUl9EUXpTV2xtaV8xck9IUTFEWGFkc2F2d3BrM1Q4cWlB?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 11:00:55 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Haaland scores late as Norway send Ivory Coast out of World Cup - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVGdac0hQSHh4Y0kwZy14aHp6UnBzWGl6ZUNIdkMtcDhqRWZ0OVJYb1hKNTQ3RWhiSUtrNFFhOHBucktIVUQyQzVydDM1T25oSHNSUzlPLUl3QWNTTHF0Nk9QOUs3Rl9reDJ4MGpLSFRSNUF1U3FWSnVtNVk1WFl2MGxBM2NFbkVIdkkzQUY2cDMwSnVGbDhrU29kSnRXVG05bE1PVVMyb0d5R2RXUUQ0Tndn?oc=5",
+          "source": "ESPN",
+          "published": "Tue, 30 Jun 2026 18:59:00 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

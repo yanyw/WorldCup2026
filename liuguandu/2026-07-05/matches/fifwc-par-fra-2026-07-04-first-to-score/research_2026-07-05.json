@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-par-fra-2026-07-04-first-to-score",
+  "event_title": "Paraguay vs. France - First Team to Score",
+  "event_start": "2026-07-01T10:04:00.040613Z",
+  "as_of": "2026-07-02T14:04:40+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754692",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-home",
+        "question": "Paraguay to score first vs. France?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.135\", \"0.865\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.16,
+        "liquidity": 26389.3065,
+        "volume": 130.228231,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13 - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 04:20:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "On to the knockout round: 4 takeaways from the FIFA World Cup so far - NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21wbWlDcy00dlNjM1NzaW44TmZEdVBTaTJWTnFTU3FMUzl2azBmcHdSSWJDLTBHcUp4ZmU3NVRwbF9SN3Jmb1FvWGZwMEJ6Y1RtTDlMbHBlcUlkcG1BNTlfdGZXQ210ZmpaSTNUODRZMHd4R1l5ajJQaU41b2tsYW9CLWhSVk8tR2hwbk93?oc=5",
+          "source": "NPR",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France vs. Sweden Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVBWalN3OW5MczhMNTNveGt4SGxOSE5BX0RZTmZpc2I2THdmZE9MeGtwYlFBUGptTzZGMWtBYzRRWDZ4TzcwUF9sbmtQQzliamxKWDJnZ3R1U29IQnREN0M1Q2dDcE16bXV5VGs1aWRLamJHd0o5b3dOajhTZzlnZGpPMTRXZGF3eVpwczI5WEE4Y2xlcHNMakNpNNIBmwFBVV95cUxPQ3JYZEx2VUktMkEtWU5uMW4ybWdEY1UzNWY2NUdlVi12XzlVUnFGbG1IendRd1FIUGp4NWZ2THFXRnNMVzN5NFlkVkthTWU1d2pDcG5vM2ppNnh5M2ZKbUpkUktkZndHS3gyVTBRbWlOcUZIaXczSkJsVE4ydE52R0NBSHZNaXpXNmRhX1JjbzZ2eDcyNm56SEtMTQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 15:00:03 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs. Australia Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWJCaHN0dXpUamVKY0J0b0Izd0F1MWdyLUR5RmRJMDJKN0NVRl9jT3FFNDltREFnNjdhUEZXV2NoYVlvQ2NNT2hpdzcyTFA3dm5rUzdMN0hTOXlPaVJiejNIb1hlT2gzZWJIMExnX2diOEtOUkRYMEt2dm1KMkZnY0RRX1MxTkFTd2NOU0NYNlpnQUR5MzFuVGY1akrSAZwBQVVfeXFMUFRXeVpIZGJ5dVBxUEk4cUZmYW1ILWhGTy1Tc0xOY2dhYmZEU1FpcTF1WTBOLWxBYUEyV0tGNDRPWGNscmtWWTZTcVlTNlk5QkxzZHk4a2U3cDFQcHFja1V1ZW03eTI4azBTODJTT2hyOGlwVElma1E5UFkxZG91ZGxXck9XUTU3TXA3cWZVRENGOUFsRmtMajJJREZx?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 25 Jun 2026 16:00:29 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "The U.S. move into the top 10 for the first time. Re-ranking the 48 World Cup teams after day 19 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 11:27:21 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754693",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-away",
+        "question": "France to score first vs. Paraguay?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.835\", \"0.165\"]",
+        "bestBid": 0.83,
+        "bestAsk": 0.84,
+        "liquidity": 28425.998,
+        "volume": 77.334091,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13 - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 04:20:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "On to the knockout round: 4 takeaways from the FIFA World Cup so far - NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21wbWlDcy00dlNjM1NzaW44TmZEdVBTaTJWTnFTU3FMUzl2azBmcHdSSWJDLTBHcUp4ZmU3NVRwbF9SN3Jmb1FvWGZwMEJ6Y1RtTDlMbHBlcUlkcG1BNTlfdGZXQ210ZmpaSTNUODRZMHd4R1l5ajJQaU41b2tsYW9CLWhSVk8tR2hwbk93?oc=5",
+          "source": "NPR",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France vs. Sweden Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVBWalN3OW5MczhMNTNveGt4SGxOSE5BX0RZTmZpc2I2THdmZE9MeGtwYlFBUGptTzZGMWtBYzRRWDZ4TzcwUF9sbmtQQzliamxKWDJnZ3R1U29IQnREN0M1Q2dDcE16bXV5VGs1aWRLamJHd0o5b3dOajhTZzlnZGpPMTRXZGF3eVpwczI5WEE4Y2xlcHNMakNpNNIBmwFBVV95cUxPQ3JYZEx2VUktMkEtWU5uMW4ybWdEY1UzNWY2NUdlVi12XzlVUnFGbG1IendRd1FIUGp4NWZ2THFXRnNMVzN5NFlkVkthTWU1d2pDcG5vM2ppNnh5M2ZKbUpkUktkZndHS3gyVTBRbWlOcUZIaXczSkJsVE4ydE52R0NBSHZNaXpXNmRhX1JjbzZ2eDcyNm56SEtMTQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 15:00:03 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs. Australia Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWJCaHN0dXpUamVKY0J0b0Izd0F1MWdyLUR5RmRJMDJKN0NVRl9jT3FFNDltREFnNjdhUEZXV2NoYVlvQ2NNT2hpdzcyTFA3dm5rUzdMN0hTOXlPaVJiejNIb1hlT2gzZWJIMExnX2diOEtOUkRYMEt2dm1KMkZnY0RRX1MxTkFTd2NOU0NYNlpnQUR5MzFuVGY1akrSAZwBQVVfeXFMUFRXeVpIZGJ5dVBxUEk4cUZmYW1ILWhGTy1Tc0xOY2dhYmZEU1FpcTF1WTBOLWxBYUEyV0tGNDRPWGNscmtWWTZTcVlTNlk5QkxzZHk4a2U3cDFQcHFja1V1ZW03eTI4azBTODJTT2hyOGlwVElma1E5UFkxZG91ZGxXck9XUTU3TXA3cWZVRENGOUFsRmtMajJJREZx?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 25 Jun 2026 16:00:29 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "The U.S. move into the top 10 for the first time. Re-ranking the 48 World Cup teams after day 19 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 11:27:21 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754694",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-neither",
+        "question": "Paraguay vs. France: Neither team to score first?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.0415\", \"0.9585\"]",
+        "bestBid": 0.018,
+        "bestAsk": 0.065,
+        "liquidity": 22494.30631,
+        "volume": 41.79,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026 stats: Mbappe tops Messi, beats Ronaldo record; Olise one behind Pele; Haaland 25 in 13 - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZElKbjB3MmV2dUhhZ1p6OXBwRmVDX2t4bm9pNDlHWUtsWDNzMVdPbXpJWmhjR0xlaDZ6eWR5N3ZEd1RGbkQtUHdBUVlHQ3B6YTB5cmlKeEQtT1U3SFVfc2xVMG1UMW5WclgxaHBxdlNBQWJtVTZUSVRfS1hrSDU5dmd1eVJWZ0w3V1dnWnc4VHpheENiUk1PYlFzMndzWWxrR1Y5YzhKUERkc1ZNVDA0eHBFSUIteG9BUU16bXJUb0VxVHJhOTZWVURsVVppTDd4RXluQXBTZmtzUXZYNWJSWlJ6X3pKYUk3MUhlSGdLV3hOdmdES1pFWFZlbFQ?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 04:20:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "On to the knockout round: 4 takeaways from the FIFA World Cup so far - NPR",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb21wbWlDcy00dlNjM1NzaW44TmZEdVBTaTJWTnFTU3FMUzl2azBmcHdSSWJDLTBHcUp4ZmU3NVRwbF9SN3Jmb1FvWGZwMEJ6Y1RtTDlMbHBlcUlkcG1BNTlfdGZXQ210ZmpaSTNUODRZMHd4R1l5ajJQaU41b2tsYW9CLWhSVk8tR2hwbk93?oc=5",
+          "source": "NPR",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France vs. Sweden Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYVBWalN3OW5MczhMNTNveGt4SGxOSE5BX0RZTmZpc2I2THdmZE9MeGtwYlFBUGptTzZGMWtBYzRRWDZ4TzcwUF9sbmtQQzliamxKWDJnZ3R1U29IQnREN0M1Q2dDcE16bXV5VGs1aWRLamJHd0o5b3dOajhTZzlnZGpPMTRXZGF3eVpwczI5WEE4Y2xlcHNMakNpNNIBmwFBVV95cUxPQ3JYZEx2VUktMkEtWU5uMW4ybWdEY1UzNWY2NUdlVi12XzlVUnFGbG1IendRd1FIUGp4NWZ2THFXRnNMVzN5NFlkVkthTWU1d2pDcG5vM2ppNnh5M2ZKbUpkUktkZndHS3gyVTBRbWlOcUZIaXczSkJsVE4ydE52R0NBSHZNaXpXNmRhX1JjbzZ2eDcyNm56SEtMTQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 15:00:03 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs. Australia Prediction, Odds, Picks For World Cup Match - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcWJCaHN0dXpUamVKY0J0b0Izd0F1MWdyLUR5RmRJMDJKN0NVRl9jT3FFNDltREFnNjdhUEZXV2NoYVlvQ2NNT2hpdzcyTFA3dm5rUzdMN0hTOXlPaVJiejNIb1hlT2gzZWJIMExnX2diOEtOUkRYMEt2dm1KMkZnY0RRX1MxTkFTd2NOU0NYNlpnQUR5MzFuVGY1akrSAZwBQVVfeXFMUFRXeVpIZGJ5dVBxUEk4cUZmYW1ILWhGTy1Tc0xOY2dhYmZEU1FpcTF1WTBOLWxBYUEyV0tGNDRPWGNscmtWWTZTcVlTNlk5QkxzZHk4a2U3cDFQcHFja1V1ZW03eTI4azBTODJTT2hyOGlwVElma1E5UFkxZG91ZGxXck9XUTU3TXA3cWZVRENGOUFsRmtMajJJREZx?oc=5",
+          "source": "FOX Sports",
+          "published": "Thu, 25 Jun 2026 16:00:29 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup: One big question for every round-of-16 team - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2lCN0NkeHZvTDU3NVBzc3ZKeXMxN1djRXB0eWx2cjdoT3RyN1ZHQk1LOHI3dF9xblF0NDRIU2kzbmpQeGMzNVhrSWw0ZDlwVkI3dXRpaUtwNGtpejduN2xBZHhfUjlBTFh3VWlLWGZNOXFrZERwb195Rk0xY0g4TU9BTVByQUZWNWRueTlkSmNtRmxVSm01Z3paWlJtNU9FN3U0SmJhYmJZLVEta0RJU1ZyWXJaOWsxeFdr?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 13:15:00 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "The U.S. move into the top 10 for the first time. Re-ranking the 48 World Cup teams after day 19 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVFBOT2xfTllxanhFckRKTTlKa1ZOMEd1UThFMTV3ZzlsQXBIS2pqOHdLUFhMVVN4V2VtUHIyUC11WXl4Y2xYazVlODlzSjY1RHh5bUp0NTVWTTN1ZVJHV2ExT2xYM3RUN2dwa0JKX2t4dzVhZEZ3TkF3eHFuQTQtMlNiLV9rdnM?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 11:27:21 GMT",
+          "query": "Paraguay vs. France - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

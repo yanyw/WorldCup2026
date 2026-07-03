@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-aus-egy-2026-07-03-first-to-score",
+  "event_title": "Australia vs. Egypt - First Team to Score",
+  "event_start": "2026-06-27T10:04:04.357681Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707763",
+        "slug": "fifwc-aus-egy-2026-07-03-first-to-score-home",
+        "question": "Australia to score first vs. Egypt?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.375\", \"0.625\"]",
+        "bestBid": 0.37,
+        "bestAsk": 0.38,
+        "liquidity": 39065.2185,
+        "volume": 322.945294,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Australia vs Egypt Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SFdqOWVNTGZ6NzQ3NVVSWjd5d3ZjaVVCMU5XSkhnekNPU2pNWV9WQnJieV9jX2RtcE1yNzhZVU5hTG1pczh1c05xU2R3aVo1M1pJVWNUYzhTdW1RM0VrLXVXVDR3Si1lNkx0ci1Cd1ZwMEk?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 08:10:41 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 02:13:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707764",
+        "slug": "fifwc-aus-egy-2026-07-03-first-to-score-away",
+        "question": "Egypt to score first vs. Australia?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.495\", \"0.505\"]",
+        "bestBid": 0.49,
+        "bestAsk": 0.5,
+        "liquidity": 34703.6119,
+        "volume": 2071.538923,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Australia vs Egypt Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SFdqOWVNTGZ6NzQ3NVVSWjd5d3ZjaVVCMU5XSkhnekNPU2pNWV9WQnJieV9jX2RtcE1yNzhZVU5hTG1pczh1c05xU2R3aVo1M1pJVWNUYzhTdW1RM0VrLXVXVDR3Si1lNkx0ci1Cd1ZwMEk?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 08:10:41 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 02:13:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707765",
+        "slug": "fifwc-aus-egy-2026-07-03-first-to-score-neither",
+        "question": "Australia vs. Egypt: Neither team to score first?",
+        "description": "In the upcoming match between Australia and Egypt, scheduled for July 3, 2026 at 2:00 PM ET: This market will resolve to \"Australia\" if Australia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Egypt\" if Egypt are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.13\", \"0.87\"]",
+        "bestBid": 0.12,
+        "bestAsk": 0.14,
+        "liquidity": 44900.8097,
+        "volume": 1086.149997,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 FIFA World Cup match schedule: Fixtures, results, features - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazBRZDFsYjkyM1lXUGRBZzU2c3FfaHdOTWNtTUZGMWZhR1FCdDd1LTJ5U0VBN1FHbFZWRndrMzZVUTNGUFZqa3A5U3pLT1lreXNMZllmU2pPQUFFOGhCTEJoZHlnWFM3VU1xM0ZxNWJiZG4zMTA5OTZqQUlzUGp3Zm1tSXpWeGViTEFvdUVaaTgtcVdUTnZqX2F3eFdKWnNsTHBFRUl3OVVxTF91TE5udTZlNVF5UTFoU2hpdjJjSDdKZE5JNV9XNENMS290NWtu?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 04:42:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 22:52:54 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Australia vs Egypt Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84SFdqOWVNTGZ6NzQ3NVVSWjd5d3ZjaVVCMU5XSkhnekNPU2pNWV9WQnJieV9jX2RtcE1yNzhZVU5hTG1pczh1c05xU2R3aVo1M1pJVWNUYzhTdW1RM0VrLXVXVDR3Si1lNkx0ci1Cd1ZwMEk?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 08:10:41 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Football: FIFA World Cup 2026 bracket: Round of 32 full schedule – Live updates - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjFYNnF3NWgxYS1XRHk5aEJ6Z1Q5RzRseVJyLVo5aGxqOVRnWGYzdklRUUxBQnY1X1pSeGt1ZWlsbmIxLXI0S3U2LW9tdEg5Um5hcTdfV3lOS2E5cEdYSDdNTWx1SkUyTHpYcGNMeC1CaFU3SzNha0pBUFhlOXFlM2J6U0pCZjQ4TnZvWmdrQmlWdmFSdU1jakJwQUU?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 02:13:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup Round of 32: Which teams qualified or exited the tournament - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRlBjejdZSzZHTVJFcmJiRTBvazkwa0JOVjUyUTg1N1IwRnh5ejhmMV9vTEdOWHlxUUM1SWtfQy1zUzlHTjU5Q3dxZlVCQkZjZjBCWjY0VUZZUVlHU2dMQWFsZmZQcTIxSklIRElDZFVleXp6RUR6VEx3Yk85b0N5R3NWaGdmeV9RdTdONU5udkFUeWxBQXc1alJ2Q2NJeklFN0JmTGFOYkhxandZbzNCaTViTHrSAboBQVVfeXFMTmliUEN1eElveDNIMF9KM0Ywak5henpnNEJoVHBxZWJHNFNyY2tBYm5FMGF1THo0LWxtcWZ5Tjk1NFROZ1JqRVFCZmJiVzEwQV9sMVZndHBmeTBmSGpJOXFuREFDeUFRS0dyNkdRMXc2d0gtVjVYVk0wSTU3eXM0MzVXZnNmVlBSVGRKQWh2SUJNdHpPQ1V0cWZvUmliWUU5STlBNTVzVGtvLXhMNGRUeGQ1LTdwdWNVNC1R?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+          "query": "Australia vs. Egypt - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

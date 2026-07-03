@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-05",
+  "as_of": "2026-07-02T14:14:46.060113+00:00",
+  "verdict": "PASS",
+  "market_count_catalog": 96,
+  "market_count_in_probability_report": 96,
+  "coverage_requested_missing": 0,
+  "priority_order_slugs": [
+    "fifwc-par-fra-2026-07-04-first-half-team-total-away-1pt5",
+    "fifwc-par-fra-2026-07-04-second-half-team-total-away-1pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-1pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-3pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-4pt5"
+  ],
+  "conditional_watchlist_slugs": [
+    "fifwc-can-mar-2026-07-04-spread-away-2pt5",
+    "fifwc-can-mar-2026-07-04-spread-away-3pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-2pt5",
+    "fifwc-par-fra-2026-07-04-total-5pt5"
+  ],
+  "detailed_evidence_slugs": [
+    "fifwc-can-mar-2026-07-04-spread-away-2pt5",
+    "fifwc-can-mar-2026-07-04-spread-away-3pt5",
+    "fifwc-par-fra-2026-07-04-first-half-team-total-away-1pt5",
+    "fifwc-par-fra-2026-07-04-second-half-team-total-away-1pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-1pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-2pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-3pt5",
+    "fifwc-par-fra-2026-07-04-spread-away-4pt5",
+    "fifwc-par-fra-2026-07-04-total-5pt5"
+  ],
+  "source_summary_by_match": {
+    "fifwc-can-mar-2026-07-04": {
+      "base_slug": "fifwc-can-mar-2026-07-04",
+      "event_title": "Canada vs. Morocco",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "event_start": "2026-06-30T10:03:46.600404Z",
+      "source_count": 23,
+      "source_tiers": {
+        "other": 23
+      }
+    },
+    "fifwc-par-fra-2026-07-04": {
+      "base_slug": "fifwc-par-fra-2026-07-04",
+      "event_title": "Paraguay vs. France",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "event_start": "2026-07-01T10:03:23.53868Z",
+      "source_count": 24,
+      "source_tiers": {
+        "other": 24
+      }
+    }
+  },
+  "severity_counts": {},
+  "findings": []
+}

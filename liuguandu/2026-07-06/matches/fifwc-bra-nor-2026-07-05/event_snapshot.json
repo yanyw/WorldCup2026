@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-bra-nor-2026-07-05",
+  "event_title": "Brazil vs. Norway",
+  "event_start": "2026-07-01T10:03:40.226987Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754647",
+        "slug": "fifwc-bra-nor-2026-07-05-bra",
+        "question": "Will Brazil win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Brazil wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.515\", \"0.485\"]",
+        "bestBid": 0.51,
+        "bestAsk": 0.52,
+        "liquidity": 581831.17,
+        "volume": 165571.03151000006,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2754649",
+        "slug": "fifwc-bra-nor-2026-07-05-draw",
+        "question": "Will Brazil vs. Norway end in a draw?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.265\", \"0.735\"]",
+        "bestBid": 0.26,
+        "bestAsk": 0.27,
+        "liquidity": 235305.4252,
+        "volume": 14169.313707000012,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2754651",
+        "slug": "fifwc-bra-nor-2026-07-05-nor",
+        "question": "Will Norway win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Norway wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.225\", \"0.775\"]",
+        "bestBid": 0.22,
+        "bestAsk": 0.23,
+        "liquidity": 268226.8082,
+        "volume": 302526.0025800029,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

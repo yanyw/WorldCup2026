@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-mex-eng-2026-07-05",
+  "event_title": "Mexico vs. England",
+  "event_start": "2026-07-02T10:03:13.026322Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2766759",
+        "slug": "fifwc-mex-eng-2026-07-05-mex",
+        "question": "Will Mexico win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Mexico wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.305\", \"0.695\"]",
+        "bestBid": 0.3,
+        "bestAsk": 0.31,
+        "liquidity": 236693.6043,
+        "volume": 82580.69734099993,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2766762",
+        "slug": "fifwc-mex-eng-2026-07-05-eng",
+        "question": "Will England win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf England wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.395\", \"0.605\"]",
+        "bestBid": 0.39,
+        "bestAsk": 0.4,
+        "liquidity": 139760.0922,
+        "volume": 6235.776382,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2"
+    },
+    {
+      "market": {
+        "id": "2766760",
+        "slug": "fifwc-mex-eng-2026-07-05-draw",
+        "question": "Will Mexico vs. England end in a draw?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.295\", \"0.705\"]",
+        "bestBid": 0.29,
+        "bestAsk": 0.3,
+        "liquidity": 157443.213,
+        "volume": 2546.3451460000006,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2"
+    }
+  ]
+}

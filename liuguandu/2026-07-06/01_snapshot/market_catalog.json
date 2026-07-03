@@ -1,0 +1,1586 @@
+[
+  {
+    "event_slug": "fifwc-bra-nor-2026-07-05",
+    "event_title": "Brazil vs. Norway",
+    "event_start": "2026-07-01T10:03:40.226987Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754647",
+          "slug": "fifwc-bra-nor-2026-07-05-bra",
+          "question": "Will Brazil win on 2026-07-05?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf Brazil wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.515\", \"0.485\"]",
+          "bestBid": 0.51,
+          "bestAsk": 0.52,
+          "liquidity": 581831.17,
+          "volume": 165571.03151000006,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2754649",
+          "slug": "fifwc-bra-nor-2026-07-05-draw",
+          "question": "Will Brazil vs. Norway end in a draw?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.265\", \"0.735\"]",
+          "bestBid": 0.26,
+          "bestAsk": 0.27,
+          "liquidity": 235305.4252,
+          "volume": 14169.313707000012,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2754651",
+          "slug": "fifwc-bra-nor-2026-07-05-nor",
+          "question": "Will Norway win on 2026-07-05?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf Norway wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.225\", \"0.775\"]",
+          "bestBid": 0.22,
+          "bestAsk": 0.23,
+          "liquidity": 268226.8082,
+          "volume": 302526.0025800029,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "match_1x2"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-bra-nor-2026-07-05-first-to-score",
+    "event_title": "Brazil vs. Norway - First Team to Score",
+    "event_start": "2026-07-01T10:04:31.310107Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754728",
+          "slug": "fifwc-bra-nor-2026-07-05-first-to-score-neither",
+          "question": "Brazil vs. Norway: Neither team to score first?",
+          "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.055\", \"0.945\"]",
+          "bestBid": 0.05,
+          "bestAsk": 0.06,
+          "liquidity": 28845.432,
+          "volume": 154.916665,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2754726",
+          "slug": "fifwc-bra-nor-2026-07-05-first-to-score-home",
+          "question": "Brazil to score first vs. Norway?",
+          "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.58\", \"0.42\"]",
+          "bestBid": 0.57,
+          "bestAsk": 0.59,
+          "liquidity": 31062.7194,
+          "volume": 167.22914200000002,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2754727",
+          "slug": "fifwc-bra-nor-2026-07-05-first-to-score-away",
+          "question": "Norway to score first vs. Brazil?",
+          "description": "In the upcoming match between Brazil and Norway, scheduled for July 5, 2026 at 4:00 PM ET: This market will resolve to \"Brazil\" if Brazil are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Norway\" if Norway are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.37\", \"0.63\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.38,
+          "liquidity": 35584.4125,
+          "volume": 125.300479,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-bra-nor-2026-07-05-more-markets",
+    "event_title": "Brazil vs. Norway - More Markets",
+    "event_start": "2026-07-01T10:32:22.146384Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2754827",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-home-1pt5",
+          "question": "Spread: Brazil (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Brazil\", \"Norway\"]",
+          "outcomePrices": "[\"0.275\", \"0.725\"]",
+          "bestBid": 0.27,
+          "bestAsk": 0.28,
+          "liquidity": 115344.7125,
+          "volume": 2328.3101380000003,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754828",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-away-1pt5",
+          "question": "Spread: Norway (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Norway\", \"Brazil\"]",
+          "outcomePrices": "[\"0.085\", \"0.915\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.09,
+          "liquidity": 86653.6092,
+          "volume": 781.9444380000001,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754829",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-home-2pt5",
+          "question": "Spread: Brazil (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Brazil\", \"Norway\"]",
+          "outcomePrices": "[\"0.125\", \"0.875\"]",
+          "bestBid": 0.12,
+          "bestAsk": 0.13,
+          "liquidity": 78250.7391,
+          "volume": 488.99,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754830",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-away-2pt5",
+          "question": "Spread: Norway (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Norway\", \"Brazil\"]",
+          "outcomePrices": "[\"0.0235\", \"0.9765\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.027,
+          "liquidity": 44924.01015,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754831",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-home-3pt5",
+          "question": "Spread: Brazil (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Brazil\", \"Norway\"]",
+          "outcomePrices": "[\"0.045\", \"0.955\"]",
+          "bestBid": 0.04,
+          "bestAsk": 0.05,
+          "liquidity": 39190.0401,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754832",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-away-3pt5",
+          "question": "Spread: Norway (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Norway\", \"Brazil\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 37266.43151,
+          "volume": 2335.899998,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754833",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-home-4pt5",
+          "question": "Spread: Brazil (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Brazil\", \"Norway\"]",
+          "outcomePrices": "[\"0.046\", \"0.954\"]",
+          "bestBid": 0.011,
+          "bestAsk": 0.081,
+          "liquidity": 18755.34985,
+          "volume": 51.2323,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754834",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-away-4pt5",
+          "question": "Spread: Norway (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Norway\", \"Brazil\"]",
+          "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.004,
+          "liquidity": 23289.04997,
+          "volume": 493.3125,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754835",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-home-5pt5",
+          "question": "Spread: Brazil (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Brazil\" if Brazil win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Norway\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Brazil\", \"Norway\"]",
+          "outcomePrices": "[\"0.0075\", \"0.9925\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.013,
+          "liquidity": 25574.14273,
+          "volume": 508.30999999999995,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754836",
+          "slug": "fifwc-bra-nor-2026-07-05-spread-away-5pt5",
+          "question": "Spread: Norway (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Norway\" if Norway win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Brazil\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Norway\", \"Brazil\"]",
+          "outcomePrices": "[\"0.0025\", \"0.9975\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.004,
+          "liquidity": 26348.28513,
+          "volume": 1049.8695,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2754837",
+          "slug": "fifwc-bra-nor-2026-07-05-total-0pt5",
+          "question": "Brazil vs. Norway: O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.94\", \"0.06\"]",
+          "bestBid": 0.93,
+          "bestAsk": 0.95,
+          "liquidity": 74979.7348,
+          "volume": 12.152619999999999,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754838",
+          "slug": "fifwc-bra-nor-2026-07-05-total-1pt5",
+          "question": "Brazil vs. Norway: O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.785\", \"0.215\"]",
+          "bestBid": 0.78,
+          "bestAsk": 0.79,
+          "liquidity": 98050.3432,
+          "volume": 4059.1013440000006,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754839",
+          "slug": "fifwc-bra-nor-2026-07-05-total-2pt5",
+          "question": "Brazil vs. Norway: O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.545\", \"0.455\"]",
+          "bestBid": 0.54,
+          "bestAsk": 0.55,
+          "liquidity": 137299.9865,
+          "volume": 45064.31141900001,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754840",
+          "slug": "fifwc-bra-nor-2026-07-05-total-3pt5",
+          "question": "Brazil vs. Norway: O/U 3.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.325\", \"0.675\"]",
+          "bestBid": 0.32,
+          "bestAsk": 0.33,
+          "liquidity": 116068.6883,
+          "volume": 10007.431473,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754841",
+          "slug": "fifwc-bra-nor-2026-07-05-total-4pt5",
+          "question": "Brazil vs. Norway: O/U 4.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.165\", \"0.835\"]",
+          "bestBid": 0.16,
+          "bestAsk": 0.17,
+          "liquidity": 86250.5881,
+          "volume": 5979.262351,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754842",
+          "slug": "fifwc-bra-nor-2026-07-05-total-5pt5",
+          "question": "Brazil vs. Norway: O/U 5.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.065\", \"0.935\"]",
+          "bestBid": 0.06,
+          "bestAsk": 0.07,
+          "liquidity": 103196.0941,
+          "volume": 14.285713,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754843",
+          "slug": "fifwc-bra-nor-2026-07-05-total-6pt5",
+          "question": "Brazil vs. Norway: O/U 6.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.03\", \"0.97\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.04,
+          "liquidity": 35193.82081,
+          "volume": 33.333332,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754844",
+          "slug": "fifwc-bra-nor-2026-07-05-total-7pt5",
+          "question": "Brazil vs. Norway: O/U 7.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.011\", \"0.989\"]",
+          "bestBid": 0.005,
+          "bestAsk": 0.017,
+          "liquidity": 31827.09868,
+          "volume": 125,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754845",
+          "slug": "fifwc-bra-nor-2026-07-05-total-8pt5",
+          "question": "Brazil vs. Norway: O/U 8.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Over\" if Brazil and Norway combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.009,
+          "liquidity": 30878.00509,
+          "volume": 452.114111,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754846",
+          "slug": "fifwc-bra-nor-2026-07-05-btts",
+          "question": "Brazil vs. Norway: Both Teams to Score",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Brazil and Norway each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.575\", \"0.425\"]",
+          "bestBid": 0.57,
+          "bestAsk": 0.58,
+          "liquidity": 103244.4438,
+          "volume": 42011.90284299999,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754847",
+          "slug": "fifwc-bra-nor-2026-07-05-btts-first-half",
+          "question": "Brazil vs. Norway: Both Teams to Score in First Half",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Yes\" if both Brazil and Norway each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.225\", \"0.775\"]",
+          "bestBid": 0.22,
+          "bestAsk": 0.23,
+          "liquidity": 40209.3939,
+          "volume": 643.432958,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754848",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-total-0pt5",
+          "question": "Brazil vs. Norway: 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.72\", \"0.28\"]",
+          "bestBid": 0.71,
+          "bestAsk": 0.73,
+          "liquidity": 62241.6292,
+          "volume": 2.739725,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754849",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-total-1pt5",
+          "question": "Brazil vs. Norway: 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.355\", \"0.645\"]",
+          "bestBid": 0.34,
+          "bestAsk": 0.37,
+          "liquidity": 64535.2135,
+          "volume": 92.25,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754850",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-total-2pt5",
+          "question": "Brazil vs. Norway: 1st Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.125\", \"0.875\"]",
+          "bestBid": 0.11,
+          "bestAsk": 0.14,
+          "liquidity": 42309.7097,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754851",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-home-0pt5",
+          "question": "Brazil vs. Norway: Brazil O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Brazil score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Brazil's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.83\", \"0.17\"]",
+          "bestBid": 0.82,
+          "bestAsk": 0.84,
+          "liquidity": 38846.991,
+          "volume": 91.611284,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754852",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-home-1pt5",
+          "question": "Brazil vs. Norway: Brazil O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Brazil score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Brazil's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.525\", \"0.475\"]",
+          "bestBid": 0.51,
+          "bestAsk": 0.54,
+          "liquidity": 60483.3772,
+          "volume": 50.330749,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754853",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-home-2pt5",
+          "question": "Brazil vs. Norway: Brazil O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Brazil score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Brazil's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.24\", \"0.76\"]",
+          "bestBid": 0.23,
+          "bestAsk": 0.25,
+          "liquidity": 50909.0571,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754854",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-away-0pt5",
+          "question": "Brazil vs. Norway: Norway O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Norway score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Norway's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.68\", \"0.32\"]",
+          "bestBid": 0.67,
+          "bestAsk": 0.69,
+          "liquidity": 63377.2812,
+          "volume": 156.662853,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754855",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-away-1pt5",
+          "question": "Brazil vs. Norway: Norway O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Norway score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Norway's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.305\", \"0.695\"]",
+          "bestBid": 0.3,
+          "bestAsk": 0.31,
+          "liquidity": 50915.6958,
+          "volume": 1429.093934,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754856",
+          "slug": "fifwc-bra-nor-2026-07-05-team-total-away-2pt5",
+          "question": "Brazil vs. Norway: Norway O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Norway score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Norway's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.1\", \"0.9\"]",
+          "bestBid": 0.09,
+          "bestAsk": 0.11,
+          "liquidity": 27868.6802,
+          "volume": 373.883604,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754857",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-team-total-home-0pt5",
+          "question": "Brazil vs. Norway: Brazil 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Brazil score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Brazil's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.55\", \"0.45\"]",
+          "bestBid": 0.53,
+          "bestAsk": 0.57,
+          "liquidity": 41562.5867,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754858",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-team-total-home-1pt5",
+          "question": "Brazil vs. Norway: Brazil 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Brazil score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Brazil's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.185\", \"0.815\"]",
+          "bestBid": 0.16,
+          "bestAsk": 0.21,
+          "liquidity": 26869.2545,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754859",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-team-total-away-0pt5",
+          "question": "Brazil vs. Norway: Norway 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Norway score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Norway's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.38\", \"0.62\"]",
+          "bestBid": 0.37,
+          "bestAsk": 0.39,
+          "liquidity": 38682.4446,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754860",
+          "slug": "fifwc-bra-nor-2026-07-05-first-half-team-total-away-1pt5",
+          "question": "Brazil vs. Norway: Norway 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Norway score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Norway's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.095\", \"0.905\"]",
+          "bestBid": 0.07,
+          "bestAsk": 0.12,
+          "liquidity": 22142.7549,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754861",
+          "slug": "fifwc-bra-nor-2026-07-05-btts-second-half",
+          "question": "Brazil vs. Norway: Both Teams to Score in Second Half",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Yes\" if both Brazil and Norway each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.305\", \"0.695\"]",
+          "bestBid": 0.29,
+          "bestAsk": 0.32,
+          "liquidity": 29292.3191,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2754862",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-total-0pt5",
+          "question": "Brazil vs. Norway: 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.78\", \"0.22\"]",
+          "bestBid": 0.75,
+          "bestAsk": 0.81,
+          "liquidity": 25146.0378,
+          "volume": 42.804346,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754863",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-total-1pt5",
+          "question": "Brazil vs. Norway: 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.48\", \"0.52\"]",
+          "bestBid": 0.45,
+          "bestAsk": 0.51,
+          "liquidity": 23918.2038,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754864",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-total-2pt5",
+          "question": "Brazil vs. Norway: 2nd Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil and Norway combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.21\", \"0.79\"]",
+          "bestBid": 0.19,
+          "bestAsk": 0.23,
+          "liquidity": 30944.5261,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2754865",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-team-total-home-0pt5",
+          "question": "Brazil vs. Norway: Brazil 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Brazil score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Brazil's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.62\", \"0.38\"]",
+          "bestBid": 0.59,
+          "bestAsk": 0.65,
+          "liquidity": 20723.7748,
+          "volume": 6.666664,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754866",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-team-total-home-1pt5",
+          "question": "Brazil vs. Norway: Brazil 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Brazil score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Brazil score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Brazil's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.48\", \"0.52\"]",
+          "bestBid": 0.07,
+          "bestAsk": 0.89,
+          "liquidity": 24.388,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754867",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-team-total-away-0pt5",
+          "question": "Brazil vs. Norway: Norway 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Norway score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Norway's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.465\", \"0.535\"]",
+          "bestBid": 0.43,
+          "bestAsk": 0.5,
+          "liquidity": 19460.068,
+          "volume": 42.13,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2754868",
+          "slug": "fifwc-bra-nor-2026-07-05-second-half-team-total-away-1pt5",
+          "question": "Brazil vs. Norway: Norway 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Brazil and Norway, scheduled for July 5 at 4:00 PM ET: This market will resolve to \"Over\" if Norway score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Norway score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Norway's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.465\", \"0.535\"]",
+          "bestBid": 0.07,
+          "bestAsk": 0.86,
+          "liquidity": 22.6335,
+          "volume": null,
+          "endDate": "2026-07-05T20:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-mex-eng-2026-07-05",
+    "event_title": "Mexico vs. England",
+    "event_start": "2026-07-02T10:03:13.026322Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2766759",
+          "slug": "fifwc-mex-eng-2026-07-05-mex",
+          "question": "Will Mexico win on 2026-07-05?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf Mexico wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.305\", \"0.695\"]",
+          "bestBid": 0.3,
+          "bestAsk": 0.31,
+          "liquidity": 236693.6043,
+          "volume": 82580.69734099993,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2766762",
+          "slug": "fifwc-mex-eng-2026-07-05-eng",
+          "question": "Will England win on 2026-07-05?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf England wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.395\", \"0.605\"]",
+          "bestBid": 0.39,
+          "bestAsk": 0.4,
+          "liquidity": 139760.0922,
+          "volume": 6235.776382,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "match_1x2"
+      },
+      {
+        "market": {
+          "id": "2766760",
+          "slug": "fifwc-mex-eng-2026-07-05-draw",
+          "question": "Will Mexico vs. England end in a draw?",
+          "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.295\", \"0.705\"]",
+          "bestBid": 0.29,
+          "bestAsk": 0.3,
+          "liquidity": 157443.213,
+          "volume": 2546.3451460000006,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "match_1x2"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-mex-eng-2026-07-05-first-to-score",
+    "event_title": "Mexico vs. England - First Team to Score",
+    "event_start": "2026-07-02T10:06:57.706746Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2766818",
+          "slug": "fifwc-mex-eng-2026-07-05-first-to-score-home",
+          "question": "Mexico to score first vs. England?",
+          "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.41\", \"0.59\"]",
+          "bestBid": 0.4,
+          "bestAsk": 0.42,
+          "liquidity": 9979.3094,
+          "volume": 496.761903,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2766819",
+          "slug": "fifwc-mex-eng-2026-07-05-first-to-score-away",
+          "question": "England to score first vs. Mexico?",
+          "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.485\", \"0.515\"]",
+          "bestBid": 0.47,
+          "bestAsk": 0.5,
+          "liquidity": 9566.3168,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      },
+      {
+        "market": {
+          "id": "2766820",
+          "slug": "fifwc-mex-eng-2026-07-05-first-to-score-neither",
+          "question": "Mexico vs. England: Neither team to score first?",
+          "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.095\", \"0.905\"]",
+          "bestBid": 0.09,
+          "bestAsk": 0.1,
+          "liquidity": 11515.0802,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "first_team_to_score"
+      }
+    ]
+  },
+  {
+    "event_slug": "fifwc-mex-eng-2026-07-05-more-markets",
+    "event_title": "Mexico vs. England - More Markets",
+    "event_start": "2026-07-02T10:32:36.811562Z",
+    "as_of": "2026-07-02T14:05:15+00:00",
+    "markets": [
+      {
+        "market": {
+          "id": "2766994",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-home-2pt5",
+          "question": "Spread: Mexico (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Mexico\" if Mexico win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"England\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Mexico\", \"England\"]",
+          "outcomePrices": "[\"0.03\", \"0.97\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.04,
+          "liquidity": 29387.57414,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766995",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-away-2pt5",
+          "question": "Spread: England (-2.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"England\" if England win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Mexico\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"England\", \"Mexico\"]",
+          "outcomePrices": "[\"0.05\", \"0.95\"]",
+          "bestBid": 0.04,
+          "bestAsk": 0.06,
+          "liquidity": 56744.1498,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766996",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-home-3pt5",
+          "question": "Spread: Mexico (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Mexico\" if Mexico win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"England\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Mexico\", \"England\"]",
+          "outcomePrices": "[\"0.006\", \"0.994\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.01,
+          "liquidity": 22777.97289,
+          "volume": 10.01,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766997",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-away-3pt5",
+          "question": "Spread: England (-3.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"England\" if England win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Mexico\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"England\", \"Mexico\"]",
+          "outcomePrices": "[\"0.015\", \"0.985\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.02,
+          "liquidity": 15248.00643,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766998",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-home-4pt5",
+          "question": "Spread: Mexico (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Mexico\" if Mexico win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"England\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Mexico\", \"England\"]",
+          "outcomePrices": "[\"0.011\", \"0.989\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.02,
+          "liquidity": 9423.29717,
+          "volume": 10,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766999",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-away-4pt5",
+          "question": "Spread: England (-4.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"England\" if England win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Mexico\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"England\", \"Mexico\"]",
+          "outcomePrices": "[\"0.011\", \"0.989\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.02,
+          "liquidity": 10451.92015,
+          "volume": 378,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2767000",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-home-5pt5",
+          "question": "Spread: Mexico (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Mexico\" if Mexico win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"England\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Mexico\", \"England\"]",
+          "outcomePrices": "[\"0.0065\", \"0.9935\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.011,
+          "liquidity": 9259.69893,
+          "volume": 30,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2767001",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-away-5pt5",
+          "question": "Spread: England (-5.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"England\" if England win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Mexico\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"England\", \"Mexico\"]",
+          "outcomePrices": "[\"0.011\", \"0.989\"]",
+          "bestBid": 0.002,
+          "bestAsk": 0.02,
+          "liquidity": 7570.98208,
+          "volume": 10,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2767002",
+          "slug": "fifwc-mex-eng-2026-07-05-total-0pt5",
+          "question": "Mexico vs. England: O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.89\", \"0.11\"]",
+          "bestBid": 0.88,
+          "bestAsk": 0.9,
+          "liquidity": 62677.5205,
+          "volume": 11.11111,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767003",
+          "slug": "fifwc-mex-eng-2026-07-05-total-1pt5",
+          "question": "Mexico vs. England: O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.645\", \"0.355\"]",
+          "bestBid": 0.64,
+          "bestAsk": 0.65,
+          "liquidity": 79636.223,
+          "volume": 16.689974,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767004",
+          "slug": "fifwc-mex-eng-2026-07-05-total-2pt5",
+          "question": "Mexico vs. England: O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.375\", \"0.625\"]",
+          "bestBid": 0.37,
+          "bestAsk": 0.38,
+          "liquidity": 80227.9645,
+          "volume": 2933.588399,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2766992",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-home-1pt5",
+          "question": "Spread: Mexico (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Mexico\" if Mexico win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"England\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Mexico\", \"England\"]",
+          "outcomePrices": "[\"0.115\", \"0.885\"]",
+          "bestBid": 0.11,
+          "bestAsk": 0.12,
+          "liquidity": 64555.2008,
+          "volume": 1617.666665,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2766993",
+          "slug": "fifwc-mex-eng-2026-07-05-spread-away-1pt5",
+          "question": "Spread: England (-1.5)",
+          "description": "In the upcoming FIFA World Cup game, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"England\" if England win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Mexico\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"England\", \"Mexico\"]",
+          "outcomePrices": "[\"0.165\", \"0.835\"]",
+          "bestBid": 0.16,
+          "bestAsk": 0.17,
+          "liquidity": 77146.8697,
+          "volume": 4835.720475,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "spread_lines"
+      },
+      {
+        "market": {
+          "id": "2767005",
+          "slug": "fifwc-mex-eng-2026-07-05-total-3pt5",
+          "question": "Mexico vs. England: O/U 3.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.18\", \"0.82\"]",
+          "bestBid": 0.17,
+          "bestAsk": 0.19,
+          "liquidity": 56371.3618,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767006",
+          "slug": "fifwc-mex-eng-2026-07-05-total-4pt5",
+          "question": "Mexico vs. England: O/U 4.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.075\", \"0.925\"]",
+          "bestBid": 0.07,
+          "bestAsk": 0.08,
+          "liquidity": 50683.4113,
+          "volume": 3144.0042789999998,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767007",
+          "slug": "fifwc-mex-eng-2026-07-05-total-5pt5",
+          "question": "Mexico vs. England: O/U 5.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.025\", \"0.975\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.03,
+          "liquidity": 17787.20366,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767008",
+          "slug": "fifwc-mex-eng-2026-07-05-total-6pt5",
+          "question": "Mexico vs. England: O/U 6.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0115\", \"0.9885\"]",
+          "bestBid": 0.003,
+          "bestAsk": 0.02,
+          "liquidity": 13101.19764,
+          "volume": 10.01,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767009",
+          "slug": "fifwc-mex-eng-2026-07-05-total-7pt5",
+          "question": "Mexico vs. England: O/U 7.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 13420.74959,
+          "volume": 5.01,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767010",
+          "slug": "fifwc-mex-eng-2026-07-05-total-8pt5",
+          "question": "Mexico vs. England: O/U 8.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Over\" if Mexico and England combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+          "bestBid": 0.001,
+          "bestAsk": 0.01,
+          "liquidity": 12544.41326,
+          "volume": 5.01,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767011",
+          "slug": "fifwc-mex-eng-2026-07-05-btts",
+          "question": "Mexico vs. England: Both Teams to Score",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Mexico and England each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.475\", \"0.525\"]",
+          "bestBid": 0.47,
+          "bestAsk": 0.48,
+          "liquidity": 60021.0893,
+          "volume": 177.42105699999996,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2767012",
+          "slug": "fifwc-mex-eng-2026-07-05-btts-first-half",
+          "question": "Mexico vs. England: Both Teams to Score in First Half",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Yes\" if both Mexico and England each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.145\", \"0.855\"]",
+          "bestBid": 0.13,
+          "bestAsk": 0.16,
+          "liquidity": 6537.142,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2767013",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-total-0pt5",
+          "question": "Mexico vs. England: 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.625\", \"0.375\"]",
+          "bestBid": 0.61,
+          "bestAsk": 0.64,
+          "liquidity": 30990.5653,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767014",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-total-1pt5",
+          "question": "Mexico vs. England: 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.265\", \"0.735\"]",
+          "bestBid": 0.25,
+          "bestAsk": 0.28,
+          "liquidity": 15094.0741,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767015",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-total-2pt5",
+          "question": "Mexico vs. England: 1st Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.08\", \"0.92\"]",
+          "bestBid": 0.07,
+          "bestAsk": 0.09,
+          "liquidity": 15126.7438,
+          "volume": 30,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767016",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-home-0pt5",
+          "question": "Mexico vs. England: Mexico O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Mexico score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Mexico's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.635\", \"0.365\"]",
+          "bestBid": 0.62,
+          "bestAsk": 0.65,
+          "liquidity": 26326.7312,
+          "volume": 8.546151,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767017",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-home-1pt5",
+          "question": "Mexico vs. England: Mexico O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Mexico score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Mexico's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.265\", \"0.735\"]",
+          "bestBid": 0.25,
+          "bestAsk": 0.28,
+          "liquidity": 22228.3468,
+          "volume": 17,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767018",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-home-2pt5",
+          "question": "Mexico vs. England: Mexico O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Mexico score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Mexico's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.08\", \"0.92\"]",
+          "bestBid": 0.06,
+          "bestAsk": 0.1,
+          "liquidity": 9926.4704,
+          "volume": 30,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767019",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-away-0pt5",
+          "question": "Mexico vs. England: England O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If England score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on England's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.7\", \"0.3\"]",
+          "bestBid": 0.68,
+          "bestAsk": 0.72,
+          "liquidity": 21890.1341,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767020",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-away-1pt5",
+          "question": "Mexico vs. England: England O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If England score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on England's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.345\", \"0.655\"]",
+          "bestBid": 0.33,
+          "bestAsk": 0.36,
+          "liquidity": 24875.4477,
+          "volume": 54.864863,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767021",
+          "slug": "fifwc-mex-eng-2026-07-05-team-total-away-2pt5",
+          "question": "Mexico vs. England: England O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If England score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on England's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.12\", \"0.88\"]",
+          "bestBid": 0.1,
+          "bestAsk": 0.14,
+          "liquidity": 9607.1669,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767022",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-team-total-home-0pt5",
+          "question": "Mexico vs. England: Mexico 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Mexico score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Mexico's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.375\", \"0.625\"]",
+          "bestBid": 0.36,
+          "bestAsk": 0.39,
+          "liquidity": 10509.6825,
+          "volume": 34.684209,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767023",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-team-total-home-1pt5",
+          "question": "Mexico vs. England: Mexico 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Mexico score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Mexico's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.08\", \"0.92\"]",
+          "bestBid": 0.06,
+          "bestAsk": 0.1,
+          "liquidity": 2719.1552,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767024",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-team-total-away-0pt5",
+          "question": "Mexico vs. England: England 1st Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If England score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on England's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.405\", \"0.595\"]",
+          "bestBid": 0.38,
+          "bestAsk": 0.43,
+          "liquidity": 10622.6207,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767025",
+          "slug": "fifwc-mex-eng-2026-07-05-first-half-team-total-away-1pt5",
+          "question": "Mexico vs. England: England 1st Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If England score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on England's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.1\", \"0.9\"]",
+          "bestBid": 0.08,
+          "bestAsk": 0.12,
+          "liquidity": 3371.9699,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767026",
+          "slug": "fifwc-mex-eng-2026-07-05-btts-second-half",
+          "question": "Mexico vs. England: Both Teams to Score in Second Half",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Yes\" if both Mexico and England each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Yes\", \"No\"]",
+          "outcomePrices": "[\"0.22\", \"0.78\"]",
+          "bestBid": 0.2,
+          "bestAsk": 0.24,
+          "liquidity": 3562.8715,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "btts"
+      },
+      {
+        "market": {
+          "id": "2767027",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-total-0pt5",
+          "question": "Mexico vs. England: 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.71\", \"0.29\"]",
+          "bestBid": 0.69,
+          "bestAsk": 0.73,
+          "liquidity": 4266.0602,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767028",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-total-1pt5",
+          "question": "Mexico vs. England: 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.35\", \"0.65\"]",
+          "bestBid": 0.33,
+          "bestAsk": 0.37,
+          "liquidity": 4637.7442,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767029",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-total-2pt5",
+          "question": "Mexico vs. England: 2nd Half O/U 2.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico and England combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.13\", \"0.87\"]",
+          "bestBid": 0.11,
+          "bestAsk": 0.15,
+          "liquidity": 3693.4273,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "totals_lines"
+      },
+      {
+        "market": {
+          "id": "2767030",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-team-total-home-0pt5",
+          "question": "Mexico vs. England: Mexico 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Mexico score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Mexico's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.5\", \"0.5\"]",
+          "bestBid": 0.01,
+          "bestAsk": 0.99,
+          "liquidity": 2.02,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767031",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-team-total-home-1pt5",
+          "question": "Mexico vs. England: Mexico 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if Mexico score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Mexico score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Mexico's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.5\", \"0.5\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.98,
+          "liquidity": 2.12,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767032",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-team-total-away-0pt5",
+          "question": "Mexico vs. England: England 2nd Half O/U 0.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If England score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on England's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.5\", \"0.5\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.98,
+          "liquidity": 2.12,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      },
+      {
+        "market": {
+          "id": "2767033",
+          "slug": "fifwc-mex-eng-2026-07-05-second-half-team-total-away-1pt5",
+          "question": "Mexico vs. England: England 2nd Half O/U 1.5",
+          "description": "In the upcoming FIFA World Cup game between Mexico and England, scheduled for July 5 at 8:00 PM ET: This market will resolve to \"Over\" if England score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If England score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on England's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+          "outcomes": "[\"Over\", \"Under\"]",
+          "outcomePrices": "[\"0.5\", \"0.5\"]",
+          "bestBid": 0.02,
+          "bestAsk": 0.98,
+          "liquidity": 2.12,
+          "volume": null,
+          "endDate": "2026-07-06T00:00:00Z"
+        },
+        "market_type": "team_total_lines"
+      }
+    ]
+  }
+]

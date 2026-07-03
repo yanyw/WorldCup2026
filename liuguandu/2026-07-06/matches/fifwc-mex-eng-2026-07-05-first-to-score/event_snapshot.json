@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-mex-eng-2026-07-05-first-to-score",
+  "event_title": "Mexico vs. England - First Team to Score",
+  "event_start": "2026-07-02T10:06:57.706746Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2766818",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-home",
+        "question": "Mexico to score first vs. England?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.41\", \"0.59\"]",
+        "bestBid": 0.4,
+        "bestAsk": 0.42,
+        "liquidity": 9979.3094,
+        "volume": 496.761903,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2766819",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-away",
+        "question": "England to score first vs. Mexico?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.485\", \"0.515\"]",
+        "bestBid": 0.47,
+        "bestAsk": 0.5,
+        "liquidity": 9566.3168,
+        "volume": null,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2766820",
+        "slug": "fifwc-mex-eng-2026-07-05-first-to-score-neither",
+        "question": "Mexico vs. England: Neither team to score first?",
+        "description": "In the upcoming match between Mexico and England, scheduled for July 5, 2026 at 8:00 PM ET: This market will resolve to \"Mexico\" if Mexico are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"England\" if England are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.095\", \"0.905\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.1,
+        "liquidity": 11515.0802,
+        "volume": null,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

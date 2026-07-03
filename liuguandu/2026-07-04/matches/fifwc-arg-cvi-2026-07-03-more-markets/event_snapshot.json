@@ -1,0 +1,680 @@
+{
+  "event_slug": "fifwc-arg-cvi-2026-07-03-more-markets",
+  "event_title": "Argentina vs. Cabo Verde - More Markets",
+  "event_start": "2026-06-27T10:32:10.068373Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707858",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+        "question": "Spread: Argentina (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Argentina\", \"Cabo Verde\"]",
+        "outcomePrices": "[\"0.615\", \"0.385\"]",
+        "bestBid": 0.61,
+        "bestAsk": 0.62,
+        "liquidity": 385120.6342,
+        "volume": 438150.73305699957,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707859",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-away-1pt5",
+        "question": "Spread: Cabo Verde (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Cabo Verde\", \"Argentina\"]",
+        "outcomePrices": "[\"0.007\", \"0.993\"]",
+        "bestBid": 0.006,
+        "bestAsk": 0.008,
+        "liquidity": 34336.82348,
+        "volume": 12433.506147999997,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707860",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-2pt5",
+        "question": "Spread: Argentina (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Argentina\", \"Cabo Verde\"]",
+        "outcomePrices": "[\"0.375\", \"0.625\"]",
+        "bestBid": 0.37,
+        "bestAsk": 0.38,
+        "liquidity": 289729.8039,
+        "volume": 194086.8390320001,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707861",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-away-2pt5",
+        "question": "Spread: Cabo Verde (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Cabo Verde\", \"Argentina\"]",
+        "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+        "bestBid": 0.001,
+        "bestAsk": 0.002,
+        "liquidity": 37873.93289,
+        "volume": 1693.2741950000002,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707862",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-3pt5",
+        "question": "Spread: Argentina (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Argentina\", \"Cabo Verde\"]",
+        "outcomePrices": "[\"0.2\", \"0.8\"]",
+        "bestBid": 0.19,
+        "bestAsk": 0.21,
+        "liquidity": 83763.2507,
+        "volume": 7707.066732,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707863",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-away-3pt5",
+        "question": "Spread: Cabo Verde (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Cabo Verde\", \"Argentina\"]",
+        "outcomePrices": "[\"0.001\", \"0.999\"]",
+        "bestBid": null,
+        "bestAsk": 0.002,
+        "liquidity": 22546.51555,
+        "volume": 5901.687,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707864",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-4pt5",
+        "question": "Spread: Argentina (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Argentina\", \"Cabo Verde\"]",
+        "outcomePrices": "[\"0.09\", \"0.91\"]",
+        "bestBid": 0.08,
+        "bestAsk": 0.1,
+        "liquidity": 24321.8462,
+        "volume": 206.504484,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707865",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-away-4pt5",
+        "question": "Spread: Cabo Verde (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Cabo Verde\", \"Argentina\"]",
+        "outcomePrices": "[\"0.001\", \"0.999\"]",
+        "bestBid": null,
+        "bestAsk": 0.002,
+        "liquidity": 17022.58381,
+        "volume": 3163.949,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707866",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-5pt5",
+        "question": "Spread: Argentina (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Argentina\" if Argentina win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Cabo Verde\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Argentina\", \"Cabo Verde\"]",
+        "outcomePrices": "[\"0.038\", \"0.962\"]",
+        "bestBid": 0.027,
+        "bestAsk": 0.049,
+        "liquidity": 18831.20716,
+        "volume": 126.725645,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707867",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-away-5pt5",
+        "question": "Spread: Cabo Verde (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Cabo Verde\" if Cabo Verde win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Argentina\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Cabo Verde\", \"Argentina\"]",
+        "outcomePrices": "[\"0.0005\", \"0.9995\"]",
+        "bestBid": null,
+        "bestAsk": 0.001,
+        "liquidity": 19685.6633,
+        "volume": 3138.9490000000005,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707868",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-0pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.955\", \"0.045\"]",
+        "bestBid": 0.95,
+        "bestAsk": 0.96,
+        "liquidity": 56632.3082,
+        "volume": 1688.710100999999,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707869",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-1pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.805\", \"0.195\"]",
+        "bestBid": 0.8,
+        "bestAsk": 0.81,
+        "liquidity": 119012.6896,
+        "volume": 22994.212930000005,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707870",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-2pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.575\", \"0.425\"]",
+        "bestBid": 0.57,
+        "bestAsk": 0.58,
+        "liquidity": 272573.7597,
+        "volume": 96765.549538,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707871",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-3pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.355\", \"0.645\"]",
+        "bestBid": 0.35,
+        "bestAsk": 0.36,
+        "liquidity": 236940.1301,
+        "volume": 49136.81105,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707872",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-4pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.185\", \"0.815\"]",
+        "bestBid": 0.18,
+        "bestAsk": 0.19,
+        "liquidity": 118801.5896,
+        "volume": 2357.6667399999997,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707873",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-5pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.085\", \"0.915\"]",
+        "bestBid": 0.08,
+        "bestAsk": 0.09,
+        "liquidity": 89443.7116,
+        "volume": 7437.996720999999,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707874",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-6pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.034\", \"0.966\"]",
+        "bestBid": 0.028,
+        "bestAsk": 0.04,
+        "liquidity": 31568.93589,
+        "volume": 460.65430899999996,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707875",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-7pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.0115\", \"0.9885\"]",
+        "bestBid": 0.007,
+        "bestAsk": 0.016,
+        "liquidity": 31679.90748,
+        "volume": 5.05,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707876",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-8pt5",
+        "question": "Argentina vs. Cabo Verde: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.0065\", \"0.9935\"]",
+        "bestBid": 0.004,
+        "bestAsk": 0.009,
+        "liquidity": 30763.50819,
+        "volume": 4873.66911,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707877",
+        "slug": "fifwc-arg-cvi-2026-07-03-btts",
+        "question": "Argentina vs. Cabo Verde: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Argentina and Cabo Verde each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.325\", \"0.675\"]",
+        "bestBid": 0.32,
+        "bestAsk": 0.33,
+        "liquidity": 110413.6678,
+        "volume": 7252.930905999995,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707878",
+        "slug": "fifwc-arg-cvi-2026-07-03-btts-first-half",
+        "question": "Argentina vs. Cabo Verde: Both Teams to Score in First Half",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Yes\" if both Argentina and Cabo Verde each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.135\", \"0.865\"]",
+        "bestBid": 0.13,
+        "bestAsk": 0.14,
+        "liquidity": 33474.6083,
+        "volume": 10903.960172000003,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707879",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-total-0pt5",
+        "question": "Argentina vs. Cabo Verde: 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.76\", \"0.24\"]",
+        "bestBid": 0.75,
+        "bestAsk": 0.77,
+        "liquidity": 40338.763,
+        "volume": 479.75928999999996,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707880",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-total-1pt5",
+        "question": "Argentina vs. Cabo Verde: 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.395\", \"0.605\"]",
+        "bestBid": 0.39,
+        "bestAsk": 0.4,
+        "liquidity": 91975.3444,
+        "volume": 2085.856564,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707881",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-total-2pt5",
+        "question": "Argentina vs. Cabo Verde: 1st Half O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.16\", \"0.84\"]",
+        "bestBid": 0.15,
+        "bestAsk": 0.17,
+        "liquidity": 63249.5045,
+        "volume": 1266.163861,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707882",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-home-0pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Argentina score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Argentina's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.93\", \"0.07\"]",
+        "bestBid": 0.92,
+        "bestAsk": 0.94,
+        "liquidity": 31499.3668,
+        "volume": 767.257019,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707883",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-home-1pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Argentina score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Argentina's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.74\", \"0.26\"]",
+        "bestBid": 0.73,
+        "bestAsk": 0.75,
+        "liquidity": 61441.1291,
+        "volume": 2141.4980719999994,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707884",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-home-2pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Argentina score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Argentina's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.48\", \"0.52\"]",
+        "bestBid": 0.47,
+        "bestAsk": 0.49,
+        "liquidity": 70335.9547,
+        "volume": 6787.399133,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707885",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-away-0pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Cabo Verde score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Cabo Verde's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.355\", \"0.645\"]",
+        "bestBid": 0.35,
+        "bestAsk": 0.36,
+        "liquidity": 75425.7418,
+        "volume": 2759.52478,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707886",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-away-1pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Cabo Verde score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Cabo Verde's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.08\", \"0.92\"]",
+        "bestBid": 0.07,
+        "bestAsk": 0.09,
+        "liquidity": 26156.4307,
+        "volume": 3302.4587779999997,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707887",
+        "slug": "fifwc-arg-cvi-2026-07-03-team-total-away-2pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Cabo Verde score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Cabo Verde's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.014\", \"0.986\"]",
+        "bestBid": 0.011,
+        "bestAsk": 0.017,
+        "liquidity": 22175.77162,
+        "volume": 2441.0851479999997,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707888",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-team-total-home-0pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Argentina score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Argentina's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.695\", \"0.305\"]",
+        "bestBid": 0.68,
+        "bestAsk": 0.71,
+        "liquidity": 25151.2734,
+        "volume": 229.96180600000002,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707889",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-team-total-home-1pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Argentina score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Argentina's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.325\", \"0.675\"]",
+        "bestBid": 0.31,
+        "bestAsk": 0.34,
+        "liquidity": 31941.9854,
+        "volume": 165.102935,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707890",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-team-total-away-0pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Cabo Verde score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Cabo Verde's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.18\", \"0.82\"]",
+        "bestBid": 0.17,
+        "bestAsk": 0.19,
+        "liquidity": 25546.7016,
+        "volume": 425.99155099999996,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707891",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-half-team-total-away-1pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Cabo Verde score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Cabo Verde's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.032\", \"0.968\"]",
+        "bestBid": 0.017,
+        "bestAsk": 0.047,
+        "liquidity": 12374.81065,
+        "volume": 285.2663739999999,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707892",
+        "slug": "fifwc-arg-cvi-2026-07-03-btts-second-half",
+        "question": "Argentina vs. Cabo Verde: Both Teams to Score in Second Half",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Yes\" if both Argentina and Cabo Verde each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.185\", \"0.815\"]",
+        "bestBid": 0.17,
+        "bestAsk": 0.2,
+        "liquidity": 24010.9298,
+        "volume": 151.601414,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707893",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-total-0pt5",
+        "question": "Argentina vs. Cabo Verde: 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.805\", \"0.195\"]",
+        "bestBid": 0.79,
+        "bestAsk": 0.82,
+        "liquidity": 24651.6157,
+        "volume": 115,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707894",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-total-1pt5",
+        "question": "Argentina vs. Cabo Verde: 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.5\", \"0.5\"]",
+        "bestBid": 0.48,
+        "bestAsk": 0.52,
+        "liquidity": 24868.8799,
+        "volume": 45.769229,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707895",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-total-2pt5",
+        "question": "Argentina vs. Cabo Verde: 2nd Half O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina and Cabo Verde combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.245\", \"0.755\"]",
+        "bestBid": 0.23,
+        "bestAsk": 0.26,
+        "liquidity": 28597.8785,
+        "volume": null,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707896",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-team-total-home-0pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Argentina score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Argentina's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.745\", \"0.255\"]",
+        "bestBid": 0.73,
+        "bestAsk": 0.76,
+        "liquidity": 22494.1909,
+        "volume": 960.652688,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707897",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-team-total-home-1pt5",
+        "question": "Argentina vs. Cabo Verde: Argentina 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Argentina score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Argentina score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Argentina's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.385\", \"0.615\"]",
+        "bestBid": 0.38,
+        "bestAsk": 0.39,
+        "liquidity": 24254.4851,
+        "volume": 1921.999938,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707898",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-team-total-away-0pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Cabo Verde score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Cabo Verde's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.235\", \"0.765\"]",
+        "bestBid": 0.21,
+        "bestAsk": 0.26,
+        "liquidity": 22551.0694,
+        "volume": 211.70031400000002,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707899",
+        "slug": "fifwc-arg-cvi-2026-07-03-second-half-team-total-away-1pt5",
+        "question": "Argentina vs. Cabo Verde: Cabo Verde 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Argentina and Cabo Verde, scheduled for July 3 at 6:00 PM ET: This market will resolve to \"Over\" if Cabo Verde score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Cabo Verde score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Cabo Verde's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.026\", \"0.974\"]",
+        "bestBid": 0.01,
+        "bestAsk": 0.042,
+        "liquidity": 12398.70865,
+        "volume": 392.73583,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    }
+  ]
+}

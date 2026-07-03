@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-06",
+  "as_of": "2026-07-02T14:14:46.177901+00:00",
+  "verdict": "PASS",
+  "market_count_catalog": 96,
+  "market_count_in_probability_report": 96,
+  "coverage_requested_missing": 0,
+  "priority_order_slugs": [
+    "fifwc-bra-nor-2026-07-05-btts",
+    "fifwc-mex-eng-2026-07-05-btts"
+  ],
+  "conditional_watchlist_slugs": [
+    "fifwc-bra-nor-2026-07-05-first-half-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-second-half-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-2pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-3pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-4pt5",
+    "fifwc-bra-nor-2026-07-05-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-total-3pt5",
+    "fifwc-bra-nor-2026-07-05-total-5pt5",
+    "fifwc-mex-eng-2026-07-05-draw",
+    "fifwc-mex-eng-2026-07-05-spread-away-2pt5"
+  ],
+  "detailed_evidence_slugs": [
+    "fifwc-bra-nor-2026-07-05-btts",
+    "fifwc-bra-nor-2026-07-05-first-half-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-second-half-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-2pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-3pt5",
+    "fifwc-bra-nor-2026-07-05-spread-home-4pt5",
+    "fifwc-bra-nor-2026-07-05-total-2pt5",
+    "fifwc-bra-nor-2026-07-05-total-3pt5",
+    "fifwc-bra-nor-2026-07-05-total-5pt5",
+    "fifwc-mex-eng-2026-07-05-btts",
+    "fifwc-mex-eng-2026-07-05-draw",
+    "fifwc-mex-eng-2026-07-05-spread-away-2pt5"
+  ],
+  "source_summary_by_match": {
+    "fifwc-bra-nor-2026-07-05": {
+      "base_slug": "fifwc-bra-nor-2026-07-05",
+      "event_title": "Brazil vs. Norway",
+      "home_team": "Brazil",
+      "away_team": "Norway",
+      "event_start": "2026-07-01T10:03:40.226987Z",
+      "source_count": 22,
+      "source_tiers": {
+        "other": 22
+      }
+    },
+    "fifwc-mex-eng-2026-07-05": {
+      "base_slug": "fifwc-mex-eng-2026-07-05",
+      "event_title": "Mexico vs. England",
+      "home_team": "Mexico",
+      "away_team": "England",
+      "event_start": "2026-07-02T10:03:13.026322Z",
+      "source_count": 23,
+      "source_tiers": {
+        "other": 23
+      }
+    }
+  },
+  "severity_counts": {},
+  "findings": []
+}

@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-col-gha-2026-07-03-first-to-score",
+  "event_title": "Colombia vs. Ghana - First Team to Score",
+  "event_start": "2026-06-28T10:11:42.282028Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2719114",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-home",
+        "question": "Colombia to score first vs. Ghana?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.685\", \"0.315\"]",
+        "bestBid": 0.68,
+        "bestAsk": 0.69,
+        "liquidity": 30279.9673,
+        "volume": 250.07922200000004,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions: Panama vs England, Colombia vs Portugal and rest of matchday 17 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWlwWXZHQzZ6MXN2TlN1VmpFbG5oZHExelJUYUYtTl9lckVOZjZTakZoMzBSSE1qT0tWWW1yM0pwVlhUQ2RNcUtYTG9pUjAxYmpMWHFWd3VSZVF5RUpQc3ZZdVU3NTJiOFRYOWFTcXNDdHRQR2d3TTREbkwzU0w0VDFoVTBuTUpFQldZRHc0Yw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:15:47 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFI0X0JUMm5yRVRYUXgtYWVnWktZbVhsVnlvN3k0ZjNSNmZxZ3Awb0ppXzVLeDByUU90Y3F4UkRjc2JyRGd6MWJpYzJDWTB3WVVIdFZIZkRtUWJuVlBnbEpEUzFISU5yNEJOMW02YXVseHd4U1NzaGV5YmEzUjhGSWlMNmtxWTBkR0xJQ1NRS0Y4YnRYUFZFN1lEa2VJdnBKMHdyckpGaExIR0U5YUsxWVVjN0TSAboBQVVfeXFMTmpnR1VjdzRnZFpSdXBqX3NzNU5LZmlkdE5wZjA3ZGk3UlM5M0NuZmZlZVVSUHFTUzVtaWY1VHJ3a3lRSzE1aXZPMGQ4YnY5Y2ViT3MxenJaRU9DbUtWbVZWS3B2QjI1ZUFfN0Ita0xOX2lQdUw2WEs0YktSbkVQdW15QUhsWjk4SDgtZU9vVkxaX1d3akxOZ0ViUnRoTTJUZmJoRkRQZFZQeWRnN0cyZ1VhREpncDFobUNR?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 09:37:39 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia faces elimination while Colombia and Portugal set up marquee World Cup clash in Group C - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWRqdUFzMHdyYmxMQm5lYVB2UHBPRWlPWWRMZF81NGRWRm9pMWZNQ2VpYXhKcDV3UWNnSTBObDJzOWk0bEFwODYxVjlFdmpweWw2S081cklha3BPeXlqWHhaME5GSDlSbkwzVlIwLUVoekdhNTJpOHJaUmpDUnp6bFlKeFg2bFJTU3d4ck1mclhoSFNQdUZraHdyM2hvcHVxRWJFRl9QV0dieUdtZFVoaXBiWFNqMzlENEE?oc=5",
+          "source": "Fox News",
+          "published": "Sat, 27 Jun 2026 14:58:51 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719115",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-away",
+        "question": "Ghana to score first vs. Colombia?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.23\", \"0.77\"]",
+        "bestBid": 0.22,
+        "bestAsk": 0.24,
+        "liquidity": 31523.0917,
+        "volume": 145.13676099999998,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions: Panama vs England, Colombia vs Portugal and rest of matchday 17 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWlwWXZHQzZ6MXN2TlN1VmpFbG5oZHExelJUYUYtTl9lckVOZjZTakZoMzBSSE1qT0tWWW1yM0pwVlhUQ2RNcUtYTG9pUjAxYmpMWHFWd3VSZVF5RUpQc3ZZdVU3NTJiOFRYOWFTcXNDdHRQR2d3TTREbkwzU0w0VDFoVTBuTUpFQldZRHc0Yw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:15:47 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFI0X0JUMm5yRVRYUXgtYWVnWktZbVhsVnlvN3k0ZjNSNmZxZ3Awb0ppXzVLeDByUU90Y3F4UkRjc2JyRGd6MWJpYzJDWTB3WVVIdFZIZkRtUWJuVlBnbEpEUzFISU5yNEJOMW02YXVseHd4U1NzaGV5YmEzUjhGSWlMNmtxWTBkR0xJQ1NRS0Y4YnRYUFZFN1lEa2VJdnBKMHdyckpGaExIR0U5YUsxWVVjN0TSAboBQVVfeXFMTmpnR1VjdzRnZFpSdXBqX3NzNU5LZmlkdE5wZjA3ZGk3UlM5M0NuZmZlZVVSUHFTUzVtaWY1VHJ3a3lRSzE1aXZPMGQ4YnY5Y2ViT3MxenJaRU9DbUtWbVZWS3B2QjI1ZUFfN0Ita0xOX2lQdUw2WEs0YktSbkVQdW15QUhsWjk4SDgtZU9vVkxaX1d3akxOZ0ViUnRoTTJUZmJoRkRQZFZQeWRnN0cyZ1VhREpncDFobUNR?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 09:37:39 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia faces elimination while Colombia and Portugal set up marquee World Cup clash in Group C - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWRqdUFzMHdyYmxMQm5lYVB2UHBPRWlPWWRMZF81NGRWRm9pMWZNQ2VpYXhKcDV3UWNnSTBObDJzOWk0bEFwODYxVjlFdmpweWw2S081cklha3BPeXlqWHhaME5GSDlSbkwzVlIwLUVoekdhNTJpOHJaUmpDUnp6bFlKeFg2bFJTU3d4ck1mclhoSFNQdUZraHdyM2hvcHVxRWJFRl9QV0dieUdtZFVoaXBiWFNqMzlENEE?oc=5",
+          "source": "Fox News",
+          "published": "Sat, 27 Jun 2026 14:58:51 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2719116",
+        "slug": "fifwc-col-gha-2026-07-03-first-to-score-neither",
+        "question": "Colombia vs. Ghana: Neither team to score first?",
+        "description": "In the upcoming match between Colombia and Ghana, scheduled for July 3, 2026 at 9:30 PM ET: This market will resolve to \"Colombia\" if Colombia are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Ghana\" if Ghana are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.1\", \"0.9\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.11,
+        "liquidity": 24088.6262,
+        "volume": 230.076657,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup predictions: Panama vs England, Colombia vs Portugal and rest of matchday 17 - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYWlwWXZHQzZ6MXN2TlN1VmpFbG5oZHExelJUYUYtTl9lckVOZjZTakZoMzBSSE1qT0tWWW1yM0pwVlhUQ2RNcUtYTG9pUjAxYmpMWHFWd3VSZVF5RUpQc3ZZdVU3NTJiOFRYOWFTcXNDdHRQR2d3TTREbkwzU0w0VDFoVTBuTUpFQldZRHc0Yw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 14:15:47 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Colombia edge Portugal to top spot after World Cup stalemate - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOGNMSkFWR0tqWG5WY0FXbDdUTkxQZXBBWE5MbXBBU1lvbE9GX1dJVlViQW1rVDFlVzdIeF9YdkJ3WWh2MWJQVmQ4MllleTk5UE5ZZUpod3FIYzBnV3JpYmQ4a283LTZOZG5TWlhkYmg0czRycTNiaDNPMHN5clNBUks0MDZRTk1YTEdDUi03bkRReHdEWFRFUHR2dlZSYnBkMVBJ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 01:37:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: Saturday schedule, Round of 32 standings, predictions - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFI0X0JUMm5yRVRYUXgtYWVnWktZbVhsVnlvN3k0ZjNSNmZxZ3Awb0ppXzVLeDByUU90Y3F4UkRjc2JyRGd6MWJpYzJDWTB3WVVIdFZIZkRtUWJuVlBnbEpEUzFISU5yNEJOMW02YXVseHd4U1NzaGV5YmEzUjhGSWlMNmtxWTBkR0xJQ1NRS0Y4YnRYUFZFN1lEa2VJdnBKMHdyckpGaExIR0U5YUsxWVVjN0TSAboBQVVfeXFMTmpnR1VjdzRnZFpSdXBqX3NzNU5LZmlkdE5wZjA3ZGk3UlM5M0NuZmZlZVVSUHFTUzVtaWY1VHJ3a3lRSzE1aXZPMGQ4YnY5Y2ViT3MxenJaRU9DbUtWbVZWS3B2QjI1ZUFfN0Ita0xOX2lQdUw2WEs0YktSbkVQdW15QUhsWjk4SDgtZU9vVkxaX1d3akxOZ0ViUnRoTTJUZmJoRkRQZFZQeWRnN0cyZ1VhREpncDFobUNR?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 09:37:39 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup results, standings and schedule: Live scores, knockout round updates and how to watch - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOU1U0UXo4NFBRTUV0ZE1tOWt1X1BOYUZEUDJfaVhKU2NCQWtfZFc1cC14SW9kcWxkRUlNc1BwS1hqeUtHcFlUX2owY0xXdkNfR0tGNl9JNnhwU3l6WUZwTi1BOU5YSmZpZFA4YWp4Y2FWVjNoZ0lqOUxnM2pRMG5BeTNRZFA3aUdRY1BWbzFGbFBnemNBNnZ1TVFaNUJPUUV5Z0kxa2RhN1Ryck9UMlY5RzV5dlNTczl6OWVyRXZPSWdwSmszX3FCaUdqQWx3MFVMYWdnZHRmVFF0T1hULW1IcURfSQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 02:32:48 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia faces elimination while Colombia and Portugal set up marquee World Cup clash in Group C - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWRqdUFzMHdyYmxMQm5lYVB2UHBPRWlPWWRMZF81NGRWRm9pMWZNQ2VpYXhKcDV3UWNnSTBObDJzOWk0bEFwODYxVjlFdmpweWw2S081cklha3BPeXlqWHhaME5GSDlSbkwzVlIwLUVoekdhNTJpOHJaUmpDUnp6bFlKeFg2bFJTU3d4ck1mclhoSFNQdUZraHdyM2hvcHVxRWJFRl9QV0dieUdtZFVoaXBiWFNqMzlENEE?oc=5",
+          "source": "Fox News",
+          "published": "Sat, 27 Jun 2026 14:58:51 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: Colombia wins Group K thanks to Portugal draw as DR Congo also advances - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVYzd3U2QXRvcUViSGM0a3FrMjBNVkx3dUdBZVlIbDVCQk1BY19ZdEYwZVRKOVVqTDUyM2pGMFRjQkJxdkpqYUdTeUw3dFUxbGtkNm5oQVE2a1doSU9Da2ZKUFVoMXF1YVl6T1VNbjgtWFgtMTF6NHBnX2xkQ0cxWUZDdm5tSEY0MkY4UmlkNHJacXhsdXJqelNzVkt6TUZoNWk2bWhxTmtpN3JNd1J1cnFSMTBWT2hqRS00N3Bfb1BIZERRVWJNSkxmbGJiTEMzaHUyQTk4YXJxSnhFNXI1ekdHRlh1bE9VbHRv?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sun, 28 Jun 2026 05:00:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup: How teams advanced to the knockout rounds - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZWlfeldJRDV3ZzlSOEpZWmhHd0hrZmNMWlhUU3ZQejlVSFpBTDQ2X01BaHN3T3ZKVlBPRnc5cW1hSlkySmUxZ0R0LXJMZVprZ0dhTEtEa1EtblhJdi1WX25QQk5RcUdKNkZtTC12VkJseFRxTEU1eFV2MDV4REthcEZwUUlKSnhNSkJkcVRTNGw0UHZvUUFUYXVUMzJTZHc3VC0zNWdLY0FwR3RkWDhFbVJjemVfYmdhbUpRd0RpQQ?oc=5",
+          "source": "ESPN",
+          "published": "Sun, 28 Jun 2026 04:31:00 GMT",
+          "query": "Colombia vs. Ghana - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

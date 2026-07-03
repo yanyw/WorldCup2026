@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-par-fra-2026-07-04",
+  "event_title": "Paraguay vs. France",
+  "event_start": "2026-07-01T10:03:23.53868Z",
+  "as_of": "2026-07-02T14:04:40+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754627",
+        "slug": "fifwc-par-fra-2026-07-04-draw",
+        "question": "Will Paraguay vs. France end in a draw?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.125\", \"0.875\"]",
+        "bestBid": 0.12,
+        "bestAsk": 0.13,
+        "liquidity": 409606.961,
+        "volume": 11169.510215000013,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "France vs. Paraguay in World Cup round of 16: Time, date, what to know - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZk9zUGUwSExTbFQxS1NrSm55VFRiS21qNmtDX1ltd0VHa2hKY2RtMFhtaFdoTVhUcjhQcG81MEZPV21CUmRZMWw5dk5kNE1nbmJRYm5lTzJKSmM1ZFg4OHFWQjVvcUFMX0FyS0wwNDRZeFBFOGs3cW4wLVBkSVFDbzlXWQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 23:01:19 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Philadelphia to host France and Paraguay for Round of 16 clash on July 4th - Philadelphia Union",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1BRbGZQWDVwNE5UbV9keHdzeHFrMVBPNUtlQ0ZDM0pCY2Y1QjBJU1pQRmQxVmxwbnhKMlVETkQ4bEZsbjBneloyVURPYnVFTS1HcGdXS1BCQ3BLdkNlb1BlTEFoU3Z4YXkzZTJKZFpmb1hxUWhOMXQ5UzlHVnFXV09UXzZxUkRha1FSXzl4TjNyUmJwc2tjMmxOcW1uM3dNUE5iMlJNY0s3ZWlsamRJMUFwUQ?oc=5",
+          "source": "Philadelphia Union",
+          "published": "Wed, 01 Jul 2026 18:45:17 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy France vs. Paraguay round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRng4ZFJqb0ZHSkhtMnBFRGIxRGE3TzVsRjlsUm9HNEx0bFVvdHhQd2hueXZYX0ZIZnJjQnYtYW1aeFltOWNYSEd2RWlNaXlpZnBtRmNuZWtZbUt6Wllpc1ZJVi1yWkFVX1RnYjNaTnAwdk4xb2I5WEhZWkxRWng3QWowTEpwTXRSZ1pGSGhVM1NhTXhuQ3pUYWdnenVDX2VFck9FZEVuc2JydHNLaGV1Qk1INDQ4VGtLVnd5SjZqSmpMUFNxZHRLZF9pcU41MHp3TEEw?oc=5",
+          "source": "USA Today",
+          "published": "Tue, 30 Jun 2026 22:54:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Paraguay vs. France in the FIFA 2026 World Cup - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBacEo3YXVaRzZ2dVZhLU13RmFRenF6STZfbUNTT0Zpd1NMRnZkenpLM0dlNzdTYlh1bmRWUEdvREFGZGJ2aVV2TVRFWWk1NU1Va0l0QU96b0dQZGItQ2YyZEFNeUx5V2VoX1phenBQRVVuWTJQNnBKRWpVa05WRk45dmJjZGFoSFZPZTZmOVJJNE1jd01IZ1FCOWhWckxIMmR0MkctN0JMVUU?oc=5",
+          "source": "DraftKings Network",
+          "published": "Wed, 01 Jul 2026 13:53:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs France: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0t5SFRiUkpvVjdHckxMYVk5WUxrX0JNVk4yUTVQNlJUZkFCYmRQckZzVlhRd0Vhb250SkVxZXRGSDdfeGhjOGJ4am5vbVJkUGgwVFE3WFl3NTVlZVFxbDZjeWhPd0F4dEdINjBpM19fTHJGT2xJNU85RnhTSEF3RlNCM1NSOVJvUnk3Rms5XzE1ZjdFSWhHcEhISGdBWnhQdVhEQ2Y1WFczWWVBbjZRcjJXSEkyVmNYWXhzREdVONIBwwFBVV95cUxNeXdwNVdPLVRyRUw3SEI5M0IxWkd0UkFVRWdkQ3c5eS1kSXRLd3piLTZ0ZUJvWUhRbXJ5RTR3UFhkTk1NcnRlRTJsR0JuemJtejMyX2Y2OVE5a3p6ZXc1ajZReWo0ZnhmbmVrc1hJVFVIUmNOQTFQWUs5NTNPbGdnMUlvN2ZVSks1M1czOGNMRlNtXzhWYkd6OF9SU2FxVFVVdURvY3hZZXUyNlhRSkFKM2FRRW5KMHFYMU1GMVdhR1M4akU?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 22:54:20 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France is one of the heavy favorites to win the World Cup. This is what makes them so good - CNN",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEc2NwOURKNllpTjNMaG1HbzRDb0c2T3JrbWlRV0RVUjdZWTRIbHFmengyVlN3V3JsWk42bUVpenJpak1xSXc0RmU3SWNRMFpXR2ZPdnUzc1M1T0I4QWtqR2poLTNCR3VqQkpnN3VseXk?oc=5",
+          "source": "CNN",
+          "published": "Tue, 30 Jun 2026 15:00:26 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Want to see France vs. Paraguay in Philly? Get discounted tickets here - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRE5ENkQwTkhsSGZCREdIZTl0MklZQWdNWS1IVm5Hck1JZUdyZllYRXE1M2p3U2QtODYyczh2OHUycjJZNGFuQ2QyUkhxRzhHTXFwdkhoM0VpOFFNRG5XWl9xZmFuQk4wZlVyOWNuVENLc3Bzc0VLVWtaZnFzTldYQ3pIX0tHUkNWRWVNUE1UUDU3SnNMd3pfOUpUdVFDZFNuSkt3c1JWZWhwcXBCYXJ5THVB?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 16:55:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is France's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjllN1lZQjJsdmxTbVp6VExJU0NlazZRT0tGNkx2UThFa2VEbUtHbDJxQmhWRGg0Z3hwcVlBY1NoX2Jkb0pSdnlqcWhDbWdQRmVFcXdxaUVzdy1QSGdjMUs5STlEQ29kN2dZd0k1VWFocHY3elJyOWVOcU9VYm14NNIBgAFBVV95cUxQMTJqQzIzWVNyQmR4WkhZRm4zTHlTT3JVVnZkdU1HM3djNGlxdVJ1RWo1Tnl0OUNtQWJqN0tNQzY3bEJRSEs2YjhIWllWRV96N0MtdVNEQU04c3hsdGNWbWdzYVRGc0tyY0RtMVF6MUtTZjRZdlZVSWFMOXN3T2ZJaQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 22:53:39 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754625",
+        "slug": "fifwc-par-fra-2026-07-04-par",
+        "question": "Will Paraguay win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf Paraguay wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.045\", \"0.955\"]",
+        "bestBid": 0.04,
+        "bestAsk": 0.05,
+        "liquidity": 288092.8764,
+        "volume": 79995.71016999992,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "France vs. Paraguay in World Cup round of 16: Time, date, what to know - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZk9zUGUwSExTbFQxS1NrSm55VFRiS21qNmtDX1ltd0VHa2hKY2RtMFhtaFdoTVhUcjhQcG81MEZPV21CUmRZMWw5dk5kNE1nbmJRYm5lTzJKSmM1ZFg4OHFWQjVvcUFMX0FyS0wwNDRZeFBFOGs3cW4wLVBkSVFDbzlXWQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 23:01:19 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Philadelphia to host France and Paraguay for Round of 16 clash on July 4th - Philadelphia Union",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1BRbGZQWDVwNE5UbV9keHdzeHFrMVBPNUtlQ0ZDM0pCY2Y1QjBJU1pQRmQxVmxwbnhKMlVETkQ4bEZsbjBneloyVURPYnVFTS1HcGdXS1BCQ3BLdkNlb1BlTEFoU3Z4YXkzZTJKZFpmb1hxUWhOMXQ5UzlHVnFXV09UXzZxUkRha1FSXzl4TjNyUmJwc2tjMmxOcW1uM3dNUE5iMlJNY0s3ZWlsamRJMUFwUQ?oc=5",
+          "source": "Philadelphia Union",
+          "published": "Wed, 01 Jul 2026 18:45:17 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy France vs. Paraguay round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRng4ZFJqb0ZHSkhtMnBFRGIxRGE3TzVsRjlsUm9HNEx0bFVvdHhQd2hueXZYX0ZIZnJjQnYtYW1aeFltOWNYSEd2RWlNaXlpZnBtRmNuZWtZbUt6Wllpc1ZJVi1yWkFVX1RnYjNaTnAwdk4xb2I5WEhZWkxRWng3QWowTEpwTXRSZ1pGSGhVM1NhTXhuQ3pUYWdnenVDX2VFck9FZEVuc2JydHNLaGV1Qk1INDQ4VGtLVnd5SjZqSmpMUFNxZHRLZF9pcU41MHp3TEEw?oc=5",
+          "source": "USA Today",
+          "published": "Tue, 30 Jun 2026 22:54:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Paraguay vs. France in the FIFA 2026 World Cup - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBacEo3YXVaRzZ2dVZhLU13RmFRenF6STZfbUNTT0Zpd1NMRnZkenpLM0dlNzdTYlh1bmRWUEdvREFGZGJ2aVV2TVRFWWk1NU1Va0l0QU96b0dQZGItQ2YyZEFNeUx5V2VoX1phenBQRVVuWTJQNnBKRWpVa05WRk45dmJjZGFoSFZPZTZmOVJJNE1jd01IZ1FCOWhWckxIMmR0MkctN0JMVUU?oc=5",
+          "source": "DraftKings Network",
+          "published": "Wed, 01 Jul 2026 13:53:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs France: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0t5SFRiUkpvVjdHckxMYVk5WUxrX0JNVk4yUTVQNlJUZkFCYmRQckZzVlhRd0Vhb250SkVxZXRGSDdfeGhjOGJ4am5vbVJkUGgwVFE3WFl3NTVlZVFxbDZjeWhPd0F4dEdINjBpM19fTHJGT2xJNU85RnhTSEF3RlNCM1NSOVJvUnk3Rms5XzE1ZjdFSWhHcEhISGdBWnhQdVhEQ2Y1WFczWWVBbjZRcjJXSEkyVmNYWXhzREdVONIBwwFBVV95cUxNeXdwNVdPLVRyRUw3SEI5M0IxWkd0UkFVRWdkQ3c5eS1kSXRLd3piLTZ0ZUJvWUhRbXJ5RTR3UFhkTk1NcnRlRTJsR0JuemJtejMyX2Y2OVE5a3p6ZXc1ajZReWo0ZnhmbmVrc1hJVFVIUmNOQTFQWUs5NTNPbGdnMUlvN2ZVSks1M1czOGNMRlNtXzhWYkd6OF9SU2FxVFVVdURvY3hZZXUyNlhRSkFKM2FRRW5KMHFYMU1GMVdhR1M4akU?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 22:54:20 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France is one of the heavy favorites to win the World Cup. This is what makes them so good - CNN",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEc2NwOURKNllpTjNMaG1HbzRDb0c2T3JrbWlRV0RVUjdZWTRIbHFmengyVlN3V3JsWk42bUVpenJpak1xSXc0RmU3SWNRMFpXR2ZPdnUzc1M1T0I4QWtqR2poLTNCR3VqQkpnN3VseXk?oc=5",
+          "source": "CNN",
+          "published": "Tue, 30 Jun 2026 15:00:26 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Want to see France vs. Paraguay in Philly? Get discounted tickets here - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRE5ENkQwTkhsSGZCREdIZTl0MklZQWdNWS1IVm5Hck1JZUdyZllYRXE1M2p3U2QtODYyczh2OHUycjJZNGFuQ2QyUkhxRzhHTXFwdkhoM0VpOFFNRG5XWl9xZmFuQk4wZlVyOWNuVENLc3Bzc0VLVWtaZnFzTldYQ3pIX0tHUkNWRWVNUE1UUDU3SnNMd3pfOUpUdVFDZFNuSkt3c1JWZWhwcXBCYXJ5THVB?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 16:55:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is France's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjllN1lZQjJsdmxTbVp6VExJU0NlazZRT0tGNkx2UThFa2VEbUtHbDJxQmhWRGg0Z3hwcVlBY1NoX2Jkb0pSdnlqcWhDbWdQRmVFcXdxaUVzdy1QSGdjMUs5STlEQ29kN2dZd0k1VWFocHY3elJyOWVOcU9VYm14NNIBgAFBVV95cUxQMTJqQzIzWVNyQmR4WkhZRm4zTHlTT3JVVnZkdU1HM3djNGlxdVJ1RWo1Tnl0OUNtQWJqN0tNQzY3bEJRSEs2YjhIWllWRV96N0MtdVNEQU04c3hsdGNWbWdzYVRGc0tyY0RtMVF6MUtTZjRZdlZVSWFMOXN3T2ZJaQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 22:53:39 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754628",
+        "slug": "fifwc-par-fra-2026-07-04-fra",
+        "question": "Will France win on 2026-07-04?",
+        "description": "In the upcoming game, scheduled for July 4, 2026\nIf France wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.835\", \"0.165\"]",
+        "bestBid": 0.83,
+        "bestAsk": 0.84,
+        "liquidity": 374863.8497,
+        "volume": 359197.28380399913,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "France vs. Paraguay in World Cup round of 16: Time, date, what to know - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZk9zUGUwSExTbFQxS1NrSm55VFRiS21qNmtDX1ltd0VHa2hKY2RtMFhtaFdoTVhUcjhQcG81MEZPV21CUmRZMWw5dk5kNE1nbmJRYm5lTzJKSmM1ZFg4OHFWQjVvcUFMX0FyS0wwNDRZeFBFOGs3cW4wLVBkSVFDbzlXWQ?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 23:01:19 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Philadelphia to host France and Paraguay for Round of 16 clash on July 4th - Philadelphia Union",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1BRbGZQWDVwNE5UbV9keHdzeHFrMVBPNUtlQ0ZDM0pCY2Y1QjBJU1pQRmQxVmxwbnhKMlVETkQ4bEZsbjBneloyVURPYnVFTS1HcGdXS1BCQ3BLdkNlb1BlTEFoU3Z4YXkzZTJKZFpmb1hxUWhOMXQ5UzlHVnFXV09UXzZxUkRha1FSXzl4TjNyUmJwc2tjMmxOcW1uM3dNUE5iMlJNY0s3ZWlsamRJMUFwUQ?oc=5",
+          "source": "Philadelphia Union",
+          "published": "Wed, 01 Jul 2026 18:45:17 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy France vs. Paraguay round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRng4ZFJqb0ZHSkhtMnBFRGIxRGE3TzVsRjlsUm9HNEx0bFVvdHhQd2hueXZYX0ZIZnJjQnYtYW1aeFltOWNYSEd2RWlNaXlpZnBtRmNuZWtZbUt6Wllpc1ZJVi1yWkFVX1RnYjNaTnAwdk4xb2I5WEhZWkxRWng3QWowTEpwTXRSZ1pGSGhVM1NhTXhuQ3pUYWdnenVDX2VFck9FZEVuc2JydHNLaGV1Qk1INDQ4VGtLVnd5SjZqSmpMUFNxZHRLZF9pcU41MHp3TEEw?oc=5",
+          "source": "USA Today",
+          "published": "Tue, 30 Jun 2026 22:54:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Paraguay vs. France in the FIFA 2026 World Cup - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBacEo3YXVaRzZ2dVZhLU13RmFRenF6STZfbUNTT0Zpd1NMRnZkenpLM0dlNzdTYlh1bmRWUEdvREFGZGJ2aVV2TVRFWWk1NU1Va0l0QU96b0dQZGItQ2YyZEFNeUx5V2VoX1phenBQRVVuWTJQNnBKRWpVa05WRk45dmJjZGFoSFZPZTZmOVJJNE1jd01IZ1FCOWhWckxIMmR0MkctN0JMVUU?oc=5",
+          "source": "DraftKings Network",
+          "published": "Wed, 01 Jul 2026 13:53:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Paraguay vs France: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0t5SFRiUkpvVjdHckxMYVk5WUxrX0JNVk4yUTVQNlJUZkFCYmRQckZzVlhRd0Vhb250SkVxZXRGSDdfeGhjOGJ4am5vbVJkUGgwVFE3WFl3NTVlZVFxbDZjeWhPd0F4dEdINjBpM19fTHJGT2xJNU85RnhTSEF3RlNCM1NSOVJvUnk3Rms5XzE1ZjdFSWhHcEhISGdBWnhQdVhEQ2Y1WFczWWVBbjZRcjJXSEkyVmNYWXhzREdVONIBwwFBVV95cUxNeXdwNVdPLVRyRUw3SEI5M0IxWkd0UkFVRWdkQ3c5eS1kSXRLd3piLTZ0ZUJvWUhRbXJ5RTR3UFhkTk1NcnRlRTJsR0JuemJtejMyX2Y2OVE5a3p6ZXc1ajZReWo0ZnhmbmVrc1hJVFVIUmNOQTFQWUs5NTNPbGdnMUlvN2ZVSks1M1czOGNMRlNtXzhWYkd6OF9SU2FxVFVVdURvY3hZZXUyNlhRSkFKM2FRRW5KMHFYMU1GMVdhR1M4akU?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 22:54:20 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "France is one of the heavy favorites to win the World Cup. This is what makes them so good - CNN",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEc2NwOURKNllpTjNMaG1HbzRDb0c2T3JrbWlRV0RVUjdZWTRIbHFmengyVlN3V3JsWk42bUVpenJpak1xSXc0RmU3SWNRMFpXR2ZPdnUzc1M1T0I4QWtqR2poLTNCR3VqQkpnN3VseXk?oc=5",
+          "source": "CNN",
+          "published": "Tue, 30 Jun 2026 15:00:26 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Want to see France vs. Paraguay in Philly? Get discounted tickets here - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRE5ENkQwTkhsSGZCREdIZTl0MklZQWdNWS1IVm5Hck1JZUdyZllYRXE1M2p3U2QtODYyczh2OHUycjJZNGFuQ2QyUkhxRzhHTXFwdkhoM0VpOFFNRG5XWl9xZmFuQk4wZlVyOWNuVENLc3Bzc0VLVWtaZnFzTldYQ3pIX0tHUkNWRWVNUE1UUDU3SnNMd3pfOUpUdVFDZFNuSkt3c1JWZWhwcXBCYXJ5THVB?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 16:55:00 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is France's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjllN1lZQjJsdmxTbVp6VExJU0NlazZRT0tGNkx2UThFa2VEbUtHbDJxQmhWRGg0Z3hwcVlBY1NoX2Jkb0pSdnlqcWhDbWdQRmVFcXdxaUVzdy1QSGdjMUs5STlEQ29kN2dZd0k1VWFocHY3elJyOWVOcU9VYm14NNIBgAFBVV95cUxQMTJqQzIzWVNyQmR4WkhZRm4zTHlTT3JVVnZkdU1HM3djNGlxdVJ1RWo1Tnl0OUNtQWJqN0tNQzY3bEJRSEs2YjhIWllWRV96N0MtdVNEQU04c3hsdGNWbWdzYVRGc0tyY0RtMVF6MUtTZjRZdlZVSWFMOXN3T2ZJaQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 22:53:39 GMT",
+          "query": "Paraguay vs. France 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

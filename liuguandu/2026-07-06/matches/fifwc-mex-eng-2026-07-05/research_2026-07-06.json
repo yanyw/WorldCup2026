@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-mex-eng-2026-07-05",
+  "event_title": "Mexico vs. England",
+  "event_start": "2026-07-02T10:03:13.026322Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2766759",
+        "slug": "fifwc-mex-eng-2026-07-05-mex",
+        "question": "Will Mexico win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Mexico wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.305\", \"0.695\"]",
+        "bestBid": 0.3,
+        "bestAsk": 0.31,
+        "liquidity": 236693.6043,
+        "volume": 82580.69734099993,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Mexico vs England in the round of 16 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGt6TmladXBQeXh3eDJSZVdmODRmOWprSFlVSDNONmtOM1R5Q29NVElkN3VaWVFGOEZVaFlJZlA1cklGNktZVjU0ZGItbkFQbW1ITmhoc1BpV0Y1OTFmRnk3WUlITDd2SGU0NlpGakNLbEY4bkJkQWV3YUZwdGNoTmNLU29kcjBlM0dETURBT3l2NTZhYVM4QUo3REk0VEJmNjVaY0d6T003c3FYZENLdXVRTHh3aUdtRllN?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 08:42:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs. England (Jul 5, 2026) Live Score - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XbEhNUVZxdGNvQ3NFX0dpeTBCMkIxWHIxZlNTTTJmOXNENnowS3pNcVU0SzZmRHlLUENvUlZfY1llVHdwU2dXOGxzdkN2a2FkM0pqTEJBSFBLRkd5bkF5d1JIMlZMNzVKY1FzQkRWSG00Zw?oc=5",
+          "source": "ESPN",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When does Mexico play again in the World Cup? How to watch vs. England - El Paso Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0ZJUGVrSmF2SXExTkVXS3BRdkpyVTFfTmhMVnViNVE4MzlLY1Y2a1ZlT0tMZS02bm95OXF0cmZOeHVJSDZxcDRiU0hsUUI1MkRwY0JCcUk4Q2FURmJDbzB5ZzV0WlZETnl4NmpLMjBOc1doWnFzRlJoRE1WOWRVdE9FWHlERC1IWDB4Q0N2RXBBTUk3cXVUTUR3TU9pdHExT0lpRnZQaEtzNFVuNS1HYnIzaTBhUU1tQXB5ckxJMWNKY0l4SUk0V2d6ZzF6WmJw?oc=5",
+          "source": "El Paso Times",
+          "published": "Wed, 01 Jul 2026 19:14:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy Mexico vs. England round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYk4zRUtrM1Ixd2FaT25MT1JlRUFyeS1jQzE1dUJkUnJTX0N4ZnR6bk1UczF0WUtVb0k1a1VHNi0zbEhCU0VHdk1fdFNJRTJ5Yk1CWEZoaGxScjgxUkZHQWJncU5DWGtCbkZVQzlMZmlmRjZhWlYxMFY1Mk1teDRNRVdxNmFrWmZ4em5ZcFRSWFRaVmRJLU5LRnJhdXFvaG1YaHRUMDJIRk55WWZ2QkRZRVo3M3RNLXQxOFI2a19UaFBhM2p0WEZjM2haRWd0VTRydXpJQ283TVB0ZHYtelBid0lR?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:24:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When and where are Mexico vs England playing in 2026 World Cup Round of 16? - bolavip.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHJybF9ic0JuSXl3Q1FPc082Q0paMEY2ekFGelpvVFVOemlsOFlWOUhONHVzbzM5S3d3dEpzckhGQUI1ZTlRTmsweXBHRmpjaDJ0aUN2SzJVa3hCUTNrWXRnRE0wWTNpTHZnTHhOck9rLUZYeFBMcjFoNkc3ZC1pdzA3TDQ1WGtPcVE0WE9DaTdRbUY1Z3gyOHQ5Ynlabk1JUUdTOHJsRzlsbVHSAbABQVVfeXFMUDU3dkhlZjRidlVVYUR6OUNnekkxeENlZTduRkt3ZlFpTmdxbG8wOFZESDJ0LXQxWXY3RHc3ODlOX1hjUVdOLS1XRkR5ZzJ4NjE0c2lqLV93VUZ2UkN3V2ZxeHFxZVlPTHFYYmJRbEJfWGlvVTdOQlVQd0VUU2JHYmw3ci1uYXhZZWt3YmEtSUJER1owMVBVdXR5TzVjOTJYLURXdndRUnZJZFduNV9MLXo?oc=5",
+          "source": "bolavip.com",
+          "published": "Wed, 01 Jul 2026 18:00:46 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico is playing England in the round of 16. How much do tickets cost? - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG5ta1ViLWtSX3R5YzZGbnJvb19YZ3p2dzlqcEs0WklrUW9sWjZabXU2OTFBbTNJVjZwWWVlOWhOVFR3TkRmVHdleV90MnJ1ODA1TlV4Q1BpeDllMnpYX2FlR0FzN1ZRREpKU0Q3a3BTUGF5eGxHMFhTamFfSWZITzhzeEQ2NE1rZ3dyNHV5NzVRblFpSVhSeGcyRzh0VFhL?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 20:46:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why Mexico vs. England is going to be ‘a guerra, a war' at 2026 World Cup - NBC Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFh4bU5KSkpZeXdLaUU0RVRTVkFhbERfRG1mLWdMRWpjMU1DekEzdjhHV2ltSGM2TnBjN2JCdDhqU0VOMElSdmo1WmI2NWFFR0tDYU9DR3NvUHhoQU5kMEhSSXBGQkMxTzYwcTBiZVNjSHFlSDB5VC1lRmR3Mkl6TURMVGV0djQ4d2lsVEI4UnhMU3fSAZsBQVVfeXFMTUx6Y3gtLU40dndfNVl1aVNCbDFTRTN3cEdORUx3RTQ2YkxzeWs1Zno0ZG9sZHliUzJ6cFBzMU1TelVTUkNWUHU5QU5oMnVDYW11ZjVObVBFc3M3LTM2a3lGVi1tUndCQzBuOXRTWGNBa2lqSndjODNHbXFmU2ZRZ1ZPOGtLM1k0bFN6S1Z0WUNIb2ZKa05STnhTTm8?oc=5",
+          "source": "NBC Bay Area",
+          "published": "Wed, 01 Jul 2026 20:57:39 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2766762",
+        "slug": "fifwc-mex-eng-2026-07-05-eng",
+        "question": "Will England win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf England wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.395\", \"0.605\"]",
+        "bestBid": 0.39,
+        "bestAsk": 0.4,
+        "liquidity": 139760.0922,
+        "volume": 6235.776382,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Mexico vs England in the round of 16 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGt6TmladXBQeXh3eDJSZVdmODRmOWprSFlVSDNONmtOM1R5Q29NVElkN3VaWVFGOEZVaFlJZlA1cklGNktZVjU0ZGItbkFQbW1ITmhoc1BpV0Y1OTFmRnk3WUlITDd2SGU0NlpGakNLbEY4bkJkQWV3YUZwdGNoTmNLU29kcjBlM0dETURBT3l2NTZhYVM4QUo3REk0VEJmNjVaY0d6T003c3FYZENLdXVRTHh3aUdtRllN?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 08:42:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs. England (Jul 5, 2026) Live Score - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XbEhNUVZxdGNvQ3NFX0dpeTBCMkIxWHIxZlNTTTJmOXNENnowS3pNcVU0SzZmRHlLUENvUlZfY1llVHdwU2dXOGxzdkN2a2FkM0pqTEJBSFBLRkd5bkF5d1JIMlZMNzVKY1FzQkRWSG00Zw?oc=5",
+          "source": "ESPN",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When does Mexico play again in the World Cup? How to watch vs. England - El Paso Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0ZJUGVrSmF2SXExTkVXS3BRdkpyVTFfTmhMVnViNVE4MzlLY1Y2a1ZlT0tMZS02bm95OXF0cmZOeHVJSDZxcDRiU0hsUUI1MkRwY0JCcUk4Q2FURmJDbzB5ZzV0WlZETnl4NmpLMjBOc1doWnFzRlJoRE1WOWRVdE9FWHlERC1IWDB4Q0N2RXBBTUk3cXVUTUR3TU9pdHExT0lpRnZQaEtzNFVuNS1HYnIzaTBhUU1tQXB5ckxJMWNKY0l4SUk0V2d6ZzF6WmJw?oc=5",
+          "source": "El Paso Times",
+          "published": "Wed, 01 Jul 2026 19:14:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy Mexico vs. England round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYk4zRUtrM1Ixd2FaT25MT1JlRUFyeS1jQzE1dUJkUnJTX0N4ZnR6bk1UczF0WUtVb0k1a1VHNi0zbEhCU0VHdk1fdFNJRTJ5Yk1CWEZoaGxScjgxUkZHQWJncU5DWGtCbkZVQzlMZmlmRjZhWlYxMFY1Mk1teDRNRVdxNmFrWmZ4em5ZcFRSWFRaVmRJLU5LRnJhdXFvaG1YaHRUMDJIRk55WWZ2QkRZRVo3M3RNLXQxOFI2a19UaFBhM2p0WEZjM2haRWd0VTRydXpJQ283TVB0ZHYtelBid0lR?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:24:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When and where are Mexico vs England playing in 2026 World Cup Round of 16? - bolavip.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHJybF9ic0JuSXl3Q1FPc082Q0paMEY2ekFGelpvVFVOemlsOFlWOUhONHVzbzM5S3d3dEpzckhGQUI1ZTlRTmsweXBHRmpjaDJ0aUN2SzJVa3hCUTNrWXRnRE0wWTNpTHZnTHhOck9rLUZYeFBMcjFoNkc3ZC1pdzA3TDQ1WGtPcVE0WE9DaTdRbUY1Z3gyOHQ5Ynlabk1JUUdTOHJsRzlsbVHSAbABQVVfeXFMUDU3dkhlZjRidlVVYUR6OUNnekkxeENlZTduRkt3ZlFpTmdxbG8wOFZESDJ0LXQxWXY3RHc3ODlOX1hjUVdOLS1XRkR5ZzJ4NjE0c2lqLV93VUZ2UkN3V2ZxeHFxZVlPTHFYYmJRbEJfWGlvVTdOQlVQd0VUU2JHYmw3ci1uYXhZZWt3YmEtSUJER1owMVBVdXR5TzVjOTJYLURXdndRUnZJZFduNV9MLXo?oc=5",
+          "source": "bolavip.com",
+          "published": "Wed, 01 Jul 2026 18:00:46 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico is playing England in the round of 16. How much do tickets cost? - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG5ta1ViLWtSX3R5YzZGbnJvb19YZ3p2dzlqcEs0WklrUW9sWjZabXU2OTFBbTNJVjZwWWVlOWhOVFR3TkRmVHdleV90MnJ1ODA1TlV4Q1BpeDllMnpYX2FlR0FzN1ZRREpKU0Q3a3BTUGF5eGxHMFhTamFfSWZITzhzeEQ2NE1rZ3dyNHV5NzVRblFpSVhSeGcyRzh0VFhL?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 20:46:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why Mexico vs. England is going to be ‘a guerra, a war' at 2026 World Cup - NBC Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFh4bU5KSkpZeXdLaUU0RVRTVkFhbERfRG1mLWdMRWpjMU1DekEzdjhHV2ltSGM2TnBjN2JCdDhqU0VOMElSdmo1WmI2NWFFR0tDYU9DR3NvUHhoQU5kMEhSSXBGQkMxTzYwcTBiZVNjSHFlSDB5VC1lRmR3Mkl6TURMVGV0djQ4d2lsVEI4UnhMU3fSAZsBQVVfeXFMTUx6Y3gtLU40dndfNVl1aVNCbDFTRTN3cEdORUx3RTQ2YkxzeWs1Zno0ZG9sZHliUzJ6cFBzMU1TelVTUkNWUHU5QU5oMnVDYW11ZjVObVBFc3M3LTM2a3lGVi1tUndCQzBuOXRTWGNBa2lqSndjODNHbXFmU2ZRZ1ZPOGtLM1k0bFN6S1Z0WUNIb2ZKa05STnhTTm8?oc=5",
+          "source": "NBC Bay Area",
+          "published": "Wed, 01 Jul 2026 20:57:39 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2766760",
+        "slug": "fifwc-mex-eng-2026-07-05-draw",
+        "question": "Will Mexico vs. England end in a draw?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.295\", \"0.705\"]",
+        "bestBid": 0.29,
+        "bestAsk": 0.3,
+        "liquidity": 157443.213,
+        "volume": 2546.3451460000006,
+        "endDate": "2026-07-06T00:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Mexico vs England in the round of 16 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTGt6TmladXBQeXh3eDJSZVdmODRmOWprSFlVSDNONmtOM1R5Q29NVElkN3VaWVFGOEZVaFlJZlA1cklGNktZVjU0ZGItbkFQbW1ITmhoc1BpV0Y1OTFmRnk3WUlITDd2SGU0NlpGakNLbEY4bkJkQWV3YUZwdGNoTmNLU29kcjBlM0dETURBT3l2NTZhYVM4QUo3REk0VEJmNjVaY0d6T003c3FYZENLdXVRTHh3aUdtRllN?oc=5",
+          "source": "olympics.com",
+          "published": "Thu, 02 Jul 2026 08:42:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico vs. England (Jul 5, 2026) Live Score - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XbEhNUVZxdGNvQ3NFX0dpeTBCMkIxWHIxZlNTTTJmOXNENnowS3pNcVU0SzZmRHlLUENvUlZfY1llVHdwU2dXOGxzdkN2a2FkM0pqTEJBSFBLRkd5bkF5d1JIMlZMNzVKY1FzQkRWSG00Zw?oc=5",
+          "source": "ESPN",
+          "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "England vs. Mexico: Everything To Know About The World Cup Round Of 16 Game - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmNYLTFnOXQ5NzFSRFRWd1hmR3ZhOHNmZm9qVWVfY0M5U3BXcXBWeFBVYi1pdkhRSkVDQ19RLXZvVTlabjVPcXdzdU9XWkRHSWpOZE4xcUY5U0pvVFNhNUxTYkJyZ1p1OWk4cUt0X3VBZEtUMEt4c2d4ZXVBNVFJU05wcVVub1E4bkVxVVFjTHdheHAwdlY1dUZJekFzUmNHNHpzUUFVZ9IBpwFBVV95cUxNSngxWjFxOC1NRU9Fby1zQ3VlbG55bllaUDB6WXBhMXYzVkNRN3N6LUVpaFlLcGRkYU9zZUtBck9fenJ2Mm1zQnMtWkcxQ29udU01QWoyQ3BvRHBYbkRYeE02VjhLQ0drSXNna2hPQzdieVdsM0U1Sm83YzZOVlNna09OMlJrY1VaazMySGVSUWhHTlQ0SEhyQ2ZkdnViejhGZjFFR1h4VQ?oc=5",
+          "source": "FOX Sports",
+          "published": "Wed, 01 Jul 2026 19:42:58 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When does Mexico play again in the World Cup? How to watch vs. England - El Paso Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY0ZJUGVrSmF2SXExTkVXS3BRdkpyVTFfTmhMVnViNVE4MzlLY1Y2a1ZlT0tMZS02bm95OXF0cmZOeHVJSDZxcDRiU0hsUUI1MkRwY0JCcUk4Q2FURmJDbzB5ZzV0WlZETnl4NmpLMjBOc1doWnFzRlJoRE1WOWRVdE9FWHlERC1IWDB4Q0N2RXBBTUk3cXVUTUR3TU9pdHExT0lpRnZQaEtzNFVuNS1HYnIzaTBhUU1tQXB5ckxJMWNKY0l4SUk0V2d6ZzF6WmJw?oc=5",
+          "source": "El Paso Times",
+          "published": "Wed, 01 Jul 2026 19:14:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How to buy Mexico vs. England round of 16 World Cup soccer tickets - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYk4zRUtrM1Ixd2FaT25MT1JlRUFyeS1jQzE1dUJkUnJTX0N4ZnR6bk1UczF0WUtVb0k1a1VHNi0zbEhCU0VHdk1fdFNJRTJ5Yk1CWEZoaGxScjgxUkZHQWJncU5DWGtCbkZVQzlMZmlmRjZhWlYxMFY1Mk1teDRNRVdxNmFrWmZ4em5ZcFRSWFRaVmRJLU5LRnJhdXFvaG1YaHRUMDJIRk55WWZ2QkRZRVo3M3RNLXQxOFI2a19UaFBhM2p0WEZjM2haRWd0VTRydXpJQ283TVB0ZHYtelBid0lR?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:24:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "When and where are Mexico vs England playing in 2026 World Cup Round of 16? - bolavip.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHJybF9ic0JuSXl3Q1FPc082Q0paMEY2ekFGelpvVFVOemlsOFlWOUhONHVzbzM5S3d3dEpzckhGQUI1ZTlRTmsweXBHRmpjaDJ0aUN2SzJVa3hCUTNrWXRnRE0wWTNpTHZnTHhOck9rLUZYeFBMcjFoNkc3ZC1pdzA3TDQ1WGtPcVE0WE9DaTdRbUY1Z3gyOHQ5Ynlabk1JUUdTOHJsRzlsbVHSAbABQVVfeXFMUDU3dkhlZjRidlVVYUR6OUNnekkxeENlZTduRkt3ZlFpTmdxbG8wOFZESDJ0LXQxWXY3RHc3ODlOX1hjUVdOLS1XRkR5ZzJ4NjE0c2lqLV93VUZ2UkN3V2ZxeHFxZVlPTHFYYmJRbEJfWGlvVTdOQlVQd0VUU2JHYmw3ci1uYXhZZWt3YmEtSUJER1owMVBVdXR5TzVjOTJYLURXdndRUnZJZFduNV9MLXo?oc=5",
+          "source": "bolavip.com",
+          "published": "Wed, 01 Jul 2026 18:00:46 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Mexico is playing England in the round of 16. How much do tickets cost? - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeG5ta1ViLWtSX3R5YzZGbnJvb19YZ3p2dzlqcEs0WklrUW9sWjZabXU2OTFBbTNJVjZwWWVlOWhOVFR3TkRmVHdleV90MnJ1ODA1TlV4Q1BpeDllMnpYX2FlR0FzN1ZRREpKU0Q3a3BTUGF5eGxHMFhTamFfSWZITzhzeEQ2NE1rZ3dyNHV5NzVRblFpSVhSeGcyRzh0VFhL?oc=5",
+          "source": "New York Post",
+          "published": "Wed, 01 Jul 2026 20:46:00 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why Mexico vs. England is going to be ‘a guerra, a war' at 2026 World Cup - NBC Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSFh4bU5KSkpZeXdLaUU0RVRTVkFhbERfRG1mLWdMRWpjMU1DekEzdjhHV2ltSGM2TnBjN2JCdDhqU0VOMElSdmo1WmI2NWFFR0tDYU9DR3NvUHhoQU5kMEhSSXBGQkMxTzYwcTBiZVNjSHFlSDB5VC1lRmR3Mkl6TURMVGV0djQ4d2lsVEI4UnhMU3fSAZsBQVVfeXFMTUx6Y3gtLU40dndfNVl1aVNCbDFTRTN3cEdORUx3RTQ2YkxzeWs1Zno0ZG9sZHliUzJ6cFBzMU1TelVTUkNWUHU5QU5oMnVDYW11ZjVObVBFc3M3LTM2a3lGVi1tUndCQzBuOXRTWGNBa2lqSndjODNHbXFmU2ZRZ1ZPOGtLM1k0bFN6S1Z0WUNIb2ZKa05STnhTTm8?oc=5",
+          "source": "NBC Bay Area",
+          "published": "Wed, 01 Jul 2026 20:57:39 GMT",
+          "query": "Mexico vs. England 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

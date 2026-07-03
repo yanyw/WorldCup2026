@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-col-gha-2026-07-03",
+  "event_title": "Colombia vs. Ghana",
+  "event_start": "2026-06-28T10:03:26.142163Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2718931",
+        "slug": "fifwc-col-gha-2026-07-03-col",
+        "question": "Will Colombia win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Colombia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.645\", \"0.355\"]",
+        "bestBid": 0.64,
+        "bestAsk": 0.65,
+        "liquidity": 838575.4167,
+        "volume": 207519.03719100257,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Colombia vs. Ghana - Kick-off time, team news, how to watch World Cup round of 32 clash - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjljXzBaZmpSZUVOQ3VOZHFxc0UwbUZSLXcwMlVpVVdzaTU2T0VWOHE0aUM3X0IwdWtaQVF2SmxnSGxjbkNzbWNjWWNsX1ZfcG1XNUR5OTRZNTRYUnJUWGRXbm1DbGFEa2NhaF9xM2FXRV9BRVJIRjZiT1JiSjBBdVgyR3Z4NTNUdHNZSnd1NHNVOHBDOW5DUi1laGZQdjlvdlJndnBBVVI4a3RaMW0wNWlpdw?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 07:33:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia grab second in World Cup Group L, Ghana through in third: Colombia or Portugal next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVI5UXFFbUpqRGViNndKUVd6TlNhYVFLVUF5LXU1UGgtVjFDSjJxa3E1cVdWTFhnc0I0cXJNeGluTnlpeC03aFNyU05GekxDOWFBRERWZ0RzZENkdmFISWx0cS1PZV82OG9uVC1iVlJUN0pnT0lIa3BIdW92NHlFcmNodldZb3dyQzRpYlRnaVJZc1hWdndDdWJVa1N6Y3o2d25B?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 23:31:39 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Colombia vs Ghana: team news, lineups, predictions (World Cup 04/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUxsS3RVSHpTbkFiTXlIX3FmM3pfRFRqNHVOSktpSzZtM3cwUXNJRGpRY3EwaXlRcnNOZS1xZkpNYnhPUmdrMjlPRTIwNUhycTE5NEFzY0pzZmszS2Jpc25PQTZIdnRQVEFfMGlFbG5BdzZzc0hhLUVRbl9VX0hWMkdaeEVwdw?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 01:35:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Colombia vs. Ghana in the 2026 FIFA World Cup Round of 32 - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU1acWNOSjJnNENjNEEyT2VSVjhNTEMwbWZNQW02UEJXbnJ1YUJmcVZsMndiWW9IS01Kc01sSU9OU2dyenJldDVrcVJ5NHc4WDZEX0xrdVhFZGxkUHR3d1BraFVsTXVtdkFFSnA5M1VUbnBGS1BtLUdRbFU4TXZuckF2YkVzMjNuX2NycHFzeFZlVEpzNzNRWThOV2lBeFptSV9qTDdVVTlxWTBRQ01uU2ZaQW1naHNzdWc?oc=5",
+          "source": "DraftKings Network",
+          "published": "Mon, 29 Jun 2026 00:03:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:39:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Red Bull New York and FIFA World Cup 2026™ New York New Jersey Host Committee Announces Free Knockout Round Schedule For NYNJ World Cup 26 Jersey Fan Hub At Sports Illustrated Stadium - Red Bull New York",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPR2dCNWltS2NKdnoxZS1sbkRrcHFmSE5tTHhZQi1UaXJPamxfcmFhakwwLTRhSUhNRG1obFBRallPcVkwNzNzWE5PdXFXZDZVMVJNbWFIWXVqamtQc1dTLTcwRW03VklZYzBTUnd5TGJzREZzSzl5ek9yVDJSWVBCaHJvNWRaellaMmNhVlhUbUZuWERHb29paDcxWnI3c0hFZFBVZjZaUmg4YjY3R1pScHF0bWhOV2RXcU44cC03Y2NULThIXzBITGx0Z2NsdkpIZFVha3Axa0NzVjJKMWRGZlZNMFp0em5LOEk5WnMzeTFPSVY1NGxKZnRHbzhQRmc4OVlCZlN6MUNYVDVsY1JiTHFUTVhtZnE1OS1qS2VteG9UWjN4VEg4NE9TMHM3UzdkX01RTDlSV2ctOEZLR0t2TnVGVQ?oc=5",
+          "source": "Red Bull New York",
+          "published": "Tue, 30 Jun 2026 17:06:48 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ghana to face Colombia in KC Round of 32 match - FOX4KC.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTJIcGU2V0FFZnpUWG5Wdm1aXzRxM1NFWWpEazg3M0Y0NHdiTVlvRzdmX1E2UVBHZnhfYU9TQlhFV2Npai1Nelg4NllTNmlsbzJWaVh5bUdJN0xTWDJzVkx5bWVzZ2hETnJlWlFkTWVJRXdWOGR3OHp5QnVneDlBMFRRM2xxLUlzSTNJeldlSkRwck1DZjMxTE41LXVua18z0gGmAUFVX3lxTFBQUnpwWV82YTJmU1ZaVUQ1dVhoZjN0aWhjY2NYQlNhb1BkempVNndtT1VNVGVLbVNKdGxkeXg1b2N6Tm9uRk8xNjF1NkQxc3Z1aVhIU2dtc1VUTEFTcWk3UnpNX01QWFdLdXUwUFQ1allnREowYXNaR1F0REhaSHRTTUpWak12dzV5WXltV3Y1bjA5RE5wRGIyWFNwUEVManlQMkxOdnc?oc=5",
+          "source": "FOX4KC.com",
+          "published": "Sat, 27 Jun 2026 20:46:26 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Colombia vs. Ghana Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRmdkbU1xWDZabkhtcXZuOTB1c3JJMWZDODFFeTFXNDV1Yl84bnFFd2hncWhVREtmR0xwd1hKa0JoOWw4UUNlaEQ3M3JDcS1hRkVMM0JDUnZnYXdGZi1RRFRDREhzR18wcjY4OTFvNkxEQQ?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 09:05:41 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718932",
+        "slug": "fifwc-col-gha-2026-07-03-draw",
+        "question": "Will Colombia vs. Ghana end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.245\", \"0.755\"]",
+        "bestBid": 0.24,
+        "bestAsk": 0.25,
+        "liquidity": 583770.5179,
+        "volume": 31837.438032000013,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Colombia vs. Ghana - Kick-off time, team news, how to watch World Cup round of 32 clash - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjljXzBaZmpSZUVOQ3VOZHFxc0UwbUZSLXcwMlVpVVdzaTU2T0VWOHE0aUM3X0IwdWtaQVF2SmxnSGxjbkNzbWNjWWNsX1ZfcG1XNUR5OTRZNTRYUnJUWGRXbm1DbGFEa2NhaF9xM2FXRV9BRVJIRjZiT1JiSjBBdVgyR3Z4NTNUdHNZSnd1NHNVOHBDOW5DUi1laGZQdjlvdlJndnBBVVI4a3RaMW0wNWlpdw?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 07:33:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia grab second in World Cup Group L, Ghana through in third: Colombia or Portugal next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVI5UXFFbUpqRGViNndKUVd6TlNhYVFLVUF5LXU1UGgtVjFDSjJxa3E1cVdWTFhnc0I0cXJNeGluTnlpeC03aFNyU05GekxDOWFBRERWZ0RzZENkdmFISWx0cS1PZV82OG9uVC1iVlJUN0pnT0lIa3BIdW92NHlFcmNodldZb3dyQzRpYlRnaVJZc1hWdndDdWJVa1N6Y3o2d25B?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 23:31:39 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Colombia vs Ghana: team news, lineups, predictions (World Cup 04/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUxsS3RVSHpTbkFiTXlIX3FmM3pfRFRqNHVOSktpSzZtM3cwUXNJRGpRY3EwaXlRcnNOZS1xZkpNYnhPUmdrMjlPRTIwNUhycTE5NEFzY0pzZmszS2Jpc25PQTZIdnRQVEFfMGlFbG5BdzZzc0hhLUVRbl9VX0hWMkdaeEVwdw?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 01:35:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Colombia vs. Ghana in the 2026 FIFA World Cup Round of 32 - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU1acWNOSjJnNENjNEEyT2VSVjhNTEMwbWZNQW02UEJXbnJ1YUJmcVZsMndiWW9IS01Kc01sSU9OU2dyenJldDVrcVJ5NHc4WDZEX0xrdVhFZGxkUHR3d1BraFVsTXVtdkFFSnA5M1VUbnBGS1BtLUdRbFU4TXZuckF2YkVzMjNuX2NycHFzeFZlVEpzNzNRWThOV2lBeFptSV9qTDdVVTlxWTBRQ01uU2ZaQW1naHNzdWc?oc=5",
+          "source": "DraftKings Network",
+          "published": "Mon, 29 Jun 2026 00:03:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:39:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Red Bull New York and FIFA World Cup 2026™ New York New Jersey Host Committee Announces Free Knockout Round Schedule For NYNJ World Cup 26 Jersey Fan Hub At Sports Illustrated Stadium - Red Bull New York",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPR2dCNWltS2NKdnoxZS1sbkRrcHFmSE5tTHhZQi1UaXJPamxfcmFhakwwLTRhSUhNRG1obFBRallPcVkwNzNzWE5PdXFXZDZVMVJNbWFIWXVqamtQc1dTLTcwRW03VklZYzBTUnd5TGJzREZzSzl5ek9yVDJSWVBCaHJvNWRaellaMmNhVlhUbUZuWERHb29paDcxWnI3c0hFZFBVZjZaUmg4YjY3R1pScHF0bWhOV2RXcU44cC03Y2NULThIXzBITGx0Z2NsdkpIZFVha3Axa0NzVjJKMWRGZlZNMFp0em5LOEk5WnMzeTFPSVY1NGxKZnRHbzhQRmc4OVlCZlN6MUNYVDVsY1JiTHFUTVhtZnE1OS1qS2VteG9UWjN4VEg4NE9TMHM3UzdkX01RTDlSV2ctOEZLR0t2TnVGVQ?oc=5",
+          "source": "Red Bull New York",
+          "published": "Tue, 30 Jun 2026 17:06:48 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ghana to face Colombia in KC Round of 32 match - FOX4KC.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTJIcGU2V0FFZnpUWG5Wdm1aXzRxM1NFWWpEazg3M0Y0NHdiTVlvRzdmX1E2UVBHZnhfYU9TQlhFV2Npai1Nelg4NllTNmlsbzJWaVh5bUdJN0xTWDJzVkx5bWVzZ2hETnJlWlFkTWVJRXdWOGR3OHp5QnVneDlBMFRRM2xxLUlzSTNJeldlSkRwck1DZjMxTE41LXVua18z0gGmAUFVX3lxTFBQUnpwWV82YTJmU1ZaVUQ1dVhoZjN0aWhjY2NYQlNhb1BkempVNndtT1VNVGVLbVNKdGxkeXg1b2N6Tm9uRk8xNjF1NkQxc3Z1aVhIU2dtc1VUTEFTcWk3UnpNX01QWFdLdXUwUFQ1allnREowYXNaR1F0REhaSHRTTUpWak12dzV5WXltV3Y1bjA5RE5wRGIyWFNwUEVManlQMkxOdnc?oc=5",
+          "source": "FOX4KC.com",
+          "published": "Sat, 27 Jun 2026 20:46:26 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Colombia vs. Ghana Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRmdkbU1xWDZabkhtcXZuOTB1c3JJMWZDODFFeTFXNDV1Yl84bnFFd2hncWhVREtmR0xwd1hKa0JoOWw4UUNlaEQ3M3JDcS1hRkVMM0JDUnZnYXdGZi1RRFRDREhzR18wcjY4OTFvNkxEQQ?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 09:05:41 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2718933",
+        "slug": "fifwc-col-gha-2026-07-03-gha",
+        "question": "Will Ghana win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Ghana wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.115\", \"0.885\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.12,
+        "liquidity": 510408.9059,
+        "volume": 66620.63671999988,
+        "endDate": "2026-07-04T01:30:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Colombia vs. Ghana - Kick-off time, team news, how to watch World Cup round of 32 clash - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMjljXzBaZmpSZUVOQ3VOZHFxc0UwbUZSLXcwMlVpVVdzaTU2T0VWOHE0aUM3X0IwdWtaQVF2SmxnSGxjbkNzbWNjWWNsX1ZfcG1XNUR5OTRZNTRYUnJUWGRXbm1DbGFEa2NhaF9xM2FXRV9BRVJIRjZiT1JiSjBBdVgyR3Z4NTNUdHNZSnd1NHNVOHBDOW5DUi1laGZQdjlvdlJndnBBVVI4a3RaMW0wNWlpdw?oc=5",
+          "source": "ESPN",
+          "published": "Thu, 02 Jul 2026 07:33:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Croatia grab second in World Cup Group L, Ghana through in third: Colombia or Portugal next? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcVI5UXFFbUpqRGViNndKUVd6TlNhYVFLVUF5LXU1UGgtVjFDSjJxa3E1cVdWTFhnc0I0cXJNeGluTnlpeC03aFNyU05GekxDOWFBRERWZ0RzZENkdmFISWx0cS1PZV82OG9uVC1iVlJUN0pnT0lIa3BIdW92NHlFcmNodldZb3dyQzRpYlRnaVJZc1hWdndDdWJVa1N6Y3o2d25B?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 23:31:39 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Colombia vs Ghana: team news, lineups, predictions (World Cup 04/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNUxsS3RVSHpTbkFiTXlIX3FmM3pfRFRqNHVOSktpSzZtM3cwUXNJRGpRY3EwaXlRcnNOZS1xZkpNYnhPUmdrMjlPRTIwNUhycTE5NEFzY0pzZmszS2Jpc25PQTZIdnRQVEFfMGlFbG5BdzZzc0hhLUVRbl9VX0hWMkdaeEVwdw?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Thu, 02 Jul 2026 01:35:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Opening odds for Colombia vs. Ghana in the 2026 FIFA World Cup Round of 32 - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWU1acWNOSjJnNENjNEEyT2VSVjhNTEMwbWZNQW02UEJXbnJ1YUJmcVZsMndiWW9IS01Kc01sSU9OU2dyenJldDVrcVJ5NHc4WDZEX0xrdVhFZGxkUHR3d1BraFVsTXVtdkFFSnA5M1VUbnBGS1BtLUdRbFU4TXZuckF2YkVzMjNuX2NycHFzeFZlVEpzNzNRWThOV2lBeFptSV9qTDdVVTlxWTBRQ01uU2ZaQW1naHNzdWc?oc=5",
+          "source": "DraftKings Network",
+          "published": "Mon, 29 Jun 2026 00:03:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "2026 World Cup Bracket: Full Round Of 32 Matchups - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1hSc0FVc1ZNZjZqU3puWlFLYWcxWVhnUjNHV25jNU9DNWh5TzBVcXpzdVdsMGxaRUpqUFlaY2RnV2RZaDNCMnF5QktVZWJYNkFtVHVfMEx4OGtZVUpockJ3elF6UHNKZGNYTjJUeHVsdnJCNHRETExPcy01d1A1VWtWTEtwZkFE0gGIAUFVX3lxTE8ySjlRQ0JsTmFKMlBVS2c4MWN6eS1SOVRISExSbENFMUluZ2pCa2lPOVVvOV9oTG5waXI0ZlpLVkFyekZQaVMwcnJPY3d4bEtIaGlKdXpSOTlxcDl6Nk1zalhfdHpUWnhGbk1INE9NOUhESlNjeklnYlZoeDhHYy1vSTZjNUhNc0I?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:39:00 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Red Bull New York and FIFA World Cup 2026™ New York New Jersey Host Committee Announces Free Knockout Round Schedule For NYNJ World Cup 26 Jersey Fan Hub At Sports Illustrated Stadium - Red Bull New York",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPR2dCNWltS2NKdnoxZS1sbkRrcHFmSE5tTHhZQi1UaXJPamxfcmFhakwwLTRhSUhNRG1obFBRallPcVkwNzNzWE5PdXFXZDZVMVJNbWFIWXVqamtQc1dTLTcwRW03VklZYzBTUnd5TGJzREZzSzl5ek9yVDJSWVBCaHJvNWRaellaMmNhVlhUbUZuWERHb29paDcxWnI3c0hFZFBVZjZaUmg4YjY3R1pScHF0bWhOV2RXcU44cC03Y2NULThIXzBITGx0Z2NsdkpIZFVha3Axa0NzVjJKMWRGZlZNMFp0em5LOEk5WnMzeTFPSVY1NGxKZnRHbzhQRmc4OVlCZlN6MUNYVDVsY1JiTHFUTVhtZnE1OS1qS2VteG9UWjN4VEg4NE9TMHM3UzdkX01RTDlSV2ctOEZLR0t2TnVGVQ?oc=5",
+          "source": "Red Bull New York",
+          "published": "Tue, 30 Jun 2026 17:06:48 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Ghana to face Colombia in KC Round of 32 match - FOX4KC.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMTJIcGU2V0FFZnpUWG5Wdm1aXzRxM1NFWWpEazg3M0Y0NHdiTVlvRzdmX1E2UVBHZnhfYU9TQlhFV2Npai1Nelg4NllTNmlsbzJWaVh5bUdJN0xTWDJzVkx5bWVzZ2hETnJlWlFkTWVJRXdWOGR3OHp5QnVneDlBMFRRM2xxLUlzSTNJeldlSkRwck1DZjMxTE41LXVua18z0gGmAUFVX3lxTFBQUnpwWV82YTJmU1ZaVUQ1dVhoZjN0aWhjY2NYQlNhb1BkempVNndtT1VNVGVLbVNKdGxkeXg1b2N6Tm9uRk8xNjF1NkQxc3Z1aVhIU2dtc1VUTEFTcWk3UnpNX01QWFdLdXUwUFQ1allnREowYXNaR1F0REhaSHRTTUpWak12dzV5WXltV3Y1bjA5RE5wRGIyWFNwUEVManlQMkxOdnc?oc=5",
+          "source": "FOX4KC.com",
+          "published": "Sat, 27 Jun 2026 20:46:26 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026 R32 Colombia vs. Ghana Predictions and Picks - Juvefc.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HRmdkbU1xWDZabkhtcXZuOTB1c3JJMWZDODFFeTFXNDV1Yl84bnFFd2hncWhVREtmR0xwd1hKa0JoOWw4UUNlaEQ3M3JDcS1hRkVMM0JDUnZnYXdGZi1RRFRDREhzR18wcjY4OTFvNkxEQQ?oc=5",
+          "source": "Juvefc.com",
+          "published": "Tue, 30 Jun 2026 09:05:41 GMT",
+          "query": "Colombia vs. Ghana 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

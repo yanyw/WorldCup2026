@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-par-fra-2026-07-04-first-to-score",
+  "event_title": "Paraguay vs. France - First Team to Score",
+  "event_start": "2026-07-01T10:04:00.040613Z",
+  "as_of": "2026-07-02T14:04:40+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754692",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-home",
+        "question": "Paraguay to score first vs. France?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.135\", \"0.865\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.16,
+        "liquidity": 26389.3065,
+        "volume": 130.228231,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2754693",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-away",
+        "question": "France to score first vs. Paraguay?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.835\", \"0.165\"]",
+        "bestBid": 0.83,
+        "bestAsk": 0.84,
+        "liquidity": 28425.998,
+        "volume": 77.334091,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2754694",
+        "slug": "fifwc-par-fra-2026-07-04-first-to-score-neither",
+        "question": "Paraguay vs. France: Neither team to score first?",
+        "description": "In the upcoming match between Paraguay and France, scheduled for July 4, 2026 at 5:00 PM ET: This market will resolve to \"Paraguay\" if Paraguay are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"France\" if France are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.0415\", \"0.9585\"]",
+        "bestBid": 0.018,
+        "bestAsk": 0.065,
+        "liquidity": 22494.30631,
+        "volume": 41.79,
+        "endDate": "2026-07-04T21:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

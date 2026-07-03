@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-bra-nor-2026-07-05",
+  "event_title": "Brazil vs. Norway",
+  "event_start": "2026-07-01T10:03:40.226987Z",
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2754647",
+        "slug": "fifwc-bra-nor-2026-07-05-bra",
+        "question": "Will Brazil win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Brazil wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.515\", \"0.485\"]",
+        "bestBid": 0.51,
+        "bestAsk": 0.52,
+        "liquidity": 581831.17,
+        "volume": 165571.03151000006,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "👀 Easy prey? Norway are a tough nut for Brazil: head-to-head - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3BiZDE0ekRvRFdQWUw1eXZMOHBLcTgyZUpJay0ycHJjdUM1OGhWb1NYME9FTk11WXpPVldJdFkzdmxhT0ZBclR1NTZnREZZandzbkFGcWhkTUxacGYwNmNSWFZKNkF5UTFZTVpNanZwRVNjRU1USDZST01pR3dlaV9ZN3Q5Sl9kZkE?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 19:32:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is Norway's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5mcGJrcm5qeG5mLWd4NC1DeXZBT2djdnlZYVdHVjBrN2padnowWEhLOHpheGt2OUZxdnVKXzhiZ205RnZxZ0RSZkVEX3lfencwYUlfYWhLRXloT0s3TUZlVWFiRll2b1dwZEZPUC1pdTRUbl9fQ20yMXI0em4yYtIBgAFBVV95cUxPWlNNZnRBQmtWYTFCRlExUHlOMDlTTndIamh0SVBqbTFwQVlVeWFKNlo2S1ozVUlHS2dDaDF2RFc0NHlYQ2RnNG5obmpNenU3cmgyc3g5YnhDRW1kaWdnaEJ6aWZwaFBlWHAtX3VteHFoeS14bWpKcGx4eWJZLXBRYw?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:02:52 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil is playing Norway in the World Cup at MetLife. Get discounted tickets - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXpBcWFNNDhPNlFnZHNra2VHUENmZHpTc2NRMFJfT1g4Zm9tcDZfeDBxbzhTR2FaTHM4QkxRYWVVNU1mOFU2c1Jta3E5Uld2aE1RQURQeUZlY21wdzNnaEJyY0l2RUswbDFiak1paU1XRTdDRzI4eVpLNEJyVVY3ejFidmU4Y3hCTGRkTXRsREhUM1pESTZIaXNMV0R5eEFZb1NZNW4tMzk?oc=5",
+          "source": "New York Post",
+          "published": "Tue, 30 Jun 2026 21:01:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs Norway: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhZSDJvTjNYMU94TnlkT0F5YlBzUzMtRHJGc0x3dnhNTjdTYkdCVEJPeGNPRTNJVXZ4Nm96ZFBnYlhQclZIRVhvdnREYnh4bEJvTzFXSlNUUThjMjlSeDBoeWdFNlZEUU15ZlZ1NXFtOUR0Z2lzX0tqaXVacmhzTnY2UDFXOHFBM3hYa0tuUzRHN0RhRnhhY0FqYjdPdXF1U24wZ05WS0tDQVZnV1RveE53UXU1QkkzUzVjMdIBwAFBVV95cUxOWWdlWUxYaGJIVXdzeEstOXdlYW5NZWJGM3RCNldxSlVzMjhlSWtadHZuc3A4TGVCUWltWVdjSXdWRVRaa2ZKank5ZUFWSjB1WERYQ3huc1lpSE9BVDhDaGtwZDlaOE52dk1DcGRtak9BMFRvNWlfU0dZS2hwdERvaVlPOWY4ZDV4dVpweTk0NmlYZy1Gbzdqb2FkcVpXUWxucUZNWlJMMF9Vb0JPVDZjRGxDMmMydlpGbUY0WWZUUGM?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 18:58:05 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: Brazil vs. Norway Opening Odds - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeG52VV81NThZNVhRa3p2cXRLN1pYY3NhNUt0OURHcnc1RHRoOWtVNFVGV0xheVJRNjRTNzFDOTJfVGFTMWlqU19hZW5hOGNhdEN3TExRd2xBeEtQYXlhemZQZjBxQWtTWWFaZmlPd0xidllJMklUcy1jcndCbElpY1hmSnkyVEc1?oc=5",
+          "source": "DraftKings Network",
+          "published": "Tue, 30 Jun 2026 22:29:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "It's not too late to buy World Cup tickets for Brazil vs. Norway. Here's where to look. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlp3ZE1BUXJhdzRvTzQxOHdRVlBuVTd5dF91VlVReUN6ZXVLTkR4NXhxTl9CNzI3bVB6TmlsUzE5a0I3UncxcVJmMGsySHgwaTlqcVplQ01YS2h4bWFDQnpzMmE5dXU4RkRIMGlrbFhIZ0pXSl8tRnFnRW92LXZ3dnE1R3ZKQzhkUTdGYy1WVERpd2pJOWwzc1RxZ2w3REds?oc=5",
+          "source": "Business Insider",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754649",
+        "slug": "fifwc-bra-nor-2026-07-05-draw",
+        "question": "Will Brazil vs. Norway end in a draw?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.265\", \"0.735\"]",
+        "bestBid": 0.26,
+        "bestAsk": 0.27,
+        "liquidity": 235305.4252,
+        "volume": 14169.313707000012,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "👀 Easy prey? Norway are a tough nut for Brazil: head-to-head - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3BiZDE0ekRvRFdQWUw1eXZMOHBLcTgyZUpJay0ycHJjdUM1OGhWb1NYME9FTk11WXpPVldJdFkzdmxhT0ZBclR1NTZnREZZandzbkFGcWhkTUxacGYwNmNSWFZKNkF5UTFZTVpNanZwRVNjRU1USDZST01pR3dlaV9ZN3Q5Sl9kZkE?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 19:32:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is Norway's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5mcGJrcm5qeG5mLWd4NC1DeXZBT2djdnlZYVdHVjBrN2padnowWEhLOHpheGt2OUZxdnVKXzhiZ205RnZxZ0RSZkVEX3lfencwYUlfYWhLRXloT0s3TUZlVWFiRll2b1dwZEZPUC1pdTRUbl9fQ20yMXI0em4yYtIBgAFBVV95cUxPWlNNZnRBQmtWYTFCRlExUHlOMDlTTndIamh0SVBqbTFwQVlVeWFKNlo2S1ozVUlHS2dDaDF2RFc0NHlYQ2RnNG5obmpNenU3cmgyc3g5YnhDRW1kaWdnaEJ6aWZwaFBlWHAtX3VteHFoeS14bWpKcGx4eWJZLXBRYw?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:02:52 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil is playing Norway in the World Cup at MetLife. Get discounted tickets - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXpBcWFNNDhPNlFnZHNra2VHUENmZHpTc2NRMFJfT1g4Zm9tcDZfeDBxbzhTR2FaTHM4QkxRYWVVNU1mOFU2c1Jta3E5Uld2aE1RQURQeUZlY21wdzNnaEJyY0l2RUswbDFiak1paU1XRTdDRzI4eVpLNEJyVVY3ejFidmU4Y3hCTGRkTXRsREhUM1pESTZIaXNMV0R5eEFZb1NZNW4tMzk?oc=5",
+          "source": "New York Post",
+          "published": "Tue, 30 Jun 2026 21:01:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs Norway: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhZSDJvTjNYMU94TnlkT0F5YlBzUzMtRHJGc0x3dnhNTjdTYkdCVEJPeGNPRTNJVXZ4Nm96ZFBnYlhQclZIRVhvdnREYnh4bEJvTzFXSlNUUThjMjlSeDBoeWdFNlZEUU15ZlZ1NXFtOUR0Z2lzX0tqaXVacmhzTnY2UDFXOHFBM3hYa0tuUzRHN0RhRnhhY0FqYjdPdXF1U24wZ05WS0tDQVZnV1RveE53UXU1QkkzUzVjMdIBwAFBVV95cUxOWWdlWUxYaGJIVXdzeEstOXdlYW5NZWJGM3RCNldxSlVzMjhlSWtadHZuc3A4TGVCUWltWVdjSXdWRVRaa2ZKank5ZUFWSjB1WERYQ3huc1lpSE9BVDhDaGtwZDlaOE52dk1DcGRtak9BMFRvNWlfU0dZS2hwdERvaVlPOWY4ZDV4dVpweTk0NmlYZy1Gbzdqb2FkcVpXUWxucUZNWlJMMF9Vb0JPVDZjRGxDMmMydlpGbUY0WWZUUGM?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 18:58:05 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: Brazil vs. Norway Opening Odds - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeG52VV81NThZNVhRa3p2cXRLN1pYY3NhNUt0OURHcnc1RHRoOWtVNFVGV0xheVJRNjRTNzFDOTJfVGFTMWlqU19hZW5hOGNhdEN3TExRd2xBeEtQYXlhemZQZjBxQWtTWWFaZmlPd0xidllJMklUcy1jcndCbElpY1hmSnkyVEc1?oc=5",
+          "source": "DraftKings Network",
+          "published": "Tue, 30 Jun 2026 22:29:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "It's not too late to buy World Cup tickets for Brazil vs. Norway. Here's where to look. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlp3ZE1BUXJhdzRvTzQxOHdRVlBuVTd5dF91VlVReUN6ZXVLTkR4NXhxTl9CNzI3bVB6TmlsUzE5a0I3UncxcVJmMGsySHgwaTlqcVplQ01YS2h4bWFDQnpzMmE5dXU4RkRIMGlrbFhIZ0pXSl8tRnFnRW92LXZ3dnE1R3ZKQzhkUTdGYy1WVERpd2pJOWwzc1RxZ2w3REds?oc=5",
+          "source": "Business Insider",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2754651",
+        "slug": "fifwc-bra-nor-2026-07-05-nor",
+        "question": "Will Norway win on 2026-07-05?",
+        "description": "In the upcoming game, scheduled for July 5, 2026\nIf Norway wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.225\", \"0.775\"]",
+        "bestBid": 0.22,
+        "bestAsk": 0.23,
+        "liquidity": 268226.8082,
+        "volume": 302526.0025800029,
+        "endDate": "2026-07-05T20:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "Brazil vs. Norway in World Cup round of 16: Time, date, preview - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNmV4RHBsT2NwTi1nR2dkbUFxck81VXVIR0owaTNJT0JVWVRBd3pUSU5FVXg2RzBfaUxtY0x1TzIxT2NDXzZDRG12dU1NTTBFZmY5d3A3MGhoaUgzeGpiOVdoYVdMUTZNaUx5dzlVY1dNcHZJTUUza3p0V3RoM3NkdVM4ZUZaR3FzcjRQQ3N4emZYYmNWSl9zZnp2ekVFd1NmRjN4Y1ppXzFCc0xRQjQ0WF9mTTZoamI1cWpr?oc=5",
+          "source": "USA Today",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "👀 Easy prey? Norway are a tough nut for Brazil: head-to-head - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV3BiZDE0ekRvRFdQWUw1eXZMOHBLcTgyZUpJay0ycHJjdUM1OGhWb1NYME9FTk11WXpPVldJdFkzdmxhT0ZBclR1NTZnREZZandzbkFGcWhkTUxacGYwNmNSWFZKNkF5UTFZTVpNanZwRVNjRU1USDZST01pR3dlaV9ZN3Q5Sl9kZkE?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Tue, 30 Jun 2026 19:32:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Who Is Norway's Next World Cup Opponent? - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWU5mcGJrcm5qeG5mLWd4NC1DeXZBT2djdnlZYVdHVjBrN2padnowWEhLOHpheGt2OUZxdnVKXzhiZ205RnZxZ0RSZkVEX3lfencwYUlfYWhLRXloT0s3TUZlVWFiRll2b1dwZEZPUC1pdTRUbl9fQ20yMXI0em4yYtIBgAFBVV95cUxPWlNNZnRBQmtWYTFCRlExUHlOMDlTTndIamh0SVBqbTFwQVlVeWFKNlo2S1ozVUlHS2dDaDF2RFc0NHlYQ2RnNG5obmpNenU3cmgyc3g5YnhDRW1kaWdnaEJ6aWZwaFBlWHAtX3VteHFoeS14bWpKcGx4eWJZLXBRYw?oc=5",
+          "source": "FOX Sports",
+          "published": "Tue, 30 Jun 2026 19:02:52 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil is playing Norway in the World Cup at MetLife. Get discounted tickets - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXpBcWFNNDhPNlFnZHNra2VHUENmZHpTc2NRMFJfT1g4Zm9tcDZfeDBxbzhTR2FaTHM4QkxRYWVVNU1mOFU2c1Jta3E5Uld2aE1RQURQeUZlY21wdzNnaEJyY0l2RUswbDFiak1paU1XRTdDRzI4eVpLNEJyVVY3ejFidmU4Y3hCTGRkTXRsREhUM1pESTZIaXNMV0R5eEFZb1NZNW4tMzk?oc=5",
+          "source": "New York Post",
+          "published": "Tue, 30 Jun 2026 21:01:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Brazil vs Norway: Date, kickoff time and venue for 2026 World Cup Round of 16 clash - World Soccer Talk",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWjhZSDJvTjNYMU94TnlkT0F5YlBzUzMtRHJGc0x3dnhNTjdTYkdCVEJPeGNPRTNJVXZ4Nm96ZFBnYlhQclZIRVhvdnREYnh4bEJvTzFXSlNUUThjMjlSeDBoeWdFNlZEUU15ZlZ1NXFtOUR0Z2lzX0tqaXVacmhzTnY2UDFXOHFBM3hYa0tuUzRHN0RhRnhhY0FqYjdPdXF1U24wZ05WS0tDQVZnV1RveE53UXU1QkkzUzVjMdIBwAFBVV95cUxOWWdlWUxYaGJIVXdzeEstOXdlYW5NZWJGM3RCNldxSlVzMjhlSWtadHZuc3A4TGVCUWltWVdjSXdWRVRaa2ZKank5ZUFWSjB1WERYQ3huc1lpSE9BVDhDaGtwZDlaOE52dk1DcGRtak9BMFRvNWlfU0dZS2hwdERvaVlPOWY4ZDV4dVpweTk0NmlYZy1Gbzdqb2FkcVpXUWxucUZNWlJMMF9Vb0JPVDZjRGxDMmMydlpGbUY0WWZUUGM?oc=5",
+          "source": "World Soccer Talk",
+          "published": "Tue, 30 Jun 2026 18:58:05 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: Brazil vs. Norway Opening Odds - DraftKings Network",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeG52VV81NThZNVhRa3p2cXRLN1pYY3NhNUt0OURHcnc1RHRoOWtVNFVGV0xheVJRNjRTNzFDOTJfVGFTMWlqU19hZW5hOGNhdEN3TExRd2xBeEtQYXlhemZQZjBxQWtTWWFaZmlPd0xidllJMklUcy1jcndCbElpY1hmSnkyVEc1?oc=5",
+          "source": "DraftKings Network",
+          "published": "Tue, 30 Jun 2026 22:29:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "It's not too late to buy World Cup tickets for Brazil vs. Norway. Here's where to look. - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlp3ZE1BUXJhdzRvTzQxOHdRVlBuVTd5dF91VlVReUN6ZXVLTkR4NXhxTl9CNzI3bVB6TmlsUzE5a0I3UncxcVJmMGsySHgwaTlqcVplQ01YS2h4bWFDQnpzMmE5dXU4RkRIMGlrbFhIZ0pXSl8tRnFnRW92LXZ3dnE1R3ZKQzhkUTdGYy1WVERpd2pJOWwzc1RxZ2w3REds?oc=5",
+          "source": "Business Insider",
+          "published": "Wed, 01 Jul 2026 18:38:00 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Erling Haaland strikes late as Norway defeat Ivory Coast. But can they beat Brazil? - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3ZRS1FrY3QzdFJlVXdTT040YlJBcXhBQW85MUN0M2o4bGowOGVZc2Ztdm03X2t0akdmM3labnJ0UndkbmNRVnBPajY1OXp5aWpWZEo3Mk5GZTFCYThyY1VNS0hWS1BYdEFkRXFfWXBpTnhob09wVjFIa3NtOUhzLVY1MDFBMTBQRmxKaE9fZw?oc=5",
+          "source": "The New York Times",
+          "published": "Tue, 30 Jun 2026 21:23:54 GMT",
+          "query": "Brazil vs. Norway 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

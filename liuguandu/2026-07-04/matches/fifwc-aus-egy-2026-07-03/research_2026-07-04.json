@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-aus-egy-2026-07-03",
+  "event_title": "Australia vs. Egypt",
+  "event_start": "2026-06-27T10:06:19.23105Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707653",
+        "slug": "fifwc-aus-egy-2026-07-03-aus",
+        "question": "Will Australia win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Australia wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.285\", \"0.715\"]",
+        "bestBid": 0.28,
+        "bestAsk": 0.29,
+        "liquidity": 488920.2055,
+        "volume": 71489.58311699987,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Australia vs Egypt in the round of 32 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkwtcEw0QWNvaGtzdVFMM0JsRlRrc083TDJ3cHZsMTY5dHYxVE84ejhjVUhYQUF5Zk15U0lfS1k5ZFVXeE1YMW0zclZlN2dRUTZTaDFxSjJaU2FqU1E5SVZwbjhIYlh2bENDS0tLSUMxdU1CcnRBOTUwTkRQU1kzREhGQTZSNFpIcVplTHRaem1sOEE4Q2VyZkRLTXdDUmxKODNaN1RwMDJCZmN1bTJxaUxJVng2REJvQXJKVFdFY2NxS0tUbXV0ZFZ3?oc=5",
+          "source": "olympics.com",
+          "published": "Mon, 29 Jun 2026 08:40:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Australia vs Egypt: team news, lineups, predictions (World Cup 03/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0FLS1pxQkp0VkdfUlc2VkhuUG1MMVJveS03eDktWlNfemliYWRsbDJMYy1wSlZZd0tPMjJvcVJ2cXRETXFlWllPZTNhNTExby1mXzNEdHhNTWdCY0xmZzY5c3UyQnZtbGM5endERVdnX05nWmRLMGV6clk2MmFhdFZGWHBNN1k?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 18:15:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why VAR ruled Iran’s ‘winner’ offside to put them at risk of World Cup exit as Egypt progress - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOektvNTNPSlB1SHU3bTFlV2NNTl9fLTZfck9BS1JfSklUTGNvVG1pMTI2Y1lkTXZwczFGN3E2N0xoeGtjckZrS005clh0TTdwOTR5N19VSWg4RW9hdWpjWHZTc04zdUtSdXFMc3Biek40VkJ0eUxZYmdYZHA3YlpiUmFaU184TGs5Qjkw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 10:43:28 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Socceroos to meet Mo Salah’s Egypt in World Cup last 32 with star player under injury cloud - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUhZVFBWUHpUVEMtNzNheW9NNU15amhuNHlKQ2pwbVE5aGlvLVlNeFltb3pubThKZjUzODd6THgwQTl0YWtib08zdVdQVkFqbWx4UFktVkFaWENlU2dkeVJ0a05DdGJqUkZsa0NrWkJELWV2TVYzY3ppQmwwa3hkS3V5VHRGRUItYVprUHlkemRyT3hVUEhBazRwYWc0UG4w?oc=5",
+          "source": "The Guardian",
+          "published": "Sat, 27 Jun 2026 07:04:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt: How to watch, stream World Cup Round of 32 match - MLSsoccer.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09JbDZ6Y09zbUR6RjJpTFVTaWxReFVGV2lwTHdLZ2ZSRjNwX19NaXRDR2JTcTJJQmRaMmowVE9ia2RJQXFFZnZYaDlYdUh0cFZpRWZlYXNUaFJCMktkLXJrOTcxanhvZXhkMkRoSlRaVlRfVklWTmw2TmlTSHBXMUxyMkIwUGJYTWVmdXhQSmtxZUJWdjlsY1hhY0NSZw?oc=5",
+          "source": "MLSsoccer.com",
+          "published": "Mon, 29 Jun 2026 18:54:39 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGJFSmYyT2ttQ2o4ekZxbVV3cWJaYmFYRnBDU2JvRlhUQTZGRWtsSXNTMmgxYks5cjVLS3BHN010MmFsWHd1cFFNWDg5djlvakFmc0psemt0ZGR6eWNGUlVRbkNidHJ0UHV5eGlESm9vRmkyWUVhZ2xfMklnb3BrOEg2VHNJeHBTRkxJX3BNZ3Z4V1BoNVAyUkg5VjlaV0RiaE5PX2Z5VGJaWVc4MjR0WnVpS3Nrall3c1p4Yk5GeHdkeFZRUmNvMGdYSThMTzNvOTY1ZGlCTjc3TGl1aC1vc0ZJc1FaOGJmR0E?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 11:41:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707655",
+        "slug": "fifwc-aus-egy-2026-07-03-draw",
+        "question": "Will Australia vs. Egypt end in a draw?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf the game ends in a draw, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve to \"Yes\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.335\", \"0.665\"]",
+        "bestBid": 0.33,
+        "bestAsk": 0.34,
+        "liquidity": 573469.4755,
+        "volume": 56171.32546800005,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Australia vs Egypt in the round of 32 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkwtcEw0QWNvaGtzdVFMM0JsRlRrc083TDJ3cHZsMTY5dHYxVE84ejhjVUhYQUF5Zk15U0lfS1k5ZFVXeE1YMW0zclZlN2dRUTZTaDFxSjJaU2FqU1E5SVZwbjhIYlh2bENDS0tLSUMxdU1CcnRBOTUwTkRQU1kzREhGQTZSNFpIcVplTHRaem1sOEE4Q2VyZkRLTXdDUmxKODNaN1RwMDJCZmN1bTJxaUxJVng2REJvQXJKVFdFY2NxS0tUbXV0ZFZ3?oc=5",
+          "source": "olympics.com",
+          "published": "Mon, 29 Jun 2026 08:40:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Australia vs Egypt: team news, lineups, predictions (World Cup 03/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0FLS1pxQkp0VkdfUlc2VkhuUG1MMVJveS03eDktWlNfemliYWRsbDJMYy1wSlZZd0tPMjJvcVJ2cXRETXFlWllPZTNhNTExby1mXzNEdHhNTWdCY0xmZzY5c3UyQnZtbGM5endERVdnX05nWmRLMGV6clk2MmFhdFZGWHBNN1k?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 18:15:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why VAR ruled Iran’s ‘winner’ offside to put them at risk of World Cup exit as Egypt progress - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOektvNTNPSlB1SHU3bTFlV2NNTl9fLTZfck9BS1JfSklUTGNvVG1pMTI2Y1lkTXZwczFGN3E2N0xoeGtjckZrS005clh0TTdwOTR5N19VSWg4RW9hdWpjWHZTc04zdUtSdXFMc3Biek40VkJ0eUxZYmdYZHA3YlpiUmFaU184TGs5Qjkw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 10:43:28 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Socceroos to meet Mo Salah’s Egypt in World Cup last 32 with star player under injury cloud - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUhZVFBWUHpUVEMtNzNheW9NNU15amhuNHlKQ2pwbVE5aGlvLVlNeFltb3pubThKZjUzODd6THgwQTl0YWtib08zdVdQVkFqbWx4UFktVkFaWENlU2dkeVJ0a05DdGJqUkZsa0NrWkJELWV2TVYzY3ppQmwwa3hkS3V5VHRGRUItYVprUHlkemRyT3hVUEhBazRwYWc0UG4w?oc=5",
+          "source": "The Guardian",
+          "published": "Sat, 27 Jun 2026 07:04:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt: How to watch, stream World Cup Round of 32 match - MLSsoccer.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09JbDZ6Y09zbUR6RjJpTFVTaWxReFVGV2lwTHdLZ2ZSRjNwX19NaXRDR2JTcTJJQmRaMmowVE9ia2RJQXFFZnZYaDlYdUh0cFZpRWZlYXNUaFJCMktkLXJrOTcxanhvZXhkMkRoSlRaVlRfVklWTmw2TmlTSHBXMUxyMkIwUGJYTWVmdXhQSmtxZUJWdjlsY1hhY0NSZw?oc=5",
+          "source": "MLSsoccer.com",
+          "published": "Mon, 29 Jun 2026 18:54:39 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGJFSmYyT2ttQ2o4ekZxbVV3cWJaYmFYRnBDU2JvRlhUQTZGRWtsSXNTMmgxYks5cjVLS3BHN010MmFsWHd1cFFNWDg5djlvakFmc0psemt0ZGR6eWNGUlVRbkNidHJ0UHV5eGlESm9vRmkyWUVhZ2xfMklnb3BrOEg2VHNJeHBTRkxJX3BNZ3Z4V1BoNVAyUkg5VjlaV0RiaE5PX2Z5VGJaWVc4MjR0WnVpS3Nrall3c1p4Yk5GeHdkeFZRUmNvMGdYSThMTzNvOTY1ZGlCTjc3TGl1aC1vc0ZJc1FaOGJmR0E?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 11:41:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707656",
+        "slug": "fifwc-aus-egy-2026-07-03-egy",
+        "question": "Will Egypt win on 2026-07-03?",
+        "description": "In the upcoming game, scheduled for July 3, 2026\nIf Egypt wins, this market will resolve to \"Yes\".\nOtherwise, this market will resolve to \"No\".\nIf the game is postponed, this market will remain open until the game has been completed.\nIf the game is canceled entirely, with no make-up game, this market will resolve \"No\".\nThis market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.385\", \"0.615\"]",
+        "bestBid": 0.38,
+        "bestAsk": 0.39,
+        "liquidity": 705219.3308,
+        "volume": 109306.70272599798,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "match_1x2",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "FIFA World Cup 2026: How to watch Australia vs Egypt in the round of 32 – head-to-head, full schedule - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbkwtcEw0QWNvaGtzdVFMM0JsRlRrc083TDJ3cHZsMTY5dHYxVE84ejhjVUhYQUF5Zk15U0lfS1k5ZFVXeE1YMW0zclZlN2dRUTZTaDFxSjJaU2FqU1E5SVZwbjhIYlh2bENDS0tLSUMxdU1CcnRBOTUwTkRQU1kzREhGQTZSNFpIcVplTHRaem1sOEE4Q2VyZkRLTXdDUmxKODNaN1RwMDJCZmN1bTJxaUxJVng2REJvQXJKVFdFY2NxS0tUbXV0ZFZ3?oc=5",
+          "source": "olympics.com",
+          "published": "Mon, 29 Jun 2026 08:40:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "PREVIEW | Australia vs Egypt: team news, lineups, predictions (World Cup 03/07) - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ0FLS1pxQkp0VkdfUlc2VkhuUG1MMVJveS03eDktWlNfemliYWRsbDJMYy1wSlZZd0tPMjJvcVJ2cXRETXFlWllPZTNhNTExby1mXzNEdHhNTWdCY0xmZzY5c3UyQnZtbGM5endERVdnX05nWmRLMGV6clk2MmFhdFZGWHBNN1k?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Wed, 01 Jul 2026 18:15:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Why VAR ruled Iran’s ‘winner’ offside to put them at risk of World Cup exit as Egypt progress - The Athletic - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOektvNTNPSlB1SHU3bTFlV2NNTl9fLTZfck9BS1JfSklUTGNvVG1pMTI2Y1lkTXZwczFGN3E2N0xoeGtjckZrS005clh0TTdwOTR5N19VSWg4RW9hdWpjWHZTc04zdUtSdXFMc3Biek40VkJ0eUxZYmdYZHA3YlpiUmFaU184TGs5Qjkw?oc=5",
+          "source": "The New York Times",
+          "published": "Sat, 27 Jun 2026 10:43:28 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Socceroos to meet Mo Salah’s Egypt in World Cup last 32 with star player under injury cloud - The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUhZVFBWUHpUVEMtNzNheW9NNU15amhuNHlKQ2pwbVE5aGlvLVlNeFltb3pubThKZjUzODd6THgwQTl0YWtib08zdVdQVkFqbWx4UFktVkFaWENlU2dkeVJ0a05DdGJqUkZsa0NrWkJELWV2TVYzY3ppQmwwa3hkS3V5VHRGRUItYVprUHlkemRyT3hVUEhBazRwYWc0UG4w?oc=5",
+          "source": "The Guardian",
+          "published": "Sat, 27 Jun 2026 07:04:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt: How to watch, stream World Cup Round of 32 match - MLSsoccer.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09JbDZ6Y09zbUR6RjJpTFVTaWxReFVGV2lwTHdLZ2ZSRjNwX19NaXRDR2JTcTJJQmRaMmowVE9ia2RJQXFFZnZYaDlYdUh0cFZpRWZlYXNUaFJCMktkLXJrOTcxanhvZXhkMkRoSlRaVlRfVklWTmw2TmlTSHBXMUxyMkIwUGJYTWVmdXhQSmtxZUJWdjlsY1hhY0NSZw?oc=5",
+          "source": "MLSsoccer.com",
+          "published": "Mon, 29 Jun 2026 18:54:39 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs. Egypt at World Cup 2026: TV channel, how to watch in UK, kick-off time, live stream, referee, predicted line-ups - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObGJFSmYyT2ttQ2o4ekZxbVV3cWJaYmFYRnBDU2JvRlhUQTZGRWtsSXNTMmgxYks5cjVLS3BHN010MmFsWHd1cFFNWDg5djlvakFmc0psemt0ZGR6eWNGUlVRbkNidHJ0UHV5eGlESm9vRmkyWUVhZ2xfMklnb3BrOEg2VHNJeHBTRkxJX3BNZ3Z4V1BoNVAyUkg5VjlaV0RiaE5PX2Z5VGJaWVc4MjR0WnVpS3Nrall3c1p4Yk5GeHdkeFZRUmNvMGdYSThMTzNvOTY1ZGlCTjc3TGl1aC1vc0ZJc1FaOGJmR0E?oc=5",
+          "source": "ESPN",
+          "published": "Wed, 01 Jul 2026 11:41:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Preview: Predicted Lineups, Team News & Tactical Analysis | 2026 World Cup Round of 32 - RotoWire",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2xnR2k3QkJZM0JDenRQUVpUeHUwZVlSazlsS3FoeXdHeF9RNTl1S3UtckRZUHZ3U0I4d3lJbnNhU3E1clhKRXVjMTROa1lhRk53dEFGb2JaeTE5eFB5Y2lUdGdncDFtYkRhV2tBV0lBeElZRGNMM3RPb25kNFltOTdXdHRwSTg0bWRnVVpHLXFlZlZVTWdfVC16V0dzQ0lDdFVJeDNxeHJ1Y3N0RWY3dDVsWm5xdkNrNFM1aWpYeFY4Yy1CSjZoUFAzdUw5ZV9fX2cyOE9qdHI2SjloQktF?oc=5",
+          "source": "RotoWire",
+          "published": "Thu, 02 Jul 2026 06:00:00 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Australia vs Egypt Prediction: World Cup 2026 Match Preview - Opta Analyst",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1dLSl96ZXMxZ1lBeElOWXZqNnF5MFh5WkRTNldweVRGUS1fV2UxZ3h3eGs2bnQ3b05jT1dBOG1EOFppS3Q2RnRMN2hIN3IyUzA0WnJfWmlIX3pmbTJJaFlKZEx5UmoyM3Y0RTQ5SHBGYkVnUlNGMWgwUklicUdOMmRtR3lzd016UXZxNlZFNzJuLV9p?oc=5",
+          "source": "Opta Analyst",
+          "published": "Thu, 02 Jul 2026 10:38:35 GMT",
+          "query": "Australia vs. Egypt 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

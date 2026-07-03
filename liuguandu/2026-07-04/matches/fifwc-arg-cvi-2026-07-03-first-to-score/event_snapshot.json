@@ -1,0 +1,56 @@
+{
+  "event_slug": "fifwc-arg-cvi-2026-07-03-first-to-score",
+  "event_title": "Argentina vs. Cabo Verde - First Team to Score",
+  "event_start": "2026-06-27T10:12:23.799753Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707789",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-home",
+        "question": "Argentina to score first vs. Cabo Verde?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.845\", \"0.155\"]",
+        "bestBid": 0.84,
+        "bestAsk": 0.85,
+        "liquidity": 30707.4044,
+        "volume": 5750.640983999999,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2707790",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-away",
+        "question": "Cabo Verde to score first vs. Argentina?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.115\", \"0.885\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.12,
+        "liquidity": 28241.3379,
+        "volume": 2194.0540729999993,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    },
+    {
+      "market": {
+        "id": "2707791",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-neither",
+        "question": "Argentina vs. Cabo Verde: Neither team to score first?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.055\", \"0.945\"]",
+        "bestBid": 0.05,
+        "bestAsk": 0.06,
+        "liquidity": 28746.5368,
+        "volume": 3260.218344000001,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score"
+    }
+  ]
+}

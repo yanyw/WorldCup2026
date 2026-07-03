@@ -1,0 +1,680 @@
+{
+  "event_slug": "fifwc-aus-egy-2026-07-03-more-markets",
+  "event_title": "Australia vs. Egypt - More Markets",
+  "event_start": "2026-06-27T10:32:54.976324Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707900",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-home-1pt5",
+        "question": "Spread: Australia (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Australia\", \"Egypt\"]",
+        "outcomePrices": "[\"0.095\", \"0.905\"]",
+        "bestBid": 0.09,
+        "bestAsk": 0.1,
+        "liquidity": 83669.6285,
+        "volume": 2268.7805909999997,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707901",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-1pt5",
+        "question": "Spread: Egypt (-1.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 2 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Egypt\", \"Australia\"]",
+        "outcomePrices": "[\"0.155\", \"0.845\"]",
+        "bestBid": 0.15,
+        "bestAsk": 0.16,
+        "liquidity": 89352.6463,
+        "volume": 50294.59894299999,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707902",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-home-2pt5",
+        "question": "Spread: Australia (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Australia\", \"Egypt\"]",
+        "outcomePrices": "[\"0.0265\", \"0.9735\"]",
+        "bestBid": 0.023,
+        "bestAsk": 0.03,
+        "liquidity": 41027.69074,
+        "volume": 601.8521290000001,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707903",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-2pt5",
+        "question": "Spread: Egypt (-2.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 3 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Egypt\", \"Australia\"]",
+        "outcomePrices": "[\"0.046\", \"0.954\"]",
+        "bestBid": 0.044,
+        "bestAsk": 0.048,
+        "liquidity": 36429.70998,
+        "volume": 553.413247,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707904",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-home-3pt5",
+        "question": "Spread: Australia (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Australia\", \"Egypt\"]",
+        "outcomePrices": "[\"0.0075\", \"0.9925\"]",
+        "bestBid": 0.006,
+        "bestAsk": 0.009,
+        "liquidity": 28270.0952,
+        "volume": 222.021,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707905",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-3pt5",
+        "question": "Spread: Egypt (-3.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 4 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Egypt\", \"Australia\"]",
+        "outcomePrices": "[\"0.015\", \"0.985\"]",
+        "bestBid": 0.01,
+        "bestAsk": 0.02,
+        "liquidity": 30148.07652,
+        "volume": 185.0505,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707906",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-home-4pt5",
+        "question": "Spread: Australia (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Australia\", \"Egypt\"]",
+        "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+        "bestBid": 0.001,
+        "bestAsk": 0.002,
+        "liquidity": 19734.45876,
+        "volume": 4801.0795,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707907",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-4pt5",
+        "question": "Spread: Egypt (-4.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 5 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Egypt\", \"Australia\"]",
+        "outcomePrices": "[\"0.008\", \"0.992\"]",
+        "bestBid": 0.002,
+        "bestAsk": 0.014,
+        "liquidity": 19023.17565,
+        "volume": 968.8541889999999,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707908",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-home-5pt5",
+        "question": "Spread: Australia (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Australia\" if Australia win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Egypt\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Australia\", \"Egypt\"]",
+        "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+        "bestBid": null,
+        "bestAsk": 0.003,
+        "liquidity": 19352.78438,
+        "volume": 7158.937,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707909",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-5pt5",
+        "question": "Spread: Egypt (-5.5)",
+        "description": "In the upcoming FIFA World Cup game, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Egypt\" if Egypt win the game by 6 or more goals.\n\nOtherwise, this market will resolve to \"Australia\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nThis market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Egypt\", \"Australia\"]",
+        "outcomePrices": "[\"0.002\", \"0.998\"]",
+        "bestBid": 0.001,
+        "bestAsk": 0.003,
+        "liquidity": 19014.42135,
+        "volume": 1988.5060000000003,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "spread_lines"
+    },
+    {
+      "market": {
+        "id": "2707910",
+        "slug": "fifwc-aus-egy-2026-07-03-total-0pt5",
+        "question": "Australia vs. Egypt: O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 1 or more goals in this game.\n\nIf the combined total is less than 1, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.855\", \"0.145\"]",
+        "bestBid": 0.85,
+        "bestAsk": 0.86,
+        "liquidity": 103832.61,
+        "volume": 3047.579624999999,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707911",
+        "slug": "fifwc-aus-egy-2026-07-03-total-1pt5",
+        "question": "Australia vs. Egypt: O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 2 or more goals in this game.\n\nIf the combined total is less than 2, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.595\", \"0.405\"]",
+        "bestBid": 0.59,
+        "bestAsk": 0.6,
+        "liquidity": 260821.222,
+        "volume": 59702.358486000005,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707912",
+        "slug": "fifwc-aus-egy-2026-07-03-total-2pt5",
+        "question": "Australia vs. Egypt: O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 3 or more goals in this game.\n\nIf the combined total is less than 3, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.335\", \"0.665\"]",
+        "bestBid": 0.33,
+        "bestAsk": 0.34,
+        "liquidity": 216356.6967,
+        "volume": 38804.84968100001,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707913",
+        "slug": "fifwc-aus-egy-2026-07-03-total-3pt5",
+        "question": "Australia vs. Egypt: O/U 3.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 4 or more goals in this game.\n\nIf the combined total is less than 4, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.155\", \"0.845\"]",
+        "bestBid": 0.15,
+        "bestAsk": 0.16,
+        "liquidity": 129398.5769,
+        "volume": 6326.02846,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707914",
+        "slug": "fifwc-aus-egy-2026-07-03-total-4pt5",
+        "question": "Australia vs. Egypt: O/U 4.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 5 or more goals in this game.\n\nIf the combined total is less than 5, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.06\", \"0.94\"]",
+        "bestBid": 0.05,
+        "bestAsk": 0.07,
+        "liquidity": 83010.2312,
+        "volume": 7032.28569,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707915",
+        "slug": "fifwc-aus-egy-2026-07-03-total-5pt5",
+        "question": "Australia vs. Egypt: O/U 5.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 6 or more goals in this game.\n\nIf the combined total is less than 6, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.0185\", \"0.9815\"]",
+        "bestBid": 0.015,
+        "bestAsk": 0.022,
+        "liquidity": 33426.25307,
+        "volume": 2229.511142,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707916",
+        "slug": "fifwc-aus-egy-2026-07-03-total-6pt5",
+        "question": "Australia vs. Egypt: O/U 6.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 7 or more goals in this game.\n\nIf the combined total is less than 7, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.0055\", \"0.9945\"]",
+        "bestBid": 0.002,
+        "bestAsk": 0.009,
+        "liquidity": 32069.4421,
+        "volume": 2275.49165,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707917",
+        "slug": "fifwc-aus-egy-2026-07-03-total-7pt5",
+        "question": "Australia vs. Egypt: O/U 7.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 8 or more goals in this game.\n\nIf the combined total is less than 8, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.002\", \"0.998\"]",
+        "bestBid": 0.001,
+        "bestAsk": 0.003,
+        "liquidity": 26286.63653,
+        "volume": 247159.13875100017,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707918",
+        "slug": "fifwc-aus-egy-2026-07-03-total-8pt5",
+        "question": "Australia vs. Egypt: O/U 8.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Over\" if Australia and Egypt combine to score 9 or more goals in this game.\n\nIf the combined total is less than 9, this market will resolve to \"Under\".\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.0015\", \"0.9985\"]",
+        "bestBid": null,
+        "bestAsk": 0.003,
+        "liquidity": 27015.20806,
+        "volume": 8657.564333,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707919",
+        "slug": "fifwc-aus-egy-2026-07-03-btts",
+        "question": "Australia vs. Egypt: Both Teams to Score",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET:\n\nThis market will resolve to \"Yes\" if both Australia and Egypt each score at least one goal during the game.\n\nThis market will resolve to \"No\" if either team fails to score (i.e., if one or both teams finish with zero goals).\n\nIf the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.\n\nIf the game is started but not completed, this market will resolve according to the official final score published on fifa.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.\n\nThe primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.435\", \"0.565\"]",
+        "bestBid": 0.43,
+        "bestAsk": 0.44,
+        "liquidity": 120213.5112,
+        "volume": 5595.313836,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707920",
+        "slug": "fifwc-aus-egy-2026-07-03-btts-first-half",
+        "question": "Australia vs. Egypt: Both Teams to Score in First Half",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Yes\" if both Australia and Egypt each score at least one goal during the first half (first 45 minutes of regular play plus first-half stoppage time). This market will resolve to \"No\" if either team fails to score in the first half (i.e., if one or both teams finish the first half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.14\", \"0.86\"]",
+        "bestBid": 0.13,
+        "bestAsk": 0.15,
+        "liquidity": 35117.6671,
+        "volume": 121,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707921",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-total-0pt5",
+        "question": "Australia vs. Egypt: 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.595\", \"0.405\"]",
+        "bestBid": 0.59,
+        "bestAsk": 0.6,
+        "liquidity": 82820.5297,
+        "volume": 53.544219,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707922",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-total-1pt5",
+        "question": "Australia vs. Egypt: 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.24\", \"0.76\"]",
+        "bestBid": 0.23,
+        "bestAsk": 0.25,
+        "liquidity": 51638.8735,
+        "volume": 26.37552,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707923",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-total-2pt5",
+        "question": "Australia vs. Egypt: 1st Half O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 3 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If the combined first-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.07\", \"0.93\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.08,
+        "liquidity": 31379.9368,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707924",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-home-0pt5",
+        "question": "Australia vs. Egypt: Australia O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Australia score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Australia's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.605\", \"0.395\"]",
+        "bestBid": 0.6,
+        "bestAsk": 0.61,
+        "liquidity": 79498.6776,
+        "volume": 4682.788380999999,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707925",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-home-1pt5",
+        "question": "Australia vs. Egypt: Australia O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Australia score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Australia's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.24\", \"0.76\"]",
+        "bestBid": 0.23,
+        "bestAsk": 0.25,
+        "liquidity": 62645.5977,
+        "volume": 49.882721,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707926",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-home-2pt5",
+        "question": "Australia vs. Egypt: Australia O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Australia score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Australia's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.065\", \"0.935\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.07,
+        "liquidity": 29014.6628,
+        "volume": 2066.865681,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707927",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-away-0pt5",
+        "question": "Australia vs. Egypt: Egypt O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 1 or more goals within the first 90 minutes of regular play plus stoppage time. If Egypt score less than 1 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Egypt's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.685\", \"0.315\"]",
+        "bestBid": 0.68,
+        "bestAsk": 0.69,
+        "liquidity": 68521.8553,
+        "volume": 1089.9113160000002,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707928",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-away-1pt5",
+        "question": "Australia vs. Egypt: Egypt O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 2 or more goals within the first 90 minutes of regular play plus stoppage time. If Egypt score less than 2 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Egypt's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.31\", \"0.69\"]",
+        "bestBid": 0.3,
+        "bestAsk": 0.32,
+        "liquidity": 68814.5508,
+        "volume": 10257.288637,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707929",
+        "slug": "fifwc-aus-egy-2026-07-03-team-total-away-2pt5",
+        "question": "Australia vs. Egypt: Egypt O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 3 or more goals within the first 90 minutes of regular play plus stoppage time. If Egypt score less than 3 goals within the first 90 minutes of regular play plus stoppage time, this market will resolve to \"Under\". This market is based solely on Egypt's score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.105\", \"0.895\"]",
+        "bestBid": 0.1,
+        "bestAsk": 0.11,
+        "liquidity": 35347.4027,
+        "volume": 728.8633320000001,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707930",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-team-total-home-0pt5",
+        "question": "Australia vs. Egypt: Australia 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Australia score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Australia's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.34\", \"0.66\"]",
+        "bestBid": 0.33,
+        "bestAsk": 0.35,
+        "liquidity": 32800.5476,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707931",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-team-total-home-1pt5",
+        "question": "Australia vs. Egypt: Australia 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Australia score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Australia's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.075\", \"0.925\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.09,
+        "liquidity": 15605.0399,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707932",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-team-total-away-0pt5",
+        "question": "Australia vs. Egypt: Egypt 1st Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 1 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Egypt score less than 1 goals in the first half, this market will resolve to \"Under\". This market is based solely on Egypt's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.39\", \"0.61\"]",
+        "bestBid": 0.38,
+        "bestAsk": 0.4,
+        "liquidity": 32878.5621,
+        "volume": 30.611875999999995,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707933",
+        "slug": "fifwc-aus-egy-2026-07-03-first-half-team-total-away-1pt5",
+        "question": "Australia vs. Egypt: Egypt 1st Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 2 or more goals in the first half (first 45 minutes of regular play plus first-half stoppage time). If Egypt score less than 2 goals in the first half, this market will resolve to \"Under\". This market is based solely on Egypt's first-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the first 45 minutes of regular play plus first-half stoppage time. Second-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.075\", \"0.925\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.09,
+        "liquidity": 15759.4124,
+        "volume": 178.769222,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707934",
+        "slug": "fifwc-aus-egy-2026-07-03-btts-second-half",
+        "question": "Australia vs. Egypt: Both Teams to Score in Second Half",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Yes\" if both Australia and Egypt each score at least one goal during the second half of regular play plus second-half stoppage time. This market will resolve to \"No\" if either team fails to score in the second half (i.e., if one or both teams finish the second half with zero goals). If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.215\", \"0.785\"]",
+        "bestBid": 0.2,
+        "bestAsk": 0.23,
+        "liquidity": 25255.2324,
+        "volume": 36,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "btts"
+    },
+    {
+      "market": {
+        "id": "2707935",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-total-0pt5",
+        "question": "Australia vs. Egypt: 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 1 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 1 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.67\", \"0.33\"]",
+        "bestBid": 0.66,
+        "bestAsk": 0.68,
+        "liquidity": 24627.387,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707936",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-total-1pt5",
+        "question": "Australia vs. Egypt: 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 2 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 2 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.33\", \"0.67\"]",
+        "bestBid": 0.32,
+        "bestAsk": 0.34,
+        "liquidity": 25584.265,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707937",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-total-2pt5",
+        "question": "Australia vs. Egypt: 2nd Half O/U 2.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia and Egypt combine to score 3 or more goals in the second half of regular play plus second-half stoppage time. If the combined second-half total is less than 3 goals, this market will resolve to \"Under\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second half of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.135\", \"0.865\"]",
+        "bestBid": 0.12,
+        "bestAsk": 0.15,
+        "liquidity": 23395.1341,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "totals_lines"
+    },
+    {
+      "market": {
+        "id": "2707938",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-team-total-home-0pt5",
+        "question": "Australia vs. Egypt: Australia 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Australia score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Australia's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.425\", \"0.575\"]",
+        "bestBid": 0.4,
+        "bestAsk": 0.45,
+        "liquidity": 22115.5092,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707939",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-team-total-home-1pt5",
+        "question": "Australia vs. Egypt: Australia 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Australia score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Australia score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Australia's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.1\", \"0.9\"]",
+        "bestBid": 0.06,
+        "bestAsk": 0.14,
+        "liquidity": 10740.5223,
+        "volume": 15.000314,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707940",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-team-total-away-0pt5",
+        "question": "Australia vs. Egypt: Egypt 2nd Half O/U 0.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 1 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Egypt score less than 1 goals in the second half, this market will resolve to \"Under\". This market is based solely on Egypt's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.47\", \"0.53\"]",
+        "bestBid": 0.44,
+        "bestAsk": 0.5,
+        "liquidity": 19546.8334,
+        "volume": 11,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    },
+    {
+      "market": {
+        "id": "2707941",
+        "slug": "fifwc-aus-egy-2026-07-03-second-half-team-total-away-1pt5",
+        "question": "Australia vs. Egypt: Egypt 2nd Half O/U 1.5",
+        "description": "In the upcoming FIFA World Cup game between Australia and Egypt, scheduled for July 3 at 2:00 PM ET: This market will resolve to \"Over\" if Egypt score 2 or more goals in the second half (second 45 minutes of regular play plus second-half stoppage time). If Egypt score less than 2 goals in the second half, this market will resolve to \"Under\". This market is based solely on Egypt's second-half score, not the combined score of both teams. If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. This market refers only to the outcome within the second 45 minutes of regular play plus second-half stoppage time. First-half goals, extra time, and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Over\", \"Under\"]",
+        "outcomePrices": "[\"0.155\", \"0.845\"]",
+        "bestBid": 0.14,
+        "bestAsk": 0.17,
+        "liquidity": 20114.4042,
+        "volume": null,
+        "endDate": "2026-07-03T18:00:00Z"
+      },
+      "market_type": "team_total_lines"
+    }
+  ]
+}

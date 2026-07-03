@@ -1,0 +1,281 @@
+{
+  "event_slug": "fifwc-arg-cvi-2026-07-03-first-to-score",
+  "event_title": "Argentina vs. Cabo Verde - First Team to Score",
+  "event_start": "2026-06-27T10:12:23.799753Z",
+  "as_of": "2026-07-02T14:02:05+00:00",
+  "markets": [
+    {
+      "market": {
+        "id": "2707789",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-home",
+        "question": "Argentina to score first vs. Cabo Verde?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.845\", \"0.155\"]",
+        "bestBid": 0.84,
+        "bestAsk": 0.85,
+        "liquidity": 30707.4044,
+        "volume": 5750.640983999999,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmRXbFRnZDNhem95RU0xNVBqOV94cC1WdFdobEcxVDdBeW91amF5NUJiczRTMkNFN1ppamVLVHRhd2loYjJsUEhzRkNURmRLUHBqTTZYQy1sUDQzQU9ZRHJfZ2E0d1hVTVJUQXhYLUZyelRNQ0VwSk5ONWM2TXpaaWN4LURjSFdpYXNrV1IxRk11U0hRVl9hWGhFQ3lsYzBqcVlkWkF6bllSN3JVWnhYN3BvWDjSAboBQVVfeXFMTWdHMGtSZy1Sb2tDVlFmS1dqWXc0Rnl4Nkp1NFRvOE5xekF4UHFKbXJLVjlvc3F5eDBmaHlZV2VEWk5RZmNNVUhpSndXSWJ3Yl93NFNYZFAwc0FzS1pjM1FaQ3U2bUlkVjlVaWM0aWtPczMyZnpKbFAtcnl3MXVhZ25BdGh4NDBGNTVqeV83cVZDeGRoSFpjeWpaUjFiLXBtcjJpZ2h3QkFLTnYyMUx5Wk84UE1ibGlhYm5B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 02:34:51 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde become smallest country to make World Cup knockouts - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUFTeXN0cWFlelQ5d01UMWlKa3NNRExPeXhQRTZ3dVpPOWRMQVlDanFqWWhrSG1MWXBqTVZfenZWZnZwRXZSSkxhd2RhaVBpeEdQVUZjdm9sdlFETzlyRV9ISHJrSnhiOEl0eGtMYi04Q0pPN3VjRjNZamszaWxIUjF1WjVadUFWYWI0NGRVT3NfSnE3MTZhc0dlMkE2aE5oSjNKd2pQV24?oc=5",
+          "source": "ESPN",
+          "published": "Sat, 27 Jun 2026 02:07:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How Cape Verde stunned the World Cup to set up Argentina tie... When the final whistle blew of the match that confirmed their place, one BBC commentator said \"tears flowed on the pitch and in the stands as well. What a moment. The moment of the World Cu - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VmtUSzJSdlZ1NVdUTWJBMHRrVy1JZnFnNXU5Q2ZYRnI3UWNpS1RuSFZuWExiQlNRWm5teUFZYWJsNHNnRjdlbVNoeWV6ZlpUTFE?oc=5",
+          "source": "instagram.com",
+          "published": "Sat, 27 Jun 2026 11:07:12 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: How Cape Verde made history on their tournament debut - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVUdCVXVNRWpMbVlsNElKRDRWMmtlUm8zZFNSa0xIS05XTGxaVnUwV0FSV0tycTFwUFZMZDNiWkhDMHotMnZTY0tfRm1tTzV5UzN5VEV6aHhEb3laQlN2M3BQV3VxSHM?oc=5",
+          "source": "BBC",
+          "published": "Sat, 27 Jun 2026 03:41:58 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde's magical World Cup run continues after draw with Saudi Arabia. Next up? Lionel Messi and Argentina - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN1hJYm5WWnY0d2dPNDdnaG1PZ2Y4dVh1MVJDaWpHU3FWR1JsaFlvUUk0LUlRYmp0MnYyckN4NzZadFE0RjVFUjJRS0pHRGF0UDFEdzVjajlJMkItVjg0WUliajE5cWtkSDc4OWNuR2lZcnl3X1NzRVI3OVU2VW1rdXRoSlkyVWM5ZGRlSE1MaURGeVBrVzZyYXdtQnJSUkdDdEFoVUV3WlJCSUNSc010bTA5OThOQWlKSzNNcFlvM0xESWJpc0VDbjJXcU9jQkdIZGdBT0stQi1Sc2ZieVpkS0dlNHJiblJZb19pdEFMNDdDWms1?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sat, 27 Jun 2026 03:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde moving on! World Cup sweetheart clinches unthinkable round of 32 spot - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSmsydWhldXQ1ZVg0WmlWQmxCTl9Kb0IzZDBUTGlESm1kYVMwZy1Xa0FqalJRTnl2RTdpN0ZFdlFhcldSU3V5TVhwaUJDWkdhTHV1WFlRZDludE42ZXgzREFXR2xwWThVR1R3cVBFWFFuTHJ3VlpwVU0wOXdFVl9sV00wcnZJS3oyUDl0TjB0dG9xUkV1eWpVTVlnWVR0MDBzOUJtMDhNMEozRmVVSnVNWUxJN0VySXFQQzFfRThIdWtRazlVN3pROHNXSU9hNm1IZDNXNTRR?oc=5",
+          "source": "USA Today",
+          "published": "Sat, 27 Jun 2026 04:08:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: From magic Messi to surprise package Cabo Verde – standout moments from the group stage - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT05SNWwxaVFsN0FRd1Vva1RHOVVKNGlwR29MbnptaHV2Ukh1VUhDcnFsR2JSSzlxSlhkVDFLNnE3OGhkaURnaVVnd0NVRTk3LTcydzNmOUxQd1VxTEM5OHJYX3lNcHN2WlNoTTl0MVJ3alFyS1d1RTRIU1I2SWZUUnlDclNObnlUb1V5cF9uZw?oc=5",
+          "source": "olympics.com",
+          "published": "Fri, 26 Jun 2026 12:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707790",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-away",
+        "question": "Cabo Verde to score first vs. Argentina?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.115\", \"0.885\"]",
+        "bestBid": 0.11,
+        "bestAsk": 0.12,
+        "liquidity": 28241.3379,
+        "volume": 2194.0540729999993,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmRXbFRnZDNhem95RU0xNVBqOV94cC1WdFdobEcxVDdBeW91amF5NUJiczRTMkNFN1ppamVLVHRhd2loYjJsUEhzRkNURmRLUHBqTTZYQy1sUDQzQU9ZRHJfZ2E0d1hVTVJUQXhYLUZyelRNQ0VwSk5ONWM2TXpaaWN4LURjSFdpYXNrV1IxRk11U0hRVl9hWGhFQ3lsYzBqcVlkWkF6bllSN3JVWnhYN3BvWDjSAboBQVVfeXFMTWdHMGtSZy1Sb2tDVlFmS1dqWXc0Rnl4Nkp1NFRvOE5xekF4UHFKbXJLVjlvc3F5eDBmaHlZV2VEWk5RZmNNVUhpSndXSWJ3Yl93NFNYZFAwc0FzS1pjM1FaQ3U2bUlkVjlVaWM0aWtPczMyZnpKbFAtcnl3MXVhZ25BdGh4NDBGNTVqeV83cVZDeGRoSFpjeWpaUjFiLXBtcjJpZ2h3QkFLTnYyMUx5Wk84UE1ibGlhYm5B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 02:34:51 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde become smallest country to make World Cup knockouts - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUFTeXN0cWFlelQ5d01UMWlKa3NNRExPeXhQRTZ3dVpPOWRMQVlDanFqWWhrSG1MWXBqTVZfenZWZnZwRXZSSkxhd2RhaVBpeEdQVUZjdm9sdlFETzlyRV9ISHJrSnhiOEl0eGtMYi04Q0pPN3VjRjNZamszaWxIUjF1WjVadUFWYWI0NGRVT3NfSnE3MTZhc0dlMkE2aE5oSjNKd2pQV24?oc=5",
+          "source": "ESPN",
+          "published": "Sat, 27 Jun 2026 02:07:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How Cape Verde stunned the World Cup to set up Argentina tie... When the final whistle blew of the match that confirmed their place, one BBC commentator said \"tears flowed on the pitch and in the stands as well. What a moment. The moment of the World Cu - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VmtUSzJSdlZ1NVdUTWJBMHRrVy1JZnFnNXU5Q2ZYRnI3UWNpS1RuSFZuWExiQlNRWm5teUFZYWJsNHNnRjdlbVNoeWV6ZlpUTFE?oc=5",
+          "source": "instagram.com",
+          "published": "Sat, 27 Jun 2026 11:07:12 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: How Cape Verde made history on their tournament debut - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVUdCVXVNRWpMbVlsNElKRDRWMmtlUm8zZFNSa0xIS05XTGxaVnUwV0FSV0tycTFwUFZMZDNiWkhDMHotMnZTY0tfRm1tTzV5UzN5VEV6aHhEb3laQlN2M3BQV3VxSHM?oc=5",
+          "source": "BBC",
+          "published": "Sat, 27 Jun 2026 03:41:58 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde's magical World Cup run continues after draw with Saudi Arabia. Next up? Lionel Messi and Argentina - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN1hJYm5WWnY0d2dPNDdnaG1PZ2Y4dVh1MVJDaWpHU3FWR1JsaFlvUUk0LUlRYmp0MnYyckN4NzZadFE0RjVFUjJRS0pHRGF0UDFEdzVjajlJMkItVjg0WUliajE5cWtkSDc4OWNuR2lZcnl3X1NzRVI3OVU2VW1rdXRoSlkyVWM5ZGRlSE1MaURGeVBrVzZyYXdtQnJSUkdDdEFoVUV3WlJCSUNSc010bTA5OThOQWlKSzNNcFlvM0xESWJpc0VDbjJXcU9jQkdIZGdBT0stQi1Sc2ZieVpkS0dlNHJiblJZb19pdEFMNDdDWms1?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sat, 27 Jun 2026 03:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde moving on! World Cup sweetheart clinches unthinkable round of 32 spot - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSmsydWhldXQ1ZVg0WmlWQmxCTl9Kb0IzZDBUTGlESm1kYVMwZy1Xa0FqalJRTnl2RTdpN0ZFdlFhcldSU3V5TVhwaUJDWkdhTHV1WFlRZDludE42ZXgzREFXR2xwWThVR1R3cVBFWFFuTHJ3VlpwVU0wOXdFVl9sV00wcnZJS3oyUDl0TjB0dG9xUkV1eWpVTVlnWVR0MDBzOUJtMDhNMEozRmVVSnVNWUxJN0VySXFQQzFfRThIdWtRazlVN3pROHNXSU9hNm1IZDNXNTRR?oc=5",
+          "source": "USA Today",
+          "published": "Sat, 27 Jun 2026 04:08:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: From magic Messi to surprise package Cabo Verde – standout moments from the group stage - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT05SNWwxaVFsN0FRd1Vva1RHOVVKNGlwR29MbnptaHV2Ukh1VUhDcnFsR2JSSzlxSlhkVDFLNnE3OGhkaURnaVVnd0NVRTk3LTcydzNmOUxQd1VxTEM5OHJYX3lNcHN2WlNoTTl0MVJ3alFyS1d1RTRIU1I2SWZUUnlDclNObnlUb1V5cF9uZw?oc=5",
+          "source": "olympics.com",
+          "published": "Fri, 26 Jun 2026 12:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    },
+    {
+      "market": {
+        "id": "2707791",
+        "slug": "fifwc-arg-cvi-2026-07-03-first-to-score-neither",
+        "question": "Argentina vs. Cabo Verde: Neither team to score first?",
+        "description": "In the upcoming match between Argentina and Cabo Verde, scheduled for July 3, 2026 at 6:00 PM ET: This market will resolve to \"Argentina\" if Argentina are the first to score within the first 90 minutes of regular play plus stoppage time. This market will resolve to \"Cabo Verde\" if Cabo Verde are the first to score within the first 90 minutes of regular play plus stoppage time. If neither team scores within the first 90 minutes of regular play plus stoppage time, this market will resolve \"Neither\". If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve to \"Neither\". This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. Extra time and penalty shoot-outs are excluded. The primary resolution source for this market is the official statistics of the event as recognized by the governing body or event organizers. However, if the governing body or event organizers have not published final match statistics within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. All markets will settle based on the official final result as recognized by the governing body or event organizers. Revisions to officially declared final scores made after market resolution will not be accounted for in determining the outcome.",
+        "outcomes": "[\"Yes\", \"No\"]",
+        "outcomePrices": "[\"0.055\", \"0.945\"]",
+        "bestBid": 0.05,
+        "bestAsk": 0.06,
+        "liquidity": 28746.5368,
+        "volume": 3260.218344000001,
+        "endDate": "2026-07-03T22:00:00Z"
+      },
+      "market_type": "first_team_to_score",
+      "info_scope": "event_shared",
+      "info_items": [
+        {
+          "title": "World Cup Round Of 32 Predictions: One Thing To Watch For Every Team - FOX Sports",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSm9oR3g3elhJSjB1MXNzNDR5aFgteFFrcFdMdFZucUpIaXowM1FTTVVLU2E1cWQ1dkVKTldnbW1Hc2F4UHNzNTF4RUFfRnZURjhoSFNaN285aGxfQ3VaOC1QLXNDb3pWU043ajVuTm9jWUVhVjltOF9rc0hKdjNkSmpJZ1Y0bVZ5RWtwTGdBaE4xODRfVXhuWGs3dlM1T03SAZ8BQVVfeXFMTnVaS3lQTE9fUGJ1ZndUWTVNVlJ5eExVZUxMWE41RU1HdnpyQ2dQWlNlQTY0cTFXQTM0SG9Ha3pERFBmaTFpYkRMME80eGJFbHg0NmpnYUM0ZEF4eV8zNmNFNHJqWDdjbkRuVnk3Z09qLWFhV3VTY2pBYTVZdGxtVlZtRndOVDBkY3VlbzJTTWtjYnJseUlKZXU2M29fMEtN?oc=5",
+          "source": "FOX Sports",
+          "published": "Sun, 28 Jun 2026 16:35:53 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde qualify for World Cup Round of 32, set up date with Argentina - Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMmRXbFRnZDNhem95RU0xNVBqOV94cC1WdFdobEcxVDdBeW91amF5NUJiczRTMkNFN1ppamVLVHRhd2loYjJsUEhzRkNURmRLUHBqTTZYQy1sUDQzQU9ZRHJfZ2E0d1hVTVJUQXhYLUZyelRNQ0VwSk5ONWM2TXpaaWN4LURjSFdpYXNrV1IxRk11U0hRVl9hWGhFQ3lsYzBqcVlkWkF6bllSN3JVWnhYN3BvWDjSAboBQVVfeXFMTWdHMGtSZy1Sb2tDVlFmS1dqWXc0Rnl4Nkp1NFRvOE5xekF4UHFKbXJLVjlvc3F5eDBmaHlZV2VEWk5RZmNNVUhpSndXSWJ3Yl93NFNYZFAwc0FzS1pjM1FaQ3U2bUlkVjlVaWM0aWtPczMyZnpKbFAtcnl3MXVhZ25BdGh4NDBGNTVqeV83cVZDeGRoSFpjeWpaUjFiLXBtcjJpZ2h3QkFLTnYyMUx5Wk84UE1ibGlhYm5B?oc=5",
+          "source": "Al Jazeera",
+          "published": "Sat, 27 Jun 2026 02:34:51 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde become smallest country to make World Cup knockouts - ESPN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUFTeXN0cWFlelQ5d01UMWlKa3NNRExPeXhQRTZ3dVpPOWRMQVlDanFqWWhrSG1MWXBqTVZfenZWZnZwRXZSSkxhd2RhaVBpeEdQVUZjdm9sdlFETzlyRV9ISHJrSnhiOEl0eGtMYi04Q0pPN3VjRjNZamszaWxIUjF1WjVadUFWYWI0NGRVT3NfSnE3MTZhc0dlMkE2aE5oSjNKd2pQV24?oc=5",
+          "source": "ESPN",
+          "published": "Sat, 27 Jun 2026 02:07:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "How Cape Verde stunned the World Cup to set up Argentina tie... When the final whistle blew of the match that confirmed their place, one BBC commentator said \"tears flowed on the pitch and in the stands as well. What a moment. The moment of the World Cu - instagram.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13VmtUSzJSdlZ1NVdUTWJBMHRrVy1JZnFnNXU5Q2ZYRnI3UWNpS1RuSFZuWExiQlNRWm5teUFZYWJsNHNnRjdlbVNoeWV6ZlpUTFE?oc=5",
+          "source": "instagram.com",
+          "published": "Sat, 27 Jun 2026 11:07:12 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "World Cup 2026: How Cape Verde made history on their tournament debut - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zVUdCVXVNRWpMbVlsNElKRDRWMmtlUm8zZFNSa0xIS05XTGxaVnUwV0FSV0tycTFwUFZMZDNiWkhDMHotMnZTY0tfRm1tTzV5UzN5VEV6aHhEb3laQlN2M3BQV3VxSHM?oc=5",
+          "source": "BBC",
+          "published": "Sat, 27 Jun 2026 03:41:58 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde's magical World Cup run continues after draw with Saudi Arabia. Next up? Lionel Messi and Argentina - Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN1hJYm5WWnY0d2dPNDdnaG1PZ2Y4dVh1MVJDaWpHU3FWR1JsaFlvUUk0LUlRYmp0MnYyckN4NzZadFE0RjVFUjJRS0pHRGF0UDFEdzVjajlJMkItVjg0WUliajE5cWtkSDc4OWNuR2lZcnl3X1NzRVI3OVU2VW1rdXRoSlkyVWM5ZGRlSE1MaURGeVBrVzZyYXdtQnJSUkdDdEFoVUV3WlJCSUNSc010bTA5OThOQWlKSzNNcFlvM0xESWJpc0VDbjJXcU9jQkdIZGdBT0stQi1Sc2ZieVpkS0dlNHJiblJZb19pdEFMNDdDWms1?oc=5",
+          "source": "Yahoo Sports",
+          "published": "Sat, 27 Jun 2026 03:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "Cape Verde moving on! World Cup sweetheart clinches unthinkable round of 32 spot - USA Today",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSmsydWhldXQ1ZVg0WmlWQmxCTl9Kb0IzZDBUTGlESm1kYVMwZy1Xa0FqalJRTnl2RTdpN0ZFdlFhcldSU3V5TVhwaUJDWkdhTHV1WFlRZDludE42ZXgzREFXR2xwWThVR1R3cVBFWFFuTHJ3VlpwVU0wOXdFVl9sV00wcnZJS3oyUDl0TjB0dG9xUkV1eWpVTVlnWVR0MDBzOUJtMDhNMEozRmVVSnVNWUxJN0VySXFQQzFfRThIdWtRazlVN3pROHNXSU9hNm1IZDNXNTRR?oc=5",
+          "source": "USA Today",
+          "published": "Sat, 27 Jun 2026 04:08:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        },
+        {
+          "title": "FIFA World Cup 2026: From magic Messi to surprise package Cabo Verde – standout moments from the group stage - olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT05SNWwxaVFsN0FRd1Vva1RHOVVKNGlwR29MbnptaHV2Ukh1VUhDcnFsR2JSSzlxSlhkVDFLNnE3OGhkaURnaVVnd0NVRTk3LTcydzNmOUxQd1VxTEM5OHJYX3lNcHN2WlNoTTl0MVJ3alFyS1d1RTRIU1I2SWZUUnlDclNObnlUb1V5cF9uZw?oc=5",
+          "source": "olympics.com",
+          "published": "Fri, 26 Jun 2026 12:20:00 GMT",
+          "query": "Argentina vs. Cabo Verde - First Team to Score 2026 world cup",
+          "source_kind": "google_news_rss",
+          "tier": "other"
+        }
+      ]
+    }
+  ]
+}

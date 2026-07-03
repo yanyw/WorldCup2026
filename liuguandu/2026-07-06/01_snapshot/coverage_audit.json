@@ -1,0 +1,62 @@
+{
+  "as_of": "2026-07-02T14:05:15+00:00",
+  "report_date": "2026-07-06",
+  "match_date": "2026-07-05",
+  "requested_input_total": 1,
+  "requested_total": 6,
+  "requested_resolved": 6,
+  "requested_missing": 0,
+  "expansion_items": [],
+  "resolved_items": [
+    {
+      "slug": "fifwc-bra-nor-2026-07-05",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-bra-nor-2026-07-05-more-markets",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-bra-nor-2026-07-05-first-to-score",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-mex-eng-2026-07-05",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-mex-eng-2026-07-05-more-markets",
+      "kind": "event",
+      "status": "ok"
+    },
+    {
+      "slug": "fifwc-mex-eng-2026-07-05-first-to-score",
+      "kind": "event",
+      "status": "ok"
+    }
+  ],
+  "missing_items": [],
+  "event_count_all": 207,
+  "event_count_selected": 6,
+  "market_type_counts_all": {
+    "match_1x2": 6,
+    "first_team_to_score": 6,
+    "spread_lines": 20,
+    "totals_lines": 30,
+    "btts": 6,
+    "team_total_lines": 28,
+    "other": 6
+  },
+  "market_type_counts_selected": {
+    "match_1x2": 6,
+    "first_team_to_score": 6,
+    "spread_lines": 20,
+    "totals_lines": 30,
+    "btts": 6,
+    "team_total_lines": 28
+  }
+}

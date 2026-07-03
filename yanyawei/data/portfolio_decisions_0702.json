@@ -1,0 +1,161 @@
+{
+  "schema_version": "2.2",
+  "snapshot_beijing": "2026-07-02T22:20:34+08:00",
+  "price_basis": "direct selected-token best bid/ask from Polymarket CLOB",
+  "bankroll_usdc": 1000,
+  "fee_rate": 0.03,
+  "portfolio_limits": {
+    "maximum_total_stake_pct": 5.0,
+    "maximum_single_event_pct": 1.2,
+    "maximum_one_position_per_match": true
+  },
+  "positions": [
+    {
+      "match_id": "por_cro",
+      "market": "combined_total_under_2_5",
+      "description_zh": "葡萄牙与克罗地亚常规时间合计进球小于2.5",
+      "trade_probability": 0.54,
+      "probability_evidence": {
+        "internal_model": 0.542,
+        "opta_implied": 0.554,
+        "external_direction": "under_2_5",
+        "calibration": "conservative multi-source value"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.492493,
+        "full_kelly": 0.093608,
+        "fractional_kelly": 0.014041,
+        "confidence_factor": 0.624
+      },
+      "snapshot_best_bid": 0.4575,
+      "snapshot_price": 0.46,
+      "fee_rate": 0.03,
+      "maximum_price": 0.485,
+      "execution": "maker_first_taker_allowed_below_maximum",
+      "stake_usdc": 8.5,
+      "status": "TAKER_ACTIONABLE"
+    },
+    {
+      "match_id": "par_fra",
+      "market": "paraguay_plus_1_5",
+      "description_zh": "巴拉圭+1.5，即巴拉圭不以两球或以上差距输球",
+      "trade_probability": 0.52,
+      "probability_evidence": {
+        "internal_model": 0.514,
+        "independent_model": 0.576,
+        "calibration": "internal center with disagreement cap"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.447392,
+        "full_kelly": 0.131392,
+        "fractional_kelly": 0.019709,
+        "confidence_factor": 0.28
+      },
+      "snapshot_best_bid": 0.38,
+      "snapshot_price": 0.39,
+      "fee_rate": 0.03,
+      "maximum_price": 0.44,
+      "execution": "maker_first_taker_allowed_below_maximum",
+      "stake_usdc": 5,
+      "status": "TAKER_ACTIONABLE"
+    },
+    {
+      "match_id": "esp_aut",
+      "market": "austria_plus_1_5",
+      "description_zh": "奥地利+1.5，即奥地利不以两球或以上差距输球",
+      "trade_probability": 0.527,
+      "probability_evidence": {
+        "internal_model": 0.552,
+        "opta_implied": 0.522,
+        "external_devig": 0.502,
+        "calibration": "35% internal, 40% Opta, 25% external"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.484985,
+        "full_kelly": 0.08158,
+        "fractional_kelly": 0.012237,
+        "confidence_factor": 0.327
+      },
+      "snapshot_best_bid": 0.4725,
+      "snapshot_price": 0.475,
+      "fee_rate": 0.03,
+      "maximum_price": 0.485,
+      "maximum_taker_price": 0.4775,
+      "execution": "maker_first_taker_allowed_below_taker_maximum",
+      "stake_usdc": 4,
+      "status": "TAKER_ACTIONABLE"
+    },
+    {
+      "match_id": "arg_cpv",
+      "market": "combined_total_under_2_5",
+      "description_zh": "阿根廷与佛得角常规时间合计进球小于2.5",
+      "trade_probability": 0.46,
+      "probability_evidence": {
+        "internal_model": 0.5,
+        "external_devig": 0.455,
+        "calibration": "external-led conservative value"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.42,
+        "full_kelly": 0.068966,
+        "fractional_kelly": 0.010345,
+        "confidence_factor": 0.483
+      },
+      "snapshot_best_bid": 0.41,
+      "snapshot_price": 0.43,
+      "fee_rate": 0.03,
+      "maximum_price": 0.42,
+      "execution": "maker_only",
+      "stake_usdc": 5,
+      "status": "MAKER_ORDER"
+    },
+    {
+      "match_id": "aus_egy",
+      "market": "btts_no",
+      "description_zh": "澳大利亚与埃及至少一队在常规时间不进球",
+      "trade_probability": 0.59,
+      "probability_evidence": {
+        "internal_model": 0.598,
+        "external_direction": "Egypt 1-0",
+        "calibration": "injury-adjusted conservative value"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.55,
+        "full_kelly": 0.088889,
+        "fractional_kelly": 0.013333,
+        "confidence_factor": 0.3
+      },
+      "snapshot_best_bid": 0.56,
+      "snapshot_price": 0.57,
+      "fee_rate": 0.03,
+      "maximum_price": 0.55,
+      "execution": "maker_only",
+      "stake_usdc": 4,
+      "status": "MAKER_ORDER"
+    },
+    {
+      "match_id": "can_mar",
+      "market": "combined_total_under_2_5",
+      "description_zh": "加拿大与摩洛哥常规时间合计进球小于2.5",
+      "trade_probability": 0.62,
+      "probability_evidence": {
+        "internal_model": 0.625,
+        "external_fair_probability": 0.62,
+        "calibration": "agreement capped at external value"
+      },
+      "kelly_trace": {
+        "fee_adjusted_cost": 0.58,
+        "full_kelly": 0.095238,
+        "fractional_kelly": 0.014286,
+        "confidence_factor": 0.35
+      },
+      "snapshot_best_bid": 0.59,
+      "snapshot_price": 0.6,
+      "fee_rate": 0.03,
+      "maximum_price": 0.58,
+      "execution": "maker_only",
+      "stake_usdc": 5,
+      "status": "MAKER_ORDER"
+    }
+  ]
+}

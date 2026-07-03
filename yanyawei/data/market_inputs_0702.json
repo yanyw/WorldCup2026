@@ -1,0 +1,245 @@
+{
+  "snapshot_beijing": "2026-07-02T22:20:34+08:00",
+  "source": "https://gamma-api.polymarket.com/events",
+  "matches": [
+    {
+      "id": "esp_aut",
+      "home": "ESP",
+      "away": "AUT",
+      "kickoff_beijing": "2026-07-03T03:00:00+08:00",
+      "moneyline": {
+        "home": 0.76625,
+        "draw": 0.16875,
+        "away": 0.07625
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.52375,
+        "away": 0.47625
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.57625,
+        "under": 0.42375
+      },
+      "opta": {
+        "home": 0.706,
+        "draw": 0.173,
+        "away": 0.122
+      }
+    },
+    {
+      "id": "por_cro",
+      "home": "POR",
+      "away": "CRO",
+      "kickoff_beijing": "2026-07-03T07:00:00+08:00",
+      "moneyline": {
+        "home": 0.56625,
+        "draw": 0.26125,
+        "away": 0.17625
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.31875,
+        "away": 0.68125
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.54125,
+        "under": 0.45875
+      },
+      "opta": {
+        "home": 0.545,
+        "draw": 0.251,
+        "away": 0.204
+      }
+    },
+    {
+      "id": "sui_alg",
+      "home": "SUI",
+      "away": "ALG",
+      "kickoff_beijing": "2026-07-03T11:00:00+08:00",
+      "moneyline": {
+        "home": 0.48875,
+        "draw": 0.29625,
+        "away": 0.21875
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.23625,
+        "away": 0.76375
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.42375,
+        "under": 0.57625
+      },
+      "opta": {
+        "home": 0.495,
+        "draw": 0.266,
+        "away": 0.239
+      }
+    },
+    {
+      "id": "aus_egy",
+      "home": "AUS",
+      "away": "EGY",
+      "kickoff_beijing": "2026-07-04T02:00:00+08:00",
+      "moneyline": {
+        "home": 0.285,
+        "draw": 0.335,
+        "away": 0.385
+      },
+      "spread": {
+        "line": 1.5,
+        "home": 0.845,
+        "away": 0.155
+      },
+      "total": {
+        "line": 1.5,
+        "over": 0.595,
+        "under": 0.405
+      },
+      "props": {
+        "btts_yes": 0.435,
+        "btts_no": 0.565
+      },
+      "opta": {
+        "home": 0.304,
+        "draw": 0.31,
+        "away": 0.386
+      }
+    },
+    {
+      "id": "arg_cpv",
+      "home": "ARG",
+      "away": "CPV",
+      "kickoff_beijing": "2026-07-04T06:00:00+08:00",
+      "moneyline": {
+        "home": 0.845,
+        "draw": 0.115,
+        "away": 0.0425
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.615,
+        "away": 0.385
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.585,
+        "under": 0.415
+      }
+    },
+    {
+      "id": "col_gha",
+      "home": "COL",
+      "away": "GHA",
+      "kickoff_beijing": "2026-07-04T09:30:00+08:00",
+      "moneyline": {
+        "home": 0.645,
+        "draw": 0.245,
+        "away": 0.115
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.375,
+        "away": 0.625
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.415,
+        "under": 0.585
+      },
+      "opta": {
+        "home": 0.648,
+        "draw": 0.214,
+        "away": 0.138
+      }
+    },
+    {
+      "id": "can_mar",
+      "home": "CAN",
+      "away": "MAR",
+      "kickoff_beijing": "2026-07-05T01:00:00+08:00",
+      "moneyline": {
+        "home": 0.185,
+        "draw": 0.275,
+        "away": 0.545
+      },
+      "spread": {
+        "line": 1.5,
+        "home": 0.725,
+        "away": 0.275
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.405,
+        "under": 0.595
+      }
+    },
+    {
+      "id": "par_fra",
+      "home": "PAR",
+      "away": "FRA",
+      "kickoff_beijing": "2026-07-05T05:00:00+08:00",
+      "moneyline": {
+        "home": 0.045,
+        "draw": 0.125,
+        "away": 0.835
+      },
+      "spread": {
+        "line": 1.5,
+        "home": 0.385,
+        "away": 0.615
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.585,
+        "under": 0.415
+      }
+    },
+    {
+      "id": "bra_nor",
+      "home": "BRA",
+      "away": "NOR",
+      "kickoff_beijing": "2026-07-06T04:00:00+08:00",
+      "moneyline": {
+        "home": 0.515,
+        "draw": 0.265,
+        "away": 0.225
+      },
+      "spread": {
+        "line": -1.5,
+        "home": 0.275,
+        "away": 0.725
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.545,
+        "under": 0.455
+      }
+    },
+    {
+      "id": "mex_eng",
+      "home": "MEX",
+      "away": "ENG",
+      "kickoff_beijing": "2026-07-06T08:00:00+08:00",
+      "moneyline": {
+        "home": 0.305,
+        "draw": 0.295,
+        "away": 0.395
+      },
+      "spread": {
+        "line": 1.5,
+        "home": 0.835,
+        "away": 0.165
+      },
+      "total": {
+        "line": 2.5,
+        "over": 0.375,
+        "under": 0.625
+      }
+    }
+  ]
+}

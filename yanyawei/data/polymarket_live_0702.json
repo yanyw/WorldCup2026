@@ -1,0 +1,1589 @@
+{
+  "snapshot_beijing": "2026-07-02T22:20:34+08:00",
+  "source": "https://gamma-api.polymarket.com/events",
+  "matches": [
+    {
+      "id": "esp_aut",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-esp-aut-2026-07-02",
+      "moneyline": {
+        "home": {
+          "market_id": "2718913",
+          "question": "Will Spain win on 2026-07-02?",
+          "slug": "fifwc-esp-aut-2026-07-02-esp",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "110474601866909537724044216141585040787927916157559633438159999666255694855775",
+            "87195879292900083989013965233465465154610009955293265578539308193346452705988"
+          ],
+          "prices": {
+            "yes_mid": 0.76625,
+            "no_mid": 0.23375,
+            "yes_bid": 0.765,
+            "yes_ask": 0.7675,
+            "no_bid": 0.2325,
+            "no_ask": 0.235
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "away": {
+          "market_id": "2718915",
+          "question": "Will Austria win on 2026-07-02?",
+          "slug": "fifwc-esp-aut-2026-07-02-aut",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "98527153031306952978660040867395139087621992676427333568334777278688370278755",
+            "103442962905082417891867044561423973520290183523150740658375501152985408690859"
+          ],
+          "prices": {
+            "yes_mid": 0.07625,
+            "no_mid": 0.92375,
+            "yes_bid": 0.075,
+            "yes_ask": 0.0775,
+            "no_bid": 0.9225,
+            "no_ask": 0.925
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "draw": {
+          "market_id": "2718914",
+          "question": "Will Spain vs. Austria end in a draw?",
+          "slug": "fifwc-esp-aut-2026-07-02-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "110944718573054763745445792438007369988665915888567174660803016238425796254924",
+            "60095758108465694459308572168907074257524985610871095592575520263269573454820"
+          ],
+          "prices": {
+            "yes_mid": 0.16875,
+            "no_mid": 0.83125,
+            "yes_bid": 0.1675,
+            "yes_ask": 0.17,
+            "no_bid": 0.83,
+            "no_ask": 0.8325
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        }
+      },
+      "spread": {
+        "market_id": "2719303",
+        "question": "Spread: Spain (-1.5)",
+        "slug": "fifwc-esp-aut-2026-07-02-spread-home-1pt5",
+        "outcomes": [
+          "Spain",
+          "Austria"
+        ],
+        "token_ids": [
+          "29170572769756376522622831021117245976920346513210655196366935447139232773051",
+          "49469793176850152747939068199526823062926116289898013326099759349357399255801"
+        ],
+        "prices": {
+          "yes_mid": 0.52375,
+          "no_mid": 0.47625,
+          "yes_bid": 0.5225,
+          "yes_ask": 0.525,
+          "no_bid": 0.475,
+          "no_ask": 0.4775
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "home_line": -1.5,
+        "favorite_side": "home",
+        "clob_quotes": {
+          "no": {
+            "token_id": "49469793176850152747939068199526823062926116289898013326099759349357399255801",
+            "best_bid": 0.4725,
+            "best_ask": 0.475,
+            "tick_size": 0.0025,
+            "book_timestamp": "1783002040181"
+          }
+        }
+      },
+      "total": {
+        "market_id": "2719315",
+        "question": "Spain vs. Austria: O/U 2.5",
+        "slug": "fifwc-esp-aut-2026-07-02-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "72609046598506268065217435779344392712056805318515031884262045874916876985118",
+          "32244892829912103637182661430661448459208743172621894644246743418310713190931"
+        ],
+        "prices": {
+          "yes_mid": 0.57625,
+          "no_mid": 0.42375,
+          "yes_bid": 0.575,
+          "yes_ask": 0.5775,
+          "no_bid": 0.4225,
+          "no_ask": 0.425
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "line": 2.5
+      },
+      "props": {}
+    },
+    {
+      "id": "por_cro",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-prt-hrv-2026-07-02",
+      "moneyline": {
+        "home": {
+          "market_id": "2718919",
+          "question": "Will Portugal win on 2026-07-02?",
+          "slug": "fifwc-prt-hrv-2026-07-02-prt",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "105300101902444670024314531766229236783176275346588264475245645697082520508325",
+            "36793987766888699593820647443469563387793929831492612627107713011601013977487"
+          ],
+          "prices": {
+            "yes_mid": 0.56625,
+            "no_mid": 0.43375,
+            "yes_bid": 0.565,
+            "yes_ask": 0.5675,
+            "no_bid": 0.4325,
+            "no_ask": 0.435
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        },
+        "away": {
+          "market_id": "2718922",
+          "question": "Will Croatia win on 2026-07-02?",
+          "slug": "fifwc-prt-hrv-2026-07-02-hrv",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "87174293490112529998913581015460784091668285134964562963484251070427507993480",
+            "36533706584300857667029617554986527551244192111758453592898850406162026529582"
+          ],
+          "prices": {
+            "yes_mid": 0.17625,
+            "no_mid": 0.82375,
+            "yes_bid": 0.175,
+            "yes_ask": 0.1775,
+            "no_bid": 0.8225,
+            "no_ask": 0.825
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        },
+        "draw": {
+          "market_id": "2718920",
+          "question": "Will Portugal vs. Croatia end in a draw?",
+          "slug": "fifwc-prt-hrv-2026-07-02-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "51119174525701806371550479635410149688193271356842779075353445408012707878262",
+            "7216924252254397393172583178610701050362566901628641624989721309958035485866"
+          ],
+          "prices": {
+            "yes_mid": 0.26125,
+            "no_mid": 0.73875,
+            "yes_bid": 0.26,
+            "yes_ask": 0.2625,
+            "no_bid": 0.7375,
+            "no_ask": 0.74
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        }
+      },
+      "spread": {
+        "market_id": "2719261",
+        "question": "Spread: Portugal (-1.5)",
+        "slug": "fifwc-prt-hrv-2026-07-02-spread-home-1pt5",
+        "outcomes": [
+          "Portugal",
+          "Croatia"
+        ],
+        "token_ids": [
+          "92721821502542940780915538281373299918285061797154632260609607024941435476059",
+          "17336995494545062204199118854605400763014641778657470271739008106423053257198"
+        ],
+        "prices": {
+          "yes_mid": 0.31875,
+          "no_mid": 0.68125,
+          "yes_bid": 0.3175,
+          "yes_ask": 0.32,
+          "no_bid": 0.68,
+          "no_ask": 0.6825
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "home_line": -1.5,
+        "favorite_side": "home"
+      },
+      "total": {
+        "market_id": "2719273",
+        "question": "Portugal vs. Croatia: O/U 2.5",
+        "slug": "fifwc-prt-hrv-2026-07-02-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "76655388229834609277888648020345023678428310920722814543049025341480644906759",
+          "39454486903303538756082861161474656873596842135700057591835332314446507376185"
+        ],
+        "prices": {
+          "yes_mid": 0.54125,
+          "no_mid": 0.45875,
+          "yes_bid": 0.54,
+          "yes_ask": 0.5425,
+          "no_bid": 0.4575,
+          "no_ask": 0.46
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "line": 2.5,
+        "clob_quotes": {
+          "no": {
+            "token_id": "39454486903303538756082861161474656873596842135700057591835332314446507376185",
+            "best_bid": 0.4575,
+            "best_ask": 0.46,
+            "tick_size": 0.0025,
+            "book_timestamp": "1783002037624"
+          }
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "sui_alg",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-che-alg-2026-07-02",
+      "moneyline": {
+        "home": {
+          "market_id": "2718925",
+          "question": "Will Switzerland win on 2026-07-02?",
+          "slug": "fifwc-che-alg-2026-07-02-che",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "87420881416753183950847701965163525629817652213917429006273635360524465160861",
+            "114529944513432083087603639080413592388250087473645270708766850085200437196608"
+          ],
+          "prices": {
+            "yes_mid": 0.48875,
+            "no_mid": 0.51125,
+            "yes_bid": 0.4875,
+            "yes_ask": 0.49,
+            "no_bid": 0.51,
+            "no_ask": 0.5125
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "away": {
+          "market_id": "2718928",
+          "question": "Will Algeria win on 2026-07-02?",
+          "slug": "fifwc-che-alg-2026-07-02-alg",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "75771817078472080882207303024349440209183684662422891257718386385240666521405",
+            "48841977935449392210913682401847804540825724047164511511643077750489095576615"
+          ],
+          "prices": {
+            "yes_mid": 0.21875,
+            "no_mid": 0.78125,
+            "yes_bid": 0.2175,
+            "yes_ask": 0.22,
+            "no_bid": 0.78,
+            "no_ask": 0.7825
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "draw": {
+          "market_id": "2718926",
+          "question": "Will Switzerland vs. Algeria end in a draw?",
+          "slug": "fifwc-che-alg-2026-07-02-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "52089539338074641654799643228933406735343544687802407952997175402964899976256",
+            "55421552310988764909762497405167329064054290751372018629440763469031478504879"
+          ],
+          "prices": {
+            "yes_mid": 0.29625,
+            "no_mid": 0.70375,
+            "yes_bid": 0.295,
+            "yes_ask": 0.2975,
+            "no_bid": 0.7025,
+            "no_ask": 0.705
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        }
+      },
+      "spread": {
+        "market_id": "2719219",
+        "question": "Spread: Switzerland (-1.5)",
+        "slug": "fifwc-che-alg-2026-07-02-spread-home-1pt5",
+        "outcomes": [
+          "Switzerland",
+          "Algeria"
+        ],
+        "token_ids": [
+          "3942209307794286097901065658217310248914058652779560104774853875572469128095",
+          "91632425649273078016076545971625194319074244140099794122041273865892270333744"
+        ],
+        "prices": {
+          "yes_mid": 0.23625,
+          "no_mid": 0.76375,
+          "yes_bid": 0.235,
+          "yes_ask": 0.2375,
+          "no_bid": 0.7625,
+          "no_ask": 0.765
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "home_line": -1.5,
+        "favorite_side": "home"
+      },
+      "total": {
+        "market_id": "2719231",
+        "question": "Switzerland vs. Algeria: O/U 2.5",
+        "slug": "fifwc-che-alg-2026-07-02-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "58760091109513372926464062508873763877271003238358019370937067994996707250806",
+          "50839121783080627861065956855300858668469501957927936416480866878709645777446"
+        ],
+        "prices": {
+          "yes_mid": 0.42375,
+          "no_mid": 0.57625,
+          "yes_bid": 0.4225,
+          "yes_ask": 0.425,
+          "no_bid": 0.575,
+          "no_ask": 0.5775
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "line": 2.5
+      },
+      "props": {}
+    },
+    {
+      "id": "aus_egy",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-aus-egy-2026-07-03",
+      "moneyline": {
+        "home": {
+          "market_id": "2707653",
+          "question": "Will Australia win on 2026-07-03?",
+          "slug": "fifwc-aus-egy-2026-07-03-aus",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "53970838488584180633352427972739785822858048152217079560347483794342661373892",
+            "73560083339932110944429728979305763259428809795915421475210325820265024537629"
+          ],
+          "prices": {
+            "yes_mid": 0.285,
+            "no_mid": 0.715,
+            "yes_bid": 0.28,
+            "yes_ask": 0.29,
+            "no_bid": 0.71,
+            "no_ask": 0.72
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "away": {
+          "market_id": "2707656",
+          "question": "Will Egypt win on 2026-07-03?",
+          "slug": "fifwc-aus-egy-2026-07-03-egy",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "86532936246759869909563954733130420453288003695560964566482181231108253829977",
+            "58876399413754290886505678293424340402660358045313477456726319086629610453597"
+          ],
+          "prices": {
+            "yes_mid": 0.385,
+            "no_mid": 0.615,
+            "yes_bid": 0.38,
+            "yes_ask": 0.39,
+            "no_bid": 0.61,
+            "no_ask": 0.62
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "draw": {
+          "market_id": "2707655",
+          "question": "Will Australia vs. Egypt end in a draw?",
+          "slug": "fifwc-aus-egy-2026-07-03-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "84037528096247589121932460644816367456733721388752689681145885530943661082375",
+            "19218048658101730019539889106656877390447154168057139089590999845424465420066"
+          ],
+          "prices": {
+            "yes_mid": 0.335,
+            "no_mid": 0.665,
+            "yes_bid": 0.33,
+            "yes_ask": 0.34,
+            "no_bid": 0.66,
+            "no_ask": 0.67
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        }
+      },
+      "spread": {
+        "market_id": "2707901",
+        "question": "Spread: Egypt (-1.5)",
+        "slug": "fifwc-aus-egy-2026-07-03-spread-away-1pt5",
+        "outcomes": [
+          "Egypt",
+          "Australia"
+        ],
+        "token_ids": [
+          "36640348444959299972426757882600599595052055523015293205615997770110592768362",
+          "50971698889876581447763083043035666701704037145306891914408677764183398236448"
+        ],
+        "prices": {
+          "yes_mid": 0.155,
+          "no_mid": 0.845,
+          "yes_bid": 0.15,
+          "yes_ask": 0.16,
+          "no_bid": 0.84,
+          "no_ask": 0.85
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:14:38.703385Z",
+        "home_line": 1.5,
+        "favorite_side": "away"
+      },
+      "total": {
+        "market_id": "2707911",
+        "question": "Australia vs. Egypt: O/U 1.5",
+        "slug": "fifwc-aus-egy-2026-07-03-total-1pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "78120022409928061548957561310364821833435994279827239043273062270993963048366",
+          "23976899029372612411179615612002806886244417426760648939324643077044857820249"
+        ],
+        "prices": {
+          "yes_mid": 0.595,
+          "no_mid": 0.405,
+          "yes_bid": 0.59,
+          "yes_ask": 0.6,
+          "no_bid": 0.4,
+          "no_ask": 0.41
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:14:38.703385Z",
+        "line": 1.5
+      },
+      "props": {
+        "btts": {
+          "market_id": "2707919",
+          "question": "Australia vs. Egypt: Both Teams to Score",
+          "slug": "fifwc-aus-egy-2026-07-03-btts",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "2504938542323302353949929822637848399484018393596177798978648575325444954906",
+            "12958397792268651710141109026511157651603735278566052131253182289778379457433"
+          ],
+          "prices": {
+            "yes_mid": 0.435,
+            "no_mid": 0.565,
+            "yes_bid": 0.43,
+            "yes_ask": 0.44,
+            "no_bid": 0.56,
+            "no_ask": 0.57
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z",
+          "clob_quotes": {
+            "no": {
+              "token_id": "12958397792268651710141109026511157651603735278566052131253182289778379457433",
+              "best_bid": 0.56,
+              "best_ask": 0.57,
+              "tick_size": 0.01,
+              "book_timestamp": "1783002035780"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "arg_cpv",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-arg-cvi-2026-07-03",
+      "moneyline": {
+        "home": {
+          "market_id": "2707658",
+          "question": "Will Argentina win on 2026-07-03?",
+          "slug": "fifwc-arg-cvi-2026-07-03-arg",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43456878767945280970650160648663035360756131789534577706790459269909777535061",
+            "47254411859814230823241329698941341210081957128105405938574965184636004790922"
+          ],
+          "prices": {
+            "yes_mid": 0.845,
+            "no_mid": 0.155,
+            "yes_bid": 0.84,
+            "yes_ask": 0.85,
+            "no_bid": 0.15,
+            "no_ask": 0.16
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "away": {
+          "market_id": "2707660",
+          "question": "Will Cabo Verde win on 2026-07-03?",
+          "slug": "fifwc-arg-cvi-2026-07-03-cvi",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "27797173830695790192472564926188861680026963949667326881806426254251568869114",
+            "112706326240293487067920953164337573759639600200121006947350708801242116241070"
+          ],
+          "prices": {
+            "yes_mid": 0.0425,
+            "no_mid": 0.9575,
+            "yes_bid": 0.042,
+            "yes_ask": 0.043,
+            "no_bid": 0.957,
+            "no_ask": 0.958
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "draw": {
+          "market_id": "2707659",
+          "question": "Will Argentina vs. Cabo Verde end in a draw?",
+          "slug": "fifwc-arg-cvi-2026-07-03-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "50594101292041950051188723960534854293621624124622267043333086480644780479430",
+            "18757536666532566857770836224853235957553949956616612185975840653125378224408"
+          ],
+          "prices": {
+            "yes_mid": 0.115,
+            "no_mid": 0.885,
+            "yes_bid": 0.11,
+            "yes_ask": 0.12,
+            "no_bid": 0.88,
+            "no_ask": 0.89
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        }
+      },
+      "spread": {
+        "market_id": "2707858",
+        "question": "Spread: Argentina (-1.5)",
+        "slug": "fifwc-arg-cvi-2026-07-03-spread-home-1pt5",
+        "outcomes": [
+          "Argentina",
+          "Cabo Verde"
+        ],
+        "token_ids": [
+          "51257360890405284767626377813203350485964944311762924783134874314019606720628",
+          "97033046112170401675607860487044680252739735350323672922018552304027312418482"
+        ],
+        "prices": {
+          "yes_mid": 0.615,
+          "no_mid": 0.385,
+          "yes_bid": 0.61,
+          "yes_ask": 0.62,
+          "no_bid": 0.38,
+          "no_ask": 0.39
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "home_line": -1.5,
+        "favorite_side": "home"
+      },
+      "total": {
+        "market_id": "2707870",
+        "question": "Argentina vs. Cabo Verde: O/U 2.5",
+        "slug": "fifwc-arg-cvi-2026-07-03-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "103755648069227849679061552717924845119883245114403050383748932200320499418116",
+          "64139056142428195412934173861626009635158566189507817289492463413463155017890"
+        ],
+        "prices": {
+          "yes_mid": 0.585,
+          "no_mid": 0.415,
+          "yes_bid": 0.58,
+          "yes_ask": 0.59,
+          "no_bid": 0.41,
+          "no_ask": 0.42
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "line": 2.5,
+        "clob_quotes": {
+          "no": {
+            "token_id": "64139056142428195412934173861626009635158566189507817289492463413463155017890",
+            "best_bid": 0.41,
+            "best_ask": 0.43,
+            "tick_size": 0.01,
+            "book_timestamp": "1783002032362"
+          }
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "col_gha",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-col-gha-2026-07-03",
+      "moneyline": {
+        "home": {
+          "market_id": "2718931",
+          "question": "Will Colombia win on 2026-07-03?",
+          "slug": "fifwc-col-gha-2026-07-03-col",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "76150025241705071715660741383746313361341926806422361774139695469030476859782",
+            "6965085377369893154950113188092980062181789590218347314196090952178756077518"
+          ],
+          "prices": {
+            "yes_mid": 0.645,
+            "no_mid": 0.355,
+            "yes_bid": 0.64,
+            "yes_ask": 0.65,
+            "no_bid": 0.35,
+            "no_ask": 0.36
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        },
+        "away": {
+          "market_id": "2718933",
+          "question": "Will Ghana win on 2026-07-03?",
+          "slug": "fifwc-col-gha-2026-07-03-gha",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "105539798766547200092323662417726863479637721229836283901511466011186180591923",
+            "103342324942471319985602539818363146547812329708347340456245582195138932754822"
+          ],
+          "prices": {
+            "yes_mid": 0.115,
+            "no_mid": 0.885,
+            "yes_bid": 0.11,
+            "yes_ask": 0.12,
+            "no_bid": 0.88,
+            "no_ask": 0.89
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        },
+        "draw": {
+          "market_id": "2718932",
+          "question": "Will Colombia vs. Ghana end in a draw?",
+          "slug": "fifwc-col-gha-2026-07-03-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "74465184772301188489011024618947583704857068259629739095253675726347456742213",
+            "102212517740669548454196908225149183081553291532233839080313430138503529986387"
+          ],
+          "prices": {
+            "yes_mid": 0.245,
+            "no_mid": 0.755,
+            "yes_bid": 0.24,
+            "yes_ask": 0.25,
+            "no_bid": 0.75,
+            "no_ask": 0.76
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:14:38.703385Z"
+        }
+      },
+      "spread": {
+        "market_id": "2719177",
+        "question": "Spread: Colombia (-1.5)",
+        "slug": "fifwc-col-gha-2026-07-03-spread-home-1pt5",
+        "outcomes": [
+          "Colombia",
+          "Ghana"
+        ],
+        "token_ids": [
+          "53269980891619216076985963453730298176659723958539933565864687356081976355828",
+          "78445016912927581544221773923179351342190133315196059885423504269357501820486"
+        ],
+        "prices": {
+          "yes_mid": 0.375,
+          "no_mid": 0.625,
+          "yes_bid": 0.37,
+          "yes_ask": 0.38,
+          "no_bid": 0.62,
+          "no_ask": 0.63
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:14:38.703385Z",
+        "home_line": -1.5,
+        "favorite_side": "home"
+      },
+      "total": {
+        "market_id": "2719189",
+        "question": "Colombia vs. Ghana: O/U 2.5",
+        "slug": "fifwc-col-gha-2026-07-03-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "14764913015180913947968342613834076520024846083400325072206197450261366113906",
+          "106615017457167129492162812091830726976608496381860608097147553973652508823565"
+        ],
+        "prices": {
+          "yes_mid": 0.415,
+          "no_mid": 0.585,
+          "yes_bid": 0.41,
+          "yes_ask": 0.42,
+          "no_bid": 0.58,
+          "no_ask": 0.59
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:14:38.703385Z",
+        "line": 2.5
+      },
+      "props": {}
+    },
+    {
+      "id": "can_mar",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-can-mar-2026-07-04",
+      "moneyline": {
+        "home": {
+          "market_id": "2740917",
+          "question": "Will Canada win on 2026-07-04?",
+          "slug": "fifwc-can-mar-2026-07-04-can",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "39829420117533150550184846325805706216027544339731400040170885335796384867455",
+            "11263816773062132614077322307882909551135079093893055759804813369043643400419"
+          ],
+          "prices": {
+            "yes_mid": 0.185,
+            "no_mid": 0.815,
+            "yes_bid": 0.18,
+            "yes_ask": 0.19,
+            "no_bid": 0.81,
+            "no_ask": 0.82
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "away": {
+          "market_id": "2740921",
+          "question": "Will Morocco win on 2026-07-04?",
+          "slug": "fifwc-can-mar-2026-07-04-mar",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "102051736436656560797672629859737891705962543111476656351708851920203673046762",
+            "65668323357092153659635952271884062785503105920888052743329065374587829550790"
+          ],
+          "prices": {
+            "yes_mid": 0.545,
+            "no_mid": 0.455,
+            "yes_bid": 0.54,
+            "yes_ask": 0.55,
+            "no_bid": 0.45,
+            "no_ask": 0.46
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "draw": {
+          "market_id": "2740919",
+          "question": "Will Canada vs. Morocco end in a draw?",
+          "slug": "fifwc-can-mar-2026-07-04-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "102160917682664539054010256622493974769159216846456075685208964292484286267403",
+            "71632223088728071164198560444876622481182650786367190732492573444308094933385"
+          ],
+          "prices": {
+            "yes_mid": 0.275,
+            "no_mid": 0.725,
+            "yes_bid": 0.27,
+            "yes_ask": 0.28,
+            "no_bid": 0.72,
+            "no_ask": 0.73
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        }
+      },
+      "spread": {
+        "market_id": "2741281",
+        "question": "Spread: Morocco (-1.5)",
+        "slug": "fifwc-can-mar-2026-07-04-spread-away-1pt5",
+        "outcomes": [
+          "Morocco",
+          "Canada"
+        ],
+        "token_ids": [
+          "109563149597666284036383336521861145893423377854256145684923251785322144838234",
+          "55920410518084961660947482181085666491550953052146626322159352002622133192050"
+        ],
+        "prices": {
+          "yes_mid": 0.275,
+          "no_mid": 0.725,
+          "yes_bid": 0.27,
+          "yes_ask": 0.28,
+          "no_bid": 0.72,
+          "no_ask": 0.73
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "home_line": 1.5,
+        "favorite_side": "away"
+      },
+      "total": {
+        "market_id": "2741292",
+        "question": "Canada vs. Morocco: O/U 2.5",
+        "slug": "fifwc-can-mar-2026-07-04-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "92558617592610075024809620259581225959591222778250295886163453827086930306302",
+          "60688539524393997069873883857924125728741268142754566736060452513865271992897"
+        ],
+        "prices": {
+          "yes_mid": 0.405,
+          "no_mid": 0.595,
+          "yes_bid": 0.4,
+          "yes_ask": 0.41,
+          "no_bid": 0.59,
+          "no_ask": 0.6
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:16:42.865354Z",
+        "line": 2.5,
+        "clob_quotes": {
+          "no": {
+            "token_id": "60688539524393997069873883857924125728741268142754566736060452513865271992897",
+            "best_bid": 0.59,
+            "best_ask": 0.6,
+            "tick_size": 0.01,
+            "book_timestamp": "1783002026665"
+          }
+        }
+      },
+      "props": {}
+    },
+    {
+      "id": "par_fra",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-par-fra-2026-07-04",
+      "moneyline": {
+        "home": {
+          "market_id": "2754625",
+          "question": "Will Paraguay win on 2026-07-04?",
+          "slug": "fifwc-par-fra-2026-07-04-par",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "5986488984275762288846227630442187818951318412322984320385279750603889532502",
+            "43206349733795320404561682906083340686502197494152995596556037060237152808546"
+          ],
+          "prices": {
+            "yes_mid": 0.045,
+            "no_mid": 0.955,
+            "yes_bid": 0.04,
+            "yes_ask": 0.05,
+            "no_bid": 0.95,
+            "no_ask": 0.96
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "away": {
+          "market_id": "2754628",
+          "question": "Will France win on 2026-07-04?",
+          "slug": "fifwc-par-fra-2026-07-04-fra",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "113891226639705983282066963484423345278150974279743795316461155085208879415201",
+            "21768823063425705834344898922772041926865204761442619231134822499901743767561"
+          ],
+          "prices": {
+            "yes_mid": 0.835,
+            "no_mid": 0.165,
+            "yes_bid": 0.83,
+            "yes_ask": 0.84,
+            "no_bid": 0.16,
+            "no_ask": 0.17
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "draw": {
+          "market_id": "2754627",
+          "question": "Will Paraguay vs. France end in a draw?",
+          "slug": "fifwc-par-fra-2026-07-04-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "46583164088552628109006406225347745689461921407583150295364128401681303855693",
+            "86699119935027730582114558028589741679589547608855132707121388339987313483723"
+          ],
+          "prices": {
+            "yes_mid": 0.125,
+            "no_mid": 0.875,
+            "yes_bid": 0.12,
+            "yes_ask": 0.13,
+            "no_bid": 0.87,
+            "no_ask": 0.88
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        }
+      },
+      "spread": {
+        "market_id": "2754873",
+        "question": "Spread: France (-1.5)",
+        "slug": "fifwc-par-fra-2026-07-04-spread-away-1pt5",
+        "outcomes": [
+          "France",
+          "Paraguay"
+        ],
+        "token_ids": [
+          "47523359566599688529868130218766383548069667599339805725973075967987878581565",
+          "20482855091620181376363423373816347541336681082369014762166611637141533316129"
+        ],
+        "prices": {
+          "yes_mid": 0.615,
+          "no_mid": 0.385,
+          "yes_bid": 0.61,
+          "yes_ask": 0.62,
+          "no_bid": 0.38,
+          "no_ask": 0.39
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "home_line": 1.5,
+        "favorite_side": "away",
+        "clob_quotes": {
+          "no": {
+            "token_id": "20482855091620181376363423373816347541336681082369014762166611637141533316129",
+            "best_bid": 0.38,
+            "best_ask": 0.39,
+            "tick_size": 0.01,
+            "book_timestamp": "1783002037377"
+          }
+        }
+      },
+      "total": {
+        "market_id": "2754884",
+        "question": "Paraguay vs. France: O/U 2.5",
+        "slug": "fifwc-par-fra-2026-07-04-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "62109995893376590411570363703089356287262239641590130483407138546415846621122",
+          "20750615321298371435771711011448133448743671070163766999225573342620362491557"
+        ],
+        "prices": {
+          "yes_mid": 0.585,
+          "no_mid": 0.415,
+          "yes_bid": 0.58,
+          "yes_ask": 0.59,
+          "no_bid": 0.41,
+          "no_ask": 0.42
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "line": 2.5
+      },
+      "props": {}
+    },
+    {
+      "id": "bra_nor",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-bra-nor-2026-07-05",
+      "moneyline": {
+        "home": {
+          "market_id": "2754647",
+          "question": "Will Brazil win on 2026-07-05?",
+          "slug": "fifwc-bra-nor-2026-07-05-bra",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "105654713241167797590254709131417748215287316658191010694033065067279349239377",
+            "97578927367345092917379017120327913782324310138001079612040744689219958733188"
+          ],
+          "prices": {
+            "yes_mid": 0.515,
+            "no_mid": 0.485,
+            "yes_bid": 0.51,
+            "yes_ask": 0.52,
+            "no_bid": 0.48,
+            "no_ask": 0.49
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "away": {
+          "market_id": "2754651",
+          "question": "Will Norway win on 2026-07-05?",
+          "slug": "fifwc-bra-nor-2026-07-05-nor",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "19270630777558640544547501118520831346147002509997851493750997099589698621398",
+            "63332580371134698667593922708614440584203480837493423385896730577676477084507"
+          ],
+          "prices": {
+            "yes_mid": 0.225,
+            "no_mid": 0.775,
+            "yes_bid": 0.22,
+            "yes_ask": 0.23,
+            "no_bid": 0.77,
+            "no_ask": 0.78
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        },
+        "draw": {
+          "market_id": "2754649",
+          "question": "Will Brazil vs. Norway end in a draw?",
+          "slug": "fifwc-bra-nor-2026-07-05-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "20802374126416843639334054489053876827939271763615197682043793548486789042986",
+            "40059940204947180259424971464992114055695123552973995517600262652611674483760"
+          ],
+          "prices": {
+            "yes_mid": 0.265,
+            "no_mid": 0.735,
+            "yes_bid": 0.26,
+            "yes_ask": 0.27,
+            "no_bid": 0.73,
+            "no_ask": 0.74
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:16:42.865354Z"
+        }
+      },
+      "spread": {
+        "market_id": "2754827",
+        "question": "Spread: Brazil (-1.5)",
+        "slug": "fifwc-bra-nor-2026-07-05-spread-home-1pt5",
+        "outcomes": [
+          "Brazil",
+          "Norway"
+        ],
+        "token_ids": [
+          "39240297892290648394811002378246091622667493664808596401778566906972232103010",
+          "26761575168454241179999246066904297693126606347835080071199512499336988354389"
+        ],
+        "prices": {
+          "yes_mid": 0.275,
+          "no_mid": 0.725,
+          "yes_bid": 0.27,
+          "yes_ask": 0.28,
+          "no_bid": 0.72,
+          "no_ask": 0.73
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "home_line": -1.5,
+        "favorite_side": "home"
+      },
+      "total": {
+        "market_id": "2754839",
+        "question": "Brazil vs. Norway: O/U 2.5",
+        "slug": "fifwc-bra-nor-2026-07-05-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "87687491419315518588429836819951381450220002073339102789515596192459398504364",
+          "97354152213735014139011986013760122167378688695797303173531572045601775113726"
+        ],
+        "prices": {
+          "yes_mid": 0.545,
+          "no_mid": 0.455,
+          "yes_bid": 0.54,
+          "yes_ask": 0.55,
+          "no_bid": 0.45,
+          "no_ask": 0.46
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "line": 2.5
+      },
+      "props": {}
+    },
+    {
+      "id": "mex_eng",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-mex-eng-2026-07-05",
+      "moneyline": {
+        "home": {
+          "market_id": "2766759",
+          "question": "Will Mexico win on 2026-07-05?",
+          "slug": "fifwc-mex-eng-2026-07-05-mex",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "51911548599887870208512834589104874988746646324647658251485676564237334602135",
+            "79778081949110454416364986546390783375315700746160389769653348735938264983258"
+          ],
+          "prices": {
+            "yes_mid": 0.305,
+            "no_mid": 0.695,
+            "yes_bid": 0.3,
+            "yes_ask": 0.31,
+            "no_bid": 0.69,
+            "no_ask": 0.7
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "away": {
+          "market_id": "2766762",
+          "question": "Will England win on 2026-07-05?",
+          "slug": "fifwc-mex-eng-2026-07-05-eng",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "53791259745705726030589240827060759250615158391415011769641887216926825684479",
+            "28156364374342550546978910216854726989295625072697131344701901063736485037038"
+          ],
+          "prices": {
+            "yes_mid": 0.395,
+            "no_mid": 0.605,
+            "yes_bid": 0.39,
+            "yes_ask": 0.4,
+            "no_bid": 0.6,
+            "no_ask": 0.61
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        },
+        "draw": {
+          "market_id": "2766760",
+          "question": "Will Mexico vs. England end in a draw?",
+          "slug": "fifwc-mex-eng-2026-07-05-draw",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "41650247355939592794943171494077106157774707832652837173177374317921469209914",
+            "49881747536288721281750626114032691140907122411369197960435181263021628777601"
+          ],
+          "prices": {
+            "yes_mid": 0.295,
+            "no_mid": 0.705,
+            "yes_bid": 0.29,
+            "yes_ask": 0.3,
+            "no_bid": 0.7,
+            "no_ask": 0.71
+          },
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "updated_at": "2026-07-02T14:18:39.332568Z"
+        }
+      },
+      "spread": {
+        "market_id": "2766993",
+        "question": "Spread: England (-1.5)",
+        "slug": "fifwc-mex-eng-2026-07-05-spread-away-1pt5",
+        "outcomes": [
+          "England",
+          "Mexico"
+        ],
+        "token_ids": [
+          "67905607649846604721786645560941352396384021184520793782111610087199458685061",
+          "71081247107764047756780300643254869860114774280046047651216046557139656780080"
+        ],
+        "prices": {
+          "yes_mid": 0.165,
+          "no_mid": 0.835,
+          "yes_bid": 0.16,
+          "yes_ask": 0.17,
+          "no_bid": 0.83,
+          "no_ask": 0.84
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "home_line": 1.5,
+        "favorite_side": "away"
+      },
+      "total": {
+        "market_id": "2767004",
+        "question": "Mexico vs. England: O/U 2.5",
+        "slug": "fifwc-mex-eng-2026-07-05-total-2pt5",
+        "outcomes": [
+          "Over",
+          "Under"
+        ],
+        "token_ids": [
+          "33712481100420046644490883687526558682189854239761200687095523614004358326816",
+          "42145843799319933673128971018647936890538886370746505357189412737625791442978"
+        ],
+        "prices": {
+          "yes_mid": 0.375,
+          "no_mid": 0.625,
+          "yes_bid": 0.37,
+          "yes_ask": 0.38,
+          "no_bid": 0.62,
+          "no_ask": 0.63
+        },
+        "fee_schedule": {
+          "exponent": 1,
+          "rate": 0.03,
+          "takerOnly": true,
+          "rebateRate": 0.25
+        },
+        "updated_at": "2026-07-02T14:18:39.332568Z",
+        "line": 2.5
+      },
+      "props": {}
+    }
+  ]
+}

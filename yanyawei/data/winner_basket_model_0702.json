@@ -1,0 +1,197 @@
+{
+  "assumptions": {
+    "basket": "one YES share each for France, Argentina, Spain, and England",
+    "regular_time": "independent Poisson from FIFA-only 85/15 xG-goals strength model",
+    "extra_time": "same scoring rates scaled to 30/90",
+    "penalties": "50/50 after an extra-time draw",
+    "bracket": "current bracket after matches M73-M82"
+  },
+  "internal_champion_probabilities": {
+    "FRA": 0.13205975591193522,
+    "ESP": 0.12754243674387192,
+    "BRA": 0.11637831656250887,
+    "ENG": 0.09205077975364068,
+    "MEX": 0.07832353744492197,
+    "ARG": 0.07824699436035966,
+    "USA": 0.07108975882190036,
+    "CAN": 0.057818535506923716,
+    "MAR": 0.05440889549207143,
+    "SUI": 0.054001013813777504,
+    "COL": 0.028953038843643347,
+    "NOR": 0.024936657532123156,
+    "BEL": 0.022135134040614738,
+    "POR": 0.018310997600805776,
+    "EGY": 0.01026756081080889,
+    "ALG": 0.009238798863348796,
+    "GHA": 0.007251783830978051,
+    "AUS": 0.005431021324262448,
+    "AUT": 0.004150888365765285,
+    "PAR": 0.003363111826691148,
+    "CRO": 0.002334259519162527,
+    "CPV": 0.0017067230298847698
+  },
+  "market": {
+    "event_updated_at": "2026-07-02T16:02:49.818932Z",
+    "active_yes_midpoint_sum": 1.0079999999999996,
+    "normalized_probabilities": {
+      "ESP": 0.09871031746031751,
+      "ENG": 0.08085317460317464,
+      "FRA": 0.3457341269841271,
+      "BRA": 0.06398809523809527,
+      "ARG": 0.18204365079365087,
+      "POR": 0.06498015873015876,
+      "USA": 0.02529761904761906,
+      "MEX": 0.03521825396825398,
+      "BEL": 0.015376984126984133,
+      "COL": 0.023313492063492074,
+      "NOR": 0.01835317460317461,
+      "CAN": 0.0024801587301587313,
+      "PAR": 0.0014880952380952387,
+      "AUS": 0.0014880952380952387,
+      "MAR": 0.02529761904761906,
+      "GHA": 0.0004960317460317462,
+      "EGY": 0.0014880952380952387,
+      "ALG": 0.0004960317460317462,
+      "CPV": 0.0004960317460317462,
+      "SUI": 0.0074404761904761935,
+      "AUT": 0.0014880952380952387,
+      "CRO": 0.0034722222222222238
+    },
+    "selected_quotes": {
+      "ESP": {
+        "midpoint": 0.0995,
+        "best_bid": 0.1,
+        "best_ask": 0.101,
+        "fee_rate": 0.03,
+        "fee_per_share": 0.00272397
+      },
+      "ENG": {
+        "midpoint": 0.0815,
+        "best_bid": 0.081,
+        "best_ask": 0.082,
+        "fee_rate": 0.03,
+        "fee_per_share": 0.00225828
+      },
+      "FRA": {
+        "midpoint": 0.3485,
+        "best_bid": 0.348,
+        "best_ask": 0.349,
+        "fee_rate": 0.03,
+        "fee_per_share": 0.006815969999999999
+      },
+      "ARG": {
+        "midpoint": 0.1835,
+        "best_bid": 0.183,
+        "best_ask": 0.184,
+        "fee_rate": 0.03,
+        "fee_per_share": 0.00450432
+      }
+    }
+  },
+  "opta_current": {
+    "last_updated": "2026-07-02T06:31:27Z",
+    "source": "https://dataviz.theanalyst.com/ad-hoc/pmk-wc-bracket-2026-07-01/",
+    "champion_probabilities": {
+      "Norway": 0.0305,
+      "Haiti": 0.0,
+      "Panama": 0.0,
+      "Iraq": 0.0,
+      "Uruguay": 0.0,
+      "Brazil": 0.09720000000000001,
+      "Argentina": 0.1539,
+      "France": 0.2956,
+      "Côte d'Ivoire": 0.0,
+      "Paraguay": 0.004,
+      "Austria": 0.0015,
+      "Qatar": 0.0,
+      "Congo DR": 0.0,
+      "Czechia": 0.0,
+      "Japan": 0.0,
+      "Belgium": 0.0236,
+      "Korea Republic": 0.0,
+      "Tunisia": 0.0,
+      "Mexico": 0.028399999999999998,
+      "United States": 0.0232,
+      "Jordan": 0.0,
+      "Bosnia-Herzegovina": 0.0,
+      "Netherlands": 0.0,
+      "Algeria": 0.0015,
+      "Ghana": 0.0015,
+      "Croatia": 0.0058,
+      "Portugal": 0.0438,
+      "New Zealand": 0.0,
+      "Canada": 0.0058,
+      "England": 0.0839,
+      "Australia": 0.0032,
+      "Uzbekistan": 0.0,
+      "Türkiye": 0.0,
+      "Spain": 0.111,
+      "Morocco": 0.0353,
+      "Sweden": 0.0,
+      "Saudi Arabia": 0.0,
+      "IR Iran": 0.0,
+      "Switzerland": 0.0183,
+      "Colombia": 0.027999999999999997,
+      "Senegal": 0.0,
+      "Scotland": 0.0,
+      "Egypt": 0.0039000000000000003,
+      "Curaçao": 0.0,
+      "Germany": 0.0,
+      "Cabo Verde": 0.0002,
+      "Ecuador": 0.0,
+      "South Africa": 0.0
+    },
+    "selected_probabilities": {
+      "FRA": 0.2956,
+      "ARG": 0.1539,
+      "ESP": 0.111,
+      "ENG": 0.0839
+    },
+    "basket_probability": 0.6444
+  },
+  "individual_pnl_using_opta": {
+    "FRA": {
+      "opta_probability": 0.2956,
+      "taker_cost": 0.35581597,
+      "expected_profit": -0.06021597000000001,
+      "expected_roi": -0.16923346638994313,
+      "maker_expected_profit_at_current_bid": -0.0524
+    },
+    "ARG": {
+      "opta_probability": 0.1539,
+      "taker_cost": 0.18850432,
+      "expected_profit": -0.034604319999999994,
+      "expected_roi": -0.18357308734356853,
+      "maker_expected_profit_at_current_bid": -0.029099999999999987
+    },
+    "ESP": {
+      "opta_probability": 0.111,
+      "taker_cost": 0.10372397000000001,
+      "expected_profit": 0.007276029999999989,
+      "expected_roi": 0.07014800918244826,
+      "maker_expected_profit_at_current_bid": 0.010999999999999996
+    },
+    "ENG": {
+      "opta_probability": 0.0839,
+      "taker_cost": 0.08425828,
+      "expected_profit": -0.0003582800000000025,
+      "expected_roi": -0.0042521637042674315,
+      "maker_expected_profit_at_current_bid": 0.0029
+    }
+  },
+  "basket": {
+    "internal_probability": 0.42989996676980746,
+    "market_normalized_probability": 0.7073412698412701,
+    "contract_ask_cost": 0.716,
+    "taker_fees": 0.01630254,
+    "total_taker_cost": 0.73230254,
+    "profit_if_one_wins": 0.26769746000000005,
+    "loss_if_none_wins": -0.73230254,
+    "expected_profit_internal": -0.3024025732301925,
+    "expected_profit_market": -0.024961270158729842,
+    "expected_profit_opta": -0.08790253999999997,
+    "roi_internal": -0.41294759571664535,
+    "roi_market": -0.03408600789330847,
+    "roi_opta": -0.12003582563021013
+  }
+}

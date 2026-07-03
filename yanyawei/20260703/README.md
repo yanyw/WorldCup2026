@@ -16,7 +16,7 @@
 - [`data/winner_basket_model_0702.json`](data/winner_basket_model_0702.json)：冠军组合的逐队概率、价格、费用和期望值中间结果
 - [`scripts/winner_basket_model_0702.py`](scripts/winner_basket_model_0702.py)：冠军组合可复算模型
 
-历史报告保留在 [`world_cup_betting_workflow_0629.md`](world_cup_betting_workflow_0629.md)。
+历史报告保留在 [`../20260628/world_cup_betting_workflow_0629.md`](../20260628/world_cup_betting_workflow_0629.md)。
 
 ## 阅读顺序
 
@@ -25,7 +25,7 @@
 模型与校验：
 
 ```powershell
-python yanyawei/scripts/refresh_polymarket_0702.py
-python yanyawei/scripts/build_model_0702.py
-python yanyawei/scripts/validate_portfolio_0702.py
+python yanyawei/20260703/scripts/refresh_polymarket_0702.py
+python yanyawei/20260703/scripts/build_model_0702.py
+python yanyawei/20260703/scripts/validate_portfolio_0702.py
 ```

@@ -144,7 +144,7 @@ taker 需加入 Polymarket 体育市场费用：
 - 赛前 60 分钟自动二次运行，但只生成建议，不自动下单。
 - 赛后记录成交价、closing line、Brier score、log-loss 和收益，避免只看盈亏评价模型。
 
-本期结构化快照可运行 `python yanyawei/scripts/validate_snapshot.py` 复算内部概率，防止胜平负不等于 100% 或文档数值与模型漂移。
+本期结构化快照可运行 `python yanyawei/20260628/scripts/validate_snapshot.py` 复算内部概率，防止胜平负不等于 100% 或文档数值与模型漂移。
 
 ## 5. 来源
 

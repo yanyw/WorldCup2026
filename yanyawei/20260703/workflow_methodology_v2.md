@@ -177,8 +177,8 @@ Taker的Full Kelly必须以`price + fee_per_share`作为实际合约成本；mak
 - `scripts/validate_portfolio_0702.py`：检查概率一致性、费用 Edge 和组合上限
 
 ```powershell
-python yanyawei/scripts/fetch_fifa_reports.py
-python yanyawei/scripts/refresh_polymarket_0702.py
-python yanyawei/scripts/build_model_0702.py
-python yanyawei/scripts/validate_portfolio_0702.py
+python yanyawei/20260703/scripts/fetch_fifa_reports.py
+python yanyawei/20260703/scripts/refresh_polymarket_0702.py
+python yanyawei/20260703/scripts/build_model_0702.py
+python yanyawei/20260703/scripts/validate_portfolio_0702.py
 ```

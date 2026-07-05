@@ -1,0 +1,83 @@
+{
+  "snapshot_beijing": "2026-07-04 20:20:39+08:00",
+  "match": {
+    "home": "Paraguay",
+    "away": "France",
+    "settlement": "90 minutes plus stoppage time",
+    "contract": "Paraguay +1.5",
+    "polymarket_underlying_question": "Spread: France (-1.5)"
+  },
+  "supersedes": {
+    "document": "../20260703/world_cup_betting_decision_0702.md",
+    "old_trade_probability": 0.52,
+    "old_max_taker_price": 0.44,
+    "old_stake_usdc": 5.0
+  },
+  "opta": {
+    "published_date": "2026-07-04",
+    "simulations": 25000,
+    "normal_time_probabilities": {
+      "paraguay_win": 0.067,
+      "draw": 0.136,
+      "france_win": 0.797
+    },
+    "advance_probabilities": {
+      "paraguay": 0.134,
+      "france": 0.866
+    },
+    "source": "https://theanalyst.com/articles/paraguay-vs-france-prediction-world-cup-2026-match-preview",
+    "caveat": "Opta did not publish an Asian handicap probability. The +1.5 value below is a project-model inference from Opta 1X2 probabilities."
+  },
+  "live_clob": {
+    "token": "Paraguay +1.5",
+    "best_bid": 0.39,
+    "best_ask": 0.4,
+    "book_timestamp_ms": 1783167639522,
+    "taker_fee_rate": 0.03,
+    "fee_per_share_at_ask": 0.0072,
+    "effective_cost_at_ask": 0.4072,
+    "event_url": "https://polymarket.com/sports/world-cup/fifwc-par-fra-2026-07-04"
+  },
+  "model_intermediates": {
+    "internal": {
+      "weight": 0.35,
+      "lambda_paraguay": 0.6345244977,
+      "lambda_france": 1.7795280004,
+      "paraguay_plus_1_5": 0.618
+    },
+    "live_market_fit": {
+      "weight": 0.25,
+      "lambda_paraguay": 0.4887,
+      "lambda_france": 2.6382,
+      "paraguay_plus_1_5": 0.3774,
+      "inputs": {
+        "paraguay_win_mid": 0.045,
+        "draw_mid": 0.125,
+        "france_win_mid": 0.835,
+        "over_2_5_mid": 0.605
+      }
+    },
+    "opta_1x2_poisson_fit": {
+      "weight": 0.4,
+      "lambda_paraguay": 0.6237805694,
+      "lambda_france": 2.5971588507,
+      "paraguay_plus_1_5": 0.416648,
+      "france_minus_1_5": 0.583352
+    },
+    "updated_geometric_lambda_fusion": {
+      "lambda_paraguay": 0.5904,
+      "lambda_france": 2.2842,
+      "paraguay_plus_1_5": 0.4798,
+      "france_minus_1_5": 0.5202
+    }
+  },
+  "revised_decision": {
+    "status": "SKIP",
+    "void_old_max_taker_price": 0.44,
+    "void_old_stake_usdc": 5.0,
+    "optional_post_only_maker_max_price": 0.39,
+    "optional_max_stake_usdc": 2.0,
+    "do_not_chase": true,
+    "reason": "Latest Opta and live market both materially disagree with the small-sample internal model; Opta-only edge at the 40c taker ask is below the workflow safety threshold."
+  }
+}

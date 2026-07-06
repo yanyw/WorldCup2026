@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "generated_at_utc": "2026-07-05T15:03:16+00:00",
+    "cutoff_exclusive": "2026-07-05",
+    "random_seed": 20260705,
+    "note": "All validation predictions are made on matches chronologically after the calibration/training window."
+  },
+  "p1_hyperparameter_candidates": [
+    {
+      "half_life_days": 1460.0,
+      "ridge": 2.0,
+      "n": 2634,
+      "log_loss": 0.863839,
+      "brier": 0.506276,
+      "rps": 0.166457
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 2.0,
+      "n": 2634,
+      "log_loss": 0.865392,
+      "brier": 0.507213,
+      "rps": 0.166886
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 2.0,
+      "n": 2634,
+      "log_loss": 0.870078,
+      "brier": 0.510172,
+      "rps": 0.168232
+    },
+    {
+      "half_life_days": 1460.0,
+      "ridge": 8.0,
+      "n": 2634,
+      "log_loss": 0.88401,
+      "brier": 0.518585,
+      "rps": 0.172077
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 8.0,
+      "n": 2634,
+      "log_loss": 0.888254,
+      "brier": 0.521226,
+      "rps": 0.173293
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 8.0,
+      "n": 2634,
+      "log_loss": 0.897475,
+      "brier": 0.527153,
+      "rps": 0.176029
+    },
+    {
+      "half_life_days": 1460.0,
+      "ridge": 20.0,
+      "n": 2634,
+      "log_loss": 0.909851,
+      "brier": 0.53476,
+      "rps": 0.179463
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 20.0,
+      "n": 2634,
+      "log_loss": 0.915934,
+      "brier": 0.538721,
+      "rps": 0.181298
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 20.0,
+      "n": 2634,
+      "log_loss": 0.927767,
+      "brier": 0.546585,
+      "rps": 0.184962
+    }
+  ],
+  "p1_selected": {
+    "half_life_days": 1460.0,
+    "ridge": 2.0,
+    "n": 2634,
+    "log_loss": 0.863839,
+    "brier": 0.506276,
+    "rps": 0.166457
+  },
+  "p2_variant_comparison": {
+    "current_elo": {
+      "n": 2634,
+      "log_loss": 0.877271,
+      "brier": 0.517073,
+      "rps": 0.170344
+    },
+    "current_elo_plus_recent_trajectory": {
+      "n": 2634,
+      "log_loss": 0.877532,
+      "brier": 0.517274,
+      "rps": 0.17033
+    }
+  },
+  "p2_selected": "current_elo"
+}

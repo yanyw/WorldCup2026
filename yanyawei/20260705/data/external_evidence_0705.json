@@ -1,0 +1,87 @@
+{
+  "as_of_beijing": "2026-07-05T18:55:00+08:00",
+  "method": "Opta and sportsbook odds are one correlated market-informed cluster; Polymarket is excluded from fair-probability inputs.",
+  "matches": [
+    {
+      "id": "brazil_norway_2026-07-05",
+      "home": "Brazil",
+      "away": "Norway",
+      "opta_1x2": {
+        "home": 0.542,
+        "draw": 0.24,
+        "away": 0.218,
+        "source": "https://theanalyst.com/articles/brazil-vs-norway-prediction-world-cup-2026-match-preview",
+        "published": "2026-07-05"
+      },
+      "sportsbook_1x2": {
+        "book": "Pinnacle via StatsBet odds comparison",
+        "decimal_odds": {"home": 1.81, "draw": 3.8, "away": 4.76},
+        "source": "https://statsbet.org/football/matches/brazil-vs-norway-2026-07-05",
+        "capture_note": "Live comparison page captured around 2026-07-05 18:55 Beijing; no page update clock exposed."
+      },
+      "sportsbook_total_2_5": {
+        "decimal_odds": {"over": 1.68, "under": 2.05},
+        "source": "https://www.sportingbet.co.za/en/sports/events/brazil-norway-2%3A7827168"
+      },
+      "sportsbook_btts": {
+        "decimal_odds": {"yes": 1.65, "no": 2.1},
+        "source": "https://www.sportingbet.co.za/en/sports/events/brazil-norway-2%3A7827168"
+      },
+      "reliability": {"1x2": 0.3, "derived_score_markets": 0.2},
+      "external_uncertainty_buffer": {"1x2": 0.01, "derived_score_markets": 0.015},
+      "team_news": [
+        "Lucas Paqueta is out with a thigh injury.",
+        "Raphinha is available only for limited bench minutes and is not expected to start.",
+        "Casemiro is probable; Julian Ryerson was reported questionable by secondary sources."
+      ],
+      "team_news_sources": [
+        "https://www.uol.com.br/esporte/ultimas-noticias/reuters/2026/07/04/ancelotti-esta-esperancoso-com-retorno-de-raphinha-enquanto-brasil-planeja-neutralizar-haaland.htm",
+        "https://www.sportsmole.co.uk/football/brazil/world-cup-2026/team-news/brazil-vs-norway-injury-suspension-list-predicted-xis_600644.html"
+      ],
+      "weather_risk": "Humid with afternoon thunderstorm and possible delay risk; no directional xG adjustment.",
+      "weather_source": "https://www.accuweather.com/en/us/east-rutherford/07073/current-weather/344423",
+      "confirmed_lineups_available": false
+    },
+    {
+      "id": "mexico_england_2026-07-05",
+      "home": "Mexico",
+      "away": "England",
+      "opta_1x2": {
+        "home": 0.315,
+        "draw": 0.279,
+        "away": 0.406,
+        "source": "https://theanalyst.com/articles/mexico-vs-england-prediction-world-cup-2026-match-preview",
+        "published": "2026-07-05"
+      },
+      "sportsbook_1x2": {
+        "book": "Multi-book snapshot",
+        "decimal_odds": {"home": 3.2, "draw": 3.1, "away": 2.4},
+        "source": "https://www.sportsgambler.com/betting-tips/football/mexico-vs-england-prediction-lineups-odds-2026-07-05/",
+        "capture_note": "Regularly refreshed page captured around 2026-07-05 18:55 Beijing."
+      },
+      "sportsbook_total_2_5": {
+        "decimal_odds": {"over": 2.38, "under": 1.56},
+        "source": "https://www.sportsgambler.com/betting-tips/football/mexico-vs-england-prediction-lineups-odds-2026-07-05/"
+      },
+      "sportsbook_btts": {
+        "decimal_odds": {"yes": 1.94, "no": 1.77},
+        "source": "https://www.sportsgambler.com/betting-tips/football/mexico-vs-england-prediction-lineups-odds-2026-07-05/"
+      },
+      "reliability": {"1x2": 0.2, "derived_score_markets": 0.15},
+      "external_uncertainty_buffer": {"1x2": 0.01, "derived_score_markets": 0.02},
+      "team_news": [
+        "Mexico had no reported injury or suspension in the latest roundup.",
+        "Declan Rice trained and was expected fit after hamstring tightness.",
+        "Reece James and Jarell Quansah remained major doubts."
+      ],
+      "team_news_sources": [
+        "https://www.sportsmole.co.uk/football/england/world-cup-2026/injuries-and-suspensions/rice-james-quansah-latest-england-injury-suspension-list-vs-mexico_600617.html",
+        "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/mexico-vs-england-injury-suspension-list-predicted-xis_600613.html"
+      ],
+      "venue_risk": "Mexico true home venue at Estadio Azteca, approximately 2240m. P1/P2 home effect is included; no arbitrary altitude xG coefficient.",
+      "weather_risk": "Thunderstorms and lightning-delay risk; no directional xG adjustment.",
+      "weather_source": "https://www.accuweather.com/en/mx/tacubaya/1052501/hourly-weather-forecast/1052501",
+      "confirmed_lineups_available": false
+    }
+  ]
+}

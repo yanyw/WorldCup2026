@@ -1,0 +1,30 @@
+[
+  {
+    "query": "world cup semifinal",
+    "title": "World Cup Winner ",
+    "slug": "world-cup-winner",
+    "endDate": "2026-07-20T00:00:00Z",
+    "startDate": "2025-07-02T22:26:48.104Z",
+    "markets": 60,
+    "market_slugs": [
+      "will-spain-win-the-2026-fifa-world-cup-963",
+      "will-england-win-the-2026-fifa-world-cup-937",
+      "will-france-win-the-2026-fifa-world-cup-924",
+      "will-brazil-win-the-2026-fifa-world-cup-183",
+      "will-argentina-win-the-2026-fifa-world-cup-245",
+      "will-germany-win-the-2026-fifa-world-cup-467",
+      "will-portugal-win-the-2026-fifa-world-cup-912",
+      "will-netherlands-win-the-2026-fifa-world-cup-739"
+    ],
+    "market_questions": [
+      "Will Spain win the 2026 FIFA World Cup?",
+      "Will England win the 2026 FIFA World Cup?",
+      "Will France win the 2026 FIFA World Cup?",
+      "Will Brazil win the 2026 FIFA World Cup?",
+      "Will Argentina win the 2026 FIFA World Cup?",
+      "Will Germany win the 2026 FIFA World Cup?",
+      "Will Portugal win the 2026 FIFA World Cup?",
+      "Will Netherlands win the 2026 FIFA World Cup?"
+    ]
+  }
+]

@@ -1,0 +1,3772 @@
+{
+  "as_of_beijing": "2026-07-09T18:47:58+08:00",
+  "gamma_api": "https://gamma-api.polymarket.com/events",
+  "clob_api": "https://clob.polymarket.com/book",
+  "corner_market_search": "searched France Morocco corners / corner kicks; no open corner event found through Gamma query",
+  "matches": [
+    {
+      "event_slug": "fifwc-fra-mar-2026-07-09",
+      "title": "France vs. Morocco",
+      "kickoff_utc": "2026-07-09T20:00:00Z",
+      "event_url": "https://polymarket.com/sports/world-cup/fifwc-fra-mar-2026-07-09",
+      "markets": [
+        {
+          "id": "2804853",
+          "slug": "fifwc-fra-mar-2026-07-09-fra",
+          "question": "Will France win on 2026-07-09?",
+          "market_type": "match_1x2",
+          "line": null,
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "59376244379747988336832016917908236721650516433890704080422157946407884434153",
+            "99734002136879712458367805809639462021504366615107881225459634150546665075009"
+          ],
+          "outcome_prices": [
+            0.615,
+            0.385
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5798904.5872,
+          "volume": 4042667.14695005,
+          "updated_at": "2026-07-09T10:40:27.764798Z",
+          "books": {
+            "Yes": {
+              "best_bid": 0.61,
+              "best_ask": 0.62,
+              "bids": [
+                {
+                  "price": 0.61,
+                  "size": 1346931.6
+                },
+                {
+                  "price": 0.6,
+                  "size": 1049927.17
+                },
+                {
+                  "price": 0.59,
+                  "size": 811169.95
+                },
+                {
+                  "price": 0.58,
+                  "size": 625483.95
+                },
+                {
+                  "price": 0.57,
+                  "size": 40555.04
+                },
+                {
+                  "price": 0.56,
+                  "size": 66757.18
+                },
+                {
+                  "price": 0.55,
+                  "size": 7922.27
+                },
+                {
+                  "price": 0.54,
+                  "size": 254.26
+                },
+                {
+                  "price": 0.53,
+                  "size": 9.43
+                },
+                {
+                  "price": 0.52,
+                  "size": 9.61
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.62,
+                  "size": 3182500.34
+                },
+                {
+                  "price": 0.63,
+                  "size": 2868270.66
+                },
+                {
+                  "price": 0.64,
+                  "size": 1839940.27
+                },
+                {
+                  "price": 0.65,
+                  "size": 600849.79
+                },
+                {
+                  "price": 0.66,
+                  "size": 138225.0
+                },
+                {
+                  "price": 0.67,
+                  "size": 73714.95
+                },
+                {
+                  "price": 0.68,
+                  "size": 5083.12
+                },
+                {
+                  "price": 0.69,
+                  "size": 5051.13
+                },
+                {
+                  "price": 0.7,
+                  "size": 5042.6
+                },
+                {
+                  "price": 0.71,
+                  "size": 5017.23
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594005570"
+            },
+            "No": {
+              "best_bid": 0.38,
+              "best_ask": 0.39,
+              "bids": [
+                {
+                  "price": 0.38,
+                  "size": 3182500.34
+                },
+                {
+                  "price": 0.37,
+                  "size": 2868270.66
+                },
+                {
+                  "price": 0.36,
+                  "size": 1839940.27
+                },
+                {
+                  "price": 0.35,
+                  "size": 600849.79
+                },
+                {
+                  "price": 0.34,
+                  "size": 138225.0
+                },
+                {
+                  "price": 0.33,
+                  "size": 73714.95
+                },
+                {
+                  "price": 0.32,
+                  "size": 5083.12
+                },
+                {
+                  "price": 0.31,
+                  "size": 5051.13
+                },
+                {
+                  "price": 0.3,
+                  "size": 5042.6
+                },
+                {
+                  "price": 0.29,
+                  "size": 5017.23
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.39,
+                  "size": 1346931.6
+                },
+                {
+                  "price": 0.4,
+                  "size": 1049927.17
+                },
+                {
+                  "price": 0.41,
+                  "size": 811169.95
+                },
+                {
+                  "price": 0.42,
+                  "size": 625483.95
+                },
+                {
+                  "price": 0.43,
+                  "size": 40555.04
+                },
+                {
+                  "price": 0.44,
+                  "size": 66757.18
+                },
+                {
+                  "price": 0.45,
+                  "size": 7922.27
+                },
+                {
+                  "price": 0.46,
+                  "size": 254.26
+                },
+                {
+                  "price": 0.47,
+                  "size": 9.43
+                },
+                {
+                  "price": 0.48,
+                  "size": 9.61
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594005570"
+            }
+          }
+        },
+        {
+          "id": "2804855",
+          "slug": "fifwc-fra-mar-2026-07-09-draw",
+          "question": "Will France vs. Morocco end in a draw?",
+          "market_type": "match_1x2",
+          "line": null,
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "46553311265357284100312037955579178961205885337560768277560718608306086924270",
+            "112181899027525606225690317066035593480151860034010154372376312333757268609248"
+          ],
+          "outcome_prices": [
+            0.245,
+            0.755
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 4168207.0204,
+          "volume": 406989.3363850017,
+          "updated_at": "2026-07-09T10:40:27.764798Z",
+          "books": {
+            "Yes": {
+              "best_bid": 0.24,
+              "best_ask": 0.25,
+              "bids": [
+                {
+                  "price": 0.24,
+                  "size": 1114962.53
+                },
+                {
+                  "price": 0.23,
+                  "size": 1465968.24
+                },
+                {
+                  "price": 0.22,
+                  "size": 1051110.31
+                },
+                {
+                  "price": 0.21,
+                  "size": 53580.57
+                },
+                {
+                  "price": 0.2,
+                  "size": 42599.0
+                },
+                {
+                  "price": 0.19,
+                  "size": 16902.0
+                },
+                {
+                  "price": 0.18,
+                  "size": 291.66
+                },
+                {
+                  "price": 0.17,
+                  "size": 119.46
+                },
+                {
+                  "price": 0.16,
+                  "size": 22893.49
+                },
+                {
+                  "price": 0.15,
+                  "size": 30.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.25,
+                  "size": 1684153.71
+                },
+                {
+                  "price": 0.26,
+                  "size": 2033449.4
+                },
+                {
+                  "price": 0.27,
+                  "size": 559142.57
+                },
+                {
+                  "price": 0.28,
+                  "size": 44260.92
+                },
+                {
+                  "price": 0.29,
+                  "size": 35562.0
+                },
+                {
+                  "price": 0.3,
+                  "size": 21442.0
+                },
+                {
+                  "price": 0.31,
+                  "size": 5067.39
+                },
+                {
+                  "price": 0.32,
+                  "size": 5005.0
+                },
+                {
+                  "price": 0.33,
+                  "size": 5020.0
+                },
+                {
+                  "price": 0.35,
+                  "size": 552.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594009614"
+            },
+            "No": {
+              "best_bid": 0.75,
+              "best_ask": 0.76,
+              "bids": [
+                {
+                  "price": 0.75,
+                  "size": 1678153.71
+                },
+                {
+                  "price": 0.74,
+                  "size": 2034567.18
+                },
+                {
+                  "price": 0.73,
+                  "size": 558758.22
+                },
+                {
+                  "price": 0.72,
+                  "size": 43892.33
+                },
+                {
+                  "price": 0.71,
+                  "size": 35583.0
+                },
+                {
+                  "price": 0.7,
+                  "size": 21463.0
+                },
+                {
+                  "price": 0.69,
+                  "size": 5089.39
+                },
+                {
+                  "price": 0.68,
+                  "size": 5005.0
+                },
+                {
+                  "price": 0.67,
+                  "size": 5020.0
+                },
+                {
+                  "price": 0.65,
+                  "size": 552.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.76,
+                  "size": 1114962.53
+                },
+                {
+                  "price": 0.77,
+                  "size": 1466943.24
+                },
+                {
+                  "price": 0.78,
+                  "size": 1051179.31
+                },
+                {
+                  "price": 0.79,
+                  "size": 53652.57
+                },
+                {
+                  "price": 0.8,
+                  "size": 42674.0
+                },
+                {
+                  "price": 0.81,
+                  "size": 16981.0
+                },
+                {
+                  "price": 0.82,
+                  "size": 375.66
+                },
+                {
+                  "price": 0.83,
+                  "size": 119.46
+                },
+                {
+                  "price": 0.84,
+                  "size": 22893.49
+                },
+                {
+                  "price": 0.85,
+                  "size": 30.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594012059"
+            }
+          }
+        },
+        {
+          "id": "2804857",
+          "slug": "fifwc-fra-mar-2026-07-09-mar",
+          "question": "Will Morocco win on 2026-07-09?",
+          "market_type": "match_1x2",
+          "line": null,
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "14226508065870426054190705878267947981688371809768362929061594780236487316843",
+            "4276652487326143253210821867516441281012279891363576541196839966947856398966"
+          ],
+          "outcome_prices": [
+            0.135,
+            0.865
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 4599538.4344,
+          "volume": 1800278.6944839768,
+          "updated_at": "2026-07-09T10:40:27.764798Z",
+          "books": {
+            "Yes": {
+              "best_bid": 0.13,
+              "best_ask": 0.14,
+              "bids": [
+                {
+                  "price": 0.13,
+                  "size": 1316554.47
+                },
+                {
+                  "price": 0.12,
+                  "size": 1021838.44
+                },
+                {
+                  "price": 0.11,
+                  "size": 972434.25
+                },
+                {
+                  "price": 0.1,
+                  "size": 73186.0
+                },
+                {
+                  "price": 0.09,
+                  "size": 58848.96
+                },
+                {
+                  "price": 0.08,
+                  "size": 8759.0
+                },
+                {
+                  "price": 0.07,
+                  "size": 38443.98
+                },
+                {
+                  "price": 0.06,
+                  "size": 38669.16
+                },
+                {
+                  "price": 0.05,
+                  "size": 2273.82
+                },
+                {
+                  "price": 0.04,
+                  "size": 41466.01
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.14,
+                  "size": 2072951.1
+                },
+                {
+                  "price": 0.15,
+                  "size": 1846205.38
+                },
+                {
+                  "price": 0.16,
+                  "size": 709406.04
+                },
+                {
+                  "price": 0.17,
+                  "size": 73191.0
+                },
+                {
+                  "price": 0.18,
+                  "size": 68246.13
+                },
+                {
+                  "price": 0.19,
+                  "size": 20217.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 5225.0
+                },
+                {
+                  "price": 0.21,
+                  "size": 5026.49
+                },
+                {
+                  "price": 0.22,
+                  "size": 2265.78
+                },
+                {
+                  "price": 0.24,
+                  "size": 1600.53
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594014258"
+            },
+            "No": {
+              "best_bid": 0.86,
+              "best_ask": 0.87,
+              "bids": [
+                {
+                  "price": 0.86,
+                  "size": 2073144.62
+                },
+                {
+                  "price": 0.85,
+                  "size": 1846205.38
+                },
+                {
+                  "price": 0.84,
+                  "size": 709406.04
+                },
+                {
+                  "price": 0.83,
+                  "size": 73191.0
+                },
+                {
+                  "price": 0.82,
+                  "size": 68246.13
+                },
+                {
+                  "price": 0.81,
+                  "size": 20217.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 5225.0
+                },
+                {
+                  "price": 0.79,
+                  "size": 5026.49
+                },
+                {
+                  "price": 0.78,
+                  "size": 2265.78
+                },
+                {
+                  "price": 0.76,
+                  "size": 1600.53
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.87,
+                  "size": 1316554.47
+                },
+                {
+                  "price": 0.88,
+                  "size": 1021838.44
+                },
+                {
+                  "price": 0.89,
+                  "size": 972434.25
+                },
+                {
+                  "price": 0.9,
+                  "size": 73186.0
+                },
+                {
+                  "price": 0.91,
+                  "size": 58848.96
+                },
+                {
+                  "price": 0.92,
+                  "size": 8759.0
+                },
+                {
+                  "price": 0.93,
+                  "size": 38443.98
+                },
+                {
+                  "price": 0.94,
+                  "size": 38669.16
+                },
+                {
+                  "price": 0.95,
+                  "size": 2273.82
+                },
+                {
+                  "price": 0.96,
+                  "size": 41466.01
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594014659"
+            }
+          }
+        },
+        {
+          "id": "2805510",
+          "slug": "fifwc-fra-mar-2026-07-09-spread-home-1pt5",
+          "question": "Spread: France (-1.5)",
+          "market_type": "spreads",
+          "line": -1.5,
+          "outcomes": [
+            "France",
+            "Morocco"
+          ],
+          "token_ids": [
+            "5956279676525742246384038406299544678697058320190823703909734966106943791544",
+            "55993382354522247244736755456886840388434039414908811949030153218725954940992"
+          ],
+          "outcome_prices": [
+            0.345,
+            0.655
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 1759115.5034,
+          "volume": 305447.35614399565,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "France": {
+              "best_bid": 0.34,
+              "best_ask": 0.35,
+              "bids": [
+                {
+                  "price": 0.34,
+                  "size": 860699.38
+                },
+                {
+                  "price": 0.33,
+                  "size": 126516.23
+                },
+                {
+                  "price": 0.32,
+                  "size": 247991.59
+                },
+                {
+                  "price": 0.31,
+                  "size": 155624.42
+                },
+                {
+                  "price": 0.3,
+                  "size": 40583.0
+                },
+                {
+                  "price": 0.29,
+                  "size": 10027.09
+                },
+                {
+                  "price": 0.28,
+                  "size": 92.85
+                },
+                {
+                  "price": 0.27,
+                  "size": 1515.0
+                },
+                {
+                  "price": 0.26,
+                  "size": 125.39
+                },
+                {
+                  "price": 0.25,
+                  "size": 15.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.35,
+                  "size": 1098305.97
+                },
+                {
+                  "price": 0.36,
+                  "size": 458962.66
+                },
+                {
+                  "price": 0.37,
+                  "size": 156126.4
+                },
+                {
+                  "price": 0.38,
+                  "size": 34381.0
+                },
+                {
+                  "price": 0.39,
+                  "size": 41016.27
+                },
+                {
+                  "price": 0.4,
+                  "size": 5866.0
+                },
+                {
+                  "price": 0.41,
+                  "size": 1094.0
+                },
+                {
+                  "price": 0.42,
+                  "size": 325.0
+                },
+                {
+                  "price": 0.43,
+                  "size": 270.0
+                },
+                {
+                  "price": 0.44,
+                  "size": 300.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594016219"
+            },
+            "Morocco": {
+              "best_bid": 0.65,
+              "best_ask": 0.66,
+              "bids": [
+                {
+                  "price": 0.65,
+                  "size": 1098305.97
+                },
+                {
+                  "price": 0.64,
+                  "size": 458962.66
+                },
+                {
+                  "price": 0.63,
+                  "size": 156126.4
+                },
+                {
+                  "price": 0.62,
+                  "size": 34381.0
+                },
+                {
+                  "price": 0.61,
+                  "size": 41016.27
+                },
+                {
+                  "price": 0.6,
+                  "size": 5866.0
+                },
+                {
+                  "price": 0.59,
+                  "size": 1094.0
+                },
+                {
+                  "price": 0.58,
+                  "size": 325.0
+                },
+                {
+                  "price": 0.57,
+                  "size": 270.0
+                },
+                {
+                  "price": 0.56,
+                  "size": 300.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.66,
+                  "size": 860699.38
+                },
+                {
+                  "price": 0.67,
+                  "size": 126516.23
+                },
+                {
+                  "price": 0.68,
+                  "size": 247991.59
+                },
+                {
+                  "price": 0.69,
+                  "size": 155624.42
+                },
+                {
+                  "price": 0.7,
+                  "size": 40583.0
+                },
+                {
+                  "price": 0.71,
+                  "size": 10027.09
+                },
+                {
+                  "price": 0.72,
+                  "size": 92.85
+                },
+                {
+                  "price": 0.73,
+                  "size": 1515.0
+                },
+                {
+                  "price": 0.74,
+                  "size": 125.39
+                },
+                {
+                  "price": 0.75,
+                  "size": 15.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594019980"
+            }
+          }
+        },
+        {
+          "id": "2805512",
+          "slug": "fifwc-fra-mar-2026-07-09-spread-away-1pt5",
+          "question": "Spread: Morocco (-1.5)",
+          "market_type": "spreads",
+          "line": -1.5,
+          "outcomes": [
+            "Morocco",
+            "France"
+          ],
+          "token_ids": [
+            "738988360573635735547435597937405388692477436599463605161373944683000244394",
+            "88394593731245117155596976894367036231714740976250433091464648037725710931125"
+          ],
+          "outcome_prices": [
+            0.0385,
+            0.9615
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 181912.52167,
+          "volume": 125665.68037300001,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Morocco": {
+              "best_bid": 0.038,
+              "best_ask": 0.039,
+              "bids": [
+                {
+                  "price": 0.038,
+                  "size": 2737.01
+                },
+                {
+                  "price": 0.037,
+                  "size": 4222.55
+                },
+                {
+                  "price": 0.036,
+                  "size": 1435.46
+                },
+                {
+                  "price": 0.035,
+                  "size": 1712.97
+                },
+                {
+                  "price": 0.034,
+                  "size": 15179.11
+                },
+                {
+                  "price": 0.033,
+                  "size": 2971.52
+                },
+                {
+                  "price": 0.032,
+                  "size": 80.0
+                },
+                {
+                  "price": 0.031,
+                  "size": 888.0
+                },
+                {
+                  "price": 0.03,
+                  "size": 17031.19
+                },
+                {
+                  "price": 0.029,
+                  "size": 1024.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.039,
+                  "size": 426.34
+                },
+                {
+                  "price": 0.04,
+                  "size": 4446.53
+                },
+                {
+                  "price": 0.041,
+                  "size": 2392.81
+                },
+                {
+                  "price": 0.042,
+                  "size": 1113.23
+                },
+                {
+                  "price": 0.043,
+                  "size": 1613.17
+                },
+                {
+                  "price": 0.044,
+                  "size": 100.0
+                },
+                {
+                  "price": 0.045,
+                  "size": 966.0
+                },
+                {
+                  "price": 0.046,
+                  "size": 1085.0
+                },
+                {
+                  "price": 0.047,
+                  "size": 120.0
+                },
+                {
+                  "price": 0.048,
+                  "size": 10005.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783593986904"
+            },
+            "France": {
+              "best_bid": 0.961,
+              "best_ask": 0.962,
+              "bids": [
+                {
+                  "price": 0.961,
+                  "size": 426.34
+                },
+                {
+                  "price": 0.96,
+                  "size": 4446.53
+                },
+                {
+                  "price": 0.959,
+                  "size": 2392.81
+                },
+                {
+                  "price": 0.958,
+                  "size": 1113.23
+                },
+                {
+                  "price": 0.957,
+                  "size": 1613.17
+                },
+                {
+                  "price": 0.956,
+                  "size": 100.0
+                },
+                {
+                  "price": 0.955,
+                  "size": 966.0
+                },
+                {
+                  "price": 0.954,
+                  "size": 1085.0
+                },
+                {
+                  "price": 0.953,
+                  "size": 120.0
+                },
+                {
+                  "price": 0.952,
+                  "size": 10005.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.962,
+                  "size": 2737.01
+                },
+                {
+                  "price": 0.963,
+                  "size": 4222.55
+                },
+                {
+                  "price": 0.964,
+                  "size": 1435.46
+                },
+                {
+                  "price": 0.965,
+                  "size": 1712.97
+                },
+                {
+                  "price": 0.966,
+                  "size": 15179.11
+                },
+                {
+                  "price": 0.967,
+                  "size": 2971.52
+                },
+                {
+                  "price": 0.968,
+                  "size": 80.0
+                },
+                {
+                  "price": 0.969,
+                  "size": 888.0
+                },
+                {
+                  "price": 0.97,
+                  "size": 17031.19
+                },
+                {
+                  "price": 0.971,
+                  "size": 1024.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783593986904"
+            }
+          }
+        },
+        {
+          "id": "2805514",
+          "slug": "fifwc-fra-mar-2026-07-09-spread-home-2pt5",
+          "question": "Spread: France (-2.5)",
+          "market_type": "spreads",
+          "line": -2.5,
+          "outcomes": [
+            "France",
+            "Morocco"
+          ],
+          "token_ids": [
+            "30522122607915687324395116685556108332542080407241871300978554260961019107715",
+            "18257525225898492175244667197343516468172890586431143691734521493336584311745"
+          ],
+          "outcome_prices": [
+            0.145,
+            0.855
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 681882.0165,
+          "volume": 74834.49674599533,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "France": {
+              "best_bid": 0.14,
+              "best_ask": 0.15,
+              "bids": [
+                {
+                  "price": 0.14,
+                  "size": 114733.45
+                },
+                {
+                  "price": 0.13,
+                  "size": 64588.03
+                },
+                {
+                  "price": 0.12,
+                  "size": 29796.79
+                },
+                {
+                  "price": 0.11,
+                  "size": 38169.96
+                },
+                {
+                  "price": 0.1,
+                  "size": 39728.0
+                },
+                {
+                  "price": 0.09,
+                  "size": 13082.3
+                },
+                {
+                  "price": 0.08,
+                  "size": 1655.0
+                },
+                {
+                  "price": 0.07,
+                  "size": 197.8
+                },
+                {
+                  "price": 0.06,
+                  "size": 54419.6
+                },
+                {
+                  "price": 0.05,
+                  "size": 6325.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.15,
+                  "size": 80986.43
+                },
+                {
+                  "price": 0.16,
+                  "size": 369715.83
+                },
+                {
+                  "price": 0.17,
+                  "size": 28325.31
+                },
+                {
+                  "price": 0.18,
+                  "size": 32482.25
+                },
+                {
+                  "price": 0.19,
+                  "size": 23812.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 6809.0
+                },
+                {
+                  "price": 0.23,
+                  "size": 15.58
+                },
+                {
+                  "price": 0.24,
+                  "size": 1506.62
+                },
+                {
+                  "price": 0.25,
+                  "size": 2559.0
+                },
+                {
+                  "price": 0.26,
+                  "size": 512.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594025254"
+            },
+            "Morocco": {
+              "best_bid": 0.85,
+              "best_ask": 0.86,
+              "bids": [
+                {
+                  "price": 0.85,
+                  "size": 80986.43
+                },
+                {
+                  "price": 0.84,
+                  "size": 369715.83
+                },
+                {
+                  "price": 0.83,
+                  "size": 28325.31
+                },
+                {
+                  "price": 0.82,
+                  "size": 32482.25
+                },
+                {
+                  "price": 0.81,
+                  "size": 23812.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 6809.0
+                },
+                {
+                  "price": 0.77,
+                  "size": 15.58
+                },
+                {
+                  "price": 0.76,
+                  "size": 1506.62
+                },
+                {
+                  "price": 0.75,
+                  "size": 2559.0
+                },
+                {
+                  "price": 0.74,
+                  "size": 512.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.86,
+                  "size": 114733.45
+                },
+                {
+                  "price": 0.87,
+                  "size": 64588.03
+                },
+                {
+                  "price": 0.88,
+                  "size": 29796.79
+                },
+                {
+                  "price": 0.89,
+                  "size": 38169.96
+                },
+                {
+                  "price": 0.9,
+                  "size": 39728.0
+                },
+                {
+                  "price": 0.91,
+                  "size": 13082.3
+                },
+                {
+                  "price": 0.92,
+                  "size": 1655.0
+                },
+                {
+                  "price": 0.93,
+                  "size": 197.8
+                },
+                {
+                  "price": 0.94,
+                  "size": 54419.6
+                },
+                {
+                  "price": 0.95,
+                  "size": 6325.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594025254"
+            }
+          }
+        },
+        {
+          "id": "2805515",
+          "slug": "fifwc-fra-mar-2026-07-09-spread-away-2pt5",
+          "question": "Spread: Morocco (-2.5)",
+          "market_type": "spreads",
+          "line": -2.5,
+          "outcomes": [
+            "Morocco",
+            "France"
+          ],
+          "token_ids": [
+            "22812400222096354168632835094172337994185695130304918717406381817264426655762",
+            "64392121666150372869108750652366573749446039081267402696971072551854370435408"
+          ],
+          "outcome_prices": [
+            0.0075,
+            0.9925
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 193392.50499,
+          "volume": 39684.734192,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Morocco": {
+              "best_bid": 0.007,
+              "best_ask": 0.008,
+              "bids": [
+                {
+                  "price": 0.007,
+                  "size": 11498.35
+                },
+                {
+                  "price": 0.006,
+                  "size": 3109.7
+                },
+                {
+                  "price": 0.005,
+                  "size": 68786.07
+                },
+                {
+                  "price": 0.004,
+                  "size": 18245.0
+                },
+                {
+                  "price": 0.003,
+                  "size": 144983.61
+                },
+                {
+                  "price": 0.002,
+                  "size": 5035.0
+                },
+                {
+                  "price": 0.001,
+                  "size": 463493.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.008,
+                  "size": 4310.78
+                },
+                {
+                  "price": 0.009,
+                  "size": 6865.33
+                },
+                {
+                  "price": 0.01,
+                  "size": 4460.02
+                },
+                {
+                  "price": 0.011,
+                  "size": 6354.72
+                },
+                {
+                  "price": 0.012,
+                  "size": 1632.71
+                },
+                {
+                  "price": 0.013,
+                  "size": 437.0
+                },
+                {
+                  "price": 0.014,
+                  "size": 980.0
+                },
+                {
+                  "price": 0.015,
+                  "size": 319.0
+                },
+                {
+                  "price": 0.017,
+                  "size": 457.0
+                },
+                {
+                  "price": 0.018,
+                  "size": 10.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783594006391"
+            },
+            "France": {
+              "best_bid": 0.992,
+              "best_ask": 0.993,
+              "bids": [
+                {
+                  "price": 0.992,
+                  "size": 4310.78
+                },
+                {
+                  "price": 0.991,
+                  "size": 6865.33
+                },
+                {
+                  "price": 0.99,
+                  "size": 4460.02
+                },
+                {
+                  "price": 0.989,
+                  "size": 6354.72
+                },
+                {
+                  "price": 0.988,
+                  "size": 1632.71
+                },
+                {
+                  "price": 0.987,
+                  "size": 437.0
+                },
+                {
+                  "price": 0.986,
+                  "size": 980.0
+                },
+                {
+                  "price": 0.985,
+                  "size": 319.0
+                },
+                {
+                  "price": 0.983,
+                  "size": 457.0
+                },
+                {
+                  "price": 0.982,
+                  "size": 10.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.993,
+                  "size": 11498.35
+                },
+                {
+                  "price": 0.994,
+                  "size": 3109.7
+                },
+                {
+                  "price": 0.995,
+                  "size": 68786.07
+                },
+                {
+                  "price": 0.996,
+                  "size": 18245.0
+                },
+                {
+                  "price": 0.997,
+                  "size": 144983.61
+                },
+                {
+                  "price": 0.998,
+                  "size": 5035.0
+                },
+                {
+                  "price": 0.999,
+                  "size": 463493.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783594030477"
+            }
+          }
+        },
+        {
+          "id": "2805532",
+          "slug": "fifwc-fra-mar-2026-07-09-total-1pt5",
+          "question": "France vs. Morocco: O/U 1.5",
+          "market_type": "totals",
+          "line": 1.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "1261872180781241748549252632393873773763138228311730625155313535184156754455",
+            "92185373243337367279457540434361724443639604390388926989585365052212303502547"
+          ],
+          "outcome_prices": [
+            0.745,
+            0.255
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 452932.6208,
+          "volume": 234522.8430130005,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.74,
+              "best_ask": 0.75,
+              "bids": [
+                {
+                  "price": 0.74,
+                  "size": 55269.35
+                },
+                {
+                  "price": 0.73,
+                  "size": 73069.84
+                },
+                {
+                  "price": 0.72,
+                  "size": 62826.58
+                },
+                {
+                  "price": 0.71,
+                  "size": 120044.83
+                },
+                {
+                  "price": 0.7,
+                  "size": 49488.0
+                },
+                {
+                  "price": 0.69,
+                  "size": 5574.0
+                },
+                {
+                  "price": 0.68,
+                  "size": 3098.0
+                },
+                {
+                  "price": 0.66,
+                  "size": 68.18
+                },
+                {
+                  "price": 0.65,
+                  "size": 650.0
+                },
+                {
+                  "price": 0.64,
+                  "size": 3037.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.75,
+                  "size": 131040.48
+                },
+                {
+                  "price": 0.76,
+                  "size": 74265.85
+                },
+                {
+                  "price": 0.77,
+                  "size": 114020.45
+                },
+                {
+                  "price": 0.78,
+                  "size": 36549.0
+                },
+                {
+                  "price": 0.79,
+                  "size": 44963.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 9050.0
+                },
+                {
+                  "price": 0.82,
+                  "size": 116.66
+                },
+                {
+                  "price": 0.83,
+                  "size": 9425.8
+                },
+                {
+                  "price": 0.84,
+                  "size": 2893.0
+                },
+                {
+                  "price": 0.85,
+                  "size": 2722.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783593995918"
+            },
+            "Under": {
+              "best_bid": 0.25,
+              "best_ask": 0.26,
+              "bids": [
+                {
+                  "price": 0.25,
+                  "size": 131040.48
+                },
+                {
+                  "price": 0.24,
+                  "size": 74265.85
+                },
+                {
+                  "price": 0.23,
+                  "size": 115020.45
+                },
+                {
+                  "price": 0.22,
+                  "size": 36549.0
+                },
+                {
+                  "price": 0.21,
+                  "size": 44963.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 9050.0
+                },
+                {
+                  "price": 0.18,
+                  "size": 116.66
+                },
+                {
+                  "price": 0.17,
+                  "size": 9425.8
+                },
+                {
+                  "price": 0.16,
+                  "size": 2893.0
+                },
+                {
+                  "price": 0.15,
+                  "size": 2722.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.26,
+                  "size": 55269.35
+                },
+                {
+                  "price": 0.27,
+                  "size": 73069.84
+                },
+                {
+                  "price": 0.28,
+                  "size": 62826.58
+                },
+                {
+                  "price": 0.29,
+                  "size": 120044.83
+                },
+                {
+                  "price": 0.3,
+                  "size": 49488.0
+                },
+                {
+                  "price": 0.31,
+                  "size": 5574.0
+                },
+                {
+                  "price": 0.32,
+                  "size": 3098.0
+                },
+                {
+                  "price": 0.34,
+                  "size": 68.18
+                },
+                {
+                  "price": 0.35,
+                  "size": 650.0
+                },
+                {
+                  "price": 0.36,
+                  "size": 3037.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594033779"
+            }
+          }
+        },
+        {
+          "id": "2805534",
+          "slug": "fifwc-fra-mar-2026-07-09-total-2pt5",
+          "question": "France vs. Morocco: O/U 2.5",
+          "market_type": "totals",
+          "line": 2.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "9960730538953424872395269226492042217076986411134502781457275538702381849893",
+            "42115536001056138040341269844934783864818287815046268439188983247857629155936"
+          ],
+          "outcome_prices": [
+            0.475,
+            0.525
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 1907422.6833,
+          "volume": 2492960.1241099625,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.47,
+              "best_ask": 0.48,
+              "bids": [
+                {
+                  "price": 0.47,
+                  "size": 510577.39
+                },
+                {
+                  "price": 0.46,
+                  "size": 365211.14
+                },
+                {
+                  "price": 0.45,
+                  "size": 77716.24
+                },
+                {
+                  "price": 0.44,
+                  "size": 30714.5
+                },
+                {
+                  "price": 0.43,
+                  "size": 42143.5
+                },
+                {
+                  "price": 0.42,
+                  "size": 7649.0
+                },
+                {
+                  "price": 0.41,
+                  "size": 1184.26
+                },
+                {
+                  "price": 0.4,
+                  "size": 5.0
+                },
+                {
+                  "price": 0.39,
+                  "size": 136.17
+                },
+                {
+                  "price": 0.38,
+                  "size": 807.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.48,
+                  "size": 1567341.65
+                },
+                {
+                  "price": 0.49,
+                  "size": 830559.51
+                },
+                {
+                  "price": 0.5,
+                  "size": 84666.46
+                },
+                {
+                  "price": 0.51,
+                  "size": 70111.4
+                },
+                {
+                  "price": 0.52,
+                  "size": 30748.99
+                },
+                {
+                  "price": 0.53,
+                  "size": 9890.0
+                },
+                {
+                  "price": 0.54,
+                  "size": 1520.08
+                },
+                {
+                  "price": 0.55,
+                  "size": 245.0
+                },
+                {
+                  "price": 0.56,
+                  "size": 136.53
+                },
+                {
+                  "price": 0.57,
+                  "size": 2200.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594034565"
+            },
+            "Under": {
+              "best_bid": 0.52,
+              "best_ask": 0.53,
+              "bids": [
+                {
+                  "price": 0.52,
+                  "size": 1567341.65
+                },
+                {
+                  "price": 0.51,
+                  "size": 830559.51
+                },
+                {
+                  "price": 0.5,
+                  "size": 84666.46
+                },
+                {
+                  "price": 0.49,
+                  "size": 70111.4
+                },
+                {
+                  "price": 0.48,
+                  "size": 30748.99
+                },
+                {
+                  "price": 0.47,
+                  "size": 9890.0
+                },
+                {
+                  "price": 0.46,
+                  "size": 1520.08
+                },
+                {
+                  "price": 0.45,
+                  "size": 245.0
+                },
+                {
+                  "price": 0.44,
+                  "size": 136.53
+                },
+                {
+                  "price": 0.43,
+                  "size": 2200.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.53,
+                  "size": 510577.39
+                },
+                {
+                  "price": 0.54,
+                  "size": 365211.14
+                },
+                {
+                  "price": 0.55,
+                  "size": 77716.24
+                },
+                {
+                  "price": 0.56,
+                  "size": 30714.5
+                },
+                {
+                  "price": 0.57,
+                  "size": 42143.5
+                },
+                {
+                  "price": 0.58,
+                  "size": 7649.0
+                },
+                {
+                  "price": 0.59,
+                  "size": 1184.26
+                },
+                {
+                  "price": 0.6,
+                  "size": 5.0
+                },
+                {
+                  "price": 0.61,
+                  "size": 136.17
+                },
+                {
+                  "price": 0.62,
+                  "size": 807.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594034565"
+            }
+          }
+        },
+        {
+          "id": "2805535",
+          "slug": "fifwc-fra-mar-2026-07-09-total-3pt5",
+          "question": "France vs. Morocco: O/U 3.5",
+          "market_type": "totals",
+          "line": 3.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "69906914639638577585628691768902269160014994971078410140613457538217005368609",
+            "73954444901503638120609821239998101682964346750180418941864773003734754365041"
+          ],
+          "outcome_prices": [
+            0.265,
+            0.735
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 439688.2311,
+          "volume": 641410.4788759972,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.26,
+              "best_ask": 0.27,
+              "bids": [
+                {
+                  "price": 0.26,
+                  "size": 52959.74
+                },
+                {
+                  "price": 0.25,
+                  "size": 131079.56
+                },
+                {
+                  "price": 0.24,
+                  "size": 26314.81
+                },
+                {
+                  "price": 0.23,
+                  "size": 67521.5
+                },
+                {
+                  "price": 0.22,
+                  "size": 104132.45
+                },
+                {
+                  "price": 0.21,
+                  "size": 14138.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 3308.0
+                },
+                {
+                  "price": 0.19,
+                  "size": 51951.0
+                },
+                {
+                  "price": 0.18,
+                  "size": 8891.87
+                },
+                {
+                  "price": 0.17,
+                  "size": 61.76
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.27,
+                  "size": 68261.63
+                },
+                {
+                  "price": 0.28,
+                  "size": 85997.43
+                },
+                {
+                  "price": 0.29,
+                  "size": 128248.8
+                },
+                {
+                  "price": 0.3,
+                  "size": 47077.42
+                },
+                {
+                  "price": 0.31,
+                  "size": 29592.0
+                },
+                {
+                  "price": 0.32,
+                  "size": 7628.0
+                },
+                {
+                  "price": 0.33,
+                  "size": 1552.91
+                },
+                {
+                  "price": 0.34,
+                  "size": 90.0
+                },
+                {
+                  "price": 0.35,
+                  "size": 45.0
+                },
+                {
+                  "price": 0.37,
+                  "size": 1188.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594032606"
+            },
+            "Under": {
+              "best_bid": 0.73,
+              "best_ask": 0.74,
+              "bids": [
+                {
+                  "price": 0.73,
+                  "size": 68261.63
+                },
+                {
+                  "price": 0.72,
+                  "size": 85997.43
+                },
+                {
+                  "price": 0.71,
+                  "size": 128248.8
+                },
+                {
+                  "price": 0.7,
+                  "size": 47077.42
+                },
+                {
+                  "price": 0.69,
+                  "size": 29592.0
+                },
+                {
+                  "price": 0.68,
+                  "size": 7628.0
+                },
+                {
+                  "price": 0.67,
+                  "size": 1552.91
+                },
+                {
+                  "price": 0.66,
+                  "size": 90.0
+                },
+                {
+                  "price": 0.65,
+                  "size": 45.0
+                },
+                {
+                  "price": 0.63,
+                  "size": 1188.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.74,
+                  "size": 52959.74
+                },
+                {
+                  "price": 0.75,
+                  "size": 131079.56
+                },
+                {
+                  "price": 0.76,
+                  "size": 26314.81
+                },
+                {
+                  "price": 0.77,
+                  "size": 67521.5
+                },
+                {
+                  "price": 0.78,
+                  "size": 104132.45
+                },
+                {
+                  "price": 0.79,
+                  "size": 14138.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 3308.0
+                },
+                {
+                  "price": 0.81,
+                  "size": 51951.0
+                },
+                {
+                  "price": 0.82,
+                  "size": 8891.87
+                },
+                {
+                  "price": 0.83,
+                  "size": 61.76
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594032606"
+            }
+          }
+        },
+        {
+          "id": "2805536",
+          "slug": "fifwc-fra-mar-2026-07-09-total-4pt5",
+          "question": "France vs. Morocco: O/U 4.5",
+          "market_type": "totals",
+          "line": 4.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "111546822532541448199703911823368143991543985422748199974343866589459974632376",
+            "76952621312641985243070754237341326950708547333944190088000365630203616237939"
+          ],
+          "outcome_prices": [
+            0.125,
+            0.875
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 203005.7862,
+          "volume": 75329.65650599994,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.12,
+              "best_ask": 0.13,
+              "bids": [
+                {
+                  "price": 0.12,
+                  "size": 55357.34
+                },
+                {
+                  "price": 0.11,
+                  "size": 79049.22
+                },
+                {
+                  "price": 0.1,
+                  "size": 30544.39
+                },
+                {
+                  "price": 0.09,
+                  "size": 45581.47
+                },
+                {
+                  "price": 0.08,
+                  "size": 78110.99
+                },
+                {
+                  "price": 0.07,
+                  "size": 30784.26
+                },
+                {
+                  "price": 0.06,
+                  "size": 310.03
+                },
+                {
+                  "price": 0.05,
+                  "size": 22394.53
+                },
+                {
+                  "price": 0.04,
+                  "size": 21401.74
+                },
+                {
+                  "price": 0.03,
+                  "size": 16741.8
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.13,
+                  "size": 47095.78
+                },
+                {
+                  "price": 0.14,
+                  "size": 21698.95
+                },
+                {
+                  "price": 0.15,
+                  "size": 27861.44
+                },
+                {
+                  "price": 0.16,
+                  "size": 26641.28
+                },
+                {
+                  "price": 0.17,
+                  "size": 29839.0
+                },
+                {
+                  "price": 0.18,
+                  "size": 6731.0
+                },
+                {
+                  "price": 0.19,
+                  "size": 14.81
+                },
+                {
+                  "price": 0.2,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.23,
+                  "size": 1038.0
+                },
+                {
+                  "price": 0.24,
+                  "size": 6.53
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594045888"
+            },
+            "Under": {
+              "best_bid": 0.87,
+              "best_ask": 0.88,
+              "bids": [
+                {
+                  "price": 0.87,
+                  "size": 47095.78
+                },
+                {
+                  "price": 0.86,
+                  "size": 21698.95
+                },
+                {
+                  "price": 0.85,
+                  "size": 27861.44
+                },
+                {
+                  "price": 0.84,
+                  "size": 26641.28
+                },
+                {
+                  "price": 0.83,
+                  "size": 29839.0
+                },
+                {
+                  "price": 0.82,
+                  "size": 6731.0
+                },
+                {
+                  "price": 0.81,
+                  "size": 14.81
+                },
+                {
+                  "price": 0.8,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.77,
+                  "size": 1038.0
+                },
+                {
+                  "price": 0.76,
+                  "size": 6.53
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.88,
+                  "size": 55357.34
+                },
+                {
+                  "price": 0.89,
+                  "size": 79049.22
+                },
+                {
+                  "price": 0.9,
+                  "size": 30544.39
+                },
+                {
+                  "price": 0.91,
+                  "size": 45581.47
+                },
+                {
+                  "price": 0.92,
+                  "size": 78110.99
+                },
+                {
+                  "price": 0.93,
+                  "size": 30784.26
+                },
+                {
+                  "price": 0.94,
+                  "size": 310.03
+                },
+                {
+                  "price": 0.95,
+                  "size": 22394.53
+                },
+                {
+                  "price": 0.96,
+                  "size": 21401.74
+                },
+                {
+                  "price": 0.97,
+                  "size": 16741.8
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594045888"
+            }
+          }
+        },
+        {
+          "id": "2855023",
+          "slug": "fifwc-fra-mar-2026-07-09-btts",
+          "question": "France vs. Morocco: Both Teams to Score",
+          "market_type": "both_teams_to_score",
+          "line": null,
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "47858491435910441970800288263520352474744622622456608135261385926931140318715",
+            "11800920631674883272509185636193488861655693374457498486638039032165286526114"
+          ],
+          "outcome_prices": [
+            0.495,
+            0.505
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 512596.7865,
+          "volume": 133604.04722499993,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Yes": {
+              "best_bid": 0.49,
+              "best_ask": 0.5,
+              "bids": [
+                {
+                  "price": 0.49,
+                  "size": 263481.6
+                },
+                {
+                  "price": 0.48,
+                  "size": 133913.43
+                },
+                {
+                  "price": 0.47,
+                  "size": 20207.0
+                },
+                {
+                  "price": 0.46,
+                  "size": 23422.0
+                },
+                {
+                  "price": 0.45,
+                  "size": 28871.0
+                },
+                {
+                  "price": 0.44,
+                  "size": 6090.0
+                },
+                {
+                  "price": 0.43,
+                  "size": 1395.0
+                },
+                {
+                  "price": 0.42,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.41,
+                  "size": 29.26
+                },
+                {
+                  "price": 0.39,
+                  "size": 1926.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.5,
+                  "size": 202122.71
+                },
+                {
+                  "price": 0.51,
+                  "size": 295911.02
+                },
+                {
+                  "price": 0.52,
+                  "size": 54253.11
+                },
+                {
+                  "price": 0.53,
+                  "size": 33356.74
+                },
+                {
+                  "price": 0.54,
+                  "size": 8943.0
+                },
+                {
+                  "price": 0.55,
+                  "size": 3088.0
+                },
+                {
+                  "price": 0.56,
+                  "size": 1693.27
+                },
+                {
+                  "price": 0.57,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.6,
+                  "size": 3394.0
+                },
+                {
+                  "price": 0.61,
+                  "size": 50.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594045676"
+            },
+            "No": {
+              "best_bid": 0.5,
+              "best_ask": 0.51,
+              "bids": [
+                {
+                  "price": 0.5,
+                  "size": 202122.71
+                },
+                {
+                  "price": 0.49,
+                  "size": 295911.02
+                },
+                {
+                  "price": 0.48,
+                  "size": 54253.11
+                },
+                {
+                  "price": 0.47,
+                  "size": 33406.74
+                },
+                {
+                  "price": 0.46,
+                  "size": 8943.0
+                },
+                {
+                  "price": 0.45,
+                  "size": 3088.0
+                },
+                {
+                  "price": 0.44,
+                  "size": 1693.27
+                },
+                {
+                  "price": 0.43,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.4,
+                  "size": 3394.0
+                },
+                {
+                  "price": 0.39,
+                  "size": 50.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.51,
+                  "size": 263481.6
+                },
+                {
+                  "price": 0.52,
+                  "size": 132913.43
+                },
+                {
+                  "price": 0.53,
+                  "size": 20257.0
+                },
+                {
+                  "price": 0.54,
+                  "size": 23472.0
+                },
+                {
+                  "price": 0.55,
+                  "size": 28921.0
+                },
+                {
+                  "price": 0.56,
+                  "size": 6140.0
+                },
+                {
+                  "price": 0.57,
+                  "size": 1395.0
+                },
+                {
+                  "price": 0.58,
+                  "size": 1550.0
+                },
+                {
+                  "price": 0.59,
+                  "size": 29.26
+                },
+                {
+                  "price": 0.61,
+                  "size": 1926.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594051344"
+            }
+          }
+        },
+        {
+          "id": "2855028",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-home-0pt5",
+          "question": "France vs. Morocco: France O/U 0.5",
+          "market_type": "soccer_team_totals",
+          "line": 0.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "25423985716491351131938485269373098563003526133550836727250831896375389652587",
+            "76076430465039400451296621811503678464173871130210392600296984570399839145887"
+          ],
+          "outcome_prices": [
+            0.845,
+            0.155
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 351693.8883,
+          "volume": 1094.9577670000003,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.84,
+              "best_ask": 0.85,
+              "bids": [
+                {
+                  "price": 0.84,
+                  "size": 62657.64
+                },
+                {
+                  "price": 0.83,
+                  "size": 107018.53
+                },
+                {
+                  "price": 0.82,
+                  "size": 18545.52
+                },
+                {
+                  "price": 0.81,
+                  "size": 12512.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 936.0
+                },
+                {
+                  "price": 0.79,
+                  "size": 4025.0
+                },
+                {
+                  "price": 0.75,
+                  "size": 66.0
+                },
+                {
+                  "price": 0.74,
+                  "size": 90139.0
+                },
+                {
+                  "price": 0.73,
+                  "size": 10000.0
+                },
+                {
+                  "price": 0.72,
+                  "size": 87788.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.85,
+                  "size": 10142.09
+                },
+                {
+                  "price": 0.86,
+                  "size": 30395.58
+                },
+                {
+                  "price": 0.87,
+                  "size": 20161.52
+                },
+                {
+                  "price": 0.88,
+                  "size": 13290.0
+                },
+                {
+                  "price": 0.89,
+                  "size": 24189.0
+                },
+                {
+                  "price": 0.9,
+                  "size": 30993.07
+                },
+                {
+                  "price": 0.91,
+                  "size": 80584.12
+                },
+                {
+                  "price": 0.92,
+                  "size": 12710.31
+                },
+                {
+                  "price": 0.93,
+                  "size": 6.31
+                },
+                {
+                  "price": 0.94,
+                  "size": 13604.33
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594050344"
+            },
+            "Under": {
+              "best_bid": 0.15,
+              "best_ask": 0.16,
+              "bids": [
+                {
+                  "price": 0.15,
+                  "size": 10142.09
+                },
+                {
+                  "price": 0.14,
+                  "size": 30907.58
+                },
+                {
+                  "price": 0.13,
+                  "size": 20161.52
+                },
+                {
+                  "price": 0.12,
+                  "size": 12778.0
+                },
+                {
+                  "price": 0.11,
+                  "size": 24189.0
+                },
+                {
+                  "price": 0.1,
+                  "size": 30993.07
+                },
+                {
+                  "price": 0.09,
+                  "size": 80584.12
+                },
+                {
+                  "price": 0.08,
+                  "size": 12710.31
+                },
+                {
+                  "price": 0.07,
+                  "size": 6.31
+                },
+                {
+                  "price": 0.06,
+                  "size": 13604.33
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.16,
+                  "size": 63169.64
+                },
+                {
+                  "price": 0.17,
+                  "size": 107018.53
+                },
+                {
+                  "price": 0.18,
+                  "size": 18545.52
+                },
+                {
+                  "price": 0.19,
+                  "size": 12000.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 936.0
+                },
+                {
+                  "price": 0.21,
+                  "size": 4025.0
+                },
+                {
+                  "price": 0.24,
+                  "size": 87788.0
+                },
+                {
+                  "price": 0.25,
+                  "size": 10066.0
+                },
+                {
+                  "price": 0.26,
+                  "size": 90395.0
+                },
+                {
+                  "price": 0.28,
+                  "size": 87788.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594053448"
+            }
+          }
+        },
+        {
+          "id": "2855029",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-home-1pt5",
+          "question": "France vs. Morocco: France O/U 1.5",
+          "market_type": "soccer_team_totals",
+          "line": 1.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "65121753036622178681035731344848429842008458595861672888305692106353404926225",
+            "48639775719256078344056395075101379857717818327050702465107350431720409427632"
+          ],
+          "outcome_prices": [
+            0.545,
+            0.455
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 322292.9763,
+          "volume": 16771.013963,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.54,
+              "best_ask": 0.55,
+              "bids": [
+                {
+                  "price": 0.54,
+                  "size": 29078.01
+                },
+                {
+                  "price": 0.53,
+                  "size": 90687.24
+                },
+                {
+                  "price": 0.52,
+                  "size": 29491.61
+                },
+                {
+                  "price": 0.51,
+                  "size": 16917.39
+                },
+                {
+                  "price": 0.5,
+                  "size": 3943.0
+                },
+                {
+                  "price": 0.49,
+                  "size": 2593.0
+                },
+                {
+                  "price": 0.47,
+                  "size": 25.53
+                },
+                {
+                  "price": 0.46,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.45,
+                  "size": 105.0
+                },
+                {
+                  "price": 0.44,
+                  "size": 2256.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.55,
+                  "size": 10574.04
+                },
+                {
+                  "price": 0.56,
+                  "size": 95006.0
+                },
+                {
+                  "price": 0.57,
+                  "size": 13974.86
+                },
+                {
+                  "price": 0.58,
+                  "size": 20294.0
+                },
+                {
+                  "price": 0.59,
+                  "size": 15954.0
+                },
+                {
+                  "price": 0.6,
+                  "size": 25063.0
+                },
+                {
+                  "price": 0.61,
+                  "size": 1666.0
+                },
+                {
+                  "price": 0.62,
+                  "size": 31.57
+                },
+                {
+                  "price": 0.63,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.65,
+                  "size": 2927.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594057396"
+            },
+            "Under": {
+              "best_bid": 0.45,
+              "best_ask": 0.46,
+              "bids": [
+                {
+                  "price": 0.45,
+                  "size": 10574.04
+                },
+                {
+                  "price": 0.44,
+                  "size": 43766.0
+                },
+                {
+                  "price": 0.43,
+                  "size": 12812.86
+                },
+                {
+                  "price": 0.42,
+                  "size": 20294.0
+                },
+                {
+                  "price": 0.41,
+                  "size": 15954.0
+                },
+                {
+                  "price": 0.4,
+                  "size": 13351.0
+                },
+                {
+                  "price": 0.39,
+                  "size": 1666.0
+                },
+                {
+                  "price": 0.38,
+                  "size": 31.57
+                },
+                {
+                  "price": 0.37,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.35,
+                  "size": 2927.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.46,
+                  "size": 29078.01
+                },
+                {
+                  "price": 0.47,
+                  "size": 32197.24
+                },
+                {
+                  "price": 0.48,
+                  "size": 28530.61
+                },
+                {
+                  "price": 0.49,
+                  "size": 16917.39
+                },
+                {
+                  "price": 0.5,
+                  "size": 3943.0
+                },
+                {
+                  "price": 0.51,
+                  "size": 2593.0
+                },
+                {
+                  "price": 0.53,
+                  "size": 25.53
+                },
+                {
+                  "price": 0.54,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.55,
+                  "size": 105.0
+                },
+                {
+                  "price": 0.56,
+                  "size": 2256.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594059082"
+            }
+          }
+        },
+        {
+          "id": "2855030",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-home-2pt5",
+          "question": "France vs. Morocco: France O/U 2.5",
+          "market_type": "soccer_team_totals",
+          "line": 2.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "26780008761074201466403554376522238766912178672160580819810535936617653939221",
+            "42185642278859756512120928767138736363995822104742301832788450779939778320535"
+          ],
+          "outcome_prices": [
+            0.275,
+            0.725
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 257336.3068,
+          "volume": 6455.13798,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.27,
+              "best_ask": 0.28,
+              "bids": [
+                {
+                  "price": 0.27,
+                  "size": 1765.67
+                },
+                {
+                  "price": 0.26,
+                  "size": 22540.19
+                },
+                {
+                  "price": 0.25,
+                  "size": 5866.01
+                },
+                {
+                  "price": 0.24,
+                  "size": 7768.08
+                },
+                {
+                  "price": 0.23,
+                  "size": 10177.0
+                },
+                {
+                  "price": 0.22,
+                  "size": 13148.54
+                },
+                {
+                  "price": 0.21,
+                  "size": 10000.0
+                },
+                {
+                  "price": 0.2,
+                  "size": 3750.0
+                },
+                {
+                  "price": 0.19,
+                  "size": 2892.76
+                },
+                {
+                  "price": 0.18,
+                  "size": 87925.53
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.28,
+                  "size": 44743.48
+                },
+                {
+                  "price": 0.29,
+                  "size": 99100.19
+                },
+                {
+                  "price": 0.3,
+                  "size": 12479.19
+                },
+                {
+                  "price": 0.31,
+                  "size": 3609.0
+                },
+                {
+                  "price": 0.32,
+                  "size": 138.0
+                },
+                {
+                  "price": 0.33,
+                  "size": 4166.0
+                },
+                {
+                  "price": 0.34,
+                  "size": 43.18
+                },
+                {
+                  "price": 0.35,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.37,
+                  "size": 256.0
+                },
+                {
+                  "price": 0.38,
+                  "size": 2493.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594061027"
+            },
+            "Under": {
+              "best_bid": 0.72,
+              "best_ask": 0.73,
+              "bids": [
+                {
+                  "price": 0.72,
+                  "size": 44743.48
+                },
+                {
+                  "price": 0.71,
+                  "size": 99100.19
+                },
+                {
+                  "price": 0.7,
+                  "size": 12479.19
+                },
+                {
+                  "price": 0.69,
+                  "size": 3609.0
+                },
+                {
+                  "price": 0.68,
+                  "size": 138.0
+                },
+                {
+                  "price": 0.67,
+                  "size": 4166.0
+                },
+                {
+                  "price": 0.66,
+                  "size": 43.18
+                },
+                {
+                  "price": 0.65,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.63,
+                  "size": 256.0
+                },
+                {
+                  "price": 0.62,
+                  "size": 2493.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.73,
+                  "size": 1765.67
+                },
+                {
+                  "price": 0.74,
+                  "size": 22540.19
+                },
+                {
+                  "price": 0.75,
+                  "size": 5866.01
+                },
+                {
+                  "price": 0.76,
+                  "size": 7768.08
+                },
+                {
+                  "price": 0.77,
+                  "size": 10177.0
+                },
+                {
+                  "price": 0.78,
+                  "size": 13148.54
+                },
+                {
+                  "price": 0.79,
+                  "size": 10000.0
+                },
+                {
+                  "price": 0.8,
+                  "size": 3750.0
+                },
+                {
+                  "price": 0.81,
+                  "size": 2892.76
+                },
+                {
+                  "price": 0.82,
+                  "size": 87925.53
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594062016"
+            }
+          }
+        },
+        {
+          "id": "2855033",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-away-0pt5",
+          "question": "France vs. Morocco: Morocco O/U 0.5",
+          "market_type": "soccer_team_totals",
+          "line": 0.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "58490788196176174894750310046009869585859586162880657668241150513117861830291",
+            "108131129074338046916432465099947268367163067696503558960715721319587218734767"
+          ],
+          "outcome_prices": [
+            0.565,
+            0.435
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 341411.8391,
+          "volume": 9314.316066999996,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.56,
+              "best_ask": 0.57,
+              "bids": [
+                {
+                  "price": 0.56,
+                  "size": 16013.99
+                },
+                {
+                  "price": 0.55,
+                  "size": 18017.99
+                },
+                {
+                  "price": 0.54,
+                  "size": 27633.88
+                },
+                {
+                  "price": 0.53,
+                  "size": 20015.0
+                },
+                {
+                  "price": 0.52,
+                  "size": 13839.0
+                },
+                {
+                  "price": 0.51,
+                  "size": 4726.0
+                },
+                {
+                  "price": 0.5,
+                  "size": 1690.0
+                },
+                {
+                  "price": 0.49,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.47,
+                  "size": 10000.0
+                },
+                {
+                  "price": 0.46,
+                  "size": 98678.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.57,
+                  "size": 122941.76
+                },
+                {
+                  "price": 0.58,
+                  "size": 192710.46
+                },
+                {
+                  "price": 0.59,
+                  "size": 18469.92
+                },
+                {
+                  "price": 0.6,
+                  "size": 21247.0
+                },
+                {
+                  "price": 0.61,
+                  "size": 9173.0
+                },
+                {
+                  "price": 0.62,
+                  "size": 4784.0
+                },
+                {
+                  "price": 0.63,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.66,
+                  "size": 35.29
+                },
+                {
+                  "price": 0.67,
+                  "size": 2970.0
+                },
+                {
+                  "price": 0.68,
+                  "size": 6.25
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594064144"
+            },
+            "Under": {
+              "best_bid": 0.43,
+              "best_ask": 0.44,
+              "bids": [
+                {
+                  "price": 0.43,
+                  "size": 122941.76
+                },
+                {
+                  "price": 0.42,
+                  "size": 192710.46
+                },
+                {
+                  "price": 0.41,
+                  "size": 18469.92
+                },
+                {
+                  "price": 0.4,
+                  "size": 21247.0
+                },
+                {
+                  "price": 0.39,
+                  "size": 9173.0
+                },
+                {
+                  "price": 0.38,
+                  "size": 4784.0
+                },
+                {
+                  "price": 0.37,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.34,
+                  "size": 35.29
+                },
+                {
+                  "price": 0.33,
+                  "size": 2970.0
+                },
+                {
+                  "price": 0.32,
+                  "size": 6.25
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.44,
+                  "size": 16013.99
+                },
+                {
+                  "price": 0.45,
+                  "size": 18017.99
+                },
+                {
+                  "price": 0.46,
+                  "size": 27633.88
+                },
+                {
+                  "price": 0.47,
+                  "size": 20015.0
+                },
+                {
+                  "price": 0.48,
+                  "size": 13839.0
+                },
+                {
+                  "price": 0.49,
+                  "size": 4726.0
+                },
+                {
+                  "price": 0.5,
+                  "size": 1690.0
+                },
+                {
+                  "price": 0.51,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.53,
+                  "size": 10000.0
+                },
+                {
+                  "price": 0.54,
+                  "size": 98678.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594064144"
+            }
+          }
+        },
+        {
+          "id": "2855034",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-away-1pt5",
+          "question": "France vs. Morocco: Morocco O/U 1.5",
+          "market_type": "soccer_team_totals",
+          "line": 1.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "74763912393101325618049432447692714838696939025869801022125140784126406499148",
+            "78767445049852387658982595968526258184375361637499605823669161838568288759078"
+          ],
+          "outcome_prices": [
+            0.185,
+            0.815
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 177902.4261,
+          "volume": 10079.765020000003,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.18,
+              "best_ask": 0.19,
+              "bids": [
+                {
+                  "price": 0.18,
+                  "size": 16157.05
+                },
+                {
+                  "price": 0.17,
+                  "size": 35198.28
+                },
+                {
+                  "price": 0.16,
+                  "size": 24061.36
+                },
+                {
+                  "price": 0.15,
+                  "size": 23334.0
+                },
+                {
+                  "price": 0.14,
+                  "size": 15459.0
+                },
+                {
+                  "price": 0.13,
+                  "size": 77942.38
+                },
+                {
+                  "price": 0.12,
+                  "size": 10268.25
+                },
+                {
+                  "price": 0.11,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.1,
+                  "size": 1561.64
+                },
+                {
+                  "price": 0.09,
+                  "size": 9866.21
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.19,
+                  "size": 10105.37
+                },
+                {
+                  "price": 0.2,
+                  "size": 14073.84
+                },
+                {
+                  "price": 0.21,
+                  "size": 12482.45
+                },
+                {
+                  "price": 0.22,
+                  "size": 15411.09
+                },
+                {
+                  "price": 0.23,
+                  "size": 13521.0
+                },
+                {
+                  "price": 0.24,
+                  "size": 16147.0
+                },
+                {
+                  "price": 0.25,
+                  "size": 1682.0
+                },
+                {
+                  "price": 0.26,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.28,
+                  "size": 6.89
+                },
+                {
+                  "price": 0.3,
+                  "size": 2574.0
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594065148"
+            },
+            "Under": {
+              "best_bid": 0.81,
+              "best_ask": 0.82,
+              "bids": [
+                {
+                  "price": 0.81,
+                  "size": 10105.37
+                },
+                {
+                  "price": 0.8,
+                  "size": 14073.84
+                },
+                {
+                  "price": 0.79,
+                  "size": 12482.45
+                },
+                {
+                  "price": 0.78,
+                  "size": 15411.09
+                },
+                {
+                  "price": 0.77,
+                  "size": 13521.0
+                },
+                {
+                  "price": 0.76,
+                  "size": 16147.0
+                },
+                {
+                  "price": 0.75,
+                  "size": 1682.0
+                },
+                {
+                  "price": 0.74,
+                  "size": 1525.0
+                },
+                {
+                  "price": 0.72,
+                  "size": 6.89
+                },
+                {
+                  "price": 0.7,
+                  "size": 2574.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.82,
+                  "size": 16157.05
+                },
+                {
+                  "price": 0.83,
+                  "size": 35198.28
+                },
+                {
+                  "price": 0.84,
+                  "size": 24061.36
+                },
+                {
+                  "price": 0.85,
+                  "size": 23334.0
+                },
+                {
+                  "price": 0.86,
+                  "size": 15459.0
+                },
+                {
+                  "price": 0.87,
+                  "size": 77942.38
+                },
+                {
+                  "price": 0.88,
+                  "size": 10268.25
+                },
+                {
+                  "price": 0.89,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.9,
+                  "size": 1561.64
+                },
+                {
+                  "price": 0.91,
+                  "size": 9866.21
+                }
+              ],
+              "tick_size": 0.01,
+              "timestamp": "1783594065148"
+            }
+          }
+        },
+        {
+          "id": "2855035",
+          "slug": "fifwc-fra-mar-2026-07-09-team-total-away-2pt5",
+          "question": "France vs. Morocco: Morocco O/U 2.5",
+          "market_type": "soccer_team_totals",
+          "line": 2.5,
+          "outcomes": [
+            "Over",
+            "Under"
+          ],
+          "token_ids": [
+            "71362682087644352990006400248943515627835440900779638025313273207382674541069",
+            "115174538824124262966425071738571196147809300015019359373228292956981834665280"
+          ],
+          "outcome_prices": [
+            0.0445,
+            0.9555
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 119669.28904,
+          "volume": 2612.5999309999997,
+          "updated_at": "2026-07-09T10:44:26.953801Z",
+          "books": {
+            "Over": {
+              "best_bid": 0.044,
+              "best_ask": 0.045,
+              "bids": [
+                {
+                  "price": 0.044,
+                  "size": 1205.24
+                },
+                {
+                  "price": 0.043,
+                  "size": 103.04
+                },
+                {
+                  "price": 0.042,
+                  "size": 103.04
+                },
+                {
+                  "price": 0.04,
+                  "size": 1139.7
+                },
+                {
+                  "price": 0.038,
+                  "size": 2405.0
+                },
+                {
+                  "price": 0.035,
+                  "size": 999.0
+                },
+                {
+                  "price": 0.034,
+                  "size": 3086.99
+                },
+                {
+                  "price": 0.033,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.032,
+                  "size": 30.0
+                },
+                {
+                  "price": 0.03,
+                  "size": 5667.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.045,
+                  "size": 4814.0
+                },
+                {
+                  "price": 0.046,
+                  "size": 2399.0
+                },
+                {
+                  "price": 0.047,
+                  "size": 263.02
+                },
+                {
+                  "price": 0.048,
+                  "size": 331.03
+                },
+                {
+                  "price": 0.049,
+                  "size": 121.23
+                },
+                {
+                  "price": 0.05,
+                  "size": 34.0
+                },
+                {
+                  "price": 0.051,
+                  "size": 29.57
+                },
+                {
+                  "price": 0.052,
+                  "size": 85.0
+                },
+                {
+                  "price": 0.055,
+                  "size": 3102.0
+                },
+                {
+                  "price": 0.056,
+                  "size": 15.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783594075648"
+            },
+            "Under": {
+              "best_bid": 0.955,
+              "best_ask": 0.956,
+              "bids": [
+                {
+                  "price": 0.955,
+                  "size": 4814.0
+                },
+                {
+                  "price": 0.954,
+                  "size": 2399.0
+                },
+                {
+                  "price": 0.953,
+                  "size": 263.02
+                },
+                {
+                  "price": 0.952,
+                  "size": 331.03
+                },
+                {
+                  "price": 0.951,
+                  "size": 121.23
+                },
+                {
+                  "price": 0.95,
+                  "size": 34.0
+                },
+                {
+                  "price": 0.949,
+                  "size": 29.57
+                },
+                {
+                  "price": 0.948,
+                  "size": 85.0
+                },
+                {
+                  "price": 0.945,
+                  "size": 3102.0
+                },
+                {
+                  "price": 0.944,
+                  "size": 15.0
+                }
+              ],
+              "asks": [
+                {
+                  "price": 0.956,
+                  "size": 1205.24
+                },
+                {
+                  "price": 0.957,
+                  "size": 103.04
+                },
+                {
+                  "price": 0.958,
+                  "size": 103.04
+                },
+                {
+                  "price": 0.96,
+                  "size": 1139.7
+                },
+                {
+                  "price": 0.962,
+                  "size": 2405.0
+                },
+                {
+                  "price": 0.965,
+                  "size": 999.0
+                },
+                {
+                  "price": 0.966,
+                  "size": 3086.99
+                },
+                {
+                  "price": 0.967,
+                  "size": 1500.0
+                },
+                {
+                  "price": 0.968,
+                  "size": 30.0
+                },
+                {
+                  "price": 0.97,
+                  "size": 5667.0
+                }
+              ],
+              "tick_size": 0.001,
+              "timestamp": "1783594075648"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

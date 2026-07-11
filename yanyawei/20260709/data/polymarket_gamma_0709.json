@@ -1,0 +1,2909 @@
+{
+  "as_of_beijing": "2026-07-09T18:29:15+08:00",
+  "events": [
+    {
+      "title": "World Cup Winner ",
+      "slug": "world-cup-winner",
+      "startDate": "2025-07-02T22:26:48.104Z",
+      "endDate": "2026-07-20T00:00:00Z",
+      "volume": 4114505704.70965,
+      "liquidity": 54192897.46779,
+      "active": true,
+      "closed": false,
+      "markets": [
+        {
+          "id": "558934",
+          "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+          "question": "Will Spain win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "4394372887385518214471608448209527405727552777602031099972143344338178308080",
+            "112680630004798425069810935278212000865453267506345451433803052322987302357330"
+          ],
+          "outcome_prices": [
+            0.1885,
+            0.8115
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7257770.26018,
+          "volume": 94829984.60379206,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558935",
+          "slug": "will-england-win-the-2026-fifa-world-cup-937",
+          "question": "Will England win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "115556263888245616435851357148058235707004733438163639091106356867234218207169",
+            "77121637225348873006259930776623502125079210522997384841464684944292365296940"
+          ],
+          "outcome_prices": [
+            0.1605,
+            0.8395
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6306677.22103,
+          "volume": 90131368.96702386,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558936",
+          "slug": "will-france-win-the-2026-fifa-world-cup-924",
+          "question": "Will France win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "108233603819467706476318984012158651931658302669301887462181073562758483842092",
+            "32270411694523539495262303868629477861017829722282576458031815333486368239544"
+          ],
+          "outcome_prices": [
+            0.3195,
+            0.6805
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6517327.43466,
+          "volume": 102645444.82392192,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558937",
+          "slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+          "question": "Will Brazil win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "27576533317283401577758999384642760405921738493660383550832555714312627457443",
+            "52986718774908357330412653486471347449818893503063830313445318937088822580057"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 81936874.65550427,
+          "updated_at": "2026-07-07T01:11:36.479966Z"
+        },
+        {
+          "id": "558938",
+          "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+          "question": "Will Argentina win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "18812649149814341758733697580460697418474693998558159483117100240528657629879",
+            "115428153746996892211798999366308897078723117634059783423375188043903703749062"
+          ],
+          "outcome_prices": [
+            0.2005,
+            0.7995
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7311078.16394,
+          "volume": 119491742.69418259,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558939",
+          "slug": "will-germany-win-the-2026-fifa-world-cup-467",
+          "question": "Will Germany win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "81739002353269632749850710185641576213562066971072676369728657545679630163887",
+            "45484070731786948288366703334552551439356529561722304542938873238430842810537"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 80873590.38103242,
+          "updated_at": "2026-07-01T02:35:54.895028Z"
+        },
+        {
+          "id": "558940",
+          "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+          "question": "Will Portugal win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "45415751658241142530386585138386640503488308219341470020075667342738719018629",
+            "31940783580344558651011323787577288681658737625185216525249046282994042503801"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 109092961.84747173,
+          "updated_at": "2026-07-08T00:11:30.764291Z"
+        },
+        {
+          "id": "558941",
+          "slug": "will-netherlands-win-the-2026-fifa-world-cup-739",
+          "question": "Will Netherlands win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "55935183786009449883683540312350046975246300613283087403691731856990327029236",
+            "103711573894614472510743687764792452240919804104728889027222697502832804498206"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 77727053.21317497,
+          "updated_at": "2026-07-01T06:39:55.606194Z"
+        },
+        {
+          "id": "558942",
+          "slug": "will-italy-win-the-2026-fifa-world-cup-813",
+          "question": "Will Italy win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "71902280236980528007966111072910269163651886024599423678358797794246690742124",
+            "17567294778637229825908271987925808954865907947626969581496912375435402975317"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 8666273.297316846,
+          "updated_at": "2026-06-03T19:32:25.478187Z"
+        },
+        {
+          "id": "558943",
+          "slug": "will-usa-win-the-2026-fifa-world-cup-467",
+          "question": "Will USA win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "94603648636330087039501304492699481091005420017442244191603206509188088089447",
+            "45270201343463663182019040935560267543606888663369415494551943549463253748361"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 142460221.86557126,
+          "updated_at": "2026-07-08T05:11:32.076149Z"
+        },
+        {
+          "id": "558944",
+          "slug": "will-uruguay-win-the-2026-fifa-world-cup-932",
+          "question": "Will Uruguay win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "97239126062673310243763617236644392945530356142765650402171508075574679292913",
+            "19291692040378529618917910599727571242305935029274321291612270922648172794670"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 78019361.83129518,
+          "updated_at": "2026-06-28T05:16:02.871845Z"
+        },
+        {
+          "id": "558945",
+          "slug": "will-mexico-win-the-2026-fifa-world-cup-529",
+          "question": "Will Mexico win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "22587775301869146748237913050505932485648958481571808324285560650057390882036",
+            "89041006475364789358805026139650677807087698981377208157664917554760333198878"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 137807960.8917842,
+          "updated_at": "2026-07-07T06:06:15.613314Z"
+        },
+        {
+          "id": "558946",
+          "slug": "will-belgium-win-the-2026-fifa-world-cup-358",
+          "question": "Will Belgium win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "30815807067456631524510535002617106205417832891402132396713720656146245200000",
+            "71145888994888153292442623019750517622535407476309461406574461229898137896934"
+          ],
+          "outcome_prices": [
+            0.0245,
+            0.9755
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5126039.27263,
+          "volume": 119621371.73792753,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558947",
+          "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
+          "question": "Will Colombia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "98803390175521456712653678280474920637934596234667490983228578374641217211132",
+            "66826965351166675155887515167306086307412332225034738589879767944935462342380"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 104668584.41449788,
+          "updated_at": "2026-07-09T01:25:44.332391Z"
+        },
+        {
+          "id": "558948",
+          "slug": "will-peru-win-the-2026-fifa-world-cup-981",
+          "question": "Will Peru win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "101676169054030206233833764842719082618757802536849310267210048314274509219904",
+            "24779401655194262916366909997283581099962308068346907236063007044208850471860"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 264589.508269,
+          "updated_at": "2026-06-03T19:32:27.517407Z"
+        },
+        {
+          "id": "558949",
+          "slug": "will-japan-win-the-2026-fifa-world-cup-112",
+          "question": "Will Japan win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "19159976531313550247579355752030367100657092033093647047491459813592996250034",
+            "30480347120583372139084467958111617967991872806450711152133323106144105346695"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 95790683.29305987,
+          "updated_at": "2026-06-30T22:11:52.106977Z"
+        },
+        {
+          "id": "558951",
+          "slug": "will-norway-win-the-2026-fifa-world-cup-893",
+          "question": "Will Norway win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "60447443643099453130956385288904175887233107411078568881602330835010340506057",
+            "111538579557239934343870815626480092245052857494675784434731223739153238373070"
+          ],
+          "outcome_prices": [
+            0.0605,
+            0.9395
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5441321.71301,
+          "volume": 120269001.6721169,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558952",
+          "slug": "will-canada-win-the-2026-fifa-world-cup-755",
+          "question": "Will Canada win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "99303605181956827630838461879484468077121754034387765735989859308848389894408",
+            "69727421603231227453181655442677441322028725849495647325726292556190704508348"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 102858402.64237365,
+          "updated_at": "2026-07-05T21:27:24.018641Z"
+        },
+        {
+          "id": "558953",
+          "slug": "will-any-other-team-win-the-2026-fifa-world-cup-541-319-294-845-754-317-243-911-472-778-811-233-235-839-426-488",
+          "question": "Will Any Other Team win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "79294058792460060508456003181703265072132285732867201188949277886067025923060",
+            "45044543697892547559355972767820696329315708807162308077038115978299112392271"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-06-02T20:16:00.312445Z"
+        },
+        {
+          "id": "558954",
+          "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
+          "question": "Will Tunisia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "86035858416252385053603758548087253570549129844230230783932738372075949702177",
+            "110028171623846551687151479494325822981244001939750602839571004785511377900325"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 36470355.983686015,
+          "updated_at": "2026-06-22T09:00:47.541264Z"
+        },
+        {
+          "id": "558955",
+          "slug": "will-ecuador-win-the-2026-fifa-world-cup-986",
+          "question": "Will Ecuador win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "39971087496427056640429359043364261029374524049464674733142166279730655826181",
+            "76638532101043658630369484092110685720624002077285242368448475410253808399541"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 96888032.22035679,
+          "updated_at": "2026-07-02T06:56:46.634956Z"
+        },
+        {
+          "id": "558956",
+          "slug": "will-paraguay-win-the-2026-fifa-world-cup-967",
+          "question": "Will Paraguay win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "93165696161088512376930999170413968261015485018106746563527821398897374023845",
+            "64564930076241670294516403352804569921660004975706088367725793399153499601932"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 107400630.58821647,
+          "updated_at": "2026-07-06T01:29:52.09126Z"
+        },
+        {
+          "id": "558957",
+          "slug": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+          "question": "Will New Zealand win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "79609298644734030886284029462369514848707878622071495577618126141372199748974",
+            "19300733445673111152563700067702596357686293159476142927049736146587326855017"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 47529246.662645176,
+          "updated_at": "2026-06-28T04:49:54.923907Z"
+        },
+        {
+          "id": "558958",
+          "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+          "question": "Will Australia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43661509251351142169227141691164122649250455115438867334436875294380701133091",
+            "36726371220435722462734467218102931225443889493446335046337202920930764439505"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 88367393.01311678,
+          "updated_at": "2026-07-04T23:53:36.293551Z"
+        },
+        {
+          "id": "558959",
+          "slug": "will-iran-win-the-2026-fifa-world-cup-788",
+          "question": "Will Iran win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "33747305042007778221968790541070114008811587676172030120559423448386310500957",
+            "80777593725072886250387021020386140490553855405927920539616996585797139624012"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 62233146.37678978,
+          "updated_at": "2026-06-29T06:03:56.044302Z"
+        },
+        {
+          "id": "558960",
+          "slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
+          "question": "Will Uzbekistan win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "90538013438399246674125939147272424357773921253199632436930218305581040235987",
+            "105754735859803813986361714630753276237891536292440584153365249756008425623608"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 61524249.26841759,
+          "updated_at": "2026-06-28T20:00:02.379883Z"
+        },
+        {
+          "id": "558961",
+          "slug": "will-south-korea-win-the-2026-fifa-world-cup-485",
+          "question": "Will South Korea win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "80724786407275266937534613008558715581084712230616856739273522348302669402554",
+            "100966306057435164439067339228624332754270252294302540206756310699254942177976"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 107521229.19240354,
+          "updated_at": "2026-06-29T03:42:05.760797Z"
+        },
+        {
+          "id": "558962",
+          "slug": "will-jordan-win-the-2026-fifa-world-cup-233",
+          "question": "Will Jordan win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "98686749402500678753487703372528277029342097490180026723487433517076969282825",
+            "64799211284650435818319700973089994510508551533538430983091938324711590775445"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 33082576.34188277,
+          "updated_at": "2026-06-24T02:09:49.817852Z"
+        },
+        {
+          "id": "558963",
+          "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
+          "question": "Will Morocco win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "69910730841487615802736046038473620030754616421912831175284551372639933569112",
+            "64291832879722161879651094688874074984529456778901604558632306686248535158725"
+          ],
+          "outcome_prices": [
+            0.0295,
+            0.9705
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 2322604.6069,
+          "volume": 143609276.67623597,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558964",
+          "slug": "will-south-africa-win-the-2026-fifa-world-cup",
+          "question": "Will South Africa win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "29544965695734183971376022965555206180154533479443150154863135205600734339980",
+            "111245917748445356120705119950074393193967942028497826347734348592797775138872"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 46577445.48789424,
+          "updated_at": "2026-06-29T23:35:45.355266Z"
+        },
+        {
+          "id": "558965",
+          "slug": "will-senegal-win-the-2026-fifa-world-cup",
+          "question": "Will Senegal win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "32169302633723235235251659810064817019484855501133685217130365128535248672349",
+            "113265059897956746691843122168656761655221736394810246476379385708691102755798"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 80692765.78550497,
+          "updated_at": "2026-07-03T01:15:56.367631Z"
+        },
+        {
+          "id": "558966",
+          "slug": "will-ivory-coast-win-the-2026-fifa-world-cup",
+          "question": "Will Ivory Coast win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "58374167250364215964582274356498746399676421878376948523944979542572589542202",
+            "70753274007979480001882804624792378182371580903023185997594096497692751054228"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 111749187.63597094,
+          "updated_at": "2026-07-01T21:58:37.499324Z"
+        },
+        {
+          "id": "558967",
+          "slug": "will-ghana-win-the-2026-fifa-world-cup",
+          "question": "Will Ghana win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43907673646206657865778036957293730446366626078011238443367990170655175896145",
+            "10398766811303655595339782235864350348828881761515262235130136230008770201075"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 89137687.48381385,
+          "updated_at": "2026-07-05T06:23:36.846307Z"
+        },
+        {
+          "id": "558968",
+          "slug": "will-egypt-win-the-2026-fifa-world-cup",
+          "question": "Will Egypt win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "30499731947464516579580181356221397335865912996104577000510883912653418218808",
+            "65652065262666433168143828460188123377751865571317729312655170081534213236077"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 158580818.67117897,
+          "updated_at": "2026-07-08T21:09:39.90039Z"
+        },
+        {
+          "id": "558969",
+          "slug": "will-algeria-win-the-2026-fifa-world-cup",
+          "question": "Will Algeria win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "58392024727359233794992635293106675983094683080284912908526627785964160484939",
+            "49871252661742427315226109307954871479267113637891510501334531720454017709951"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 90337041.03721622,
+          "updated_at": "2026-07-04T07:41:55.087166Z"
+        },
+        {
+          "id": "558970",
+          "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
+          "question": "Will Cape Verde win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "61595193871140044336898809781418183952441527621084596848414908595268863899573",
+            "51603557647605526784272094285656249935467020057355371392584885347569984808630"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 119207233.3327582,
+          "updated_at": "2026-07-05T03:31:26.962819Z"
+        },
+        {
+          "id": "558971",
+          "slug": "will-qatar-win-the-2026-fifa-world-cup",
+          "question": "Will Qatar win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "18605216520960122093689427575806651607517827372535894526532079999408408169156",
+            "84553189233868837011173802287245466242361930181501918469303092803731514390253"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 45097302.84833185,
+          "updated_at": "2026-06-25T21:39:02.337845Z"
+        },
+        {
+          "id": "558972",
+          "slug": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+          "question": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "23542782083949026234898323432000742558288032327930681121040136746492993951914",
+            "114546670306823666642195507621782951860129088864927983250949362928442688463192"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 57271836.512883715,
+          "updated_at": "2026-06-28T02:28:05.232718Z"
+        },
+        {
+          "id": "558973",
+          "slug": "will-scotland-win-the-2026-fifa-world-cup",
+          "question": "Will Scotland win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "105252206997885252352889070218074909957179496257006510170583432513037465278006",
+            "83036729811309811995794968105073507480036161583897760544623930912713394505713"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 67943136.59193021,
+          "updated_at": "2026-06-28T19:13:54.301912Z"
+        },
+        {
+          "id": "558974",
+          "slug": "will-switzerland-win-the-2026-fifa-world-cup",
+          "question": "Will Switzerland win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "62131913648515148266463816694306031394539656598501514114816028349608560215534",
+            "45315272750116791836504013666029583517532908319286234834610455739871173419179"
+          ],
+          "outcome_prices": [
+            0.0215,
+            0.9785
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 12638270.57685,
+          "volume": 118021253.2611311,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "558975",
+          "slug": "will-austria-win-the-2026-fifa-world-cup",
+          "question": "Will Austria win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "88168215299416146215691671077998911754346458567817860712850392736799004561327",
+            "88156352219650092845199724072742433369069988856568846096337560285593531555407"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 85671553.448979,
+          "updated_at": "2026-07-03T23:37:23.157718Z"
+        },
+        {
+          "id": "558976",
+          "slug": "will-croatia-win-the-2026-fifa-world-cup",
+          "question": "Will Croatia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "106593539437032467615148553707998472829334050617128244920821917025746481184109",
+            "22335540631248526397385139154377717431237265005174891396662761131414559126312"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 109483286.88874409,
+          "updated_at": "2026-07-04T04:23:59.204927Z"
+        },
+        {
+          "id": "558977",
+          "slug": "will-haiti-win-the-2026-fifa-world-cup",
+          "question": "Will Haiti win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "113379015922744700109400673843380371641970914885846970213129353605968934558386",
+            "7452445673065716792879664309598949732608843578632923430902121866203768915742"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 33265926.54182009,
+          "updated_at": "2026-06-21T03:46:03.787562Z"
+        },
+        {
+          "id": "558978",
+          "slug": "will-curaao-win-the-2026-fifa-world-cup",
+          "question": "Will Curaçao win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "69020832226510184384177497367584971770730339593583713190288186699694495509961",
+            "57880090995762041847706075076337915070476459103836011898392946953962001410644"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 44007492.74691623,
+          "updated_at": "2026-06-26T23:50:01.198762Z"
+        },
+        {
+          "id": "558979",
+          "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+          "question": "Will Panama win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "112181485529919660901332188537214992263355343785744498550605179448744432717486",
+            "54713157489249811305010442901837547158293079674050742517995375602657385198814"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 20049174.385756884,
+          "updated_at": "2026-06-24T13:35:48.171071Z"
+        },
+        {
+          "id": "558980",
+          "slug": "will-sweden-win-the-2026-fifa-world-cup",
+          "question": "Will Sweden win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "41004484905556820430171783088292854654441952667499527125436634397522798168110",
+            "5505010946036330007136366602843685650332532780067992773464881166501235782352"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 77544086.61694826,
+          "updated_at": "2026-07-02T02:05:07.026497Z"
+        },
+        {
+          "id": "558981",
+          "slug": "will-congo-dr-win-the-2026-fifa-world-cup",
+          "question": "Will Congo DR win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "87403333427856945144645806003352057704193778078820484282942507058200689996202",
+            "43528414195007977002195624860045129351164807876978747566236159804271175691009"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 96120346.28892957,
+          "updated_at": "2026-07-02T21:11:30.526432Z"
+        },
+        {
+          "id": "558982",
+          "slug": "will-iraq-win-the-2026-fifa-world-cup",
+          "question": "Will Iraq win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "53465512181802150755993130711224070738002100921790051090044528012833736167995",
+            "104137480799334367207764507943317769727862093918816792190533154232239547234217"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 30615070.59271094,
+          "updated_at": "2026-06-27T13:36:02.814273Z"
+        },
+        {
+          "id": "558983",
+          "slug": "will-bosnia-herzegovina-win-the-2026-fifa-world-cup",
+          "question": "Will Bosnia-Herzegovina win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "89770121993255619705119104591644526712193505786928967250693522950895615785005",
+            "334114555297655433618918589540388457186530884312703967834539640747792887116"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 63473942.77971768,
+          "updated_at": "2026-07-03T04:11:35.648495Z"
+        },
+        {
+          "id": "558984",
+          "slug": "will-czechia-win-the-2026-fifa-world-cup",
+          "question": "Will Czechia win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "35797818400757287472708740881657961304270157125643131597907636474183210188025",
+            "7178132479418833271220202496199802982233847400465199094850639568068936253094"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 57485266.93301565,
+          "updated_at": "2026-06-26T01:30:57.371272Z"
+        },
+        {
+          "id": "558985",
+          "slug": "will-turkiye-win-the-2026-fifa-world-cup",
+          "question": "Will Turkiye win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "18704778540677036028551740861729937822696511439974613107767625408338509619395",
+            "79903375968759183705713252823977157971970949200427111658524625623146332835513"
+          ],
+          "outcome_prices": [
+            0.0,
+            1.0
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 61684097.10867325,
+          "updated_at": "2026-06-21T06:52:17.735712Z"
+        },
+        {
+          "id": "558986",
+          "slug": "will-team-ag-win-the-2026-fifa-world-cup",
+          "question": "Will Team AG win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "22080439003081160335463459731968476156829161112460238800360422178479386141464",
+            "77910847478809995058448274826079010223593397941633805984094972226122800048709"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558987",
+          "slug": "will-team-ah-win-the-2026-fifa-world-cup",
+          "question": "Will Team AH win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "36690899872851265212073248479749198484310643977286990183654353938157257385703",
+            "59371946446469794353058071488995665434050758239395721646374702098901681621065"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558988",
+          "slug": "will-team-ai-win-the-2026-fifa-world-cup",
+          "question": "Will Team AI win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "12366378008763522974663587592879031391963617972072183715011748595784372282658",
+            "4656906392974014325918760073723924410694810312646921590215810991376555666336"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558989",
+          "slug": "will-team-aj-win-the-2026-fifa-world-cup",
+          "question": "Will Team AJ win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "106714509099031307386969305100232668041979073723855036394840185882925764512824",
+            "20978849540032153795757792165797233558709942355420439379052331861357721097168"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558990",
+          "slug": "will-team-ak-win-the-2026-fifa-world-cup",
+          "question": "Will Team AK win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "61793790334080006057089648535471543975515468838412489783998924413235561084673",
+            "27165463116844706103975152815848182286836777953996490568952847989478197654425"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558991",
+          "slug": "will-team-al-win-the-2026-fifa-world-cup",
+          "question": "Will Team AL win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "112698997011817206967685330885482813151983819281331724209499074879167443880973",
+            "105032535506806023618390899071246712836774936447377989221408786345878615056934"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558992",
+          "slug": "will-team-am-win-the-2026-fifa-world-cup",
+          "question": "Will Team AM win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "86040916914507857269605207059811736324691981407025555024902462000511476766233",
+            "76131146098126828471552637113581456291047249523223872964238917671303838166693"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558993",
+          "slug": "will-team-an-win-the-2026-fifa-world-cup",
+          "question": "Will Team AN win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "14203543069867412195885282783300574554675270350831553865498671736859883729328",
+            "111141748955003778213195540207821951246406288122124160457709818758152671531484"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        },
+        {
+          "id": "558994",
+          "slug": "will-team-ao-win-the-2026-fifa-world-cup",
+          "question": "Will Team AO win the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "6248841595165561514782366563826694953383315834764501750927289530971890369258",
+            "2508228306296492947994749517968042065729708036603468124889079030422879794215"
+          ],
+          "outcome_prices": [],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-04-28T11:03:25.240279Z"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Semifinals Exact Matchup",
+      "slug": "world-cup-semifinals-exact-matchup-20260708200539746",
+      "startDate": "2026-07-08T20:11:00.64561Z",
+      "endDate": null,
+      "volume": 9634.439831999998,
+      "liquidity": 307743.94704,
+      "active": true,
+      "closed": false,
+      "markets": [
+        {
+          "id": "2850077",
+          "slug": "will-the-semifinals-be-fra-vs-esp-and-nor-vs-arg-at-the-2026-fifa-world-cup-20260708200539747",
+          "question": "Will the semifinals be FRA vs ESP and NOR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "75427908697544299408071914361551366339779277816602722442478929575719898669202",
+            "45238523556938539678781338115975619136334806915929537218473536702252112557594"
+          ],
+          "outcome_prices": [
+            0.155,
+            0.845
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 30969.671,
+          "volume": 8904.789999999999,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850078",
+          "slug": "will-the-semifinals-be-fra-vs-esp-and-nor-vs-sui-at-the-2026-fifa-world-cup-20260708200539748",
+          "question": "Will the semifinals be FRA vs ESP and NOR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "95829329547966319167051716745004353139242527254757991307361071000068243607521",
+            "57718941357799522018076592113998456026531408477347898265429510140966866674382"
+          ],
+          "outcome_prices": [
+            0.065,
+            0.935
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 48037.3155,
+          "volume": 11.11111,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850079",
+          "slug": "will-the-semifinals-be-fra-vs-esp-and-eng-vs-arg-at-the-2026-fifa-world-cup-20260708200539749",
+          "question": "Will the semifinals be FRA vs ESP and ENG vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "115249485037329266369479939293395276096444720886871063715364009829860506052156",
+            "77956697444677477381390222070491704715102996683435900987785774748415409497362"
+          ],
+          "outcome_prices": [
+            0.295,
+            0.705
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 77741.3065,
+          "volume": 556.5607030000001,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850080",
+          "slug": "will-the-semifinals-be-fra-vs-esp-and-eng-vs-sui-at-the-2026-fifa-world-cup-20260708200539750",
+          "question": "Will the semifinals be FRA vs ESP and ENG vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "16958207288216146141427275692367349537115404347264817533613915428734954258137",
+            "25898565452515555716003131797693020744014431664429382985680917749774187881834"
+          ],
+          "outcome_prices": [
+            0.12,
+            0.88
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 11117.3088,
+          "volume": 137.692306,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850081",
+          "slug": "will-the-semifinals-be-fra-vs-bel-and-nor-vs-arg-at-the-2026-fifa-world-cup-20260708200539751",
+          "question": "Will the semifinals be FRA vs BEL and NOR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "86792633419442450244302062088353764051312241007054999408273003306593496125830",
+            "16761518323942949790539443548137257652066032206228607595214080238387165222798"
+          ],
+          "outcome_prices": [
+            0.07,
+            0.93
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7043.0902,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850082",
+          "slug": "will-the-semifinals-be-fra-vs-bel-and-nor-vs-sui-at-the-2026-fifa-world-cup-20260708200539752",
+          "question": "Will the semifinals be FRA vs BEL and NOR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "12740578379242525586129505540614026273205216504416844697443928233506972080590",
+            "6400298955474021842677678070214956781952917028614423651492561859349445643909"
+          ],
+          "outcome_prices": [
+            0.045,
+            0.955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 4009.9169,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850083",
+          "slug": "will-the-semifinals-be-fra-vs-bel-and-eng-vs-arg-at-the-2026-fifa-world-cup-20260708200539753",
+          "question": "Will the semifinals be FRA vs BEL and ENG vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "40805848942359181734213827007637885179162438431664834569071786769035266870378",
+            "71257710202797399537830568949591143315355283912693356071754005344301821819292"
+          ],
+          "outcome_prices": [
+            0.11,
+            0.89
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 9088.5142,
+          "volume": 10.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850084",
+          "slug": "will-the-semifinals-be-fra-vs-bel-and-eng-vs-sui-at-the-2026-fifa-world-cup-20260708200539754",
+          "question": "Will the semifinals be FRA vs BEL and ENG vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "21210374785673099039487502003630423385087535106968658294296285549601796467234",
+            "81644830220823034564631589373911301324847534992484896206926741405445299536526"
+          ],
+          "outcome_prices": [
+            0.05,
+            0.95
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 44483.9069,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850085",
+          "slug": "will-the-semifinals-be-mar-vs-esp-and-nor-vs-arg-at-the-2026-fifa-world-cup-20260708200539755",
+          "question": "Will the semifinals be MAR vs ESP and NOR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "21285603142362556879657161041712302957791201501052486080396984511599139078206",
+            "93382459459942734547068476505795192725334342758207730627071103265091169344706"
+          ],
+          "outcome_prices": [
+            0.055,
+            0.945
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 3905.047,
+          "volume": 14.285713,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850086",
+          "slug": "will-the-semifinals-be-mar-vs-esp-and-nor-vs-sui-at-the-2026-fifa-world-cup-20260708200539756",
+          "question": "Will the semifinals be MAR vs ESP and NOR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "26839081771338338680594413984922393538864910600258249887063137583057683578821",
+            "83998008390277734263238452700970097100008675059648432475307872113381809066474"
+          ],
+          "outcome_prices": [
+            0.045,
+            0.955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 3849.6069,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850087",
+          "slug": "will-the-semifinals-be-mar-vs-esp-and-eng-vs-arg-at-the-2026-fifa-world-cup-20260708200539757",
+          "question": "Will the semifinals be MAR vs ESP and ENG vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "70097518207988723452642614943718997416007811656301852642760470128215326047223",
+            "68271480519137728703457488978006574967740012808501321191488030379824064075838"
+          ],
+          "outcome_prices": [
+            0.075,
+            0.925
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6669.6669,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850088",
+          "slug": "will-the-semifinals-be-mar-vs-esp-and-eng-vs-sui-at-the-2026-fifa-world-cup-20260708200539758",
+          "question": "Will the semifinals be MAR vs ESP and ENG vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "12789194393271271537332777334870191147209840995433701839637643173309569531660",
+            "58508595992632036359747263334288666507156683523126493883747747058152287689713"
+          ],
+          "outcome_prices": [
+            0.04,
+            0.96
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 3767.056,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850089",
+          "slug": "will-the-semifinals-be-mar-vs-bel-and-nor-vs-arg-at-the-2026-fifa-world-cup-20260708200539759",
+          "question": "Will the semifinals be MAR vs BEL and NOR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "54704549522159495392064713415309088085478763732208660677005613979548855486036",
+            "49600871534598486550427761451160071763351748522775351318114631009512526762094"
+          ],
+          "outcome_prices": [
+            0.045,
+            0.955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 3124.47007,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850090",
+          "slug": "will-the-semifinals-be-mar-vs-bel-and-nor-vs-sui-at-the-2026-fifa-world-cup-20260708200539760",
+          "question": "Will the semifinals be MAR vs BEL and NOR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "79174739266887840925165290063293240232585020822910867008134177485715672511813",
+            "53588878465351576892745773836916373003010839231253583607606472201877393470949"
+          ],
+          "outcome_prices": [
+            0.027,
+            0.973
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 4545.047,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850091",
+          "slug": "will-the-semifinals-be-mar-vs-bel-and-eng-vs-arg-at-the-2026-fifa-world-cup-20260708200539761",
+          "question": "Will the semifinals be MAR vs BEL and ENG vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43864513851642336850013163090711681804788564506373397326677393194063265133211",
+            "96581139666434735766889438773090040889299762011009377895711662775840356262227"
+          ],
+          "outcome_prices": [
+            0.05,
+            0.95
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 46360.5069,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850092",
+          "slug": "will-the-semifinals-be-mar-vs-bel-and-eng-vs-sui-at-the-2026-fifa-world-cup-20260708200539762",
+          "question": "Will the semifinals be MAR vs BEL and ENG vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "3871884618725354907337683996253789298115161018227603960054920712706813250658",
+            "63129273556246591465076659368591745999499695617127964339389851034264217177158"
+          ],
+          "outcome_prices": [
+            0.038,
+            0.962
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5018.87607,
+          "volume": 0.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2850093",
+          "slug": "will-the-semifinals-be-a-different-combination-of-matchups-at-the-2026-fifa-world-cup-20260708200539763",
+          "question": "Will the semifinals be a different combination of matchups at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "6474330006357985392045302305942164134378801276707803600980914754170828726035",
+            "61616415415195645479957684806573738886563725424485544196678432587370912648696"
+          ],
+          "outcome_prices": [
+            0.5,
+            0.5
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-07-08T20:12:15.511865Z"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: Finals Exact Matchup",
+      "slug": "world-cup-finals-exact-matchup-20260708195422328",
+      "startDate": "2026-07-08T22:21:59.42935Z",
+      "endDate": "2026-07-19T23:59:00Z",
+      "volume": 10009.789861,
+      "liquidity": 878333.64067,
+      "active": true,
+      "closed": false,
+      "markets": [
+        {
+          "id": "2851378",
+          "slug": "will-the-final-be-fra-vs-nor-at-the-2026-fifa-world-cup-20260708195422329",
+          "question": "Will the final be FRA vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "85152415125229045804600488986297515675192270632195470804453626206517080553826",
+            "35525407815173468494485432790145999012764723507662675933268803677312346454650"
+          ],
+          "outcome_prices": [
+            0.095,
+            0.905
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 46270.2096,
+          "volume": 385.259333,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851379",
+          "slug": "will-the-final-be-fra-vs-eng-at-the-2026-fifa-world-cup-20260708195422330",
+          "question": "Will the final be FRA vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "89702311446208436197257850803686761766898352340502332001046506866414360572727",
+            "76715224470982013764525900297787793170154053205074557911556815243706706230927"
+          ],
+          "outcome_prices": [
+            0.205,
+            0.795
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 64116.5262,
+          "volume": 2196.7184429999998,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851380",
+          "slug": "will-the-final-be-fra-vs-arg-at-the-2026-fifa-world-cup-20260708195422331",
+          "question": "Will the final be FRA vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "70018376071625827086146319947012007871751334826222300669286047718229167227560",
+            "11685155924373779733376344077558675671830353528192346754145725703795332987606"
+          ],
+          "outcome_prices": [
+            0.23,
+            0.77
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 144708.3616,
+          "volume": 1147.2296749999998,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851381",
+          "slug": "will-the-final-be-fra-vs-sui-at-the-2026-fifa-world-cup-20260708195422332",
+          "question": "Will the final be FRA vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "66672971349461259357151506834378354280012730227962236435184835446718989351533",
+            "8431577326816800401478913552927425714760295868926465127433697073983445054566"
+          ],
+          "outcome_prices": [
+            0.049,
+            0.951
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 37269.40594,
+          "volume": 601.006665,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851382",
+          "slug": "will-the-final-be-mar-vs-nor-at-the-2026-fifa-world-cup-20260708195422333",
+          "question": "Will the final be MAR vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "8194395862256024367835528846283729493555847506193903803466100344585968516878",
+            "44211961984357302650233151413976452354302894623181157187199991091574595221777"
+          ],
+          "outcome_prices": [
+            0.029,
+            0.971
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 37285.55257,
+          "volume": 279.9965,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851383",
+          "slug": "will-the-final-be-mar-vs-eng-at-the-2026-fifa-world-cup-20260708195422334",
+          "question": "Will the final be MAR vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "46744291012973523233415160399460196126282943945046717615537931430181742135925",
+            "10246541250762206047889252143248789604288956295660681118543061785373371726614"
+          ],
+          "outcome_prices": [
+            0.023,
+            0.977
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 36526.91662,
+          "volume": 311.51658199999997,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851384",
+          "slug": "will-the-final-be-mar-vs-arg-at-the-2026-fifa-world-cup-20260708195422335",
+          "question": "Will the final be MAR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "86710286761952554671780992978823299575303200386093837061537509308422061179230",
+            "81327167626777438192598572788114454475551255860260762594074242880184608021279"
+          ],
+          "outcome_prices": [
+            0.035,
+            0.965
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 39238.55096,
+          "volume": 294.139766,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851385",
+          "slug": "will-the-final-be-mar-vs-sui-at-the-2026-fifa-world-cup-20260708195422336",
+          "question": "Will the final be MAR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "70848621853584925715104749709113490559619495740659218261690190284251164390924",
+            "9460363198988304437875100936314906815514103843277830527670288687736873489708"
+          ],
+          "outcome_prices": [
+            0.0055,
+            0.9945
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 30792.36936,
+          "volume": 270.00649999999996,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851386",
+          "slug": "will-the-final-be-esp-vs-nor-at-the-2026-fifa-world-cup-20260708195422337",
+          "question": "Will the final be ESP vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "111725174057522801200096950733200703267694685666884900523633675239168770013515",
+            "21730974803735191848048452165070276512976723746116711403236565647247962440767"
+          ],
+          "outcome_prices": [
+            0.06,
+            0.94
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 83243.4941,
+          "volume": 1608.00314,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851387",
+          "slug": "will-the-final-be-esp-vs-eng-at-the-2026-fifa-world-cup-20260708195422338",
+          "question": "Will the final be ESP vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "68572597199146111521345758915289443747958372073094348952231708037637511101046",
+            "3064896343340640125439892704161881550356386743586561161261227329181598191118"
+          ],
+          "outcome_prices": [
+            0.135,
+            0.865
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 98278.7079,
+          "volume": 918.625276,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851388",
+          "slug": "will-the-final-be-esp-vs-arg-at-the-2026-fifa-world-cup-20260708195422339",
+          "question": "Will the final be ESP vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "26722865658714832824605825712646012776779454505093583888906287248288458728183",
+            "100922071917861245950292801802363820619969733453887227629204849801978303284505"
+          ],
+          "outcome_prices": [
+            0.15,
+            0.85
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 113746.9535,
+          "volume": 553.552785,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851389",
+          "slug": "will-the-final-be-esp-vs-sui-at-the-2026-fifa-world-cup-20260708195422340",
+          "question": "Will the final be ESP vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "70956904081781935971925828502278268223944583733445130943840907529572253744632",
+            "110027904920345478935037101135874198579688178344670668954396768693456857804520"
+          ],
+          "outcome_prices": [
+            0.0205,
+            0.9795
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 34780.36464,
+          "volume": 327.622296,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851390",
+          "slug": "will-the-final-be-bel-vs-nor-at-the-2026-fifa-world-cup-20260708195422341",
+          "question": "Will the final be BEL vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "476985261130781869997075391646340176404831427105177621310175537514929232701",
+            "48617058189463643553852936564609198707515219326415460203323744698581066941652"
+          ],
+          "outcome_prices": [
+            0.007,
+            0.993
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 31934.31424,
+          "volume": 280.0032,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851391",
+          "slug": "will-the-final-be-bel-vs-eng-at-the-2026-fifa-world-cup-20260708195422342",
+          "question": "Will the final be BEL vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "55690867785874627227248461045361526336720733330564511651509578384188748924859",
+            "70878577388087590398148688227047717150393749917028693018564122845947338082744"
+          ],
+          "outcome_prices": [
+            0.0205,
+            0.9795
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 33333.37003,
+          "volume": 280.00325,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851392",
+          "slug": "will-the-final-be-bel-vs-arg-at-the-2026-fifa-world-cup-20260708195422343",
+          "question": "Will the final be BEL vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "99368227421084985134981225769279890330662024294241883220519741609079097494281",
+            "47903955155386795690838781276807405767854298833779042065943673856668244708094"
+          ],
+          "outcome_prices": [
+            0.0205,
+            0.9795
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 33604.82741,
+          "volume": 280.00325,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851393",
+          "slug": "will-the-final-be-bel-vs-sui-at-the-2026-fifa-world-cup-20260708195422344",
+          "question": "Will the final be BEL vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "40497583055616617244096509121190359061641274943311817733075006143282786793894",
+            "23923941866994498379014658336793157969485185064253767296656249687772319883486"
+          ],
+          "outcome_prices": [
+            0.0045,
+            0.9955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 37165.99921,
+          "volume": 281.1032,
+          "updated_at": "2026-07-09T10:26:47.988118Z"
+        },
+        {
+          "id": "2851394",
+          "slug": "will-the-final-be-a-different-matchup-at-the-2026-fifa-world-cup-20260708195422345",
+          "question": "Will the final be a different matchup at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "44706781300822028849783683929182336598356773883523244156906574050195659751648",
+            "108180971699463033732003841014168756147980186738873901139240576415084152664462"
+          ],
+          "outcome_prices": [
+            0.5,
+            0.5
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-07-08T22:23:44.007002Z"
+        }
+      ]
+    },
+    {
+      "title": "World Cup: 3rd Place Game Exact Matchup",
+      "slug": "world-cup-3rd-place-game-exact-matchup-20260708194423346",
+      "startDate": "2026-07-08T19:49:43.608213Z",
+      "endDate": null,
+      "volume": 6320.556487,
+      "liquidity": 132989.53791,
+      "active": true,
+      "closed": false,
+      "markets": [
+        {
+          "id": "2849804",
+          "slug": "will-the-third-place-match-be-fra-vs-nor-at-the-2026-fifa-world-cup-20260708194423347",
+          "question": "Will the third-place match be FRA vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "8799085496955941478219904714833316015844281229905279162609824924907742047215",
+            "98268898551001073717183183981675370955559931756292944154740484405570429644674"
+          ],
+          "outcome_prices": [
+            0.08,
+            0.92
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6213.1107,
+          "volume": 321.01,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849805",
+          "slug": "will-the-third-place-match-be-fra-vs-eng-at-the-2026-fifa-world-cup-20260708194423348",
+          "question": "Will the third-place match be FRA vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "57735398109854106880454775131407064677006203652539846485345824415147479818197",
+            "52083984727401838951869642934752055611410669564136608913518076679577837975798"
+          ],
+          "outcome_prices": [
+            0.095,
+            0.905
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 11306.6302,
+          "volume": 2791.67,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849806",
+          "slug": "will-the-third-place-match-be-fra-vs-arg-at-the-2026-fifa-world-cup-20260708194423349",
+          "question": "Will the third-place match be FRA vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "46706520621623536409236024707056428275644457809870704477366997615826126074310",
+            "61222209097111777729120260166475525334625513116004015476383037723120372618627"
+          ],
+          "outcome_prices": [
+            0.1,
+            0.9
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 9865.9416,
+          "volume": 301.97,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849807",
+          "slug": "will-the-third-place-match-be-fra-vs-sui-at-the-2026-fifa-world-cup-20260708194423350",
+          "question": "Will the third-place match be FRA vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "14650492762293576168377753550823039461757515536691747998414105326472073954972",
+            "43680593165527409034205189304985170861527279565948260709262286895538033659459"
+          ],
+          "outcome_prices": [
+            0.07,
+            0.93
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 8129.3234,
+          "volume": 325.97,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849808",
+          "slug": "will-the-third-place-match-be-mar-vs-nor-at-the-2026-fifa-world-cup-20260708194423351",
+          "question": "Will the third-place match be MAR vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "110370063531620262257099842271550603713727307683772398875571574862034731450839",
+            "57979747696191229623996218263150943785874987858845003800934003189788423061633"
+          ],
+          "outcome_prices": [
+            0.05,
+            0.95
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6009.8303,
+          "volume": 301.97,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849809",
+          "slug": "will-the-third-place-match-be-mar-vs-eng-at-the-2026-fifa-world-cup-20260708194423352",
+          "question": "Will the third-place match be MAR vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "47398801435685565398015803022050560264583144676340470596293731687966301402214",
+            "90961721373648903361629695293416242289736544731425714307289298282203165437411"
+          ],
+          "outcome_prices": [
+            0.05,
+            0.95
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6098.1803,
+          "volume": 301.97,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849810",
+          "slug": "will-the-third-place-match-be-mar-vs-arg-at-the-2026-fifa-world-cup-20260708194423353",
+          "question": "Will the third-place match be MAR vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "108713538338265508671936725114791916512994907599911125129145016875839816756843",
+            "103032048040755540352046533672005554800241221612515086785106040718238507463031"
+          ],
+          "outcome_prices": [
+            0.06,
+            0.94
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6028.1353,
+          "volume": 71.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849811",
+          "slug": "will-the-third-place-match-be-mar-vs-sui-at-the-2026-fifa-world-cup-20260708194423354",
+          "question": "Will the third-place match be MAR vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "17546610539801245437438087214984126426702363255386867921433076893366565447714",
+            "109789980643490548049037342949689913679398305416563404018176289123401339133034"
+          ],
+          "outcome_prices": [
+            0.0305,
+            0.9695
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6032.01377,
+          "volume": 96.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849812",
+          "slug": "will-the-third-place-match-be-esp-vs-nor-at-the-2026-fifa-world-cup-20260708194423355",
+          "question": "Will the third-place match be ESP vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "100494425279537974524452470217234603797935601397353285410874649892901812315550",
+            "30290289954294866472578857219111188887095075772149920908811944883516174884616"
+          ],
+          "outcome_prices": [
+            0.07,
+            0.93
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7482.3195,
+          "volume": 133.5,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849813",
+          "slug": "will-the-third-place-match-be-esp-vs-eng-at-the-2026-fifa-world-cup-20260708194423356",
+          "question": "Will the third-place match be ESP vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43060552716714479941837890621047389022519147453139009096945714849003853711636",
+            "65349565650311004887353096477626774910679546323902690639883980591059377534779"
+          ],
+          "outcome_prices": [
+            0.105,
+            0.895
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 15673.1793,
+          "volume": 398.272723,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849814",
+          "slug": "will-the-third-place-match-be-esp-vs-arg-at-the-2026-fifa-world-cup-20260708194423357",
+          "question": "Will the third-place match be ESP vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "109834455960924094243990962857372377811690125450435082013555561490600854763464",
+            "73435406777367468367608901164788020295129194922599869790470449416217290015505"
+          ],
+          "outcome_prices": [
+            0.14,
+            0.86
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 17882.9821,
+          "volume": 524.4680510000001,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849815",
+          "slug": "will-the-third-place-match-be-esp-vs-sui-at-the-2026-fifa-world-cup-20260708194423358",
+          "question": "Will the third-place match be ESP vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "4172002164928675080225262867014577628903315519471690502506118085863051566657",
+            "53777838448438636054810522655415814541577616555478206595164989708573887074000"
+          ],
+          "outcome_prices": [
+            0.065,
+            0.935
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7548.7822,
+          "volume": 85.285713,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849816",
+          "slug": "will-the-third-place-match-be-bel-vs-nor-at-the-2026-fifa-world-cup-20260708194423359",
+          "question": "Will the third-place match be BEL vs NOR at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "3725141351477555883544255196987531799854091376972163757034285951494252024214",
+            "30676952152848608212807327778384108151803969002688220693253211527950635119201"
+          ],
+          "outcome_prices": [
+            0.045,
+            0.955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5139.5391,
+          "volume": 115.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849817",
+          "slug": "will-the-third-place-match-be-bel-vs-eng-at-the-2026-fifa-world-cup-20260708194423360",
+          "question": "Will the third-place match be BEL vs ENG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "9041986995473401952138970793451792406040671198643158437859336153562324509627",
+            "84885270234078919926197166617774592407176729399716182581915351794421159837958"
+          ],
+          "outcome_prices": [
+            0.065,
+            0.935
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 6066.5774,
+          "volume": 314.47,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849818",
+          "slug": "will-the-third-place-match-be-bel-vs-arg-at-the-2026-fifa-world-cup-20260708194423361",
+          "question": "Will the third-place match be BEL vs ARG at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "73892934513323989297153281477221311919823573166490419233679449115252877820439",
+            "112373783345510774059160453648751902482076680389426287366381725291806808459619"
+          ],
+          "outcome_prices": [
+            0.065,
+            0.935
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 7192.2288,
+          "volume": 142.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849819",
+          "slug": "will-the-third-place-match-be-bel-vs-sui-at-the-2026-fifa-world-cup-20260708194423362",
+          "question": "Will the third-place match be BEL vs SUI at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "35109549889160149230224185326545529255048672238331941947751698172195473328453",
+            "66358756541372277876531207436729645310405557879027908395657946121202199030129"
+          ],
+          "outcome_prices": [
+            0.045,
+            0.955
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 5103.6291,
+          "volume": 96.0,
+          "updated_at": "2026-07-09T09:57:22.269612Z"
+        },
+        {
+          "id": "2849820",
+          "slug": "will-the-third-place-match-be-a-different-matchup-at-the-2026-fifa-world-cup-20260708194423363",
+          "question": "Will the third-place match be a different matchup at the 2026 FIFA World Cup?",
+          "outcomes": [
+            "Yes",
+            "No"
+          ],
+          "token_ids": [
+            "43065534517911933639661541724669882570980400033390961366854170643154487014232",
+            "34578569221808753064936403911841700284023476230547628731062006338461652355257"
+          ],
+          "outcome_prices": [
+            0.5,
+            0.5
+          ],
+          "fee_schedule": {
+            "exponent": 1,
+            "rate": 0.03,
+            "takerOnly": true,
+            "rebateRate": 0.25
+          },
+          "liquidity": 0.0,
+          "volume": 0.0,
+          "updated_at": "2026-07-08T19:51:40.208981Z"
+        }
+      ]
+    }
+  ]
+}

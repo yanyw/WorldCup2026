@@ -1,0 +1,70 @@
+{
+  "as_of_beijing": "2026-07-09T18:55:00+08:00",
+  "method": "FanDuel direct 1X2, totals and BTTS odds are the primary market-informed benchmark; Opta is retained as same-cluster sensitivity. Polymarket is excluded from fair-probability inputs.",
+  "matches": [
+    {
+      "id": "france_morocco_2026-07-09",
+      "home": "France",
+      "away": "Morocco",
+      "opta_1x2": {
+        "home": 0.622,
+        "draw": 0.221,
+        "away": 0.157,
+        "source": "https://theanalyst.com/articles/france-vs-morocco-prediction-world-cup-2026-match-preview",
+        "published": "2026-07-09"
+      },
+      "sportsbook_1x2": {
+        "book": "FanDuel via FanDuel Research/CBS",
+        "decimal_odds": {
+          "home": 1.5556,
+          "draw": 3.8,
+          "away": 6.5
+        },
+        "source": "https://www.fanduel.com/research/france-vs-morocco-prediction-picks-lineups-and-best-bets-world-cup-2026-quarterfinal",
+        "capture_note": "FanDuel page reports France -180 / Draw +280 / Morocco +550; source can update."
+      },
+      "sportsbook_totals": {
+        "1.5": {
+          "decimal_odds": {
+            "over": 1.3125,
+            "under": 3.45
+          }
+        },
+        "2.5": {
+          "decimal_odds": {
+            "over": 2.0,
+            "under": 1.8197
+          }
+        },
+        "3.5": {
+          "decimal_odds": {
+            "over": 3.65,
+            "under": 1.2857
+          }
+        }
+      },
+      "sportsbook_btts": {
+        "decimal_odds": {
+          "yes": 1.9259,
+          "no": 1.8475
+        }
+      },
+      "corner_market_status": "No executable Polymarket corner event found for France-Morocco via Gamma keyword search; FanDuel article mentions no board corner line for this match in preserved lines.",
+      "reliability": {
+        "1x2": 0.15,
+        "derived_score_markets": 0.1
+      },
+      "external_uncertainty_buffer": {
+        "1x2": 0.02,
+        "derived_score_markets": 0.03
+      },
+      "required_edge": 0.03,
+      "team_news": [
+        "FanDuel Research says Ismael Saibari is officially confirmed out for Morocco, Soufiane Rahimi to start.",
+        "FanDuel Research says Chadi Riad recovered and expected to start over Halhal.",
+        "FanDuel Research says Aurelien Tchouameni is unlikely to start for France, Manu Kone continues."
+      ],
+      "confirmed_lineups_available": false
+    }
+  ]
+}

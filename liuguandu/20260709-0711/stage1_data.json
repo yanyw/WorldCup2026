@@ -1,0 +1,149 @@
+{
+  "stage": 1,
+  "fetched_at": "2026-07-09T16:00+08:00",
+  "source": "Polymarket QF live prices (via polymarkets.co.il)",
+  "matches": [
+    {
+      "home": "France",
+      "away": "Morocco",
+      "date": "2026-07-09",
+      "time": "20:00 UTC",
+      "bracket": "QF1"
+    },
+    {
+      "home": "Spain",
+      "away": "Belgium",
+      "date": "2026-07-10",
+      "time": "19:00 UTC",
+      "bracket": "QF2 (Los Angeles)"
+    },
+    {
+      "home": "Norway",
+      "away": "England",
+      "date": "2026-07-11",
+      "time": "21:00 UTC",
+      "bracket": "QF3 (Miami)"
+    },
+    {
+      "home": "Argentina",
+      "away": "Switzerland",
+      "date": "2026-07-11",
+      "time": "01:00+1 UTC",
+      "bracket": "QF4 (Kansas City)"
+    }
+  ],
+  "market_data": {
+    "France vs Morocco": {
+      "moneyline": {
+        "home_win": {"price": 0.61},
+        "draw": {"price": 0.24},
+        "away_win": {"price": 0.13}
+      },
+      "spread_markets": {
+        "home_minus_1.5": {"yes": 0.3425},
+        "away_plus_1.5": {"yes": 0.6575}
+      },
+      "totals_observed": {
+        "2.5": {"over": 0.475, "under": 0.525}
+      },
+      "btts_observed": {
+        "yes": 0.49,
+        "no": 0.51
+      },
+      "first_scorer_observed": {
+        "home_first": 0.65,
+        "away_first": 0.28,
+        "neither": 0.07
+      },
+      "to_advance_observed": {
+        "home": 0.77,
+        "away": 0.23
+      },
+      "_notes": "Native Spread -1.5=34.25¢ (verified 7/9). O2.5=47.5/52.5. Source: polymarkets.co.il DOM verified.",
+      "_elo_h": 2000,
+      "_elo_a": 1780
+    },
+    "Spain vs Belgium": {
+      "moneyline": {
+        "home_win": {"price": 0.5925},
+        "draw": {"price": 0.24},
+        "away_win": {"price": 0.1675}
+      },
+      "spread_markets": {},
+      "totals_observed": {
+        "2.5": {"over": 0.54, "under": 0.46}
+      },
+      "btts_observed": {
+        "yes": 0.52,
+        "no": 0.48
+      },
+      "first_scorer_observed": {
+        "home_first": 0.63,
+        "away_first": 0.29,
+        "neither": 0.06
+      },
+      "to_advance_observed": {
+        "home": 0.74,
+        "away": 0.26
+      },
+      "_notes": "NO -1.5 spread market (only -4.5 exists). 3-market calibration: 1X2+O2.5+BTTS.",
+      "_elo_h": 1980,
+      "_elo_a": 1870
+    },
+    "Norway vs England": {
+      "moneyline": {
+        "home_win": {"price": 0.22},
+        "draw": {"price": 0.26},
+        "away_win": {"price": 0.5225}
+      },
+      "spread_markets": {},
+      "totals_observed": {
+        "2.5": {"over": 0.55, "under": 0.45}
+      },
+      "btts_observed": {
+        "yes": 0.59,
+        "no": 0.41
+      },
+      "first_scorer_observed": {
+        "home_first": 0.38,
+        "away_first": 0.56,
+        "neither": 0.06
+      },
+      "to_advance_observed": {
+        "home": 0.35,
+        "away": 0.66
+      },
+      "_notes": "NO -1.5 spread market (only -4.5 exists). Haaland effect: high BTTS+O2.5. 3-market calibration.",
+      "_elo_h": 1760,
+      "_elo_a": 1960
+    },
+    "Argentina vs Switzerland": {
+      "moneyline": {
+        "home_win": {"price": 0.5625},
+        "draw": {"price": 0.27},
+        "away_win": {"price": 0.16}
+      },
+      "spread_markets": {},
+      "totals_observed": {
+        "2.5": {"over": 0.41, "under": 0.59}
+      },
+      "btts_observed": {
+        "yes": 0.45,
+        "no": 0.55
+      },
+      "first_scorer_observed": {
+        "home_first": 0.62,
+        "away_first": 0.27,
+        "neither": 0.09
+      },
+      "to_advance_observed": {
+        "home": 0.73,
+        "away": 0.27
+      },
+      "_notes": "NO -1.5 spread market (only -4.5 exists). Low-scoring match. 3-market calibration.",
+      "_elo_h": 1990,
+      "_elo_a": 1740
+    }
+  },
+  "_R16_upsets": "Morocco eliminated Netherlands, Norway eliminated Germany, Switzerland eliminated Brazil (pens). Only Spain vs Belgium matches Elo prediction."
+}

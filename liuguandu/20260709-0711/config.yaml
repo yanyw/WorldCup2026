@@ -1,0 +1,218 @@
+markets_required:
+- to_advance
+- spread
+- totals
+- btts
+- first_scorer
+- team_totals
+match_date: '2026-07-09'
+model:
+  base_lambda: 1.454
+  calibration: market_implied
+  elo_slope_strong: 0.189
+  elo_slope_weak: 0.129
+  max_goals: 8
+  type: dixon_coles
+research_sources:
+- name: Opta
+  url: https://optasports.com
+  use: 历史交锋数据、球员触球/跑动热图、200+数据维度
+- name: WhoScored
+  url: https://whoscored.com
+  use: 球员评分(6-10分)、球队评分、赛事数据对比
+- name: Wyscout
+  url: https://wyscout.com
+  use: 球员深度报告、比赛视频分析、赛前情报
+- name: Transfermarkt
+  url: https://transfermarkt.co.uk
+  use: 球员身价、转会历史、阵容变化
+- name: Squawka
+  url: https://squawka.com
+  use: 数据可视化、球员对比、关键传球/过人排名
+- name: FIFA
+  url: https://fifa.com/fifa-world-ranking/men
+  use: 官方排名
+- name: EloRatings
+  url: https://eloratings.net
+  use: Elo 评分
+- name: Polymarket
+  url: https://polymarket.com
+  use: 实时盘口概率 (Stage 1)
+risk:
+  bankroll: 10000
+  kelly_fraction: 0.25
+  max_per_market: 0.02
+  max_total_exposure: 0.1
+  min_edge_threshold: 0.015
+schedule:
+- away: Morocco
+  bracket: QF1
+  date: '2026-07-09'
+  home: France
+  time: '20:00'
+- away: Belgium
+  bracket: QF2
+  date: '2026-07-10'
+  home: Spain
+  time: '19:00'
+- away: England
+  bracket: QF3
+  date: '2026-07-11'
+  home: Norway
+  time: '21:00'
+- away: Switzerland
+  bracket: QF4
+  date: '2026-07-11'
+  home: Argentina
+  time: '01:00+1'
+target_matches:
+- France vs Morocco
+- Spain vs Belgium
+- Norway vs England
+- Argentina vs Switzerland
+teams:
+  Algeria:
+    conf: CAF
+    elo: 1650
+    fifa: 35
+    group: J
+  Argentina:
+    conf: CONMEBOL
+    elo: 1990
+    fifa: 1
+    group: J
+  Austria:
+    conf: UEFA
+    elo: 1680
+    fifa: 22
+    group: J
+  Belgium:
+    conf: UEFA
+    elo: 1870
+    fifa: 8
+    group: G
+  Brazil:
+    conf: CONMEBOL
+    elo: 1920
+    fifa: 5
+    group: C
+  Canada:
+    conf: CONCACAF
+    elo: 1660
+    fifa: 31
+    group: B
+  Colombia:
+    conf: CONMEBOL
+    elo: 1780
+    fifa: 15
+    group: K
+  Croatia:
+    conf: UEFA
+    elo: 1820
+    fifa: 10
+    group: L
+  Ecuador:
+    conf: CONMEBOL
+    elo: 1670
+    fifa: 23
+    group: E
+  Egypt:
+    conf: CAF
+    elo: 1620
+    fifa: 30
+    group: G
+  England:
+    conf: UEFA
+    elo: 1960
+    fifa: 4
+    group: L
+  France:
+    conf: UEFA
+    elo: 2000
+    fifa: 2
+    group: I
+  Germany:
+    conf: UEFA
+    elo: 1850
+    fifa: 9
+    group: E
+  Ghana:
+    conf: CAF
+    elo: 1560
+    fifa: 73
+    group: L
+  Iran:
+    conf: AFC
+    elo: 1690
+    fifa: 21
+    group: G
+  Japan:
+    conf: AFC
+    elo: 1720
+    fifa: 17
+    group: F
+  Jordan:
+    conf: AFC
+    elo: 1520
+    fifa: 65
+    group: J
+  Mexico:
+    conf: CONCACAF
+    elo: 1720
+    fifa: 12
+    group: A
+  Morocco:
+    conf: CAF
+    elo: 1780
+    fifa: 14
+    group: C
+  Netherlands:
+    conf: UEFA
+    elo: 1910
+    fifa: 7
+    group: F
+  Norway:
+    conf: UEFA
+    elo: 1760
+    fifa: 11
+    group: I
+  Paraguay:
+    conf: CONMEBOL
+    elo: 1640
+    fifa: 40
+    group: D
+  Portugal:
+    conf: UEFA
+    elo: 1930
+    fifa: 6
+    group: K
+  Senegal:
+    conf: CAF
+    elo: 1710
+    fifa: 18
+    group: I
+  South Africa:
+    conf: CAF
+    elo: 1610
+    fifa: 56
+    group: A
+  Spain:
+    conf: UEFA
+    elo: 1980
+    fifa: 3
+    group: H
+  Sweden:
+    conf: UEFA
+    elo: 1700
+    fifa: 20
+    group: F
+  Switzerland:
+    conf: UEFA
+    elo: 1740
+    fifa: 19
+    group: B
+  USA:
+    conf: CONCACAF
+    elo: 1740
+    fifa: 16
+    group: D

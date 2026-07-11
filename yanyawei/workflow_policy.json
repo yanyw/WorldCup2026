@@ -1,0 +1,42 @@
+{
+  "policy_version": "2026-07-11-v2",
+  "effective_from": "2026-07-11",
+  "robust_edge_threshold": 0.015,
+  "applies_to": [
+    "taker",
+    "post_only_maker"
+  ],
+  "threshold_stage": "after fees, slippage, model uncertainty, projection error and multiple-testing adjustments",
+  "persistent_default": true,
+  "change_control": "Keep 1.5pp for future runs unless the user explicitly changes it.",
+  "evidence_gate": "Evidence eligibility is separate. Inapplicable models, unclear contracts, leakage, or unvalidated projections are SKIP_EVIDENCE_GATE rather than assigned a different edge threshold.",
+  "probability_fusion": {
+    "internal_weight": 0.25,
+    "opta_weight_within_external_1x2": 0.25,
+    "nominal_1x2_weights": {
+      "sportsbook_consensus": 0.5625,
+      "opta": 0.1875,
+      "internal_model": 0.25
+    },
+    "totals_without_direct_opta": {
+      "sportsbook_consensus": 0.75,
+      "internal_model": 0.25
+    },
+    "uncertainty": {
+      "minimum": 0.005,
+      "sportsbook_dispersion_coefficient": 0.5,
+      "internal_external_disagreement_coefficient": 0.1,
+      "default_data_quality_penalty": 0.0025
+    },
+    "directional_rule": "p_trade = p_center - dynamic_uncertainty; construct coherent base distributions before evaluating Yes and No directions",
+    "replaces": "min(lower_external_probability, p_center) minus fixed source and selection buffers"
+  },
+  "execution": {
+    "taker_cost": "VWAP plus the per-market feeSchedule cost",
+    "maker_cost": "post-only limit price when maker fees are zero",
+    "kelly_cost_basis": "Use fee-adjusted effective cost for taker and limit price for maker."
+  },
+  "source_freshness": {
+    "oddschecker": "Use the live market header with a captured timestamp; do not use stale odds repeated in static article text."
+  }
+}

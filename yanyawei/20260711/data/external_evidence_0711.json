@@ -1,0 +1,88 @@
+{
+  "as_of_beijing": "2026-07-11T23:20:50+08:00",
+  "method": "BetMGM and Oddschecker are devigged and averaged into a coherent sportsbook consensus. For 1X2, Opta contributes 25% of the external layer and the sportsbook consensus contributes 75%; the internal model then receives 25% of the combined center. This gives nominal center weights of 56.25% sportsbook, 18.75% Opta and 25% internal. For O/U 2.5, no direct Opta probability exists, so the center is 75% sportsbook and 25% internal. Polymarket is excluded from fair probability and used only as execution cost.",
+  "matches": [
+    {
+      "id": "norway_england_2026-07-11",
+      "home": "Norway",
+      "away": "England",
+      "sportsbook_1x2": {
+        "book": "BetMGM",
+        "american_odds": {"home": 270, "draw": 250, "away": -105},
+        "source": "https://sports.betmgm.com/en/blog/world-cup/england-vs-norway-prediction-odds-preview-world-cup-july-11-bm16/"
+      },
+      "sportsbook_total_2_5": {
+        "book": "BetMGM",
+        "american_odds": {"over": -135, "under": 110},
+        "source": "https://sports.betmgm.com/en/blog/world-cup/england-vs-norway-prediction-odds-preview-world-cup-july-11-bm16/"
+      },
+      "oddschecker_cross_check": {
+        "american_odds_1x2": {"home": 290, "draw": 280, "away": -105},
+        "american_odds_total_2_5": {"over": -138, "under": 122},
+        "source": "https://www.oddschecker.com/us/soccer/world-cup/norway-v-england",
+        "source_note": "Read from the live market header at 2026-07-11 23:20 Beijing. The lower static article text still displayed stale +330/+280/-115 and -130/+114 prices and was not used."
+      },
+      "opta_1x2": {
+        "home": 0.258,
+        "draw": 0.247,
+        "away": 0.495,
+        "source": "https://theanalyst.com/articles/norway-vs-england-prediction-world-cup-2026-match-preview"
+      },
+      "team_news": [
+        {
+          "fact": "Reece James returned to training but remained a fitness decision; England had right-back availability concerns after Jarell Quansah's suspension.",
+          "source": "https://www.skysports.com/football/news/11095/13561150/england-world-cup-latest-reece-james-in-race-to-be-fit-for-quarter-final-tie-with-norway-to-ease-right-back-crisis"
+        },
+        {
+          "fact": "Miami heat and humidity are a material performance risk; treated only as uncertainty, not a directional goal adjustment.",
+          "source": "https://www.climatecentral.org/world-cup-2026/matches/99"
+        }
+      ],
+      "direct_market_families": ["1x2", "totals.2.5"]
+    },
+    {
+      "id": "argentina_switzerland_2026-07-11",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "sportsbook_1x2": {
+        "book": "BetMGM",
+        "american_odds": {"home": -145, "draw": 250, "away": 450},
+        "source": "https://sports.betmgm.com/en/blog/world-cup/argentina-vs-switzerland-prediction-odds-preview-world-cup-july-11-bm16/"
+      },
+      "sportsbook_total_2_5": {
+        "book": "BetMGM",
+        "american_odds": {"over": 120, "under": -155},
+        "source": "https://sports.betmgm.com/en/blog/world-cup/argentina-vs-switzerland-prediction-odds-preview-world-cup-july-11-bm16/"
+      },
+      "oddschecker_cross_check": {
+        "american_odds_1x2": {"home": -143, "draw": 260, "away": 490},
+        "american_odds_total_2_5": {"over": 136, "under": -150},
+        "source": "https://www.oddschecker.com/us/soccer/world-cup/argentina-v-switzerland",
+        "source_note": "Read from the live market header at 2026-07-11 23:20 Beijing; static article text was not used."
+      },
+      "opta_1x2": {
+        "home": 0.577,
+        "draw": 0.243,
+        "away": 0.18,
+        "source": "https://theanalyst.com/articles/argentina-vs-switzerland-prediction-world-cup-2026-match-preview"
+      },
+      "team_news": [
+        {
+          "fact": "Switzerland coach Murat Yakin confirmed Johan Manzambi unavailable with a left-knee injury.",
+          "source": "https://www.srf.ch/sport/fussball/fifa-wm-2026/wm-2026-bittere-nati-news-manzambi-faellt-auch-gegen-argentinien-verletzt-aus"
+        }
+      ],
+      "direct_market_families": ["1x2", "totals.2.5"]
+    }
+  ],
+  "decision_parameters": {
+    "opta_weight_within_external_1x2": 0.25,
+    "internal_weight": 0.25,
+    "sportsbook_dispersion_coefficient": 0.5,
+    "model_disagreement_coefficient": 0.1,
+    "data_quality_penalty": 0.0025,
+    "minimum_uncertainty": 0.005,
+    "robust_edge_threshold": 0.015,
+    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook_consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook_consensus. Then p_center = 0.75 * p_external + 0.25 * p_internal. uncertainty = max(0.5pp, 0.5 * sportsbook source dispersion + 0.1 * absolute internal/external disagreement + 0.25pp data-quality penalty). Directional p_trade is the lower bound p_center - uncertainty; complement outcomes are constructed from the coherent base probability before applying the same uncertainty. The uncalibrated scenario p10 remains diagnostic only."
+  }
+}

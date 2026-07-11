@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "generated_at_utc": "2026-07-11T13:23:38+00:00",
+    "cutoff_exclusive": "2026-07-11",
+    "random_seed": 20260711,
+    "note": "All validation predictions are made on matches chronologically after the calibration/training window."
+  },
+  "p1_hyperparameter_candidates": [
+    {
+      "half_life_days": 1460.0,
+      "ridge": 2.0,
+      "n": 2573,
+      "log_loss": 0.856305,
+      "brier": 0.500363,
+      "rps": 0.167058
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 2.0,
+      "n": 2573,
+      "log_loss": 0.857866,
+      "brier": 0.501324,
+      "rps": 0.167504
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 2.0,
+      "n": 2573,
+      "log_loss": 0.862616,
+      "brier": 0.504341,
+      "rps": 0.16889
+    },
+    {
+      "half_life_days": 1460.0,
+      "ridge": 8.0,
+      "n": 2573,
+      "log_loss": 0.876495,
+      "brier": 0.512934,
+      "rps": 0.172874
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 8.0,
+      "n": 2573,
+      "log_loss": 0.880774,
+      "brier": 0.515611,
+      "rps": 0.174117
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 8.0,
+      "n": 2573,
+      "log_loss": 0.890123,
+      "brier": 0.521643,
+      "rps": 0.17692
+    },
+    {
+      "half_life_days": 1460.0,
+      "ridge": 20.0,
+      "n": 2573,
+      "log_loss": 0.902423,
+      "brier": 0.529352,
+      "rps": 0.180423
+    },
+    {
+      "half_life_days": 1095.0,
+      "ridge": 20.0,
+      "n": 2573,
+      "log_loss": 0.908602,
+      "brier": 0.533398,
+      "rps": 0.182306
+    },
+    {
+      "half_life_days": 730.0,
+      "ridge": 20.0,
+      "n": 2573,
+      "log_loss": 0.920658,
+      "brier": 0.541453,
+      "rps": 0.186071
+    }
+  ],
+  "p1_selected": {
+    "half_life_days": 1460.0,
+    "ridge": 2.0,
+    "n": 2573,
+    "log_loss": 0.856305,
+    "brier": 0.500363,
+    "rps": 0.167058
+  },
+  "p2_variant_comparison": {
+    "current_elo": {
+      "n": 2573,
+      "log_loss": 0.869943,
+      "brier": 0.511017,
+      "rps": 0.170921
+    },
+    "current_elo_plus_recent_trajectory": {
+      "n": 2573,
+      "log_loss": 0.870735,
+      "brier": 0.511551,
+      "rps": 0.171001
+    }
+  },
+  "p2_selected": "current_elo",
+  "canonical_90_minute": {
+    "method": "Use independently verified score_90 for known extra-time matches; exclude unverified shootout/extra-time-risk rows. Goalscorer minutes are a detection and consistency check, not sole settlement evidence.",
+    "rows_before": 49503,
+    "rows_after": 48662,
+    "scope_verified_rows": 18891,
+    "score_rows_corrected": 2,
+    "extra_time_goals_removed": 4,
+    "scope_uncertain_rows_excluded": 841,
+    "goalscorers_source": "https://raw.githubusercontent.com/martj42/international_results/master/goalscorers.csv",
+    "shootouts_source": "https://raw.githubusercontent.com/martj42/international_results/master/shootouts.csv",
+    "external_verification_ledger": "C:\\Users\\hh\\Desktop\\TsingHuaProject\\小论文——世界杯预测\\WorldCup2026\\yanyawei\\20260711\\data\\extra_time_verification_0711.json",
+    "externally_verified_extra_time_matches": 4,
+    "p3_extra_time_reports_excluded": 4,
+    "p3_extra_time_policy": "Exclude 120-minute aggregate xG unless a verified 90-minute xG split is available."
+  },
+  "selection_bias_note": "The current validation remains a single temporal holdout; nested walk-forward is not yet complete. Metrics are research diagnostics, not final production estimates."
+}

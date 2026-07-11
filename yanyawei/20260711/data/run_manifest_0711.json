@@ -1,0 +1,38 @@
+{
+  "run_id": "20260711-latest-24h-bidirectional-v2",
+  "decision_as_of_beijing": "2026-07-11T23:20:50+08:00",
+  "policy_version": "2026-07-11-v2",
+  "robust_edge_threshold": 0.015,
+  "model_cutoff_exclusive": "2026-07-11",
+  "target_matches": [
+    "norway_england_2026-07-11",
+    "argentina_switzerland_2026-07-11"
+  ],
+  "decision": {
+    "selected_positions": 1,
+    "action": "POST_ONLY_BUY",
+    "market": "Norway vs England Under 2.5 total goals in 90 minutes",
+    "limit_price": 0.4225,
+    "do_not_take_at": 0.425,
+    "p_trade": 0.4404560937654375,
+    "maker_robust_edge": 0.017956093765437497,
+    "stake_usdc_per_1000_bankroll": 1.1659801146387985
+  },
+  "frozen_sha256": {
+    "polymarket_snapshot_0711.json": "db73220dc2da5dececec825e05a0ece35cb69817ec6b9ef147ec2a846e94f212",
+    "model_results_0711.json": "520a5dfbf16295257f25982a8041079d74389e4a5b22ee55e876043bb4b3d090",
+    "model_backtest_0711.json": "94dd569faab3975dbdb25e9695bfb886ea5e3fb471ad56c1e932cf3bb5162c60",
+    "external_evidence_0711.json": "cca6db6763d4bb2ea472727befc2b2f7cefec730f9bfcf0afebef07149b0e392",
+    "extra_time_verification_0711.json": "0af7390f2278f7980539df5812ebf79f5ac154ddadeb0d585527390b96e1e90e",
+    "candidate_evaluation_0711.json": "6cf6b83171453e2bc72f4d4f3c43d400fde7a61b8bf025a4d18c5ec1fb16845a",
+    "world_cup_betting_decision_0711.md": "81728e6126b654e6d5ca0522e14444654053c8b85631473c918150e41e472663",
+    "audit_rounds_0711.md": "0e2cf644dc77072be8716c32abd71e20db783c66e79a2dc3a455c86b483cf4c6"
+  },
+  "audit": {
+    "written_rounds_completed": 2,
+    "independent_agent_completed": true,
+    "agent_id": "019f51ba-525f-7e82-bf1f-37cb5265a5bb",
+    "round_1": "REJECT stale Oddschecker static text and revise maker logic",
+    "round_2": "ACCEPT post-only Under 2.5 at 0.4225"
+  }
+}

@@ -1,0 +1,962 @@
+{
+  "Spain vs Belgium": {
+    "spread_info": {
+      "tabs": [
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 255,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 295,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 336,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 377,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 418,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 459,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 500,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 541,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 994,
+          "left": 582,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 623,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 275,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 316,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1123,
+          "left": 357,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1431,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1560,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        }
+      ],
+      "clicked": [
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        }
+      ],
+      "approach": ""
+    },
+    "team_totals": [
+      [
+        "3.5",
+        "4.5",
+        "5.5",
+        "Total (O/U)",
+        "REG TIME",
+        "$1M Vol.",
+        "OVER 2.5",
+        "54¢",
+        "UNDER 2.5",
+        "46¢",
+        "0.5",
+        "1.5",
+        "2.5"
+      ]
+    ]
+  },
+  "Norway vs England": {
+    "spread_info": {
+      "tabs": [
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 255,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 295,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 336,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 377,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 418,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 459,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 500,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 541,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 994,
+          "left": 582,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 623,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 275,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 316,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1123,
+          "left": 357,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1431,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1560,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        }
+      ],
+      "clicked": [
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        }
+      ],
+      "approach": ""
+    },
+    "team_totals": [
+      [
+        "3.5",
+        "4.5",
+        "5.5",
+        "Total (O/U)",
+        "REG TIME",
+        "$483.5K Vol.",
+        "OVER 2.5",
+        "55.25¢",
+        "UNDER 2.5",
+        "44.75¢",
+        "0.5",
+        "1.5",
+        "2.5"
+      ]
+    ]
+  },
+  "Argentina vs Switzerland": {
+    "spread_info": {
+      "tabs": [
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 255,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 295,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 336,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 377,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 418,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 459,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 500,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 541,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 994,
+          "left": 582,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 994,
+          "left": 623,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 275,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 316,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1123,
+          "left": 357,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "3.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "4.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "5.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1123,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1431,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1431,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "0.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 398,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "1.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip on",
+          "top": 1560,
+          "left": 439,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        },
+        {
+          "text": "2.5",
+          "tag": "BUTTON",
+          "className": "spx-lchip",
+          "top": 1560,
+          "left": 479,
+          "width": 39,
+          "height": 25,
+          "parentTag": "DIV",
+          "parentClass": "spx-schips",
+          "grandparentTag": "DIV"
+        }
+      ],
+      "clicked": [
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "BUTTON.spx-lchip on",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-schips",
+          "text": "1.5",
+          "success": true
+        },
+        {
+          "target": "DIV.spx-strip",
+          "text": "1.5",
+          "success": true
+        }
+      ],
+      "approach": ""
+    },
+    "team_totals": [
+      [
+        "3.5",
+        "4.5",
+        "5.5",
+        "Total (O/U)",
+        "REG TIME",
+        "$214.2K Vol.",
+        "OVER 2.5",
+        "41.25¢",
+        "UNDER 2.5",
+        "58.75¢",
+        "0.5",
+        "1.5",
+        "2.5"
+      ]
+    ]
+  }
+}

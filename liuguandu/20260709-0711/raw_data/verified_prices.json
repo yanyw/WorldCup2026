@@ -1,0 +1,89 @@
+{
+  "France vs Morocco": {
+    "moneyline": {
+      "draw": {
+        "price": 0.568,
+        "label": "DRAW"
+      },
+      "home": {
+        "price": 0.65,
+        "label": "FRA"
+      }
+    },
+    "spread": {
+      "home_minus_1.5": {
+        "price": 0.3425
+      },
+      "away_plus_1.5": {
+        "price": 0.6575
+      }
+    },
+    "totals": {
+      "over": {
+        "price": 0.475
+      },
+      "under": {
+        "price": 0.525
+      }
+    },
+    "btts": {},
+    "to_advance": {}
+  },
+  "Spain vs Belgium": {
+    "moneyline": {
+      "draw": {
+        "price": 0.568,
+        "label": "DRAW"
+      },
+      "away": {
+        "price": 0.29,
+        "label": "BEL"
+      }
+    },
+    "spread": {},
+    "totals": {
+      "over": {
+        "price": 0.54
+      },
+      "under": {
+        "price": 0.46
+      }
+    },
+    "btts": {},
+    "to_advance": {}
+  },
+  "Norway vs England": {
+    "moneyline": {
+      "draw": {
+        "price": 0.568,
+        "label": "DRAW"
+      },
+      "home": {
+        "price": 0.84,
+        "label": "NOR"
+      },
+      "away": {
+        "price": 0.56,
+        "label": "ENG"
+      }
+    },
+    "spread": {},
+    "totals": {
+      "over": {
+        "price": 0.5525
+      },
+      "under": {
+        "price": 0.4475
+      }
+    },
+    "btts": {},
+    "to_advance": {}
+  },
+  "Argentina vs Switzerland": {
+    "moneyline": {},
+    "spread": {},
+    "totals": {},
+    "btts": {},
+    "to_advance": {}
+  }
+}

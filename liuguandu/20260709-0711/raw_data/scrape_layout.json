@@ -1,0 +1,3338 @@
+[
+  {
+    "text": "PolymarketsCoil",
+    "top": 17,
+    "left": 90,
+    "width": 128,
+    "parentClass": "logo-text",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Markets",
+    "top": 19,
+    "left": 267,
+    "width": 56,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Guides",
+    "top": 19,
+    "left": 381,
+    "width": 48,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "API",
+    "top": 19,
+    "left": 492,
+    "width": 23,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "News",
+    "top": 19,
+    "left": 575,
+    "width": 39,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Bots & Tools",
+    "top": 19,
+    "left": 676,
+    "width": 86,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Training Mode",
+    "top": 20,
+    "left": 964,
+    "width": 88,
+    "parentClass": "tm-label",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Hello, guest",
+    "top": 20,
+    "left": 1149,
+    "width": 77,
+    "parentClass": "hdr-guest-txt",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "×",
+    "top": 20,
+    "left": 1637,
+    "width": 15,
+    "parentClass": "pp-x",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Hello, guest",
+    "top": 23,
+    "left": 1377,
+    "width": 88,
+    "parentClass": "pp-title",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Trending",
+    "top": 71,
+    "left": 54,
+    "width": 61,
+    "parentClass": "hot active",
+    "parentTag": "A"
+  },
+  {
+    "text": "Politics",
+    "top": 71,
+    "left": 357,
+    "width": 50,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Crypto",
+    "top": 71,
+    "left": 455,
+    "width": 47,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Sports",
+    "top": 71,
+    "left": 550,
+    "width": 46,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Weather",
+    "top": 71,
+    "left": 639,
+    "width": 57,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Elections",
+    "top": 71,
+    "left": 745,
+    "width": 62,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Geopolitics",
+    "top": 71,
+    "left": 855,
+    "width": 77,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Iran",
+    "top": 71,
+    "left": 978,
+    "width": 27,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Finance",
+    "top": 71,
+    "left": 1053,
+    "width": 54,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Tech",
+    "top": 71,
+    "left": 1155,
+    "width": 33,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Esports",
+    "top": 71,
+    "left": 1238,
+    "width": 53,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Economy",
+    "top": 71,
+    "left": 1339,
+    "width": 64,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Middle East",
+    "top": 71,
+    "left": 1450,
+    "width": 79,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Science",
+    "top": 71,
+    "left": 1575,
+    "width": 54,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Culture",
+    "top": 71,
+    "left": 1679,
+    "width": 51,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "₿",
+    "top": 71,
+    "left": 1980,
+    "width": 9,
+    "parentClass": "snh-emoji",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "🤖",
+    "top": 71,
+    "left": 2061,
+    "width": 10,
+    "parentClass": "snh-emoji",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "⚽ World Cup",
+    "top": 72,
+    "left": 142,
+    "width": 77,
+    "parentClass": "subnav-hot subnav-wc",
+    "parentTag": "A"
+  },
+  {
+    "text": "📊 Markets",
+    "top": 72,
+    "left": 246,
+    "width": 64,
+    "parentClass": "subnav-hot subnav-mkts",
+    "parentTag": "A"
+  },
+  {
+    "text": "United States",
+    "top": 72,
+    "left": 1793,
+    "width": 78,
+    "parentClass": "subnav-hot",
+    "parentTag": "A"
+  },
+  {
+    "text": "Trump",
+    "top": 72,
+    "left": 1916,
+    "width": 39,
+    "parentClass": "subnav-hot",
+    "parentTag": "A"
+  },
+  {
+    "text": "Bitcoin",
+    "top": 72,
+    "left": 1994,
+    "width": 41,
+    "parentClass": "subnav-hot",
+    "parentTag": "A"
+  },
+  {
+    "text": "AI",
+    "top": 72,
+    "left": 2075,
+    "width": 12,
+    "parentClass": "subnav-hot",
+    "parentTag": "A"
+  },
+  {
+    "text": "United Kingdom",
+    "top": 72,
+    "left": 2131,
+    "width": 96,
+    "parentClass": "subnav-hot",
+    "parentTag": "A"
+  },
+  {
+    "text": "Spain vs. Belgium",
+    "top": 133,
+    "left": 23,
+    "width": 244,
+    "parentClass": "spx-h1-seo",
+    "parentTag": "H1"
+  },
+  {
+    "text": "View on Polymarket",
+    "top": 137,
+    "left": 666,
+    "width": 122,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "×",
+    "top": 161,
+    "left": 821,
+    "width": 11,
+    "parentClass": "tm-modal-close",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "FIFWC",
+    "top": 165,
+    "left": 389,
+    "width": 38,
+    "parentClass": "spx-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "SOCCER FIFWC",
+    "top": 165,
+    "left": 435,
+    "width": 92,
+    "parentClass": "spx-series",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "×",
+    "top": 165,
+    "left": 812,
+    "width": 11,
+    "parentClass": "tm-modal-close",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Login to trade with virtual money",
+    "top": 168,
+    "left": 979,
+    "width": 214,
+    "parentClass": "",
+    "parentTag": "P"
+  },
+  {
+    "text": "vs",
+    "top": 205,
+    "left": 451,
+    "width": 14,
+    "parentClass": "spx-vs",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Order Book",
+    "top": 207,
+    "left": 404,
+    "width": 78,
+    "parentClass": "drill-tab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Chart",
+    "top": 207,
+    "left": 499,
+    "width": 38,
+    "parentClass": "drill-tab active",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Polymarket",
+    "top": 211,
+    "left": 805,
+    "width": 61,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Login / Sign Up",
+    "top": 212,
+    "left": 1032,
+    "width": 108,
+    "parentClass": "tp-login-btn",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Open Free Account",
+    "top": 218,
+    "left": 1431,
+    "width": 131,
+    "parentClass": "pp-cta",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "–",
+    "top": 221,
+    "left": 379,
+    "width": 8,
+    "parentClass": "spx-score dim",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "–",
+    "top": 221,
+    "left": 529,
+    "width": 8,
+    "parentClass": "spx-score dim",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "07/11, 03:00 AM",
+    "top": 225,
+    "left": 410,
+    "width": 96,
+    "parentClass": "spx-start",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "30h 27m",
+    "top": 244,
+    "left": 435,
+    "width": 46,
+    "parentClass": "spx-cd",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Add training credit",
+    "top": 244,
+    "left": 540,
+    "width": 200,
+    "parentClass": "tm-modal-title",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Start Polymarket Training For Free",
+    "top": 248,
+    "left": 459,
+    "width": 361,
+    "parentClass": "tm-modal-title",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Belgium",
+    "top": 250,
+    "left": 162,
+    "width": 59,
+    "parentClass": "spx-tlink",
+    "parentTag": "A"
+  },
+  {
+    "text": "Spain",
+    "top": 250,
+    "left": 705,
+    "width": 41,
+    "parentClass": "spx-tlink",
+    "parentTag": "A"
+  },
+  {
+    "text": "Free $1,000 virtual money",
+    "top": 255,
+    "left": 1001,
+    "width": 170,
+    "parentClass": "tp-login-sub",
+    "parentTag": "P"
+  },
+  {
+    "text": "-",
+    "top": 256,
+    "left": 404,
+    "width": 9,
+    "parentClass": "drill-chance",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "chance",
+    "top": 263,
+    "left": 419,
+    "width": 48,
+    "parentClass": "drill-chance-label",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Polymarket",
+    "top": 263,
+    "left": 813,
+    "width": 63,
+    "parentClass": "drill-watermark",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Login",
+    "top": 272,
+    "left": 1478,
+    "width": 37,
+    "parentClass": "pp-login",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Choose how much paper money to add. Permanent boost — kept even after a reset.",
+    "top": 281,
+    "left": 481,
+    "width": 318,
+    "parentClass": "tm-modal-desc",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Game context",
+    "top": 285,
+    "left": 51,
+    "width": 80,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "Trade prediction markets with virtual money. Real prices, zero risk. Compete on the leaderboard.",
+    "top": 285,
+    "left": 488,
+    "width": 305,
+    "parentClass": "tm-modal-desc",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Training Mode",
+    "top": 320,
+    "left": 1350,
+    "width": 88,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Portfolio",
+    "top": 347,
+    "left": 1350,
+    "width": 56,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Spain",
+    "top": 353,
+    "left": 40,
+    "width": 35,
+    "parentClass": "pmc-lg pmc-lg-lead",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "59%",
+    "top": 353,
+    "left": 82,
+    "width": 29,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Draw",
+    "top": 353,
+    "left": 140,
+    "width": 31,
+    "parentClass": "pmc-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "24%",
+    "top": 353,
+    "left": 178,
+    "width": 29,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Belgium",
+    "top": 353,
+    "left": 235,
+    "width": 48,
+    "parentClass": "pmc-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "17%",
+    "top": 353,
+    "left": 290,
+    "width": 29,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "You get",
+    "top": 372,
+    "left": 463,
+    "width": 50,
+    "parentClass": "ac-readout-label",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Leaderboard",
+    "top": 374,
+    "left": 1350,
+    "width": 81,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Price",
+    "top": 374,
+    "left": 784,
+    "width": 33,
+    "parentClass": "ac-readout-label",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "+$1,000",
+    "top": 389,
+    "left": 463,
+    "width": 103,
+    "parentClass": "ac-readout-paper",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "$3",
+    "top": 392,
+    "left": 789,
+    "width": 27,
+    "parentClass": "ac-readout-price",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "$1K",
+    "top": 394,
+    "left": 495,
+    "width": 37,
+    "parentClass": "tm-stat-value",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "500+",
+    "top": 394,
+    "left": 618,
+    "width": 45,
+    "parentClass": "tm-stat-value",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "$0",
+    "top": 394,
+    "left": 755,
+    "width": 23,
+    "parentClass": "tm-stat-value",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Virtual Cash",
+    "top": 420,
+    "left": 478,
+    "width": 71,
+    "parentClass": "tm-stat-label",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Markets",
+    "top": 420,
+    "left": 616,
+    "width": 47,
+    "parentClass": "tm-stat-label",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Real Risk",
+    "top": 420,
+    "left": 741,
+    "width": 51,
+    "parentClass": "tm-stat-label",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Log in",
+    "top": 481,
+    "left": 521,
+    "width": 40,
+    "parentClass": "tm-modal-cta tm-modal-cta-login",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Create Free Account",
+    "top": 481,
+    "left": 661,
+    "width": 140,
+    "parentClass": "tm-modal-cta",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1H",
+    "top": 505,
+    "left": 621,
+    "width": 13,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "6H",
+    "top": 505,
+    "left": 658,
+    "width": 15,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "24H",
+    "top": 505,
+    "left": 696,
+    "width": 23,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Week",
+    "top": 505,
+    "left": 742,
+    "width": 31,
+    "parentClass": "active",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Month",
+    "top": 505,
+    "left": 796,
+    "width": 34,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "All",
+    "top": 505,
+    "left": 853,
+    "width": 13,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Add credit",
+    "top": 517,
+    "left": 614,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Learn more",
+    "top": 524,
+    "left": 596,
+    "width": 72,
+    "parentClass": "tm-modal-learn",
+    "parentTag": "A"
+  },
+  {
+    "text": "→",
+    "top": 524,
+    "left": 671,
+    "width": 12,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Real prices",
+    "top": 579,
+    "left": 524,
+    "width": 61,
+    "parentClass": "tm-feature",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Zero risk",
+    "top": 579,
+    "left": 620,
+    "width": 50,
+    "parentClass": "tm-feature",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Leaderboard",
+    "top": 579,
+    "left": 705,
+    "width": 73,
+    "parentClass": "tm-feature",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Top-ups are virtual paper-trading credits, not real-money deposits.",
+    "top": 585,
+    "left": 473,
+    "width": 355,
+    "parentClass": "tm-feature",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Buy Yes",
+    "top": 593,
+    "left": 481,
+    "width": 55,
+    "parentClass": "drill-buy yes",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "-",
+    "top": 593,
+    "left": 541,
+    "width": 10,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "¢",
+    "top": 593,
+    "left": 551,
+    "width": 9,
+    "parentClass": "pxm-price",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Buy No",
+    "top": 593,
+    "left": 724,
+    "width": 50,
+    "parentClass": "drill-buy no",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "-",
+    "top": 593,
+    "left": 778,
+    "width": 10,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "¢",
+    "top": 593,
+    "left": 788,
+    "width": 9,
+    "parentClass": "pxm-price",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "24H",
+    "top": 626,
+    "left": 653,
+    "width": 24,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Week",
+    "top": 626,
+    "left": 702,
+    "width": 32,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Month",
+    "top": 626,
+    "left": 760,
+    "width": 36,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "3M",
+    "top": 626,
+    "left": 822,
+    "width": 18,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "All",
+    "top": 626,
+    "left": 866,
+    "width": 15,
+    "parentClass": "",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Game Lines",
+    "top": 720,
+    "left": 24,
+    "width": 80,
+    "parentClass": "spx-cattab on",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Exact Score",
+    "top": 720,
+    "left": 124,
+    "width": 81,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Halves",
+    "top": 720,
+    "left": 224,
+    "width": 46,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Corners",
+    "top": 720,
+    "left": 290,
+    "width": 56,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Goals",
+    "top": 720,
+    "left": 366,
+    "width": 39,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Assists",
+    "top": 720,
+    "left": 424,
+    "width": 51,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Shots",
+    "top": 720,
+    "left": 495,
+    "width": 40,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Shots on Target",
+    "top": 720,
+    "left": 555,
+    "width": 109,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Goals + Assists",
+    "top": 720,
+    "left": 684,
+    "width": 106,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Goalkeeper Saves",
+    "top": 720,
+    "left": 811,
+    "width": 122,
+    "parentClass": "spx-cattab",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "To Advance",
+    "top": 778,
+    "left": 40,
+    "width": 80,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "74¢",
+    "top": 790,
+    "left": 609,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "26¢",
+    "top": 790,
+    "left": 790,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "ESP",
+    "top": 791,
+    "left": 580,
+    "width": 22,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "BEL",
+    "top": 791,
+    "left": 762,
+    "width": 21,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Search prediction markets...",
+    "top": 792,
+    "left": 56,
+    "width": 191,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$659.6K Vol.",
+    "top": 803,
+    "left": 40,
+    "width": 68,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Moneyline",
+    "top": 860,
+    "left": 40,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 863,
+    "left": 127,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "59¢",
+    "top": 872,
+    "left": 578,
+    "width": 26,
+    "parentClass": "pxm-val",
+    "parentTag": "B"
+  },
+  {
+    "text": "24¢",
+    "top": 872,
+    "left": 706,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "16.5¢",
+    "top": 872,
+    "left": 814,
+    "width": 39,
+    "parentClass": "pxm-val",
+    "parentTag": "B"
+  },
+  {
+    "text": "ESP",
+    "top": 873,
+    "left": 549,
+    "width": 22,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Draw",
+    "top": 873,
+    "left": 664,
+    "width": 34,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "BEL",
+    "top": 873,
+    "left": 786,
+    "width": 21,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$1.3M Vol.",
+    "top": 885,
+    "left": 40,
+    "width": 54,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Spread",
+    "top": 942,
+    "left": 40,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 945,
+    "left": 104,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "0.1¢",
+    "top": 954,
+    "left": 620,
+    "width": 30,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "99.9¢",
+    "top": 954,
+    "left": 798,
+    "width": 39,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "BEL -4.5",
+    "top": 955,
+    "left": 564,
+    "width": 50,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "ESP +4.5",
+    "top": 955,
+    "left": 741,
+    "width": 51,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$285.7K Vol.",
+    "top": 967,
+    "left": 40,
+    "width": 67,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Markets",
+    "top": 1010,
+    "left": 200,
+    "width": 42,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "News",
+    "top": 1010,
+    "left": 625,
+    "width": 29,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Guides",
+    "top": 1010,
+    "left": 1040,
+    "width": 36,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "5.5",
+    "top": 1010,
+    "left": 265,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "4.5",
+    "top": 1010,
+    "left": 305,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "3.5",
+    "top": 1010,
+    "left": 346,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "2.5",
+    "top": 1010,
+    "left": 387,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1.5",
+    "top": 1010,
+    "left": 428,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1.5",
+    "top": 1010,
+    "left": 469,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "2.5",
+    "top": 1010,
+    "left": 510,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "3.5",
+    "top": 1010,
+    "left": 551,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "4.5",
+    "top": 1010,
+    "left": 592,
+    "width": 19,
+    "parentClass": "spx-lchip on",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "5.5",
+    "top": 1010,
+    "left": 633,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Total (O/U)",
+    "top": 1071,
+    "left": 40,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 1074,
+    "left": 127,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "54¢",
+    "top": 1083,
+    "left": 624,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "46¢",
+    "top": 1083,
+    "left": 810,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Over 2.5",
+    "top": 1084,
+    "left": 564,
+    "width": 53,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Under 2.5",
+    "top": 1084,
+    "left": 742,
+    "width": 61,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$1M Vol.",
+    "top": 1096,
+    "left": 40,
+    "width": 44,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "0.5",
+    "top": 1139,
+    "left": 285,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1.5",
+    "top": 1139,
+    "left": 326,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "2.5",
+    "top": 1139,
+    "left": 367,
+    "width": 19,
+    "parentClass": "spx-lchip on",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "3.5",
+    "top": 1139,
+    "left": 408,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "4.5",
+    "top": 1139,
+    "left": 449,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "5.5",
+    "top": 1139,
+    "left": 489,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "6.5",
+    "top": 1139,
+    "left": 530,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "7.5",
+    "top": 1139,
+    "left": 571,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "8.5",
+    "top": 1139,
+    "left": 612,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Both Teams to Score",
+    "top": 1200,
+    "left": 40,
+    "width": 139,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 1203,
+    "left": 194,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "52¢",
+    "top": 1212,
+    "left": 609,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "48¢",
+    "top": 1212,
+    "left": 788,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Yes",
+    "top": 1213,
+    "left": 579,
+    "width": 23,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "No",
+    "top": 1213,
+    "left": 764,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$76.6K Vol.",
+    "top": 1225,
+    "left": 40,
+    "width": 60,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Team to Score First",
+    "top": 1282,
+    "left": 40,
+    "width": 130,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 1285,
+    "left": 185,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "63¢",
+    "top": 1294,
+    "left": 578,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "6¢",
+    "top": 1294,
+    "left": 718,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "29¢",
+    "top": 1294,
+    "left": 820,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "ESP",
+    "top": 1295,
+    "left": 549,
+    "width": 22,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Neither",
+    "top": 1295,
+    "left": 661,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "BEL",
+    "top": 1295,
+    "left": 792,
+    "width": 21,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$3.9K Vol.",
+    "top": 1307,
+    "left": 40,
+    "width": 54,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Training Mode",
+    "top": 1355,
+    "left": 185,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "World Cup",
+    "top": 1355,
+    "left": 613,
+    "width": 54,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Portfolio",
+    "top": 1355,
+    "left": 1037,
+    "width": 43,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Spain · Total (O/U)",
+    "top": 1364,
+    "left": 40,
+    "width": 121,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 1367,
+    "left": 176,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "56¢",
+    "top": 1376,
+    "left": 624,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "44¢",
+    "top": 1376,
+    "left": 810,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Over 1.5",
+    "top": 1377,
+    "left": 564,
+    "width": 53,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Under 1.5",
+    "top": 1377,
+    "left": 742,
+    "width": 61,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$11.2K Vol.",
+    "top": 1389,
+    "left": 40,
+    "width": 55,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "0.5",
+    "top": 1432,
+    "left": 408,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1.5",
+    "top": 1432,
+    "left": 449,
+    "width": 19,
+    "parentClass": "spx-lchip on",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "2.5",
+    "top": 1432,
+    "left": 489,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Belgium · Total (O/U)",
+    "top": 1493,
+    "left": 40,
+    "width": 138,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Reg time",
+    "top": 1496,
+    "left": 193,
+    "width": 46,
+    "parentClass": "spx-regtime",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "61¢",
+    "top": 1505,
+    "left": 624,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "39¢",
+    "top": 1505,
+    "left": 810,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Over 0.5",
+    "top": 1506,
+    "left": 564,
+    "width": 53,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "Under 0.5",
+    "top": 1506,
+    "left": 742,
+    "width": 61,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$3.6K Vol.",
+    "top": 1518,
+    "left": 40,
+    "width": 54,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "🔥 Trending",
+    "top": 1542,
+    "left": 31,
+    "width": 68,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Politics",
+    "top": 1542,
+    "left": 137,
+    "width": 45,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Crypto",
+    "top": 1542,
+    "left": 220,
+    "width": 44,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Sports",
+    "top": 1542,
+    "left": 302,
+    "width": 41,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Weather",
+    "top": 1542,
+    "left": 381,
+    "width": 53,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Elections",
+    "top": 1542,
+    "left": 471,
+    "width": 58,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Geopolitics",
+    "top": 1542,
+    "left": 567,
+    "width": 71,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Iran",
+    "top": 1542,
+    "left": 675,
+    "width": 24,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Finance",
+    "top": 1542,
+    "left": 737,
+    "width": 50,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Tech",
+    "top": 1542,
+    "left": 825,
+    "width": 32,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Esports",
+    "top": 1542,
+    "left": 895,
+    "width": 48,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Economy",
+    "top": 1542,
+    "left": 981,
+    "width": 60,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Middle East",
+    "top": 1542,
+    "left": 1078,
+    "width": 72,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Science",
+    "top": 1542,
+    "left": 1188,
+    "width": 51,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "Culture",
+    "top": 1542,
+    "left": 1277,
+    "width": 47,
+    "parentClass": "mdr-chip",
+    "parentTag": "A"
+  },
+  {
+    "text": "0.5",
+    "top": 1561,
+    "left": 408,
+    "width": 19,
+    "parentClass": "spx-lchip on",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "1.5",
+    "top": 1561,
+    "left": 449,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "2.5",
+    "top": 1561,
+    "left": 489,
+    "width": 19,
+    "parentClass": "spx-lchip",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "Extra Time",
+    "top": 1622,
+    "left": 40,
+    "width": 73,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Blog",
+    "top": 1627,
+    "left": 57,
+    "width": 29,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Storylines",
+    "top": 1627,
+    "left": 685,
+    "width": 66,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "25¢",
+    "top": 1634,
+    "left": 609,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "75¢",
+    "top": 1634,
+    "left": 788,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Yes",
+    "top": 1635,
+    "left": 579,
+    "width": 23,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "No",
+    "top": 1635,
+    "left": 764,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$1.6K Vol.",
+    "top": 1647,
+    "left": 40,
+    "width": 51,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Insights",
+    "top": 1682,
+    "left": 57,
+    "width": 51,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Make money",
+    "top": 1682,
+    "left": 685,
+    "width": 83,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Penalty Shootout",
+    "top": 1704,
+    "left": 40,
+    "width": 117,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "14¢",
+    "top": 1716,
+    "left": 609,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "86¢",
+    "top": 1716,
+    "left": 788,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "Yes",
+    "top": 1717,
+    "left": 579,
+    "width": 23,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "No",
+    "top": 1717,
+    "left": 764,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "EM"
+  },
+  {
+    "text": "$5.7K Vol.",
+    "top": 1729,
+    "left": 40,
+    "width": 53,
+    "parentClass": "spx-mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Bots",
+    "top": 1737,
+    "left": 57,
+    "width": 29,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "API",
+    "top": 1737,
+    "left": 685,
+    "width": 23,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Leaderboard",
+    "top": 1792,
+    "left": 57,
+    "width": 82,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "FAQ",
+    "top": 1792,
+    "left": 685,
+    "width": 26,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Resolution Rules",
+    "top": 1796,
+    "left": 40,
+    "width": 107,
+    "parentClass": "mkt-info-tab active",
+    "parentTag": "BUTTON"
+  },
+  {
+    "text": "About",
+    "top": 1847,
+    "left": 57,
+    "width": 39,
+    "parentClass": "mdr-m",
+    "parentTag": "A"
+  },
+  {
+    "text": "Resolution Source:",
+    "top": 1865,
+    "left": 58,
+    "width": 105,
+    "parentClass": "mkt-info-src",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "www.fifa.com",
+    "top": 1865,
+    "left": 163,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Training Mode",
+    "top": 1916,
+    "left": 564,
+    "width": 88,
+    "parentClass": "tm-label",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Odds & FAQ",
+    "top": 1918,
+    "left": 24,
+    "width": 101,
+    "parentClass": "mkt-faq-h",
+    "parentTag": "H2"
+  },
+  {
+    "text": "Choose your language",
+    "top": 1966,
+    "left": 46,
+    "width": 156,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "English",
+    "top": 1967,
+    "left": 1214,
+    "width": 45,
+    "parentClass": "",
+    "parentTag": "B"
+  },
+  {
+    "text": "What are the current odds for Spain vs. Belgium?",
+    "top": 1971,
+    "left": 56,
+    "width": 339,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "What do traders predict for Spain vs. Belgium?",
+    "top": 2027,
+    "left": 56,
+    "width": 322,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "When does the Spain vs. Belgium market resolve?",
+    "top": 2084,
+    "left": 56,
+    "width": 344,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "How much money is trading on Spain vs. Belgium?",
+    "top": 2140,
+    "left": 56,
+    "width": 350,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "How can I trade Spain vs. Belgium on Polymarket?",
+    "top": 2196,
+    "left": 56,
+    "width": 345,
+    "parentClass": "",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "Similar Markets",
+    "top": 2321,
+    "left": 47,
+    "width": 112,
+    "parentClass": "similar-markets-title",
+    "parentTag": "H2"
+  },
+  {
+    "text": "World Cup · Group I",
+    "top": 2374,
+    "left": 660,
+    "width": 129,
+    "parentClass": "spxc-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/10, 04:00 AM",
+    "top": 2374,
+    "left": 832,
+    "width": 99,
+    "parentClass": "spx-start",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Will Ronaldo Cry at the World Cup?",
+    "top": 2381,
+    "left": 85,
+    "width": 134,
+    "parentClass": "mc-title",
+    "parentTag": "A"
+  },
+  {
+    "text": "World Cup Winner",
+    "top": 2383,
+    "left": 396,
+    "width": 110,
+    "parentClass": "mc-title",
+    "parentTag": "A"
+  },
+  {
+    "text": "World Cup: Golden Boot Winner",
+    "top": 2383,
+    "left": 1018,
+    "width": 191,
+    "parentClass": "mc-title",
+    "parentTag": "A"
+  },
+  {
+    "text": "99%",
+    "top": 2391,
+    "left": 268,
+    "width": 25,
+    "parentClass": "mc-semi-pct",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "chance",
+    "top": 2407,
+    "left": 265,
+    "width": 30,
+    "parentClass": "mc-semi-lbl",
+    "parentTag": "DIV"
+  },
+  {
+    "text": "Morocco",
+    "top": 2410,
+    "left": 709,
+    "width": 62,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "France",
+    "top": 2410,
+    "left": 828,
+    "width": 47,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "France",
+    "top": 2427,
+    "left": 382,
+    "width": 34,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "32¢",
+    "top": 2427,
+    "left": 496,
+    "width": 23,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2427,
+    "left": 546,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2427,
+    "left": 593,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Kylian Mbappe",
+    "top": 2427,
+    "left": 1004,
+    "width": 73,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "41¢",
+    "top": 2427,
+    "left": 1121,
+    "width": 20,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2427,
+    "left": 1168,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2427,
+    "left": 1215,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "13¢",
+    "top": 2448,
+    "left": 692,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "24¢",
+    "top": 2448,
+    "left": 785,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "61¢",
+    "top": 2448,
+    "left": 878,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2452,
+    "left": 94,
+    "width": 21,
+    "parentClass": "mc-btn-label",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2452,
+    "left": 235,
+    "width": 16,
+    "parentClass": "mc-btn-label",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "20¢",
+    "top": 2465,
+    "left": 496,
+    "width": 23,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2465,
+    "left": 546,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2465,
+    "left": 593,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "mar",
+    "top": 2465,
+    "left": 693,
+    "width": 20,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "Draw",
+    "top": 2465,
+    "left": 783,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "fra",
+    "top": 2465,
+    "left": 880,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "40¢",
+    "top": 2465,
+    "left": 1118,
+    "width": 23,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2465,
+    "left": 1168,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2465,
+    "left": 1215,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Argentina",
+    "top": 2466,
+    "left": 382,
+    "width": 49,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Lionel Messi",
+    "top": 2466,
+    "left": 1004,
+    "width": 64,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$78.5M Volume",
+    "top": 2503,
+    "left": 39,
+    "width": 83,
+    "parentClass": "mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$4.12B Volume",
+    "top": 2503,
+    "left": 350,
+    "width": 80,
+    "parentClass": "mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/20",
+    "top": 2503,
+    "left": 549,
+    "width": 31,
+    "parentClass": "mc-localdt",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$51.5M Volume",
+    "top": 2503,
+    "left": 972,
+    "width": 83,
+    "parentClass": "mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/20",
+    "top": 2503,
+    "left": 1171,
+    "width": 31,
+    "parentClass": "mc-localdt",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "3 markets",
+    "top": 2506,
+    "left": 660,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$3.3M",
+    "top": 2506,
+    "left": 721,
+    "width": 31,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/12, 05:00 AM",
+    "top": 2561,
+    "left": 521,
+    "width": 99,
+    "parentClass": "spx-start",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/12, 09:00 AM",
+    "top": 2561,
+    "left": 832,
+    "width": 99,
+    "parentClass": "spx-start",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "World Cup · Group I",
+    "top": 2562,
+    "left": 349,
+    "width": 129,
+    "parentClass": "spxc-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "World Cup · Group J",
+    "top": 2562,
+    "left": 660,
+    "width": 132,
+    "parentClass": "spxc-lg",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "World Cup: Golden Ball Winner",
+    "top": 2571,
+    "left": 85,
+    "width": 184,
+    "parentClass": "mc-title",
+    "parentTag": "A"
+  },
+  {
+    "text": "World Cup: Nation to Reach Final",
+    "top": 2571,
+    "left": 1018,
+    "width": 195,
+    "parentClass": "mc-title",
+    "parentTag": "A"
+  },
+  {
+    "text": "England",
+    "top": 2597,
+    "left": 400,
+    "width": 57,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Norway",
+    "top": 2597,
+    "left": 513,
+    "width": 54,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Switzerland",
+    "top": 2597,
+    "left": 699,
+    "width": 82,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Argentina",
+    "top": 2597,
+    "left": 817,
+    "width": 68,
+    "parentClass": "spxc-nm",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2614,
+    "left": 235,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2614,
+    "left": 282,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2614,
+    "left": 1168,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2614,
+    "left": 1215,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Kylian Mbappé",
+    "top": 2615,
+    "left": 39,
+    "width": 73,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "36¢",
+    "top": 2615,
+    "left": 185,
+    "width": 23,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "France",
+    "top": 2615,
+    "left": 1004,
+    "width": 34,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "53¢",
+    "top": 2615,
+    "left": 1119,
+    "width": 22,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "52¢",
+    "top": 2636,
+    "left": 381,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "26¢",
+    "top": 2636,
+    "left": 474,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "22¢",
+    "top": 2636,
+    "left": 567,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "16¢",
+    "top": 2636,
+    "left": 692,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "27¢",
+    "top": 2636,
+    "left": 785,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "56¢",
+    "top": 2636,
+    "left": 878,
+    "width": 21,
+    "parentClass": "spxc-ml",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Lionel Messi",
+    "top": 2653,
+    "left": 39,
+    "width": 64,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "31¢",
+    "top": 2653,
+    "left": 188,
+    "width": 20,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2653,
+    "left": 235,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2653,
+    "left": 282,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "eng",
+    "top": 2653,
+    "left": 383,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "Draw",
+    "top": 2653,
+    "left": 472,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "nor",
+    "top": 2653,
+    "left": 568,
+    "width": 19,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "che",
+    "top": 2653,
+    "left": 694,
+    "width": 17,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "Draw",
+    "top": 2653,
+    "left": 783,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "arg",
+    "top": 2653,
+    "left": 880,
+    "width": 18,
+    "parentClass": "",
+    "parentTag": "SMALL"
+  },
+  {
+    "text": "Argentina",
+    "top": 2653,
+    "left": 1004,
+    "width": 49,
+    "parentClass": "mc-opt-name",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "41¢",
+    "top": 2653,
+    "left": 1121,
+    "width": 20,
+    "parentClass": "mc-opt-pct",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Yes",
+    "top": 2653,
+    "left": 1168,
+    "width": 20,
+    "parentClass": "mc-yn y",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "No",
+    "top": 2653,
+    "left": 1215,
+    "width": 15,
+    "parentClass": "mc-yn n",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$3.5M Volume",
+    "top": 2691,
+    "left": 39,
+    "width": 77,
+    "parentClass": "mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/20",
+    "top": 2691,
+    "left": 238,
+    "width": 31,
+    "parentClass": "mc-localdt",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$10.9M Volume",
+    "top": 2691,
+    "left": 972,
+    "width": 83,
+    "parentClass": "mc-vol",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "07/20",
+    "top": 2691,
+    "left": 1171,
+    "width": 31,
+    "parentClass": "mc-localdt",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "3 markets",
+    "top": 2693,
+    "left": 349,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$401K",
+    "top": 2693,
+    "left": 410,
+    "width": 32,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "3 markets",
+    "top": 2693,
+    "left": 660,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "$251.9K",
+    "top": 2693,
+    "left": 721,
+    "width": 40,
+    "parentClass": "",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "Markets",
+    "top": 2825,
+    "left": 270,
+    "width": 70,
+    "parentClass": "",
+    "parentTag": "H4"
+  },
+  {
+    "text": "Start here",
+    "top": 2825,
+    "left": 473,
+    "width": 88,
+    "parentClass": "",
+    "parentTag": "H4"
+  },
+  {
+    "text": "Go deeper",
+    "top": 2825,
+    "left": 676,
+    "width": 78,
+    "parentClass": "",
+    "parentTag": "H4"
+  },
+  {
+    "text": "Bots & Tools",
+    "top": 2825,
+    "left": 879,
+    "width": 103,
+    "parentClass": "",
+    "parentTag": "H4"
+  },
+  {
+    "text": "Coverage",
+    "top": 2825,
+    "left": 1081,
+    "width": 77,
+    "parentClass": "",
+    "parentTag": "H4"
+  },
+  {
+    "text": "PolymarketsCoil",
+    "top": 2827,
+    "left": 62,
+    "width": 128,
+    "parentClass": "logo-text",
+    "parentTag": "SPAN"
+  },
+  {
+    "text": "All markets",
+    "top": 2861,
+    "left": 270,
+    "width": 68,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "What is Polymarket?",
+    "top": 2861,
+    "left": 473,
+    "width": 124,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Strategies",
+    "top": 2861,
+    "left": 676,
+    "width": 62,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Bot guides",
+    "top": 2861,
+    "left": 879,
+    "width": 67,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "⚽ World Cup 2026",
+    "top": 2861,
+    "left": 1081,
+    "width": 116,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "The prediction markets portal - guides, news, and analysis",
+    "top": 2867,
+    "left": 24,
+    "width": 191,
+    "parentClass": "",
+    "parentTag": "P"
+  },
+  {
+    "text": "Politics",
+    "top": 2888,
+    "left": 270,
+    "width": 43,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Account Setup",
+    "top": 2888,
+    "left": 473,
+    "width": 90,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Make money",
+    "top": 2888,
+    "left": 676,
+    "width": 80,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "API",
+    "top": 2888,
+    "left": 879,
+    "width": 20,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Breaking news",
+    "top": 2888,
+    "left": 1081,
+    "width": 92,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Crypto",
+    "top": 2915,
+    "left": 270,
+    "width": 42,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Deposit guide",
+    "top": 2915,
+    "left": 473,
+    "width": 85,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Order book guide",
+    "top": 2915,
+    "left": 676,
+    "width": 109,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Training Mode",
+    "top": 2915,
+    "left": 879,
+    "width": 88,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Insights",
+    "top": 2915,
+    "left": 1081,
+    "width": 48,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Sports",
+    "top": 2941,
+    "left": 270,
+    "width": 40,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Your first trade",
+    "top": 2941,
+    "left": 473,
+    "width": 92,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Liquidity rewards",
+    "top": 2941,
+    "left": 676,
+    "width": 105,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Leaderboard",
+    "top": 2941,
+    "left": 879,
+    "width": 79,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Storylines",
+    "top": 2941,
+    "left": 1081,
+    "width": 61,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Economy & Business",
+    "top": 2968,
+    "left": 270,
+    "width": 129,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Is it legal? (by country)",
+    "top": 2968,
+    "left": 473,
+    "width": 140,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Perpetual futures",
+    "top": 2968,
+    "left": 676,
+    "width": 107,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Portfolio",
+    "top": 2968,
+    "left": 879,
+    "width": 52,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "News & Analysis",
+    "top": 2968,
+    "left": 1081,
+    "width": 102,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Middle East",
+    "top": 2995,
+    "left": 270,
+    "width": 72,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Risks",
+    "top": 2995,
+    "left": 473,
+    "width": 32,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Taxes",
+    "top": 2995,
+    "left": 676,
+    "width": 36,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "About",
+    "top": 2995,
+    "left": 1081,
+    "width": 37,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Glossary",
+    "top": 3022,
+    "left": 676,
+    "width": 54,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Contact",
+    "top": 3022,
+    "left": 1081,
+    "width": 48,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Compare platforms",
+    "top": 3049,
+    "left": 676,
+    "width": 118,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Authors",
+    "top": 3049,
+    "left": 1081,
+    "width": 49,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "FAQ",
+    "top": 3075,
+    "left": 676,
+    "width": 26,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Corrections",
+    "top": 3075,
+    "left": 1081,
+    "width": 73,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Transparency",
+    "top": 3102,
+    "left": 1081,
+    "width": 84,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Languages · 25",
+    "top": 3183,
+    "left": 45,
+    "width": 110,
+    "parentClass": "footer-langs-title",
+    "parentTag": "SUMMARY"
+  },
+  {
+    "text": "日本語",
+    "top": 3219,
+    "left": 530,
+    "width": 28,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Bahasa Indonesia",
+    "top": 3219,
+    "left": 701,
+    "width": 63,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "한국어",
+    "top": 3219,
+    "left": 760,
+    "width": 26,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Tiếng Việt",
+    "top": 3219,
+    "left": 1036,
+    "width": 37,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "עברית",
+    "top": 3230,
+    "left": 70,
+    "width": 37,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "English",
+    "top": 3230,
+    "left": 111,
+    "width": 46,
+    "parentClass": "footer-lang footer-lang-active",
+    "parentTag": "A"
+  },
+  {
+    "text": "العربية",
+    "top": 3230,
+    "left": 161,
+    "width": 39,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Português",
+    "top": 3230,
+    "left": 193,
+    "width": 67,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "हिन्दी",
+    "top": 3230,
+    "left": 259,
+    "width": 26,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Español",
+    "top": 3230,
+    "left": 293,
+    "width": 51,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Français",
+    "top": 3230,
+    "left": 337,
+    "width": 55,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Deutsch",
+    "top": 3230,
+    "left": 383,
+    "width": 54,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Русский",
+    "top": 3230,
+    "left": 430,
+    "width": 52,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "中文",
+    "top": 3230,
+    "left": 488,
+    "width": 28,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Türkçe",
+    "top": 3230,
+    "left": 572,
+    "width": 45,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "فارسی",
+    "top": 3230,
+    "left": 619,
+    "width": 42,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "বাংলা",
+    "top": 3230,
+    "left": 670,
+    "width": 32,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Kiswahili",
+    "top": 3230,
+    "left": 797,
+    "width": 55,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "ไทย",
+    "top": 3230,
+    "left": 860,
+    "width": 21,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Filipino",
+    "top": 3230,
+    "left": 894,
+    "width": 45,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Українська",
+    "top": 3230,
+    "left": 927,
+    "width": 70,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "اردو",
+    "top": 3230,
+    "left": 996,
+    "width": 24,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Italiano",
+    "top": 3230,
+    "left": 1077,
+    "width": 47,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Nederlands",
+    "top": 3230,
+    "left": 1108,
+    "width": 76,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "Polski",
+    "top": 3230,
+    "left": 1173,
+    "width": 38,
+    "parentClass": "footer-lang",
+    "parentTag": "A"
+  },
+  {
+    "text": "© 2026 PolymarketsCoil. All rights reserved.",
+    "top": 3408,
+    "left": 515,
+    "width": 250,
+    "parentClass": "copyright",
+    "parentTag": "P"
+  },
+  {
+    "text": "A",
+    "top": 3427,
+    "left": 581,
+    "width": 11,
+    "parentClass": "",
+    "parentTag": "A"
+  },
+  {
+    "text": "Dogware",
+    "top": 3427,
+    "left": 592,
+    "width": 52,
+    "parentClass": "",
+    "parentTag": "BDI"
+  },
+  {
+    "text": "company",
+    "top": 3427,
+    "left": 643,
+    "width": 56,
+    "parentClass": "",
+    "parentTag": "A"
+  }
+]

@@ -1,0 +1,819 @@
+{
+  "metadata": {
+    "model_version": "production-light-p1-p2-p3-0711-90m-v2",
+    "generated_at_utc": "2026-07-15T13:05:16+00:00",
+    "random_seed": 20260715,
+    "cutoff_exclusive": "2026-07-15",
+    "latest_completed_result_used": "2026-07-14",
+    "independence_statement": "No Polymarket prices, betting odds, bookmaker consensus, or Opta predictions are read or used.",
+    "p1_method": "Penalized time-decayed independent Poisson attack-defense model. The penalty is ridge/MAP-like shrinkage; this is explicitly not a fully Bayesian posterior model.",
+    "p2_method": "Venue-neutral sequential Elo plus ridge multinomial-logistic 1X2 calibration with an empirically fitted home indicator; temporal validation selects whether recent Elo trajectory is retained.",
+    "p3_method": "Opponent-adjusted log-link tournament xG attack-defense model with strong ridge shrinkage; P3 enters lambdas with a hard weight cap of 25%.",
+    "limitations": [
+      "Independent Poisson omits within-match score correlation, red-card timing, lineups, injuries, rest, weather, and tactical matchup effects.",
+      "Historical international results mix competition strength and may include scores after extra time depending on source conventions.",
+      "Ridge shrinkage is not full Bayesian uncertainty propagation; interval outputs are model-risk scenarios rather than posterior credible intervals.",
+      "P3 uses only a small current-tournament snapshot and has no explicit venue field; its home adjustment, when applicable, is borrowed from P1.",
+      "P2 is validated only as a 1X2 strength model and is deliberately prevented from independently setting totals, BTTS, or score probabilities.",
+      "No player availability or confirmed starting XI information is included.",
+      "Azteca altitude is treated as added uncertainty, not as a directional xG coefficient; the Mexico home effect comes from the fitted historical home indicator."
+    ],
+    "canonical_90_minute": {
+      "method": "Use independently verified score_90 for known extra-time matches; exclude unverified shootout/extra-time-risk rows. Goalscorer minutes are a detection and consistency check, not sole settlement evidence.",
+      "rows_before": 49506,
+      "rows_after": 48665,
+      "scope_verified_rows": 18894,
+      "score_rows_corrected": 4,
+      "extra_time_goals_removed": 7,
+      "scope_uncertain_rows_excluded": 841,
+      "goalscorers_source": "https://raw.githubusercontent.com/martj42/international_results/master/goalscorers.csv",
+      "shootouts_source": "https://raw.githubusercontent.com/martj42/international_results/master/shootouts.csv",
+      "external_verification_ledger": "C:\\Users\\hh\\Desktop\\TsingHuaProject\\小论文——世界杯预测\\WorldCup2026\\yanyawei\\20260715\\data\\extra_time_verification_0715.json",
+      "externally_verified_extra_time_matches": 6,
+      "p3_extra_time_reports_excluded": 4,
+      "p3_extra_time_policy": "Exclude 120-minute aggregate xG unless a verified 90-minute xG split is available."
+    },
+    "scenario_p10_calibrated": false,
+    "scenario_p10_label": "heuristic scenario percentile; not a calibrated lower bound"
+  },
+  "sources": {
+    "international_results_csv": "https://raw.githubusercontent.com/martj42/international_results/master/results.csv",
+    "international_results_repository": "https://github.com/martj42/international_results",
+    "international_results_sha256": "126d983c1e0f6849f1d75222da93aa0e8559ce3fb32ab17da02c526c4b69288e",
+    "cache_status": "download",
+    "fifa_xg_local_artifact": "C:\\Users\\hh\\Desktop\\TsingHuaProject\\小论文——世界杯预测\\WorldCup2026\\yanyawei\\20260709\\data\\fifa_match_stats_0709.json",
+    "fifa_training_centre": "https://www.fifatrainingcentre.com/en/fwc2026/post-match-summary-reports/",
+    "fifa_match_report_urls_in_artifact": [
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M07-BRA-V-MAR%20POST-V2.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M08-QAT-V-SUI.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M14-ESP-V-CPV.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M16-BEL-V-EGY.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M17-FRA-V-SEN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M18-IRQ-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M19-ARG-V-ALG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M22-ENG-V-CRO.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M26-SUI-V-BIH.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M30-SCO-V-MAR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M38-ESP-V-KSA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M39-BEL-V-IRN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M41-NOR-V-SEN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M42-FRA-V-IRQ.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M43-ARG-V-AUT.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M45-ENG-V-GHA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M50-MAR-V-HAI-V2.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M51-SUI-V-CAN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M61-NOR-V-FRA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M64-NZL-V-BEL.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M66-URU-V-ESP.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M67-PAN-V-ENG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M70-JOR-V-ARG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M77-FRA-V-SWE.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M78-CIV-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M80-ENG-V-COD.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M84-ESP-V-AUT.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M85-SUI-V-ALG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M89-PAR-V-FRA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M90-CAN-V-MAR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M91-BRA-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M92-MEX-V-ENG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M93-POR-V-ESP.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M94-USA-V-BEL.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M95-ARG-V-EGY.pdf"
+    ]
+  },
+  "data_audit": {
+    "completed_results_before_cutoff": 48665,
+    "p1_recent_results": 9817,
+    "p2_elo_results": 24931,
+    "p3_tournament_matches": 35,
+    "p3_latest_matched_completed_date": "2026-07-07",
+    "p3_cutoff_assertion_passed": true,
+    "excluded_rows": {
+      "at_or_after_cutoff": 3,
+      "scope_uncertain_rows_excluded": 841
+    },
+    "cutoff_assertion_passed": true
+  },
+  "validation": {
+    "protocol": {
+      "training": "2016-01-01 through 2024-01-01 exclusive",
+      "holdout": "2024-01-01 through 2026-07-15 exclusive",
+      "temporal_ordering": true
+    },
+    "p1_selected": {
+      "half_life_days": 1460.0,
+      "ridge": 2.0,
+      "n": 2576,
+      "log_loss": 0.856823,
+      "brier": 0.500795,
+      "rps": 0.167122
+    },
+    "p2_variants": {
+      "current_elo": {
+        "n": 2576,
+        "log_loss": 0.87052,
+        "brier": 0.511455,
+        "rps": 0.170982
+      },
+      "current_elo_plus_recent_trajectory": {
+        "n": 2576,
+        "log_loss": 0.871299,
+        "brier": 0.511976,
+        "rps": 0.171058
+      }
+    },
+    "p2_selected": "current_elo"
+  },
+  "fitted_models": {
+    "p1": {
+      "matches": 9817,
+      "teams": 294,
+      "effective_match_weight": 4597.162,
+      "converged": true,
+      "iterations": 149,
+      "objective": 12818.893804,
+      "home_advantage_log": 0.248118,
+      "home_advantage_goal_multiplier": 1.281612
+    },
+    "p3": {
+      "matches": 35,
+      "teams": 35,
+      "ridge": 8.0,
+      "converged": true,
+      "iterations": 11,
+      "global_xg_per_team": 1.350767
+    }
+  },
+  "p3_team_sample_aggregates": {
+    "Argentina": {
+      "games": 4,
+      "xg_for": 9.18,
+      "xg_against": 2.76,
+      "xg_for_per_match": 2.295,
+      "xg_against_per_match": 0.69,
+      "goals_for": 11,
+      "goals_against": 3,
+      "opponents": [
+        "Algeria",
+        "Austria",
+        "Jordan",
+        "Egypt"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1728.45
+    },
+    "England": {
+      "games": 5,
+      "xg_for": 10.59,
+      "xg_against": 4.53,
+      "xg_for_per_match": 2.118,
+      "xg_against_per_match": 0.906,
+      "goals_for": 11,
+      "goals_against": 5,
+      "opponents": [
+        "Croatia",
+        "Ghana",
+        "Panama",
+        "Congo DR",
+        "Mexico"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1683.86
+    }
+  },
+  "matches": [
+    {
+      "id": "england_argentina_2026-07-15",
+      "home": "England",
+      "away": "Argentina",
+      "neutral": true,
+      "venue": "Atlanta World Cup semi-final venue",
+      "venue_context": "neutral venue; both teams played 120 minutes on 11 July",
+      "uncertainty_widening": 0.015,
+      "settlement_scope": "90_minutes_including_stoppage_time",
+      "p1": {
+        "home_lambda": 0.86856545,
+        "away_lambda": 1.06340278,
+        "1x2": {
+          "home": 0.29188514,
+          "draw": 0.31291947,
+          "away": 0.39519539
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "fitted_log_effect": 0.0,
+          "home_goal_multiplier": 1.0,
+          "home_lambda_delta_vs_neutral": 0.0,
+          "neutral_counterfactual_lambdas": {
+            "home": 0.86856545,
+            "away": 1.06340278
+          }
+        }
+      },
+      "p2": {
+        "chosen_variant": "current_elo",
+        "home_elo": 1908.837,
+        "away_elo": 1971.444,
+        "home_recent_trajectory": 17.661,
+        "away_recent_trajectory": -0.81,
+        "1x2": {
+          "home": 0.28630303,
+          "draw": 0.25031375,
+          "away": 0.46338323
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "estimated_in_calibrated_outcome_layer": true,
+          "neutral_counterfactual_1x2": {
+            "home": 0.28630303,
+            "draw": 0.25031375,
+            "away": 0.46338323
+          },
+          "home_win_probability_delta_vs_neutral": 0.0
+        },
+        "role": "relative-strength ratio check only; does not set total goals or directly price totals/BTTS"
+      },
+      "p3": {
+        "home_lambda": 1.4108704,
+        "away_lambda": 1.48246419,
+        "sample_games_minimum": 4,
+        "blend_weight": 0.2,
+        "cap": 0.25
+      },
+      "combination": {
+        "pre_p2_home_lambda": 0.97702644,
+        "pre_p2_away_lambda": 1.14721506,
+        "p2_ratio_adjustment_weight": 0.2,
+        "p2_log_ratio_gap_before_cap": -0.17066855,
+        "p2_log_ratio_gap_after_cap": -0.13976194,
+        "total_lambda_preserved_by_p2": true
+      },
+      "final_lambdas": {
+        "home": 0.96229477,
+        "away": 1.16194673,
+        "total": 2.1242415
+      },
+      "markets": {
+        "1x2": {
+          "home": 0.3013468,
+          "draw": 0.29550558,
+          "away": 0.40314762
+        },
+        "spreads_home_handicap": {
+          "home_-2.5": {
+            "win": 0.02978911,
+            "push": 0.0,
+            "loss": 0.97021089
+          },
+          "home_-1.5": {
+            "win": 0.10886316,
+            "push": 0.0,
+            "loss": 0.89113684
+          },
+          "home_-0.5": {
+            "win": 0.3013468,
+            "push": 0.0,
+            "loss": 0.6986532
+          },
+          "home_+0.0": {
+            "win": 0.3013468,
+            "push": 0.29550558,
+            "loss": 0.40314762
+          },
+          "home_+0.5": {
+            "win": 0.59685238,
+            "push": 0.0,
+            "loss": 0.40314762
+          },
+          "home_+1.5": {
+            "win": 0.82927154,
+            "push": 0.0,
+            "loss": 0.17072846
+          },
+          "home_+2.5": {
+            "win": 0.94456115,
+            "push": 0.0,
+            "loss": 0.05543885
+          }
+        },
+        "totals": {
+          "1.5": {
+            "over": 0.62657943,
+            "under": 0.37342057
+          },
+          "2.5": {
+            "over": 0.35691019,
+            "under": 0.64308981
+          },
+          "3.5": {
+            "over": 0.16596265,
+            "under": 0.83403735
+          },
+          "4.5": {
+            "over": 0.06455798,
+            "under": 0.93544202
+          }
+        },
+        "btts": {
+          "yes": 0.42463185,
+          "no": 0.57536815
+        },
+        "team_totals": {
+          "home": {
+            "0.5": {
+              "over": 0.61798476,
+              "under": 0.38201524
+            },
+            "1.5": {
+              "over": 0.25037349,
+              "under": 0.74962651
+            },
+            "2.5": {
+              "over": 0.07349829,
+              "under": 0.92650171
+            }
+          },
+          "away": {
+            "0.5": {
+              "over": 0.6871235,
+              "under": 0.3128765
+            },
+            "1.5": {
+              "over": 0.32357767,
+              "under": 0.67642233
+            },
+            "2.5": {
+              "over": 0.11236723,
+              "under": 0.88763277
+            }
+          }
+        }
+      },
+      "score_matrix": {
+        "support": "0..12 goals per team",
+        "renormalized": true,
+        "pre_normalization_truncated_mass": 4.2535464039872295e-10,
+        "top_scores": [
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "probability": 0.13888005
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "probability": 0.13364354
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "probability": 0.11952359
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "probability": 0.11501693
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 2,
+            "probability": 0.08068561
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 2,
+            "probability": 0.07764334
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "probability": 0.06430224
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 0,
+            "probability": 0.05534009
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 2,
+            "probability": 0.03735789
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 3,
+            "probability": 0.03125079
+          }
+        ],
+        "probabilities": [
+          [
+            0.11952359,
+            0.13888005,
+            0.08068561,
+            0.03125079,
+            0.00907794,
+            0.00210962,
+            0.00040854,
+            6.782e-05,
+            9.85e-06,
+            1.27e-06,
+            1.5e-07,
+            2e-08,
+            0.0
+          ],
+          [
+            0.11501693,
+            0.13364354,
+            0.07764334,
+            0.03007247,
+            0.00873565,
+            0.00203007,
+            0.00039314,
+            6.526e-05,
+            9.48e-06,
+            1.22e-06,
+            1.4e-07,
+            2e-08,
+            0.0
+          ],
+          [
+            0.05534009,
+            0.06430224,
+            0.03735789,
+            0.01446929,
+            0.00420314,
+            0.00097676,
+            0.00018916,
+            3.14e-05,
+            4.56e-06,
+            5.9e-07,
+            7e-08,
+            1e-08,
+            0.0
+          ],
+          [
+            0.01775116,
+            0.0206259,
+            0.0119831,
+            0.00464124,
+            0.00134822,
+            0.00031331,
+            6.068e-05,
+            1.007e-05,
+            1.46e-06,
+            1.9e-07,
+            2e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.00427046,
+            0.00496205,
+            0.00288282,
+            0.00111656,
+            0.00032435,
+            7.537e-05,
+            1.46e-05,
+            2.42e-06,
+            3.5e-07,
+            5e-08,
+            1e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.00082189,
+            0.00095499,
+            0.00055482,
+            0.00021489,
+            6.242e-05,
+            1.451e-05,
+            2.81e-06,
+            4.7e-07,
+            7e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.00013182,
+            0.00015316,
+            8.898e-05,
+            3.446e-05,
+            1.001e-05,
+            2.33e-06,
+            4.5e-07,
+            7e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.812e-05,
+            2.106e-05,
+            1.223e-05,
+            4.74e-06,
+            1.38e-06,
+            3.2e-07,
+            6e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            2.18e-06,
+            2.53e-06,
+            1.47e-06,
+            5.7e-07,
+            1.7e-07,
+            4e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            2.3e-07,
+            2.7e-07,
+            1.6e-07,
+            6e-08,
+            2e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            2e-08,
+            3e-08,
+            2e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      "uncertainty": {
+        "method": "reproducible 500-draw lognormal total-goals and log-ratio scenario simulation",
+        "interpretation": "10th-90th scenario percentiles; heuristic model-risk range, not a frequentist confidence interval",
+        "contextual_widening": 0.015,
+        "context_note": "Altitude and lineup uncertainty widen dispersion only; no arbitrary altitude xG coefficient or directional goal adjustment is applied.",
+        "lambda_intervals": {
+          "home": {
+            "p10": 0.65828426,
+            "p90": 1.29500961
+          },
+          "away": {
+            "p10": 0.83028646,
+            "p90": 1.55672597
+          },
+          "total": {
+            "p10": 1.59621999,
+            "p90": 2.76036621
+          }
+        },
+        "market_probability_intervals": {
+          "1x2.away": {
+            "p10": 0.31160356,
+            "p90": 0.50362322
+          },
+          "1x2.draw": {
+            "p10": 0.24586894,
+            "p90": 0.34783865
+          },
+          "1x2.home": {
+            "p10": 0.21796845,
+            "p90": 0.38288654
+          },
+          "btts.no": {
+            "p10": 0.44664587,
+            "p90": 0.70996813
+          },
+          "btts.yes": {
+            "p10": 0.29003187,
+            "p90": 0.55335414
+          },
+          "spreads_home_handicap.home_+0.0.loss": {
+            "p10": 0.31160356,
+            "p90": 0.50362322
+          },
+          "spreads_home_handicap.home_+0.0.push": {
+            "p10": 0.24586894,
+            "p90": 0.34783865
+          },
+          "spreads_home_handicap.home_+0.0.win": {
+            "p10": 0.21796845,
+            "p90": 0.38288654
+          },
+          "spreads_home_handicap.home_+0.5.loss": {
+            "p10": 0.31160356,
+            "p90": 0.50362322
+          },
+          "spreads_home_handicap.home_+0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+0.5.win": {
+            "p10": 0.49637678,
+            "p90": 0.68839644
+          },
+          "spreads_home_handicap.home_+1.5.loss": {
+            "p10": 0.10585914,
+            "p90": 0.24610339
+          },
+          "spreads_home_handicap.home_+1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+1.5.win": {
+            "p10": 0.75389661,
+            "p90": 0.89414086
+          },
+          "spreads_home_handicap.home_+2.5.loss": {
+            "p10": 0.02578795,
+            "p90": 0.10054522
+          },
+          "spreads_home_handicap.home_+2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+2.5.win": {
+            "p10": 0.89945478,
+            "p90": 0.97421205
+          },
+          "spreads_home_handicap.home_-0.5.loss": {
+            "p10": 0.61711346,
+            "p90": 0.78203155
+          },
+          "spreads_home_handicap.home_-0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-0.5.win": {
+            "p10": 0.21796845,
+            "p90": 0.38288654
+          },
+          "spreads_home_handicap.home_-1.5.loss": {
+            "p10": 0.83797902,
+            "p90": 0.94004323
+          },
+          "spreads_home_handicap.home_-1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-1.5.win": {
+            "p10": 0.05995677,
+            "p90": 0.16202099
+          },
+          "spreads_home_handicap.home_-2.5.loss": {
+            "p10": 0.94458048,
+            "p90": 0.98774404
+          },
+          "spreads_home_handicap.home_-2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-2.5.win": {
+            "p10": 0.01225596,
+            "p90": 0.05541952
+          },
+          "team_totals.away.0.5.over": {
+            "p10": 0.5640756,
+            "p90": 0.78917463
+          },
+          "team_totals.away.0.5.under": {
+            "p10": 0.21082537,
+            "p90": 0.43592441
+          },
+          "team_totals.away.1.5.over": {
+            "p10": 0.20213349,
+            "p90": 0.46097765
+          },
+          "team_totals.away.1.5.under": {
+            "p10": 0.53902235,
+            "p90": 0.79786651
+          },
+          "team_totals.away.2.5.over": {
+            "p10": 0.05187567,
+            "p90": 0.20552137
+          },
+          "team_totals.away.2.5.under": {
+            "p10": 0.79447863,
+            "p90": 0.94812433
+          },
+          "team_totals.home.0.5.over": {
+            "p10": 0.48226111,
+            "p90": 0.72610477
+          },
+          "team_totals.home.0.5.under": {
+            "p10": 0.27389523,
+            "p90": 0.51773888
+          },
+          "team_totals.home.1.5.over": {
+            "p10": 0.14144176,
+            "p90": 0.37140781
+          },
+          "team_totals.home.1.5.under": {
+            "p10": 0.62859219,
+            "p90": 0.85855824
+          },
+          "team_totals.home.2.5.over": {
+            "p10": 0.02926376,
+            "p90": 0.14173983
+          },
+          "team_totals.home.2.5.under": {
+            "p10": 0.85826017,
+            "p90": 0.97073624
+          },
+          "totals.1.5.over": {
+            "p10": 0.47384701,
+            "p90": 0.76208677
+          },
+          "totals.1.5.under": {
+            "p10": 0.23791323,
+            "p90": 0.52615299
+          },
+          "totals.2.5.over": {
+            "p10": 0.21566517,
+            "p90": 0.52104543
+          },
+          "totals.2.5.under": {
+            "p10": 0.47895457,
+            "p90": 0.78433483
+          },
+          "totals.3.5.over": {
+            "p10": 0.07829346,
+            "p90": 0.29925801
+          },
+          "totals.3.5.under": {
+            "p10": 0.70074199,
+            "p90": 0.92170654
+          },
+          "totals.4.5.over": {
+            "p10": 0.02347454,
+            "p90": 0.14620439
+          },
+          "totals.4.5.under": {
+            "p10": 0.85379561,
+            "p90": 0.97652546
+          }
+        }
+      }
+    }
+  ],
+  "probability_validation": [
+    {
+      "match_id": "england_argentina_2026-07-15",
+      "families_checked": 19,
+      "max_sum_error": 0.0
+    }
+  ]
+}

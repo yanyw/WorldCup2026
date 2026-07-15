@@ -1,0 +1,57 @@
+{
+  "as_of_beijing": "2026-07-15T21:03:07+08:00",
+  "method": "BetMGM and Oddschecker are separately devigged and averaged. Opta supplies a direct 90-minute 1X2 distribution. Polymarket is excluded from fair probability and used only as execution cost. The BetMGM totals update is newer than the original blog snapshot but not simultaneous with the live Oddschecker capture, so totals retain an additional 0.25pp data-quality penalty.",
+  "matches": [
+    {
+      "id": "england_argentina_2026-07-15",
+      "home": "England",
+      "away": "Argentina",
+      "sportsbook_1x2": {
+        "book": "BetMGM",
+        "american_odds": {"home": 160, "draw": 185, "away": 200},
+        "source": "https://sports.betmgm.com/en/blog/world-cup/world-cup-public-betting-data-consensus-predictions-bm16/",
+        "source_note": "BetMGM public-betting update published 14 July 2026."
+      },
+      "sportsbook_total_2_5": {
+        "book": "BetMGM",
+        "american_odds": {"over": 130, "under": -165},
+        "source": "https://www.vegasinsider.com/soccer/england-argentina-odds-world-cup-2026/",
+        "source_note": "VegasInsider's BetMGM line-movement report records Under 2.5 moving from -160 to -165 as of 21:00 ET Monday; Over +130 is the paired reference quote. This is fresher than the 12 July BetMGM blog but is not treated as a same-minute live capture."
+      },
+      "oddschecker_cross_check": {
+        "american_odds_1x2": {"home": 175, "draw": 190, "away": 200},
+        "american_odds_total_2_5": {"over": 148, "under": -175},
+        "source": "https://www.oddschecker.com/us/soccer/world-cup/england-v-argentina",
+        "source_note": "Live market header captured at 2026-07-15 21:03 Beijing."
+      },
+      "opta_1x2": {
+        "home": 0.373,
+        "draw": 0.307,
+        "away": 0.320,
+        "source": "https://theanalyst.com/articles/england-vs-argentina-prediction-world-cup-2026-match-preview"
+      },
+      "team_news": [
+        {
+          "fact": "England confirmed Declan Rice fit; Jarell Quansah is suspended and Jordan Henderson injured.",
+          "source": "https://www.englandfootball.com/articles/2026/Jul/14/thomas-tuchel-argentina-world-cup-press-conference-20261507"
+        },
+        {
+          "fact": "BetMGM reports Argentina generated 0.8 xG in regulation against Switzerland and notes England's Norway concession came from a 0.02 xG attempt; used qualitatively, not as a second model probability.",
+          "source": "https://sports.betmgm.com/en/blog/world-cup/argentina-vs-england-prediction-odds-preview-world-cup-july-15-bm16/"
+        }
+      ],
+      "additional_data_quality_penalty": {"1x2": 0.0, "totals.2.5": 0.0025},
+      "direct_market_families": ["1x2", "totals.2.5"]
+    }
+  ],
+  "decision_parameters": {
+    "opta_weight_within_external_1x2": 0.25,
+    "internal_weight": 0.25,
+    "sportsbook_dispersion_coefficient": 0.5,
+    "model_disagreement_coefficient": 0.1,
+    "data_quality_penalty": 0.0025,
+    "minimum_uncertainty": 0.005,
+    "robust_edge_threshold": 0.015,
+    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook_consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook_consensus. Then p_center = 0.75 * p_external + 0.25 * p_internal. uncertainty = max(0.5pp, 0.5 * sportsbook source dispersion + 0.1 * absolute internal/external disagreement + base and family-specific data-quality penalties). Directional p_trade is p_center - uncertainty; complement outcomes are constructed coherently before applying uncertainty."
+  }
+}

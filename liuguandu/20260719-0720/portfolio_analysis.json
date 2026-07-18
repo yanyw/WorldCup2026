@@ -1,0 +1,401 @@
+{
+  "portfolio_summary": {
+    "total_positions": 22,
+    "total_exposure": 2000.0,
+    "total_exposure_pct": 20.0
+  },
+  "scenarios": [
+    {
+      "score_fe": "1-1",
+      "score_ea": "1-1",
+      "joint_probability": 0.015943,
+      "pnl_fe": 973.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -248.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "1-0",
+      "joint_probability": 0.012838,
+      "pnl_fe": 973.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 863.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "2-1",
+      "joint_probability": 0.011921,
+      "pnl_fe": 973.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 1757.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "2-0",
+      "joint_probability": 0.010646,
+      "pnl_fe": 973.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 1694.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "0-0",
+      "joint_probability": 0.009415,
+      "pnl_fe": 973.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -580.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "0-1",
+      "joint_probability": 0.009415,
+      "pnl_fe": 973.0,
+      "pnl_ea": -308.0,
+      "pnl_total": 665.0
+    },
+    {
+      "score_fe": "1-1",
+      "score_ea": "1-2",
+      "joint_probability": 0.008583,
+      "pnl_fe": 973.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 1481.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "1-1",
+      "joint_probability": 0.010901,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -204.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "1-0",
+      "joint_probability": 0.008778,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 907.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "2-1",
+      "joint_probability": 0.008151,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 1801.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "2-0",
+      "joint_probability": 0.007279,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 1738.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "0-0",
+      "joint_probability": 0.006438,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -536.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "0-1",
+      "joint_probability": 0.006438,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -308.0,
+      "pnl_total": 709.0
+    },
+    {
+      "score_fe": "0-1",
+      "score_ea": "1-2",
+      "joint_probability": 0.005869,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 1525.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "1-1",
+      "joint_probability": 0.010668,
+      "pnl_fe": 11.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -1211.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "1-0",
+      "joint_probability": 0.00859,
+      "pnl_fe": 11.0,
+      "pnl_ea": -111.0,
+      "pnl_total": -100.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "2-1",
+      "joint_probability": 0.007977,
+      "pnl_fe": 11.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 794.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "2-0",
+      "joint_probability": 0.007123,
+      "pnl_fe": 11.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 731.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "0-0",
+      "joint_probability": 0.0063,
+      "pnl_fe": 11.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -1542.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "0-1",
+      "joint_probability": 0.0063,
+      "pnl_fe": 11.0,
+      "pnl_ea": -308.0,
+      "pnl_total": -297.0
+    },
+    {
+      "score_fe": "1-0",
+      "score_ea": "1-2",
+      "joint_probability": 0.005743,
+      "pnl_fe": 11.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 518.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "1-1",
+      "joint_probability": 0.010429,
+      "pnl_fe": 842.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -379.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "1-0",
+      "joint_probability": 0.008398,
+      "pnl_fe": 842.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 732.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "2-1",
+      "joint_probability": 0.007798,
+      "pnl_fe": 842.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 1626.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "2-0",
+      "joint_probability": 0.006964,
+      "pnl_fe": 842.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 1563.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "0-0",
+      "joint_probability": 0.006159,
+      "pnl_fe": 842.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -711.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "0-1",
+      "joint_probability": 0.006159,
+      "pnl_fe": 842.0,
+      "pnl_ea": -308.0,
+      "pnl_total": 534.0
+    },
+    {
+      "score_fe": "1-2",
+      "score_ea": "1-2",
+      "joint_probability": 0.005615,
+      "pnl_fe": 842.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 1350.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "1-1",
+      "joint_probability": 0.010192,
+      "pnl_fe": 166.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -1055.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "1-0",
+      "joint_probability": 0.008207,
+      "pnl_fe": 166.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 55.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "2-1",
+      "joint_probability": 0.007621,
+      "pnl_fe": 166.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 950.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "2-0",
+      "joint_probability": 0.006806,
+      "pnl_fe": 166.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 887.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "0-0",
+      "joint_probability": 0.006019,
+      "pnl_fe": 166.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -1387.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "0-1",
+      "joint_probability": 0.006019,
+      "pnl_fe": 166.0,
+      "pnl_ea": -308.0,
+      "pnl_total": -142.0
+    },
+    {
+      "score_fe": "2-1",
+      "score_ea": "1-2",
+      "joint_probability": 0.005487,
+      "pnl_fe": 166.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 674.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "1-1",
+      "joint_probability": 0.009087,
+      "pnl_fe": 818.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -404.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "1-0",
+      "joint_probability": 0.007317,
+      "pnl_fe": 818.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 707.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "2-1",
+      "joint_probability": 0.006794,
+      "pnl_fe": 818.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 1601.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "2-0",
+      "joint_probability": 0.006067,
+      "pnl_fe": 818.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 1538.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "0-0",
+      "joint_probability": 0.005366,
+      "pnl_fe": 818.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -735.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "0-1",
+      "joint_probability": 0.005366,
+      "pnl_fe": 818.0,
+      "pnl_ea": -308.0,
+      "pnl_total": 510.0
+    },
+    {
+      "score_fe": "0-0",
+      "score_ea": "1-2",
+      "joint_probability": 0.004892,
+      "pnl_fe": 818.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 1325.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "1-1",
+      "joint_probability": 0.007843,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -1221.0,
+      "pnl_total": -204.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "1-0",
+      "joint_probability": 0.006316,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -111.0,
+      "pnl_total": 907.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "2-1",
+      "joint_probability": 0.005865,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 784.0,
+      "pnl_total": 1801.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "2-0",
+      "joint_probability": 0.005237,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 720.0,
+      "pnl_total": 1738.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "0-0",
+      "joint_probability": 0.004632,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -1553.0,
+      "pnl_total": -536.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "0-1",
+      "joint_probability": 0.004632,
+      "pnl_fe": 1017.0,
+      "pnl_ea": -308.0,
+      "pnl_total": 709.0
+    },
+    {
+      "score_fe": "0-2",
+      "score_ea": "1-2",
+      "joint_probability": 0.004222,
+      "pnl_fe": 1017.0,
+      "pnl_ea": 507.0,
+      "pnl_total": 1525.0
+    }
+  ]
+}

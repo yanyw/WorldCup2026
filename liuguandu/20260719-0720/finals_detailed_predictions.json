@@ -1,0 +1,784 @@
+{
+  "0719_Fran_Engl": {
+    "match": "France vs England",
+    "date": "2026-07-19",
+    "stage": "3rd Place",
+    "venue": "Hard Rock Stadium, Miami",
+    "model": "Dixon-Coles v2",
+    "lambda": {
+      "home": 1.3297,
+      "away": 1.3606,
+      "total": 2.6903,
+      "rho": -0.04,
+      "ko_factor": 1.0
+    },
+    "team_params": {
+      "France": {
+        "att": 1.58,
+        "def": 1.03,
+        "n": 7
+      },
+      "England": {
+        "att": 1.94,
+        "def": 1.24,
+        "n": 7
+      }
+    },
+    "markets": {
+      "1X2": {
+        "home": 0.3587,
+        "draw": 0.2685,
+        "away": 0.3728
+      },
+      "BTTS": {
+        "yes": 0.5517,
+        "no": 0.4483
+      },
+      "totals": {
+        "0.5": {
+          "over": 0.9272,
+          "under": 0.0728
+        },
+        "1.5": {
+          "over": 0.7545,
+          "under": 0.2455
+        },
+        "2.5": {
+          "over": 0.504,
+          "under": 0.496
+        },
+        "3.5": {
+          "over": 0.2838,
+          "under": 0.7162
+        },
+        "4.5": {
+          "over": 0.1356,
+          "under": 0.8644
+        },
+        "5.5": {
+          "over": 0.056,
+          "under": 0.944
+        }
+      },
+      "spreads": {
+        "0.5": {
+          "home_cover": 0.3587,
+          "away_cover": 0.6413
+        },
+        "1.0": {
+          "home_cover": 0.2609,
+          "away_cover": 0.7391
+        },
+        "1.5": {
+          "home_cover": 0.163,
+          "away_cover": 0.837
+        },
+        "2.0": {
+          "home_cover": 0.1103,
+          "away_cover": 0.8897
+        },
+        "2.5": {
+          "home_cover": 0.0576,
+          "away_cover": 0.9424
+        },
+        "3.0": {
+          "home_cover": 0.0371,
+          "away_cover": 0.9629
+        }
+      },
+      "home_totals": {
+        "0.5": {
+          "over": 0.7354,
+          "under": 0.2646
+        },
+        "1.5": {
+          "over": 0.3837,
+          "under": 0.6163
+        },
+        "2.5": {
+          "over": 0.1498,
+          "under": 0.8502
+        },
+        "3.5": {
+          "over": 0.0461,
+          "under": 0.9539
+        }
+      },
+      "away_totals": {
+        "0.5": {
+          "over": 0.7435,
+          "under": 0.2565
+        },
+        "1.5": {
+          "over": 0.3945,
+          "under": 0.6055
+        },
+        "2.5": {
+          "over": 0.1571,
+          "under": 0.8429
+        },
+        "3.5": {
+          "over": 0.0494,
+          "under": 0.9506
+        }
+      },
+      "first_scorer": {
+        "home": 0.4583,
+        "neither": 0.0728,
+        "away": 0.4689
+      },
+      "to_advance": {
+        "home": 0.493,
+        "away": 0.507
+      },
+      "extra_time": {
+        "yes": 0.2685,
+        "no": 0.7315
+      },
+      "penalty": {
+        "yes": 0.1208,
+        "no": 0.8792
+      },
+      "exact_score_top10": [
+        [
+          "1-1",
+          0.127685
+        ],
+        [
+          "0-1",
+          0.087306
+        ],
+        [
+          "1-0",
+          0.085437
+        ],
+        [
+          "1-2",
+          0.083521
+        ],
+        [
+          "2-1",
+          0.081626
+        ],
+        [
+          "0-0",
+          0.072773
+        ],
+        [
+          "0-2",
+          0.062812
+        ],
+        [
+          "2-0",
+          0.059994
+        ],
+        [
+          "2-2",
+          0.055529
+        ],
+        [
+          "1-3",
+          0.037879
+        ]
+      ]
+    },
+    "market_prices": {
+      "moneyline": {
+        "home": 0.51,
+        "draw": 0.23,
+        "away": 0.24
+      },
+      "vol_ml": "$5.1M",
+      "to_advance": {
+        "home": 0.66,
+        "away": 0.34
+      },
+      "btts_yes": 0.68,
+      "btts_no": 0.32,
+      "totals": {
+        "3.5": {
+          "over": 0.44,
+          "under": 0.56
+        }
+      },
+      "spreads": {
+        "1.5": {
+          "home_cover": 0.29,
+          "away_cover": 0.71
+        }
+      },
+      "home_totals": {
+        "2.5": {
+          "over": 0.32,
+          "under": 0.68
+        }
+      },
+      "away_totals": {
+        "2.5": {
+          "over": 0.16,
+          "under": 0.84
+        }
+      },
+      "first_scorer": {
+        "home": 0.59,
+        "neither": 0.04,
+        "away": 0.36
+      },
+      "ExtraTime": {
+        "yes": 0.23,
+        "no": 0.77
+      },
+      "Penalty": {
+        "yes": 0.11,
+        "no": 0.89
+      }
+    },
+    "positions": [
+      {
+        "name": "H U2.5",
+        "direction": "sell",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.1498,
+        "p_market": 0.32,
+        "display_price": 0.68,
+        "edge": 0.1702,
+        "edge_pct": 17.0,
+        "kelly_raw": 0.5319,
+        "kelly_adj": 0.133,
+        "vol": null
+      },
+      {
+        "name": "ToAdvance AWAY",
+        "direction": "sell",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.493,
+        "p_market": 0.66,
+        "display_price": 0.34,
+        "edge": 0.167,
+        "edge_pct": 16.7,
+        "kelly_raw": 0.253,
+        "kelly_adj": 0.0633,
+        "vol": null
+      },
+      {
+        "name": "U3.5",
+        "direction": "sell",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.2838,
+        "p_market": 0.44,
+        "display_price": 0.56,
+        "edge": 0.1562,
+        "edge_pct": 15.6,
+        "kelly_raw": 0.355,
+        "kelly_adj": 0.0888,
+        "vol": null
+      },
+      {
+        "name": "1X2 AWAY",
+        "direction": "buy",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.3728,
+        "p_market": 0.24,
+        "display_price": 0.24,
+        "edge": 0.1328,
+        "edge_pct": 13.3,
+        "kelly_raw": 0.1747,
+        "kelly_adj": 0.0437,
+        "vol": "$5.1M"
+      },
+      {
+        "name": "BTTS NO",
+        "direction": "sell",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.5517,
+        "p_market": 0.68,
+        "display_price": 0.32,
+        "edge": 0.1283,
+        "edge_pct": 12.8,
+        "kelly_raw": 0.1887,
+        "kelly_adj": 0.0472,
+        "vol": null
+      },
+      {
+        "name": "A +1.5",
+        "direction": "sell",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.163,
+        "p_market": 0.29,
+        "display_price": 0.71,
+        "edge": 0.127,
+        "edge_pct": 12.7,
+        "kelly_raw": 0.4379,
+        "kelly_adj": 0.1095,
+        "vol": null
+      },
+      {
+        "name": "FirstScorer AWAY",
+        "direction": "buy",
+        "amount": 119.0,
+        "amount_pct": 1.2,
+        "p_model": 0.4689,
+        "p_market": 0.36,
+        "display_price": 0.36,
+        "edge": 0.1089,
+        "edge_pct": 10.9,
+        "kelly_raw": 0.1702,
+        "kelly_adj": 0.0425,
+        "vol": null
+      },
+      {
+        "name": "1X2 DRAW",
+        "direction": "buy",
+        "amount": 74.0,
+        "amount_pct": 0.7,
+        "p_model": 0.2685,
+        "p_market": 0.23,
+        "display_price": 0.23,
+        "edge": 0.0385,
+        "edge_pct": 3.9,
+        "kelly_raw": 0.05,
+        "kelly_adj": 0.0125,
+        "vol": "$5.1M"
+      },
+      {
+        "name": "ExtraTime YES",
+        "direction": "buy",
+        "amount": 74.0,
+        "amount_pct": 0.7,
+        "p_model": 0.2685,
+        "p_market": 0.23,
+        "display_price": 0.23,
+        "edge": 0.0385,
+        "edge_pct": 3.9,
+        "kelly_raw": 0.05,
+        "kelly_adj": 0.0125,
+        "vol": null
+      },
+      {
+        "name": "Penalty YES",
+        "direction": "buy",
+        "amount": 18.0,
+        "amount_pct": 0.2,
+        "p_model": 0.1208,
+        "p_market": 0.11,
+        "display_price": 0.11,
+        "edge": 0.0108,
+        "edge_pct": 1.1,
+        "kelly_raw": 0.0121,
+        "kelly_adj": 0.003,
+        "vol": null
+      }
+    ]
+  },
+  "0720_Spai_Arge": {
+    "match": "Spain vs Argentina",
+    "date": "2026-07-20",
+    "stage": "Final",
+    "venue": "MetLife Stadium, New Jersey",
+    "model": "Dixon-Coles v2",
+    "lambda": {
+      "home": 1.5553,
+      "away": 1.1198,
+      "total": 2.6751,
+      "rho": -0.04,
+      "ko_factor": 0.94
+    },
+    "team_params": {
+      "Spain": {
+        "att": 1.84,
+        "def": 0.9,
+        "n": 7
+      },
+      "Argentina": {
+        "att": 1.95,
+        "def": 1.32,
+        "n": 7
+      }
+    },
+    "markets": {
+      "1X2": {
+        "home": 0.4673,
+        "draw": 0.2622,
+        "away": 0.2705
+      },
+      "BTTS": {
+        "yes": 0.5365,
+        "no": 0.4635
+      },
+      "totals": {
+        "0.5": {
+          "over": 0.9263,
+          "under": 0.0737
+        },
+        "1.5": {
+          "over": 0.752,
+          "under": 0.248
+        },
+        "2.5": {
+          "over": 0.5005,
+          "under": 0.4995
+        },
+        "3.5": {
+          "over": 0.2806,
+          "under": 0.7194
+        },
+        "4.5": {
+          "over": 0.1335,
+          "under": 0.8665
+        },
+        "5.5": {
+          "over": 0.0548,
+          "under": 0.9452
+        }
+      },
+      "spreads": {
+        "0.5": {
+          "home_cover": 0.4673,
+          "away_cover": 0.5327
+        },
+        "1.0": {
+          "home_cover": 0.3547,
+          "away_cover": 0.6453
+        },
+        "1.5": {
+          "home_cover": 0.242,
+          "away_cover": 0.758
+        },
+        "2.0": {
+          "home_cover": 0.1702,
+          "away_cover": 0.8298
+        },
+        "2.5": {
+          "home_cover": 0.0984,
+          "away_cover": 0.9016
+        },
+        "3.0": {
+          "home_cover": 0.0656,
+          "away_cover": 0.9344
+        }
+      },
+      "home_totals": {
+        "0.5": {
+          "over": 0.7889,
+          "under": 0.2111
+        },
+        "1.5": {
+          "over": 0.4605,
+          "under": 0.5395
+        },
+        "2.5": {
+          "over": 0.2052,
+          "under": 0.7948
+        },
+        "3.5": {
+          "over": 0.0728,
+          "under": 0.9272
+        }
+      },
+      "away_totals": {
+        "0.5": {
+          "over": 0.6736,
+          "under": 0.3264
+        },
+        "1.5": {
+          "over": 0.3082,
+          "under": 0.6918
+        },
+        "2.5": {
+          "over": 0.1036,
+          "under": 0.8964
+        },
+        "3.5": {
+          "over": 0.0272,
+          "under": 0.9728
+        }
+      },
+      "first_scorer": {
+        "home": 0.5385,
+        "neither": 0.0737,
+        "away": 0.3877
+      },
+      "to_advance": {
+        "home": 0.5984,
+        "away": 0.4016
+      },
+      "extra_time": {
+        "yes": 0.2622,
+        "no": 0.7378
+      },
+      "penalty": {
+        "yes": 0.118,
+        "no": 0.882
+      },
+      "exact_score_top10": [
+        [
+          "1-1",
+          0.124863
+        ],
+        [
+          "1-0",
+          0.100549
+        ],
+        [
+          "2-1",
+          0.093366
+        ],
+        [
+          "2-0",
+          0.08338
+        ],
+        [
+          "0-0",
+          0.073739
+        ],
+        [
+          "0-1",
+          0.073736
+        ],
+        [
+          "1-2",
+          0.06722
+        ],
+        [
+          "2-2",
+          0.052274
+        ],
+        [
+          "3-1",
+          0.048405
+        ],
+        [
+          "3-0",
+          0.043228
+        ]
+      ]
+    },
+    "market_prices": {
+      "moneyline": {
+        "home": 0.42,
+        "draw": 0.31,
+        "away": 0.26
+      },
+      "vol_ml": "$2M",
+      "to_advance": {
+        "home": 0.59,
+        "away": 0.41
+      },
+      "btts_yes": 0.51,
+      "btts_no": 0.49,
+      "totals": {
+        "2.5": {
+          "over": 0.41,
+          "under": 0.59
+        }
+      },
+      "spreads": {
+        "1.5": {
+          "home_cover": 0.19,
+          "away_cover": 0.81
+        }
+      },
+      "home_totals": {
+        "1.5": {
+          "over": 0.39,
+          "under": 0.61
+        }
+      },
+      "away_totals": {
+        "1.5": {
+          "over": 0.27,
+          "under": 0.73
+        }
+      },
+      "first_scorer": {
+        "home": 0.53,
+        "neither": 0.09,
+        "away": 0.37
+      },
+      "ExtraTime": {
+        "yes": 0.31,
+        "no": 0.69
+      },
+      "Penalty": {
+        "yes": 0.19,
+        "no": 0.81
+      }
+    },
+    "positions": [
+      {
+        "name": "O2.5",
+        "direction": "buy",
+        "amount": 123.0,
+        "amount_pct": 1.2,
+        "p_model": 0.5005,
+        "p_market": 0.41,
+        "display_price": 0.41,
+        "edge": 0.0905,
+        "edge_pct": 9.0,
+        "kelly_raw": 0.1534,
+        "kelly_adj": 0.0383,
+        "vol": null
+      },
+      {
+        "name": "Penalty NO",
+        "direction": "sell",
+        "amount": 123.0,
+        "amount_pct": 1.2,
+        "p_model": 0.118,
+        "p_market": 0.19,
+        "display_price": 0.81,
+        "edge": 0.072,
+        "edge_pct": 7.2,
+        "kelly_raw": 0.3789,
+        "kelly_adj": 0.0947,
+        "vol": null
+      },
+      {
+        "name": "H O1.5",
+        "direction": "buy",
+        "amount": 123.0,
+        "amount_pct": 1.2,
+        "p_model": 0.4605,
+        "p_market": 0.39,
+        "display_price": 0.39,
+        "edge": 0.0705,
+        "edge_pct": 7.1,
+        "kelly_raw": 0.1156,
+        "kelly_adj": 0.0289,
+        "vol": null
+      },
+      {
+        "name": "H -1.5",
+        "direction": "buy",
+        "amount": 98.0,
+        "amount_pct": 1.0,
+        "p_model": 0.242,
+        "p_market": 0.19,
+        "display_price": 0.19,
+        "edge": 0.052,
+        "edge_pct": 5.2,
+        "kelly_raw": 0.0642,
+        "kelly_adj": 0.016,
+        "vol": null
+      },
+      {
+        "name": "ExtraTime NO",
+        "direction": "sell",
+        "amount": 123.0,
+        "amount_pct": 1.2,
+        "p_model": 0.2622,
+        "p_market": 0.31,
+        "display_price": 0.69,
+        "edge": 0.0478,
+        "edge_pct": 4.8,
+        "kelly_raw": 0.1542,
+        "kelly_adj": 0.0385,
+        "vol": null
+      },
+      {
+        "name": "1X2 HOME",
+        "direction": "buy",
+        "amount": 123.0,
+        "amount_pct": 1.2,
+        "p_model": 0.4673,
+        "p_market": 0.42,
+        "display_price": 0.42,
+        "edge": 0.0473,
+        "edge_pct": 4.7,
+        "kelly_raw": 0.0816,
+        "kelly_adj": 0.0204,
+        "vol": "$2M"
+      },
+      {
+        "name": "A O1.5",
+        "direction": "buy",
+        "amount": 81.0,
+        "amount_pct": 0.8,
+        "p_model": 0.3082,
+        "p_market": 0.27,
+        "display_price": 0.27,
+        "edge": 0.0382,
+        "edge_pct": 3.8,
+        "kelly_raw": 0.0523,
+        "kelly_adj": 0.0131,
+        "vol": null
+      },
+      {
+        "name": "BTTS YES",
+        "direction": "buy",
+        "amount": 83.0,
+        "amount_pct": 0.8,
+        "p_model": 0.5365,
+        "p_market": 0.51,
+        "display_price": 0.51,
+        "edge": 0.0265,
+        "edge_pct": 2.6,
+        "kelly_raw": 0.0541,
+        "kelly_adj": 0.0135,
+        "vol": null
+      },
+      {
+        "name": "FirstScorer AWAY",
+        "direction": "buy",
+        "amount": 43.0,
+        "amount_pct": 0.4,
+        "p_model": 0.3877,
+        "p_market": 0.37,
+        "display_price": 0.37,
+        "edge": 0.0177,
+        "edge_pct": 1.8,
+        "kelly_raw": 0.0281,
+        "kelly_adj": 0.007,
+        "vol": null
+      },
+      {
+        "name": "1X2 AWAY",
+        "direction": "buy",
+        "amount": 22.0,
+        "amount_pct": 0.2,
+        "p_model": 0.2705,
+        "p_market": 0.26,
+        "display_price": 0.26,
+        "edge": 0.0105,
+        "edge_pct": 1.1,
+        "kelly_raw": 0.0142,
+        "kelly_adj": 0.0035,
+        "vol": "$2M"
+      },
+      {
+        "name": "FirstScorer HOME",
+        "direction": "buy",
+        "amount": 28.0,
+        "amount_pct": 0.3,
+        "p_model": 0.5385,
+        "p_market": 0.53,
+        "display_price": 0.53,
+        "edge": 0.0085,
+        "edge_pct": 0.8,
+        "kelly_raw": 0.0181,
+        "kelly_adj": 0.0045,
+        "vol": null
+      },
+      {
+        "name": "ToAdvance HOME",
+        "direction": "buy",
+        "amount": 31.0,
+        "amount_pct": 0.3,
+        "p_model": 0.5984,
+        "p_market": 0.59,
+        "display_price": 0.59,
+        "edge": 0.0084,
+        "edge_pct": 0.8,
+        "kelly_raw": 0.0205,
+        "kelly_adj": 0.0051,
+        "vol": null
+      }
+    ]
+  }
+}

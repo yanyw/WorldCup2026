@@ -1,0 +1,96 @@
+==========================================================================================
+  仓位冗余分析: 识别重复/高度相关仓位
+==========================================================================================
+
+--- France vs England ---
+  🔴 完全重复:
+     1X2 DRAW (BUY @ 23¢) ≡ ExtraTime YES (BUY @ 23¢)
+     → 同一事件: '90分钟平局'。保留 1X2 DRAW ($5.1M交易量更高)
+     → 删除: ExtraTime YES ($74)
+
+  🟡 高度相关:
+     1X2 AWAY (BUY) + 1X2 DRAW (BUY) ≈ ToAdvance AWAY (SELL)
+     → 英格兰晋级 = 90分钟赢 + 加时/点球赢
+     → 1X2 AWAY@24¢ (Edge+13.3pp) + 1X2 DRAW@23¢ (Edge+3.9pp) 是两个独立赌注
+     → ToAdvance AWAY (SELL France advance@66¢, Edge+16.7pp) 是不同维度的赌注
+     → 保留三者，但注意它们不是完全独立的
+
+--- Spain vs Argentina ---
+  🔴 完全重复:
+     ExtraTime NO (SELL @ 31¢) ≈ 1X2 HOME (BUY @ 42¢) + 1X2 AWAY (BUY @ 26¢)
+     → ExtraTime NO 赌的是 '非平局' = 西班牙赢 + 阿根廷赢
+     → 而 1X2 HOME + 1X2 AWAY 已经覆盖了这两个结果
+     → 删除 ExtraTime NO。保留 1X2 HOME (Edge+4.7pp) 和 1X2 AWAY (Edge+1.1pp)
+     → 删除: ExtraTime NO ($123)
+
+  🟡 互斥互补:
+     FirstScorer HOME (BUY @ 53¢, Edge+0.8pp) + FirstScorer AWAY (BUY @ 37¢, Edge+1.8pp)
+     → 两边都买 = 覆盖90%概率 (只有0-0时双输)
+     → 微薄Edge被两边对冲稀释
+     → 保留 FirstScorer AWAY (Edge更大+1.8pp)，删除 FirstScorer HOME
+     → 删除: FirstScorer HOME ($28)
+
+  🟡 高度相关:
+     Penalty NO (SELL @ 19¢) ←→ 1X2 HOME + 1X2 AWAY
+     → 点球不发生 ≈ 非平局 + (平局但加时决出胜负)
+     → Penalty NO 有额外的 '平局+加时分胜负' 覆盖
+     → 但风险比 4.3x，建议大幅减仓而非删除
+     → 减仓: $123 → $40
+
+==========================================================================================
+  精简约组合 (22笔 → 16笔)
+==========================================================================================
+
+  比赛     盘口                        方向     价格      仓位  理由
+  ────── ────────────────────── ───── ────── ───────  ──────────────────────────────
+  FRA-ENG 1X2 AWAY                ▲BUY    24% $   130  英格兰90分钟胜 (Edge +13.3pp)
+  FRA-ENG 1X2 DRAW                ▲BUY    23% $    90  90分钟平局 (Edge +3.9pp) — 吸收原ExtraTime YES
+  FRA-ENG U3.5                   ▼SELL    44% $   100  总进球≤3 (Edge +15.6pp)
+  FRA-ENG BTTS NO                ▼SELL    68% $   100  至少一队零封 (Edge +12.8pp)
+  FRA-ENG H U2.5                 ▼SELL    32% $   100  法国进球≤2 (Edge +17.0pp)
+  FRA-ENG A +1.5                 ▼SELL    29% $   100  法国不胜2+球 (Edge +12.7pp)
+  FRA-ENG FirstScorer AWAY        ▲BUY    36% $   120  英格兰先进球 (Edge +10.9pp)
+  FRA-ENG ToAdvance AWAY         ▼SELL    66% $   100  英格兰晋级 (Edge +16.7pp)
+  FRA-ENG Penalty YES             ▲BUY    11% $    20  点球大战 (Edge +1.1pp) — 保留小仓位对冲
+  ESP-ARG 1X2 HOME                ▲BUY    42% $   130  西班牙90分钟胜 (Edge +4.7pp)
+  ESP-ARG 1X2 AWAY                ▲BUY    26% $    30  阿根廷90分钟胜 (Edge +1.1pp)
+  ESP-ARG O2.5                    ▲BUY    41% $   110  总进球>2.5 (Edge +9.0pp)
+  ESP-ARG BTTS YES                ▲BUY    51% $    80  双方进球 (Edge +2.6pp)
+  ESP-ARG H O1.5                  ▲BUY    39% $   100  西班牙进球≥2 (Edge +7.1pp)
+  ESP-ARG H -1.5                  ▲BUY    19% $    90  西班牙净胜2+ (Edge +5.2pp)
+  ESP-ARG A O1.5                  ▲BUY    27% $    70  阿根廷进球≥2 (Edge +3.8pp)
+  ESP-ARG FirstScorer AWAY        ▲BUY    37% $    50  阿根廷先进球 (Edge +1.8pp) — 吸收原HOME
+  ESP-ARG Penalty NO             ▼SELL    19% $    40  无点球 (Edge +7.2pp) — 减仓至$40
+  ESP-ARG ToAdvance HOME          ▲BUY    59% $    30  西班牙晋级 (Edge +0.8pp)
+
+  FRA-ENG 合计: $860 (8.6%)
+  ESP-ARG 合计: $730 (7.3%)
+  组合总计:     $1,590 (15.9%)
+
+  删除的仓位 (节省 $225):
+    ❌ [FE] ExtraTime YES → 与1X2 DRAW完全相同 (原$74)
+    ❌ [EA] ExtraTime NO → 被1X2 HOME+AWAY覆盖 (原$123)
+    ❌ [EA] FirstScorer HOME → 与AWAY互补，Edge更小 (原$28)
+
+==========================================================================================
+  优化前后组合 P&L 对比 (49场景联合模拟)
+==========================================================================================
+
+  指标                            原组合 (22笔)          优化后 (16笔)         改善
+  ──────────────────── ────────────────── ────────────────── ──────────
+  仓位笔数                                 22                 16        -6笔
+  总风险敞口                $            2,000 $            1,590           
+  组合EV                 $             +180 $             +178           
+  EV收益率                            +1.80%             +1.78%           
+  95% VaR              $             -580 $             -299         ↓风险
+  最差场景                 $           -1,542 $             -872           
+  最佳场景                 $           +1,801 $           +1,542           
+  盈利概率                              23.1%              28.5%           
+  非对称仓位                           8笔 SELL            6笔 SELL        -2笔
+
+  ✅ 优化效果:
+     • 删除 3笔 完全/高度重复仓位
+     • 合并 3笔 (ExtraTime YES→1X2 DRAW, ExtraTime NO→1X2 HOME+AWAY, FS HOME→FS AWAY)
+     • Penalty NO 减仓 67% ($123→$40)
+     • 仓位从 22→16，风险敞口基本持平，EV保持
+     • 消除 FirstScorer 双向对赌浪费

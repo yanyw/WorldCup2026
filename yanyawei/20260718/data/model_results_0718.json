@@ -1,0 +1,1487 @@
+{
+  "metadata": {
+    "model_version": "production-light-p1-p2-p3-0718-90m-v1",
+    "generated_at_utc": "2026-07-18T13:29:30+00:00",
+    "random_seed": 20260718,
+    "cutoff_exclusive": "2026-07-18",
+    "latest_completed_result_used": "2026-07-15",
+    "independence_statement": "No Polymarket prices, betting odds, bookmaker consensus, or Opta predictions are read or used.",
+    "p1_method": "Penalized time-decayed independent Poisson attack-defense model. The penalty is ridge/MAP-like shrinkage; this is explicitly not a fully Bayesian posterior model.",
+    "p2_method": "Venue-neutral sequential Elo plus ridge multinomial-logistic 1X2 calibration with an empirically fitted home indicator; temporal validation selects whether recent Elo trajectory is retained.",
+    "p3_method": "Opponent-adjusted log-link tournament xG attack-defense model with strong ridge shrinkage; P3 enters lambdas with a hard weight cap of 25%.",
+    "limitations": [
+      "Independent Poisson omits within-match score correlation, red-card timing, lineups, injuries, rest, weather, and tactical matchup effects.",
+      "Historical international results mix competition strength and may include scores after extra time depending on source conventions.",
+      "Ridge shrinkage is not full Bayesian uncertainty propagation; interval outputs are model-risk scenarios rather than posterior credible intervals.",
+      "P3 uses only a small current-tournament snapshot and has no explicit venue field; its home adjustment, when applicable, is borrowed from P1.",
+      "P2 is validated only as a 1X2 strength model and is deliberately prevented from independently setting totals, BTTS, or score probabilities.",
+      "No player availability or confirmed starting XI information is included.",
+      "Azteca altitude is treated as added uncertainty, not as a directional xG coefficient; the Mexico home effect comes from the fitted historical home indicator."
+    ],
+    "canonical_90_minute": {
+      "method": "Use independently verified score_90 for known extra-time matches; exclude unverified shootout/extra-time-risk rows. Goalscorer minutes are a detection and consistency check, not sole settlement evidence.",
+      "rows_before": 49507,
+      "rows_after": 48666,
+      "scope_verified_rows": 18894,
+      "score_rows_corrected": 4,
+      "extra_time_goals_removed": 7,
+      "scope_uncertain_rows_excluded": 841,
+      "goalscorers_source": "https://raw.githubusercontent.com/martj42/international_results/master/goalscorers.csv",
+      "shootouts_source": "https://raw.githubusercontent.com/martj42/international_results/master/shootouts.csv",
+      "external_verification_ledger": "C:\\Users\\hh\\Desktop\\TsingHuaProject\\小论文——世界杯预测\\WorldCup2026\\yanyawei\\20260718\\data\\extra_time_verification_0718.json",
+      "externally_verified_extra_time_matches": 6,
+      "p3_extra_time_reports_excluded": 4,
+      "p3_extra_time_policy": "Exclude 120-minute aggregate xG unless a verified 90-minute xG split is available."
+    },
+    "scenario_p10_calibrated": false,
+    "scenario_p10_label": "heuristic scenario percentile; not a calibrated lower bound",
+    "p3_freshness_note": "P3 FIFA xG reports end on 2026-07-07. Semifinal xG figures found in secondary previews are not injected into the independent model because no audited FIFA 90-minute report artifact was available. Recent semifinal scores are included in P1/P2."
+  },
+  "sources": {
+    "international_results_csv": "https://raw.githubusercontent.com/martj42/international_results/master/results.csv",
+    "international_results_repository": "https://github.com/martj42/international_results",
+    "international_results_sha256": "186a8bb36c799b0e0dc585d10320a904fd0688e5ca9cd4df7e2a18977006ff38",
+    "cache_status": "cache",
+    "fifa_xg_local_artifact": "C:\\Users\\hh\\Desktop\\TsingHuaProject\\小论文——世界杯预测\\WorldCup2026\\yanyawei\\20260709\\data\\fifa_match_stats_0709.json",
+    "fifa_training_centre": "https://www.fifatrainingcentre.com/en/fwc2026/post-match-summary-reports/",
+    "fifa_match_report_urls_in_artifact": [
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M07-BRA-V-MAR%20POST-V2.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M08-QAT-V-SUI.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M14-ESP-V-CPV.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M16-BEL-V-EGY.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M17-FRA-V-SEN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M18-IRQ-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M19-ARG-V-ALG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M22-ENG-V-CRO.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M26-SUI-V-BIH.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M30-SCO-V-MAR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M38-ESP-V-KSA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M39-BEL-V-IRN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M41-NOR-V-SEN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M42-FRA-V-IRQ.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M43-ARG-V-AUT.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M45-ENG-V-GHA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M50-MAR-V-HAI-V2.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M51-SUI-V-CAN.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M61-NOR-V-FRA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M64-NZL-V-BEL.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M66-URU-V-ESP.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M67-PAN-V-ENG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M70-JOR-V-ARG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M77-FRA-V-SWE.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M78-CIV-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M80-ENG-V-COD.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M84-ESP-V-AUT.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M85-SUI-V-ALG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M89-PAR-V-FRA.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M90-CAN-V-MAR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M91-BRA-V-NOR.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M92-MEX-V-ENG.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M93-POR-V-ESP.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M94-USA-V-BEL.pdf",
+      "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M95-ARG-V-EGY.pdf"
+    ]
+  },
+  "data_audit": {
+    "completed_results_before_cutoff": 48666,
+    "p1_recent_results": 9818,
+    "p2_elo_results": 24932,
+    "p3_tournament_matches": 35,
+    "p3_latest_matched_completed_date": "2026-07-07",
+    "p3_cutoff_assertion_passed": true,
+    "excluded_rows": {
+      "at_or_after_cutoff": 2,
+      "scope_uncertain_rows_excluded": 841
+    },
+    "cutoff_assertion_passed": true
+  },
+  "validation": {
+    "protocol": {
+      "training": "2016-01-01 through 2024-01-01 exclusive",
+      "holdout": "2024-01-01 through 2026-07-18 exclusive",
+      "temporal_ordering": true
+    },
+    "p1_selected": {
+      "half_life_days": 1460.0,
+      "ridge": 2.0,
+      "n": 2577,
+      "log_loss": 0.856848,
+      "brier": 0.500812,
+      "rps": 0.167144
+    },
+    "p2_variants": {
+      "current_elo": {
+        "n": 2577,
+        "log_loss": 0.870468,
+        "brier": 0.511415,
+        "rps": 0.170983
+      },
+      "current_elo_plus_recent_trajectory": {
+        "n": 2577,
+        "log_loss": 0.871251,
+        "brier": 0.511939,
+        "rps": 0.171063
+      }
+    },
+    "p2_selected": "current_elo"
+  },
+  "fitted_models": {
+    "p1": {
+      "matches": 9818,
+      "teams": 294,
+      "effective_match_weight": 4591.867,
+      "converged": true,
+      "iterations": 166,
+      "objective": 12804.207227,
+      "home_advantage_log": 0.248083,
+      "home_advantage_goal_multiplier": 1.281566
+    },
+    "p3": {
+      "matches": 35,
+      "teams": 35,
+      "ridge": 8.0,
+      "converged": true,
+      "iterations": 11,
+      "global_xg_per_team": 1.350767
+    }
+  },
+  "p3_team_sample_aggregates": {
+    "Argentina": {
+      "games": 4,
+      "xg_for": 9.18,
+      "xg_against": 2.76,
+      "xg_for_per_match": 2.295,
+      "xg_against_per_match": 0.69,
+      "goals_for": 11,
+      "goals_against": 3,
+      "opponents": [
+        "Algeria",
+        "Austria",
+        "Jordan",
+        "Egypt"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1728.45
+    },
+    "England": {
+      "games": 5,
+      "xg_for": 10.59,
+      "xg_against": 4.53,
+      "xg_for_per_match": 2.118,
+      "xg_against_per_match": 0.906,
+      "goals_for": 11,
+      "goals_against": 5,
+      "opponents": [
+        "Croatia",
+        "Ghana",
+        "Panama",
+        "Congo DR",
+        "Mexico"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1683.86
+    },
+    "France": {
+      "games": 5,
+      "xg_for": 9.8,
+      "xg_against": 3.38,
+      "xg_for_per_match": 1.96,
+      "xg_against_per_match": 0.676,
+      "goals_for": 14,
+      "goals_against": 2,
+      "opponents": [
+        "Senegal",
+        "Iraq",
+        "Norway",
+        "Sweden",
+        "Paraguay"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1734.34
+    },
+    "Spain": {
+      "games": 5,
+      "xg_for": 10.55,
+      "xg_against": 1.62,
+      "xg_for_per_match": 2.11,
+      "xg_against_per_match": 0.324,
+      "goals_for": 9,
+      "goals_against": 0,
+      "opponents": [
+        "Cabo Verde",
+        "Saudi Arabia",
+        "Uruguay",
+        "Austria",
+        "Portugal"
+      ],
+      "mean_opponent_pre_cutoff_elo": 1708.23
+    }
+  },
+  "matches": [
+    {
+      "id": "france_england_2026-07-18",
+      "home": "France",
+      "away": "England",
+      "neutral": true,
+      "venue": "Miami World Cup third-place venue",
+      "venue_context": "neutral venue; third-place rotation, motivation and Miami heat create unusually high lineup uncertainty",
+      "uncertainty_widening": 0.025,
+      "settlement_scope": "90_minutes_including_stoppage_time",
+      "p1": {
+        "home_lambda": 1.0903407,
+        "away_lambda": 1.08744772,
+        "1x2": {
+          "home": 0.3541852,
+          "draw": 0.29309218,
+          "away": 0.35272262
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "fitted_log_effect": 0.0,
+          "home_goal_multiplier": 1.0,
+          "home_lambda_delta_vs_neutral": 0.0,
+          "neutral_counterfactual_lambdas": {
+            "home": 1.0903407,
+            "away": 1.08744772
+          }
+        }
+      },
+      "p2": {
+        "chosen_variant": "current_elo",
+        "home_elo": 1960.528,
+        "away_elo": 1895.525,
+        "home_recent_trajectory": 13.41,
+        "away_recent_trajectory": 1.17,
+        "1x2": {
+          "home": 0.50790184,
+          "draw": 0.24280079,
+          "away": 0.24929738
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "estimated_in_calibrated_outcome_layer": true,
+          "neutral_counterfactual_1x2": {
+            "home": 0.50790184,
+            "draw": 0.24280079,
+            "away": 0.24929738
+          },
+          "home_win_probability_delta_vs_neutral": 0.0
+        },
+        "role": "relative-strength ratio check only; does not set total goals or directly price totals/BTTS"
+      },
+      "p3": {
+        "home_lambda": 1.36624528,
+        "away_lambda": 1.32831299,
+        "sample_games_minimum": 5,
+        "blend_weight": 0.23809524,
+        "cap": 0.25
+      },
+      "combination": {
+        "pre_p2_home_lambda": 1.15603227,
+        "pre_p2_away_lambda": 1.14479659,
+        "p2_ratio_adjustment_weight": 0.2,
+        "p2_log_ratio_gap_before_cap": 0.45963497,
+        "p2_log_ratio_gap_after_cap": 0.13976194,
+        "total_lambda_preserved_by_p2": true
+      },
+      "final_lambdas": {
+        "home": 1.17210816,
+        "away": 1.12872071,
+        "total": 2.30082886
+      },
+      "markets": {
+        "1x2": {
+          "home": 0.3689414,
+          "draw": 0.28354617,
+          "away": 0.34751243
+        },
+        "spreads_home_handicap": {
+          "home_-2.5": {
+            "win": 0.0500646,
+            "push": 0.0,
+            "loss": 0.9499354
+          },
+          "home_-1.5": {
+            "win": 0.15470955,
+            "push": 0.0,
+            "loss": 0.84529045
+          },
+          "home_-0.5": {
+            "win": 0.3689414,
+            "push": 0.0,
+            "loss": 0.6310586
+          },
+          "home_+0.0": {
+            "win": 0.3689414,
+            "push": 0.28354617,
+            "loss": 0.34751243
+          },
+          "home_+0.5": {
+            "win": 0.65248757,
+            "push": 0.0,
+            "loss": 0.34751243
+          },
+          "home_+1.5": {
+            "win": 0.85878928,
+            "push": 0.0,
+            "loss": 0.14121072
+          },
+          "home_+2.5": {
+            "win": 0.95583042,
+            "push": 0.0,
+            "loss": 0.04416958
+          }
+        },
+        "totals": {
+          "1.5": {
+            "over": 0.6693369,
+            "under": 0.3306631
+          },
+          "2.5": {
+            "over": 0.40418096,
+            "under": 0.59581904
+          },
+          "3.5": {
+            "over": 0.20082148,
+            "under": 0.79917852
+          },
+          "4.5": {
+            "over": 0.08384764,
+            "under": 0.91615236
+          }
+        },
+        "btts": {
+          "yes": 0.46701567,
+          "no": 0.53298433
+        },
+        "team_totals": {
+          "home": {
+            "0.5": {
+              "over": 0.69028667,
+              "under": 0.30971333
+            },
+            "1.5": {
+              "over": 0.32726915,
+              "under": 0.67273085
+            },
+            "2.5": {
+              "over": 0.11452126,
+              "under": 0.88547874
+            }
+          },
+          "away": {
+            "0.5": {
+              "over": 0.67655322,
+              "under": 0.32344678
+            },
+            "1.5": {
+              "over": 0.31147215,
+              "under": 0.68852785
+            },
+            "2.5": {
+              "over": 0.10543487,
+              "under": 0.89456513
+            }
+          }
+        }
+      },
+      "score_matrix": {
+        "support": "0..12 goals per team",
+        "renormalized": true,
+        "pre_normalization_truncated_mass": 7.001026425257351e-10,
+        "top_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "probability": 0.13253083
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "probability": 0.11741685
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "probability": 0.11307047
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "probability": 0.10017578
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "probability": 0.07767023
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 2,
+            "probability": 0.07479514
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 0,
+            "probability": 0.06881262
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 2,
+            "probability": 0.06381249
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 2,
+            "probability": 0.043834
+          },
+          {
+            "home_goals": 3,
+            "away_goals": 1,
+            "probability": 0.03034597
+          }
+        ],
+        "probabilities": [
+          [
+            0.10017578,
+            0.11307047,
+            0.06381249,
+            0.02400883,
+            0.00677482,
+            0.00152937,
+            0.00028771,
+            4.639e-05,
+            6.55e-06,
+            8.2e-07,
+            9e-08,
+            1e-08,
+            0.0
+          ],
+          [
+            0.11741685,
+            0.13253083,
+            0.07479514,
+            0.02814094,
+            0.00794082,
+            0.00179259,
+            0.00033722,
+            5.438e-05,
+            7.67e-06,
+            9.6e-07,
+            1.1e-07,
+            1e-08,
+            0.0
+          ],
+          [
+            0.06881262,
+            0.07767023,
+            0.043834,
+            0.01649211,
+            0.00465375,
+            0.00105056,
+            0.00019763,
+            3.187e-05,
+            4.5e-06,
+            5.6e-07,
+            6e-08,
+            1e-08,
+            0.0
+          ],
+          [
+            0.02688528,
+            0.03034597,
+            0.01712606,
+            0.00644351,
+            0.00181823,
+            0.00041046,
+            7.721e-05,
+            1.245e-05,
+            1.76e-06,
+            2.2e-07,
+            2e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.00787811,
+            0.00889219,
+            0.0050184,
+            0.00188812,
+            0.00053279,
+            0.00012027,
+            2.263e-05,
+            3.65e-06,
+            5.1e-07,
+            6e-08,
+            1e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.0018468,
+            0.00208452,
+            0.00117642,
+            0.00044262,
+            0.0001249,
+            2.819e-05,
+            5.3e-06,
+            8.6e-07,
+            1.2e-07,
+            2e-08,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.00036077,
+            0.00040721,
+            0.00022982,
+            8.647e-05,
+            2.44e-05,
+            5.51e-06,
+            1.04e-06,
+            1.7e-07,
+            2e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            6.041e-05,
+            6.819e-05,
+            3.848e-05,
+            1.448e-05,
+            4.09e-06,
+            9.2e-07,
+            1.7e-07,
+            3e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            8.85e-06,
+            9.99e-06,
+            5.64e-06,
+            2.12e-06,
+            6e-07,
+            1.4e-07,
+            3e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.15e-06,
+            1.3e-06,
+            7.3e-07,
+            2.8e-07,
+            8e-08,
+            2e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.4e-07,
+            1.5e-07,
+            9e-08,
+            3e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1e-08,
+            2e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      "uncertainty": {
+        "method": "reproducible 500-draw lognormal total-goals and log-ratio scenario simulation",
+        "interpretation": "10th-90th scenario percentiles; heuristic model-risk range, not a frequentist confidence interval",
+        "contextual_widening": 0.025,
+        "context_note": "Altitude and lineup uncertainty widen dispersion only; no arbitrary altitude xG coefficient or directional goal adjustment is applied.",
+        "lambda_intervals": {
+          "home": {
+            "p10": 0.84566478,
+            "p90": 1.55959085
+          },
+          "away": {
+            "p10": 0.76971498,
+            "p90": 1.53368694
+          },
+          "total": {
+            "p10": 1.71979029,
+            "p90": 3.00172896
+          }
+        },
+        "market_probability_intervals": {
+          "1x2.away": {
+            "p10": 0.24728793,
+            "p90": 0.43873096
+          },
+          "1x2.draw": {
+            "p10": 0.23772394,
+            "p90": 0.33414856
+          },
+          "1x2.home": {
+            "p10": 0.27192724,
+            "p90": 0.47195983
+          },
+          "btts.no": {
+            "p10": 0.40082434,
+            "p90": 0.67167806
+          },
+          "btts.yes": {
+            "p10": 0.32832194,
+            "p90": 0.59917566
+          },
+          "spreads_home_handicap.home_+0.0.loss": {
+            "p10": 0.24728793,
+            "p90": 0.43873096
+          },
+          "spreads_home_handicap.home_+0.0.push": {
+            "p10": 0.23772394,
+            "p90": 0.33414856
+          },
+          "spreads_home_handicap.home_+0.0.win": {
+            "p10": 0.27192724,
+            "p90": 0.47195983
+          },
+          "spreads_home_handicap.home_+0.5.loss": {
+            "p10": 0.24728793,
+            "p90": 0.43873096
+          },
+          "spreads_home_handicap.home_+0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+0.5.win": {
+            "p10": 0.56126904,
+            "p90": 0.75271207
+          },
+          "spreads_home_handicap.home_+1.5.loss": {
+            "p10": 0.07780419,
+            "p90": 0.20889606
+          },
+          "spreads_home_handicap.home_+1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+1.5.win": {
+            "p10": 0.79110394,
+            "p90": 0.92219581
+          },
+          "spreads_home_handicap.home_+2.5.loss": {
+            "p10": 0.01746739,
+            "p90": 0.08040838
+          },
+          "spreads_home_handicap.home_+2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+2.5.win": {
+            "p10": 0.91959162,
+            "p90": 0.98253261
+          },
+          "spreads_home_handicap.home_-0.5.loss": {
+            "p10": 0.52804017,
+            "p90": 0.72807276
+          },
+          "spreads_home_handicap.home_-0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-0.5.win": {
+            "p10": 0.27192724,
+            "p90": 0.47195983
+          },
+          "spreads_home_handicap.home_-1.5.loss": {
+            "p10": 0.76426436,
+            "p90": 0.90651997
+          },
+          "spreads_home_handicap.home_-1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-1.5.win": {
+            "p10": 0.09348003,
+            "p90": 0.23573564
+          },
+          "spreads_home_handicap.home_-2.5.loss": {
+            "p10": 0.90799774,
+            "p90": 0.97598493
+          },
+          "spreads_home_handicap.home_-2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-2.5.win": {
+            "p10": 0.02401507,
+            "p90": 0.09200226
+          },
+          "team_totals.away.0.5.over": {
+            "p10": 0.53685461,
+            "p90": 0.78426083
+          },
+          "team_totals.away.0.5.under": {
+            "p10": 0.21573917,
+            "p90": 0.46314539
+          },
+          "team_totals.away.1.5.over": {
+            "p10": 0.18036534,
+            "p90": 0.45338525
+          },
+          "team_totals.away.1.5.under": {
+            "p10": 0.54661475,
+            "p90": 0.81963466
+          },
+          "team_totals.away.2.5.over": {
+            "p10": 0.04316769,
+            "p90": 0.19965568
+          },
+          "team_totals.away.2.5.under": {
+            "p10": 0.80034432,
+            "p90": 0.95683231
+          },
+          "team_totals.home.0.5.over": {
+            "p10": 0.57072803,
+            "p90": 0.78977793
+          },
+          "team_totals.home.0.5.under": {
+            "p10": 0.21022207,
+            "p90": 0.42927197
+          },
+          "team_totals.home.1.5.over": {
+            "p10": 0.207708,
+            "p90": 0.46191752
+          },
+          "team_totals.home.1.5.under": {
+            "p10": 0.53808248,
+            "p90": 0.792292
+          },
+          "team_totals.home.2.5.over": {
+            "p10": 0.05421136,
+            "p90": 0.20625346
+          },
+          "team_totals.home.2.5.under": {
+            "p10": 0.79374654,
+            "p90": 0.94578863
+          },
+          "totals.1.5.over": {
+            "p10": 0.51287549,
+            "p90": 0.8011094
+          },
+          "totals.1.5.under": {
+            "p10": 0.19889061,
+            "p90": 0.48712451
+          },
+          "totals.2.5.over": {
+            "p10": 0.24800989,
+            "p90": 0.57719684
+          },
+          "totals.2.5.under": {
+            "p10": 0.42280316,
+            "p90": 0.75199011
+          },
+          "totals.3.5.over": {
+            "p10": 0.09617212,
+            "p90": 0.35315546
+          },
+          "totals.3.5.under": {
+            "p10": 0.64684454,
+            "p90": 0.90382788
+          },
+          "totals.4.5.over": {
+            "p10": 0.03088985,
+            "p90": 0.18502758
+          },
+          "totals.4.5.under": {
+            "p10": 0.81497242,
+            "p90": 0.96911015
+          }
+        }
+      }
+    },
+    {
+      "id": "spain_argentina_2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "neutral": true,
+      "venue": "New York New Jersey World Cup final venue",
+      "venue_context": "neutral venue; final-match tactical and weather uncertainty",
+      "uncertainty_widening": 0.01,
+      "settlement_scope": "90_minutes_including_stoppage_time",
+      "p1": {
+        "home_lambda": 1.06437179,
+        "away_lambda": 0.96290048,
+        "1x2": {
+          "home": 0.37368859,
+          "draw": 0.30544913,
+          "away": 0.32086229
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "fitted_log_effect": 0.0,
+          "home_goal_multiplier": 1.0,
+          "home_lambda_delta_vs_neutral": 0.0,
+          "neutral_counterfactual_lambdas": {
+            "home": 1.06437179,
+            "away": 0.96290048
+          }
+        }
+      },
+      "p2": {
+        "chosen_variant": "current_elo",
+        "home_elo": 2008.937,
+        "away_elo": 1984.756,
+        "home_recent_trajectory": 36.999,
+        "away_recent_trajectory": 12.648,
+        "1x2": {
+          "home": 0.43495715,
+          "draw": 0.25222678,
+          "away": 0.31281607
+        },
+        "home_effect_contribution": {
+          "applied": false,
+          "estimated_in_calibrated_outcome_layer": true,
+          "neutral_counterfactual_1x2": {
+            "home": 0.43495715,
+            "draw": 0.25222678,
+            "away": 0.31281607
+          },
+          "home_win_probability_delta_vs_neutral": 0.0
+        },
+        "role": "relative-strength ratio check only; does not set total goals or directly price totals/BTTS"
+      },
+      "p3": {
+        "home_lambda": 1.39849519,
+        "away_lambda": 1.20924039,
+        "sample_games_minimum": 4,
+        "blend_weight": 0.2,
+        "cap": 0.25
+      },
+      "combination": {
+        "pre_p2_home_lambda": 1.13119647,
+        "pre_p2_away_lambda": 1.01216846,
+        "p2_ratio_adjustment_weight": 0.2,
+        "p2_log_ratio_gap_before_cap": 0.11431879,
+        "p2_log_ratio_gap_after_cap": 0.11431879,
+        "total_lambda_preserved_by_p2": true
+      },
+      "final_lambdas": {
+        "home": 1.14340175,
+        "away": 0.99996318,
+        "total": 2.14336493
+      },
+      "markets": {
+        "1x2": {
+          "home": 0.38902346,
+          "draw": 0.29488487,
+          "away": 0.31609168
+        },
+        "spreads_home_handicap": {
+          "home_-2.5": {
+            "win": 0.05184752,
+            "push": 0.0,
+            "loss": 0.94815248
+          },
+          "home_-1.5": {
+            "win": 0.16222038,
+            "push": 0.0,
+            "loss": 0.83777962
+          },
+          "home_-0.5": {
+            "win": 0.38902346,
+            "push": 0.0,
+            "loss": 0.61097654
+          },
+          "home_+0.0": {
+            "win": 0.38902346,
+            "push": 0.29488487,
+            "loss": 0.31609168
+          },
+          "home_+0.5": {
+            "win": 0.68390832,
+            "push": 0.0,
+            "loss": 0.31609168
+          },
+          "home_+1.5": {
+            "win": 0.88225919,
+            "push": 0.0,
+            "loss": 0.11774081
+          },
+          "home_+2.5": {
+            "win": 0.96667671,
+            "push": 0.0,
+            "loss": 0.03332329
+          }
+        },
+        "totals": {
+          "1.5": {
+            "over": 0.63141026,
+            "under": 0.36858974
+          },
+          "2.5": {
+            "over": 0.36206416,
+            "under": 0.63793584
+          },
+          "3.5": {
+            "over": 0.16962851,
+            "under": 0.83037149
+          },
+          "4.5": {
+            "over": 0.06651355,
+            "under": 0.93348645
+          }
+        },
+        "btts": {
+          "yes": 0.4306337,
+          "no": 0.5693663
+        },
+        "team_totals": {
+          "home": {
+            "0.5": {
+              "over": 0.68126707,
+              "under": 0.31873293
+            },
+            "1.5": {
+              "over": 0.31682729,
+              "under": 0.68317271
+            },
+            "2.5": {
+              "over": 0.10847674,
+              "under": 0.89152326
+            }
+          },
+          "away": {
+            "0.5": {
+              "over": 0.63210701,
+              "under": 0.36789299
+            },
+            "1.5": {
+              "over": 0.26422757,
+              "under": 0.73577243
+            },
+            "2.5": {
+              "over": 0.08029462,
+              "under": 0.91970538
+            }
+          }
+        }
+      },
+      "score_matrix": {
+        "support": "0..12 goals per team",
+        "renormalized": true,
+        "pre_normalization_truncated_mass": 3.8163006088609563e-10,
+        "top_scores": [
+          {
+            "home_goals": 1,
+            "away_goals": 0,
+            "probability": 0.13407484
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 1,
+            "probability": 0.1340699
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 0,
+            "probability": 0.11725961
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 1,
+            "probability": 0.11725529
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 0,
+            "probability": 0.0766507
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 1,
+            "probability": 0.07664788
+          },
+          {
+            "home_goals": 1,
+            "away_goals": 2,
+            "probability": 0.06703248
+          },
+          {
+            "home_goals": 0,
+            "away_goals": 2,
+            "probability": 0.05862549
+          },
+          {
+            "home_goals": 2,
+            "away_goals": 2,
+            "probability": 0.03832253
+          },
+          {
+            "home_goals": 3,
+            "away_goals": 0,
+            "probability": 0.02921418
+          }
+        ],
+        "probabilities": [
+          [
+            0.11725961,
+            0.11725529,
+            0.05862549,
+            0.01954111,
+            0.0048851,
+            0.00097698,
+            0.00016282,
+            2.326e-05,
+            2.91e-06,
+            3.2e-07,
+            3e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.13407484,
+            0.1340699,
+            0.06703248,
+            0.02234334,
+            0.00558563,
+            0.00111708,
+            0.00018617,
+            2.66e-05,
+            3.32e-06,
+            3.7e-07,
+            4e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.0766507,
+            0.07664788,
+            0.03832253,
+            0.01277371,
+            0.00319331,
+            0.00063864,
+            0.00010644,
+            1.52e-05,
+            1.9e-06,
+            2.1e-07,
+            2e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.02921418,
+            0.02921311,
+            0.01460602,
+            0.00486849,
+            0.00121708,
+            0.00024341,
+            4.057e-05,
+            5.79e-06,
+            7.2e-07,
+            8e-08,
+            1e-08,
+            0.0,
+            0.0
+          ],
+          [
+            0.00835089,
+            0.00835058,
+            0.00417514,
+            0.00139166,
+            0.0003479,
+            6.958e-05,
+            1.16e-05,
+            1.66e-06,
+            2.1e-07,
+            2e-08,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.00190968,
+            0.00190961,
+            0.00095477,
+            0.00031825,
+            7.956e-05,
+            1.591e-05,
+            2.65e-06,
+            3.8e-07,
+            5e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.00036392,
+            0.00036391,
+            0.00018195,
+            6.065e-05,
+            1.516e-05,
+            3.03e-06,
+            5.1e-07,
+            7e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            5.944e-05,
+            5.944e-05,
+            2.972e-05,
+            9.91e-06,
+            2.48e-06,
+            5e-07,
+            8e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            8.5e-06,
+            8.5e-06,
+            4.25e-06,
+            1.42e-06,
+            3.5e-07,
+            7e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.08e-06,
+            1.08e-06,
+            5.4e-07,
+            1.8e-07,
+            4e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1.2e-07,
+            1.2e-07,
+            6e-08,
+            2e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            1e-08,
+            1e-08,
+            1e-08,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        ]
+      },
+      "uncertainty": {
+        "method": "reproducible 500-draw lognormal total-goals and log-ratio scenario simulation",
+        "interpretation": "10th-90th scenario percentiles; heuristic model-risk range, not a frequentist confidence interval",
+        "contextual_widening": 0.01,
+        "context_note": "Altitude and lineup uncertainty widen dispersion only; no arbitrary altitude xG coefficient or directional goal adjustment is applied.",
+        "lambda_intervals": {
+          "home": {
+            "p10": 0.81098923,
+            "p90": 1.48991136
+          },
+          "away": {
+            "p10": 0.71558021,
+            "p90": 1.32858397
+          },
+          "total": {
+            "p10": 1.63640725,
+            "p90": 2.72939027
+          }
+        },
+        "market_probability_intervals": {
+          "1x2.away": {
+            "p10": 0.23435697,
+            "p90": 0.40375113
+          },
+          "1x2.draw": {
+            "p10": 0.25179442,
+            "p90": 0.34549789
+          },
+          "1x2.home": {
+            "p10": 0.29616687,
+            "p90": 0.48148555
+          },
+          "btts.no": {
+            "p10": 0.44965554,
+            "p90": 0.69415676
+          },
+          "btts.yes": {
+            "p10": 0.30584324,
+            "p90": 0.55034446
+          },
+          "spreads_home_handicap.home_+0.0.loss": {
+            "p10": 0.23435697,
+            "p90": 0.40375113
+          },
+          "spreads_home_handicap.home_+0.0.push": {
+            "p10": 0.25179442,
+            "p90": 0.34549789
+          },
+          "spreads_home_handicap.home_+0.0.win": {
+            "p10": 0.29616687,
+            "p90": 0.48148555
+          },
+          "spreads_home_handicap.home_+0.5.loss": {
+            "p10": 0.23435697,
+            "p90": 0.40375113
+          },
+          "spreads_home_handicap.home_+0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+0.5.win": {
+            "p10": 0.59624887,
+            "p90": 0.76564303
+          },
+          "spreads_home_handicap.home_+1.5.loss": {
+            "p10": 0.06859403,
+            "p90": 0.17941356
+          },
+          "spreads_home_handicap.home_+1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+1.5.win": {
+            "p10": 0.82058644,
+            "p90": 0.93140597
+          },
+          "spreads_home_handicap.home_+2.5.loss": {
+            "p10": 0.01453834,
+            "p90": 0.0628887
+          },
+          "spreads_home_handicap.home_+2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_+2.5.win": {
+            "p10": 0.9371113,
+            "p90": 0.98546166
+          },
+          "spreads_home_handicap.home_-0.5.loss": {
+            "p10": 0.51851445,
+            "p90": 0.70383313
+          },
+          "spreads_home_handicap.home_-0.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-0.5.win": {
+            "p10": 0.29616687,
+            "p90": 0.48148555
+          },
+          "spreads_home_handicap.home_-1.5.loss": {
+            "p10": 0.76345876,
+            "p90": 0.89998498
+          },
+          "spreads_home_handicap.home_-1.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-1.5.win": {
+            "p10": 0.10001502,
+            "p90": 0.23654124
+          },
+          "spreads_home_handicap.home_-2.5.loss": {
+            "p10": 0.90733207,
+            "p90": 0.97572213
+          },
+          "spreads_home_handicap.home_-2.5.push": {
+            "p10": 0.0,
+            "p90": 0.0
+          },
+          "spreads_home_handicap.home_-2.5.win": {
+            "p10": 0.02427787,
+            "p90": 0.09266793
+          },
+          "team_totals.away.0.5.over": {
+            "p10": 0.51109164,
+            "p90": 0.73514796
+          },
+          "team_totals.away.0.5.under": {
+            "p10": 0.26485204,
+            "p90": 0.48890836
+          },
+          "team_totals.away.1.5.over": {
+            "p10": 0.16123849,
+            "p90": 0.3832698
+          },
+          "team_totals.away.1.5.under": {
+            "p10": 0.6167302,
+            "p90": 0.83876151
+          },
+          "team_totals.away.2.5.over": {
+            "p10": 0.0360645,
+            "p90": 0.14951995
+          },
+          "team_totals.away.2.5.under": {
+            "p10": 0.85048004,
+            "p90": 0.9639355
+          },
+          "team_totals.home.0.5.over": {
+            "p10": 0.55558178,
+            "p90": 0.77460736
+          },
+          "team_totals.home.0.5.under": {
+            "p10": 0.22539264,
+            "p90": 0.44441822
+          },
+          "team_totals.home.1.5.over": {
+            "p10": 0.19516339,
+            "p90": 0.43879231
+          },
+          "team_totals.home.1.5.under": {
+            "p10": 0.56120768,
+            "p90": 0.80483661
+          },
+          "team_totals.home.2.5.over": {
+            "p10": 0.04901568,
+            "p90": 0.188625
+          },
+          "team_totals.home.2.5.under": {
+            "p10": 0.811375,
+            "p90": 0.95098432
+          },
+          "totals.1.5.over": {
+            "p10": 0.48674893,
+            "p90": 0.75662346
+          },
+          "totals.1.5.under": {
+            "p10": 0.24337654,
+            "p90": 0.51325107
+          },
+          "totals.2.5.over": {
+            "p10": 0.22609148,
+            "p90": 0.51354743
+          },
+          "totals.2.5.under": {
+            "p10": 0.48645257,
+            "p90": 0.77390852
+          },
+          "totals.3.5.over": {
+            "p10": 0.0839109,
+            "p90": 0.29239763
+          },
+          "totals.3.5.under": {
+            "p10": 0.70760237,
+            "p90": 0.9160891
+          },
+          "totals.4.5.over": {
+            "p10": 0.02574456,
+            "p90": 0.14149661
+          },
+          "totals.4.5.under": {
+            "p10": 0.85850339,
+            "p90": 0.97425544
+          }
+        }
+      }
+    }
+  ],
+  "probability_validation": [
+    {
+      "match_id": "france_england_2026-07-18",
+      "families_checked": 19,
+      "max_sum_error": 0.0
+    },
+    {
+      "match_id": "spain_argentina_2026-07-19",
+      "families_checked": 19,
+      "max_sum_error": 9.99999993922529e-09
+    }
+  ]
+}

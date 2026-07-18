@@ -1,0 +1,119 @@
+{
+  "as_of_beijing": "2026-07-18T22:04:30+08:00",
+  "method": "Each complete sportsbook quote is devigged separately, then probabilities are averaged by market family. Opta supplies a direct 90-minute 1X2 distribution. Polymarket is excluded from fair probability and used only as execution cost. Missing paired sportsbook outcomes are never inferred.",
+  "matches": [
+    {
+      "id": "france_england_2026-07-18",
+      "home": "France",
+      "away": "England",
+      "sportsbook_sources": [
+        {
+          "book": "Oddschecker live header",
+          "american_odds_1x2": {"home": -115, "draw": 300, "away": 290},
+          "source": "https://www.oddschecker.com/us/soccer/world-cup/france-v-england",
+          "captured_beijing": "2026-07-18T21:20:00+08:00"
+        },
+        {
+          "book": "FanDuel via CBS Sports",
+          "american_odds_1x2": {"home": -115, "draw": 280, "away": 280},
+          "source": "https://www.cbssports.com/betting/news/england-france-odds-prediction-time-2026-world-cup-third-place-match-picks-bets/",
+          "source_note": "CBS updated 18 July and identifies the listed prices as FanDuel 90-minute lines."
+        },
+        {
+          "book": "bet365 via Betting.co.uk comparison",
+          "american_odds_total_2_5": {"over": -225, "under": 175},
+          "source": "https://www.betting.co.uk/tips/france-vs-england-prediction-world-cup-18-07-2026/",
+          "source_note": "Complete paired O/U 2.5 quote: Over 4/9 and Under 7/4."
+        }
+      ],
+      "opta_1x2": {
+        "home": 0.507,
+        "draw": 0.237,
+        "away": 0.256,
+        "source": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff",
+        "source_note": "Al Jazeera reports the Opta 25,000-simulation 90-minute distribution."
+      },
+      "team_news": [
+        {
+          "fact": "William Saliba is out with a back injury; France and England both have plausible rotation changes in the predicted elevens.",
+          "source": "https://www.sportsmole.co.uk/football/england/world-cup-2026/team-news/france-vs-england-injury-suspension-list-predicted-xis_601298.html"
+        },
+        {
+          "fact": "BetMGM notes Miami heat, France's extra rest day and third-place motivation as material uncertainty; these are used to widen risk, not to add a directional goal coefficient.",
+          "source": "https://sports.betmgm.com/en/blog/world-cup/france-vs-england-prediction-odds-preview-world-cup-july-18-bm16/"
+        }
+      ],
+      "additional_data_quality_penalty": {
+        "1x2": 0.005,
+        "totals.2.5": 0.0075
+      },
+      "evidence_gate_blocked_families": {
+        "1x2": "SKIP_EVIDENCE_GATE_STAGE_OOD: the internal model has no third-place stage, motivation or reliable lineup feature.",
+        "totals.2.5": "SKIP_EVIDENCE_GATE_STAGE_OOD: generic Poisson totals are outside the validated domain for a third-place playoff."
+      },
+      "direct_market_families": ["1x2", "totals.2.5"]
+    },
+    {
+      "id": "spain_argentina_2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "sportsbook_sources": [
+        {
+          "book": "BetMGM live event",
+          "american_odds_1x2": {"home": 125, "draw": 200, "away": 250},
+          "source": "https://www.betmgm.com/en/sports/events/spain-argentina-2%3A7832367",
+          "captured_beijing": "2026-07-18T22:04:00+08:00",
+          "source_note": "Live decimal prices 2.25 / 3.00 / 3.50."
+        },
+        {
+          "book": "BetMGM article",
+          "american_odds_total_2_5": {"over": 125, "under": -160},
+          "source": "https://sports.betmgm.com/en/blog/world-cup/spain-vs-argentina-prediction-odds-preview-world-cup-july-19-bm16/",
+          "source_note": "Published 15 July; retained only as the complete paired BetMGM O/U 2.5 quote."
+        },
+        {
+          "book": "Oddschecker live header",
+          "american_odds_1x2": {"home": 132, "draw": 200, "away": 260},
+          "american_odds_total_2_5": {"over": 130, "under": -155},
+          "source": "https://www.oddschecker.com/us/soccer/world-cup/spain-v-argentina",
+          "captured_beijing": "2026-07-18T21:20:00+08:00"
+        }
+      ],
+      "opta_1x2": {
+        "home": 0.45,
+        "draw": 0.29,
+        "away": 0.26,
+        "source": "https://www.clarosports.com/futbol/mundial-2026/pronosticos-final-mundial-espana-argentina/",
+        "source_note": "Claro Sports reports Opta's 90-minute distribution and separately reports trophy probabilities."
+      },
+      "team_news": [
+        {
+          "fact": "Spain are expected to have Yamal and Porro available; Argentina report a fully fit 26-player group.",
+          "source": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/preview/spain-vs-argentina-prediction-team-news-lineups_601336.html"
+        },
+        {
+          "fact": "FIFA's tournament comparison reports Spain at 14.96 cumulative xG; BetMGM reports Argentina's 19 goals came from 14.6 xG. These figures are contextual checks, not separately added probabilities.",
+          "sources": [
+            "https://www.fifa.com/en/news/articles/tournament-stats-how-spain-argentina-perform",
+            "https://sports.betmgm.com/en/blog/world-cup/spain-vs-argentina-prediction-odds-preview-world-cup-july-19-bm16/"
+          ]
+        }
+      ],
+      "additional_data_quality_penalty": {
+        "1x2": 0.0025,
+        "totals.2.5": 0.0025
+      },
+      "direct_market_families": ["1x2", "totals.2.5"]
+    }
+  ],
+  "decision_parameters": {
+    "opta_weight_within_external_1x2": 0.25,
+    "internal_weight": 0.25,
+    "sportsbook_dispersion_coefficient": 0.5,
+    "model_disagreement_coefficient": 0.1,
+    "data_quality_penalty": 0.0025,
+    "minimum_uncertainty": 0.005,
+    "robust_edge_threshold": 0.015,
+    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook consensus. p_center = 0.75 * p_external + 0.25 * p_internal. uncertainty = max(0.5pp, 0.5 * sportsbook source range + 0.1 * absolute internal/external disagreement + base and family-specific data-quality penalties). Directional p_trade is p_center - uncertainty; complement outcomes are constructed coherently before applying uncertainty. If a structural model-applicability gate fails, probabilities remain diagnostics but the outcome is not executable."
+  }
+}

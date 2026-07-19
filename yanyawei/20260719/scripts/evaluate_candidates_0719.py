@@ -94,6 +94,27 @@ def round_down(value: float, tick: float) -> float:
     return max(0.0, math.floor((value + 1e-12) / tick) * tick)
 
 
+def taker_max_single_level_price(
+    p_trade: float,
+    required_edge: float,
+    fee_rate: float,
+    fee_exponent: float,
+    tick: float,
+) -> float:
+    target_cost = p_trade - required_edge
+    if target_cost <= 0.0:
+        return 0.0
+    low, high = 0.0, min(1.0, target_cost)
+    for _ in range(80):
+        mid = (low + high) / 2.0
+        cost = mid + fee_rate * (mid * (1.0 - mid)) ** fee_exponent
+        if cost <= target_cost:
+            low = mid
+        else:
+            high = mid
+    return round_down(low, tick)
+
+
 def main() -> None:
     models = json.loads(MODEL_PATH.read_text(encoding="utf-8"))
     evidence = json.loads(EVIDENCE_PATH.read_text(encoding="utf-8"))
@@ -190,7 +211,14 @@ def main() -> None:
                 source_dispersion = sportsbook_dispersion[base_key]
                 model_disagreement = abs(internal - p_external)
                 family = "1x2" if base_key.startswith("1x2") else "totals.2.5"
-                p_center = p_external + internal_weight * (internal - p_external)
+                stage_applicability = info.get("stage_applicability", {})
+                family_internal_weight = float(
+                    stage_applicability.get("internal_weight_override", {}).get(
+                        family,
+                        internal_weight,
+                    )
+                )
+                p_center = p_external + family_internal_weight * (internal - p_external)
                 data_quality_penalty = base_data_quality_penalty + float(
                     info.get("additional_data_quality_penalty", {}).get(family, 0.0)
                 )
@@ -217,6 +245,13 @@ def main() -> None:
                 taker_edge = p_trade - taker_cost
                 tick = float(order_book["tick_size"])
                 maker_max = round_down(p_trade - required_edge, tick)
+                taker_max_price = taker_max_single_level_price(
+                    p_trade,
+                    required_edge,
+                    fee_rate,
+                    fee_exponent,
+                    tick,
+                )
                 maker_price = min(maker_max, round_down(ask - tick, tick))
                 maker_edge = p_trade - maker_price
                 maker_gap_to_bid = bid - maker_price
@@ -272,7 +307,17 @@ def main() -> None:
                     "question": market["question"],
                     "outcome": outcome,
                     "probability_key": key,
-                    "benchmark_quality": "DIRECT_LINE",
+                    "benchmark_quality": (
+                        "DIRECT_LINE_EXTERNAL_ONLY_PARTIAL_OOD"
+                        if family_internal_weight == 0.0
+                        else "DIRECT_LINE"
+                    ),
+                    "stage_applicability": stage_applicability.get("classification", "IN_DOMAIN"),
+                    "internal_model_role": (
+                        "diagnostic_only"
+                        if family_internal_weight == 0.0
+                        else "directional_fusion"
+                    ),
                     "p_internal": internal,
                     "scenario_p10": scenario_p10,
                     "scenario_p90": scenario_p90,
@@ -280,7 +325,7 @@ def main() -> None:
                     "p_sportsbook_consensus": p_sportsbook,
                     "p_external": p_external,
                     "opta_weight_within_external": opta_weight if base_key.startswith("1x2") else 0.0,
-                    "internal_weight": internal_weight,
+                    "internal_weight": family_internal_weight,
                     "p_center": p_center,
                     "sportsbook_source_dispersion": source_dispersion,
                     "model_disagreement": model_disagreement,
@@ -299,6 +344,7 @@ def main() -> None:
                     "effective_taker_cost": taker_cost,
                     "taker_robust_edge": taker_edge,
                     "required_edge": required_edge,
+                    "taker_max_single_level_price": taker_max_price,
                     "maker_max_price": maker_max_output,
                     "maker_post_price": maker_post_output,
                     "maker_robust_edge": maker_edge_output,
@@ -308,7 +354,8 @@ def main() -> None:
                     "evidence_gate_reason": evidence_gate_reason,
                     "executable": executable,
                     "evidence_eligible": executable,
-                    "diagnostic_only": not executable,
+                    "internal_model_diagnostic_only": family_internal_weight == 0.0,
+                    "outcome_execution_diagnostic_only": not executable,
                     "execution_mode": execution_mode,
                     "execution_price": execution_price,
                     "execution_cost_for_kelly": execution_cost,
@@ -331,6 +378,7 @@ def main() -> None:
                 "sportsbook_consensus_total_2_5": consensus_total,
                 "p_external_center_total_2_5": {key: external_center[f"totals.2.5.{key}"] for key in consensus_total},
                 "opta_1x2_same_cluster": info["opta_1x2"],
+                "stage_applicability": info.get("stage_applicability", {}),
                 "evaluations": evaluations,
             }
         )
@@ -353,7 +401,25 @@ def main() -> None:
         "scanned_markets": sum(len(match["markets"]) for match in snapshot["matches"]),
         "evaluated_outcomes": len(all_evaluations),
         "executable_eligible_outcomes": sum(row["executable"] for row in all_evaluations),
-        "stage_ood_outcomes": sum(not row["executable"] for row in all_evaluations),
+        "stage_ood_outcomes": sum(
+            row["stage_applicability"] != "IN_DOMAIN"
+            for row in all_evaluations
+        ),
+        "partial_ood_eligible_outcomes": sum(
+            row["stage_applicability"].startswith("PARTIAL_OOD")
+            and row["evidence_eligible"]
+            for row in all_evaluations
+        ),
+        "hard_ood_blocked_outcomes": sum(
+            row["stage_applicability"].startswith("HARD_OOD")
+            and not row["evidence_eligible"]
+            for row in all_evaluations
+        ),
+        "non_stage_evidence_gate_blocked_outcomes": sum(
+            not row["stage_applicability"].startswith("HARD_OOD")
+            and not row["evidence_eligible"]
+            for row in all_evaluations
+        ),
         "other_ineligible_outcomes": ineligible_markets,
     }
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

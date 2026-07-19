@@ -63,6 +63,15 @@
         "1x2": 0.0025,
         "totals.2.5": 0.005
       },
+      "stage_applicability": {
+        "classification": "PARTIAL_OOD_FINAL_STAGE",
+        "reason": "The teams optimize trophy probability while these contracts settle on the first 90 minutes. The internal model has no validated final-stage, extra-time-option-value, or state-dependent risk-aversion feature.",
+        "internal_weight_override": {
+          "1x2": 0.0,
+          "totals.2.5": 0.0
+        },
+        "execution_policy": "Direct same-market sportsbook and Opta evidence may still price eligible markets. P1/P2/P3 remain diagnostic and cannot directionally move p_center until a final-stage calibration passes an ex-ante historical validation."
+      },
       "direct_market_families": [
         "1x2",
         "totals.2.5"
@@ -76,6 +85,6 @@
     "data_quality_penalty": 0.0025,
     "minimum_uncertainty": 0.005,
     "robust_edge_threshold": 0.015,
-    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook consensus. p_center = 0.75 * p_external + 0.25 * p_internal. uncertainty = max(0.5pp, 0.5 * sportsbook source range + base and family-specific data-quality penalties). Internal versus external disagreement is diagnostic only and is not an uncertainty penalty. Directional p_trade is p_center - uncertainty; complement outcomes are constructed coherently before applying uncertainty."
+    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook consensus. The World Cup final is classified PARTIAL_OOD_FINAL_STAGE, so p_center = p_external and P1/P2/P3 are diagnostic only for both eligible families. uncertainty = max(0.5pp, 0.5 * sportsbook source range + base and family-specific data-quality penalties). Internal versus external disagreement is diagnostic only and is not an uncertainty penalty. Directional p_trade is p_center - uncertainty; complement outcomes are constructed coherently before applying uncertainty."
   }
 }

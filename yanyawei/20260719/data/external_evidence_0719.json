@@ -1,0 +1,81 @@
+{
+  "as_of_beijing": "2026-07-19T19:47:26+08:00",
+  "method": "Each complete sportsbook quote is devigged separately, then probabilities are averaged by market family. Opta supplies a direct 90-minute 1X2 distribution. Polymarket is excluded from fair probability and used only as execution cost. Internal versus external disagreement is retained as a diagnostic and is not penalized.",
+  "matches": [
+    {
+      "id": "spain_argentina_2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "sportsbook_sources": [
+        {
+          "book": "BetMGM live event",
+          "american_odds_1x2": {
+            "home": 125,
+            "draw": 200,
+            "away": 250
+          },
+          "source": "https://www.betmgm.com/en/sports/events/spain-argentina-2:7832367",
+          "captured_beijing": "2026-07-19T19:44:00+08:00",
+          "source_note": "Live regular-time decimal prices 2.25 / 3.00 / 3.50."
+        },
+        {
+          "book": "Oddschecker live header",
+          "american_odds_1x2": {
+            "home": 132,
+            "draw": 200,
+            "away": 265
+          },
+          "american_odds_total_2_5": {
+            "over": 134,
+            "under": -160
+          },
+          "source": "https://www.oddschecker.com/us/soccer/world-cup/spain-v-argentina",
+          "captured_beijing": "2026-07-19T19:44:00+08:00",
+          "source_note": "Current page header; the complete O/U pair is Over +134 and Under -160."
+        }
+      ],
+      "opta_1x2": {
+        "home": 0.45,
+        "draw": 0.29,
+        "away": 0.26,
+        "source": "https://www.clarosports.com/futbol/mundial-2026/pronosticos-final-mundial-espana-argentina/",
+        "source_note": "Claro Sports reports Opta's 90-minute distribution and separately reports trophy probabilities."
+      },
+      "team_news": [
+        {
+          "fact": "Spain have no confirmed absentees, but Pedro Porro is listed as doubtful with a muscle issue; Argentina have no listed absentees or doubts.",
+          "source": "https://www.sportsmole.co.uk/football/spain/world-cup-2026/team-news/spain-vs-argentina-injury-suspension-list-predicted-xis_601309.html"
+        },
+        {
+          "fact": "Argentina are expected to restore Rodrigo De Paul and use a four-player midfield, but the exact fourth midfielder remains uncertain.",
+          "source": "https://as.com/futbol/mundial/alineacion-posible-de-argentina-hoy-en-la-final-del-mundial-contra-espana-el-once-probable-de-scaloni-f202607-n/"
+        },
+        {
+          "fact": "FIFA's preview projects Spain with Porro and Argentina with Messi and Alvarez; these are predicted rather than confirmed lineups.",
+          "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-v-argentina-live-stream-team-news-tickets-and-more"
+        },
+        {
+          "fact": "BetMGM reports Argentina's 19 tournament goals came from 14.6 xG and notes a hot, humid outdoor setting. These are contextual checks and are not added as directional probability coefficients.",
+          "source": "https://sports.betmgm.com/en/blog/world-cup/spain-vs-argentina-prediction-odds-preview-world-cup-july-19-bm16/"
+        }
+      ],
+      "additional_data_quality_penalty": {
+        "1x2": 0.0025,
+        "totals.2.5": 0.005
+      },
+      "direct_market_families": [
+        "1x2",
+        "totals.2.5"
+      ]
+    }
+  ],
+  "decision_parameters": {
+    "opta_weight_within_external_1x2": 0.25,
+    "internal_weight": 0.25,
+    "sportsbook_dispersion_coefficient": 0.5,
+    "data_quality_penalty": 0.0025,
+    "minimum_uncertainty": 0.005,
+    "robust_edge_threshold": 0.015,
+    "p_trade_rule": "For 1X2, p_external = 0.75 * sportsbook consensus + 0.25 * Opta; for O/U 2.5, p_external = sportsbook consensus. p_center = 0.75 * p_external + 0.25 * p_internal. uncertainty = max(0.5pp, 0.5 * sportsbook source range + base and family-specific data-quality penalties). Internal versus external disagreement is diagnostic only and is not an uncertainty penalty. Directional p_trade is p_center - uncertainty; complement outcomes are constructed coherently before applying uncertainty."
+  }
+}

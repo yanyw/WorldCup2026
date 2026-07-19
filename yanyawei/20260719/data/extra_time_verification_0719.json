@@ -1,0 +1,80 @@
+{
+  "as_of_beijing": "2026-07-18T16:00:00+08:00",
+  "policy": "Use verified 90-minute scores in P1/P2. Exclude an extra-time match when no independent source confirms the 90-minute score. Exclude full-match FIFA xG reports for extra-time matches unless a true 90-minute xG split is available.",
+  "matches": [
+    {
+      "date": "2026-07-01",
+      "home": "Belgium",
+      "away": "Senegal",
+      "score_90": [2, 2],
+      "score_aet": [3, 2],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://www.fifa.com/fr/tournaments/mens/worldcup/canadamexicousa2026/articles/resume-temps-forts-belgique-senegal-seiziemes",
+        "https://apnews.com/article/461f08dc7297b99741a449cdcbd89ac6"
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "home": "Argentina",
+      "away": "Cape Verde",
+      "score_90": [1, 1],
+      "score_aet": [3, 2],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://fdp.fifa.org/assetspublic/ce281/r12530/pdf/FullTimeMatchReport-English.pdf",
+        "https://www.theguardian.com/football/live/2026/jul/03/argentina-v-cape-verde-world-cup-2026-last-32-live"
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "home": "Netherlands",
+      "away": "Morocco",
+      "score_90": [1, 1],
+      "score_aet": [1, 1],
+      "penalties": [2, 3],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://www.cafonline.com/fifa-world-cup/news/morocco-stun-netherlands-on-penalties-to-reach-world-cup-last-16/",
+        "https://www.maroc.ma/en/news/2026-world-cup-morocco-round-16-penalties-3-2-against-netherlands"
+      ]
+    },
+    {
+      "date": "2026-07-07",
+      "home": "Switzerland",
+      "away": "Colombia",
+      "score_90": [0, 0],
+      "score_aet": [0, 0],
+      "penalties": [4, 3],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://fdp.fifa.org/assetspublic/ce281/r12544/pdf/FullTimeMatchReport-English.pdf",
+        "https://www.the-afc.com/en/national/fifa_world_cup.html/news/r16-switzerland-0-4-3-0-colombia"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "home": "Norway",
+      "away": "England",
+      "score_90": [1, 1],
+      "score_aet": [1, 2],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://apnews.com/article/f246f138c3a8563cb5a0e3f4037e930a",
+        "https://www.the-afc.com/en/national/fifa_world_cup.html/news/q-final-norway-1-2-aet-england-1"
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "home": "Argentina",
+      "away": "Switzerland",
+      "score_90": [1, 1],
+      "score_aet": [3, 1],
+      "verification_status": "VERIFIED",
+      "sources": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/argentina-switzerland-match-report-highlights",
+        "https://halifax.citynews.ca/2026/07/11/messi-and-argentina-take-a-1-0-lead-over-switzerland-into-halftime-of-world-cup-quarterfinal-2/"
+      ]
+    }
+  ]
+}

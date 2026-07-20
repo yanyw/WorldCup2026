@@ -1,0 +1,77 @@
+{
+  "seed": 2026071503,
+  "simulations": 250000,
+  "cutoff_utc": "2026-07-15T17:45:00Z",
+  "match": {
+    "home": "England",
+    "away": "Argentina",
+    "kickoff_utc": "2026-07-15T19:00:00Z",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "neutral": true,
+    "stage": "FIFA World Cup semi-final",
+    "regulation_modeled_minutes": 95,
+    "extra_time_minutes": 30
+  },
+  "historical_strength": {
+    "results": "data/raw/international/results.csv",
+    "training_start": "2014-01-01",
+    "cutoff_exclusive": "2026-06-11",
+    "half_life_days": 1095,
+    "ridge": 5.0,
+    "world_cup_weight": 2.0,
+    "major_tournament_weight": 1.5,
+    "friendly_weight": 0.45,
+    "current_form_prior_equivalent_minutes": 270
+  },
+  "data": {
+    "fifa_team_features": "data/curated/fifa_2026_eng_arg_team_match_features.csv",
+    "fifa_player_features": "data/curated/fifa_2026_eng_arg_player_match_features.csv",
+    "statsbomb_dynamics": "outputs/real_data_engine/statsbomb_historical_dynamics.json",
+    "statsbomb_player_history": "data/curated/statsbomb_2022_eng_arg_player_history.csv"
+  },
+  "referee": {
+    "name": "Ismail Elfath",
+    "career_matches": 298,
+    "career_yellows": 1066,
+    "career_reds": 33,
+    "recent_fouls_per_match": 25.5,
+    "world_cup_2026_matches": 3,
+    "world_cup_2026_yellows": 8,
+    "world_cup_2026_reds": 1,
+    "world_cup_2026_fouls": 55,
+    "world_cup_2026_penalties": 2,
+    "career_effective_prior_matches": 40,
+    "penalty_prior_matches": 20
+  },
+  "environment": {
+    "roof": "closed",
+    "surface": "natural grass",
+    "controlled_temperature_c": 22.2,
+    "weather_multiplier": 1.0,
+    "altitude_multiplier": 1.0
+  },
+  "lineups": {
+    "status": "projected at model cutoff; replace with official XI when published",
+    "England": {
+      "starters": ["Jordan Pickford", "Ezri Konsa", "John Stones", "Marc Guehi", "Nico O'Reilly", "Declan Rice", "Elliot Anderson", "Bukayo Saka", "Jude Bellingham", "Anthony Gordon", "Harry Kane"],
+      "bench_priority": ["Noni Madueke", "Marcus Rashford", "Morgan Rogers", "Eberechi Eze", "Ollie Watkins", "Reece James"],
+      "availability": {"Declan Rice": 1.0}
+    },
+    "Argentina": {
+      "starters": ["Emiliano Martinez", "Nahuel Molina", "Cristian Romero", "Lisandro Martinez", "Nicolas Tagliafico", "Leandro Paredes", "Rodrigo De Paul", "Enzo Fernandez", "Alexis Mac Allister", "Lionel Messi", "Julian Alvarez"],
+      "bench_priority": ["Lautaro Martinez", "Thiago Almada", "Nicolas Gonzalez", "Gonzalo Montiel", "Exequiel Palacios", "Giovani Lo Celso"],
+      "availability": {"Cristian Romero": 1.0, "Leandro Paredes": 1.0}
+    }
+  },
+  "travel_route": {
+    "England": [[32.7767,-96.7970],[42.3601,-71.0589],[40.8135,-74.0745],[33.7554,-84.4008],[19.4326,-99.1332],[25.9580,-80.2389],[33.7554,-84.4008]],
+    "Argentina": [[39.0997,-94.5786],[32.7767,-96.7970],[32.7767,-96.7970],[25.9580,-80.2389],[33.7554,-84.4008],[39.0997,-94.5786],[33.7554,-84.4008]]
+  },
+  "prohibited_inputs": [
+    "EA FC/eFootball/PES player or team ratings",
+    "gameplay balance parameters",
+    "betting odds or Polymarket prices",
+    "market-implied probabilities",
+    "Elo or FIFA ranking as a prediction input"
+  ]
+}

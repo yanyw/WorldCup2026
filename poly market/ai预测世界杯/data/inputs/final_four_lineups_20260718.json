@@ -1,0 +1,108 @@
+{
+  "as_of_utc": "2026-07-18T15:42:00Z",
+  "status": "Point-in-time projected XIs about five hours before France-England kickoff; official XIs are not yet published. Injury probabilities are encoded explicitly.",
+  "teams": {
+    "France": {
+      "starting_xi": [
+        {"name": "Mike Maignan", "role": "GK"},
+        {"name": "Jules Koundé", "role": "DEF"},
+        {"name": "Maxence Lacroix", "role": "DEF"},
+        {"name": "Ibrahima Konaté", "role": "DEF"},
+        {"name": "Théo Hernandez", "role": "DEF"},
+        {"name": "Manu Koné", "role": "MID"},
+        {"name": "Warren Zaïre-Emery", "role": "MID"},
+        {"name": "Rayan Cherki", "role": "FWD", "appearance_probability": 0.78, "minutes_if_appears": 72},
+        {"name": "Michael Olise", "role": "FWD", "appearance_probability": 0.90, "minutes_if_appears": 78, "tournament_assists": 5},
+        {"name": "Désiré Doué", "role": "FWD", "appearance_probability": 0.82, "minutes_if_appears": 72},
+        {"name": "Kylian Mbappé", "role": "FWD", "appearance_probability": 0.97, "minutes_if_appears": 88, "tournament_assists": 3}
+      ],
+      "bench": [
+        {"name": "Dayot Upamecano", "role": "DEF"},
+        {"name": "Aurélien Tchouaméni", "role": "MID"},
+        {"name": "Adrien Rabiot", "role": "MID"},
+        {"name": "Ousmane Dembélé", "role": "FWD", "appearance_probability": 0.72, "minutes_if_appears": 58},
+        {"name": "Bradley Barcola", "role": "FWD", "appearance_probability": 0.62, "minutes_if_appears": 44},
+        {"name": "Marcus Thuram", "role": "FWD", "appearance_probability": 0.52, "minutes_if_appears": 35},
+        {"name": "Hugo Ekitiké", "role": "FWD", "appearance_probability": 0.25, "minutes_if_appears": 28},
+        {"name": "Brice Samba", "role": "GK", "availability": 0.0},
+        {"name": "William Saliba", "role": "DEF", "availability": 0.0}
+      ]
+    },
+    "England": {
+      "starting_xi": [
+        {"name": "Jordan Pickford", "role": "GK"},
+        {"name": "Djed Spence", "role": "DEF"},
+        {"name": "Ezri Konsa", "role": "DEF"},
+        {"name": "Marc Guéhi", "role": "DEF"},
+        {"name": "Nico O'Reilly", "role": "DEF"},
+        {"name": "Declan Rice", "role": "MID"},
+        {"name": "Elliot Anderson", "role": "MID"},
+        {"name": "Morgan Rogers", "role": "MID"},
+        {"name": "Jude Bellingham", "role": "MID"},
+        {"name": "Anthony Gordon", "role": "FWD", "tournament_assists": 3},
+        {"name": "Harry Kane", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Reece James", "role": "DEF", "availability": 0.30},
+        {"name": "John Stones", "role": "DEF"},
+        {"name": "Jarell Quansah", "role": "DEF"},
+        {"name": "Bukayo Saka", "role": "FWD", "appearance_probability": 0.65, "minutes_if_appears": 52, "tournament_assists": 3},
+        {"name": "Eberechi Eze", "role": "MID"},
+        {"name": "Kobbie Mainoo", "role": "MID"},
+        {"name": "Noni Madueke", "role": "FWD"},
+        {"name": "Marcus Rashford", "role": "FWD"},
+        {"name": "Ollie Watkins", "role": "FWD"}
+      ]
+    },
+    "Spain": {
+      "starting_xi": [
+        {"name": "Unai Simón", "role": "GK"},
+        {"name": "Pedro Porro", "role": "DEF", "availability": 0.88},
+        {"name": "Pau Cubarsí", "role": "DEF"},
+        {"name": "Aymeric Laporte", "role": "DEF"},
+        {"name": "Marc Cucurella", "role": "DEF"},
+        {"name": "Rodri", "role": "MID"},
+        {"name": "Fabián Ruiz", "role": "MID"},
+        {"name": "Dani Olmo", "role": "MID"},
+        {"name": "Lamine Yamal", "role": "FWD", "availability": 0.92},
+        {"name": "Mikel Oyarzabal", "role": "FWD"},
+        {"name": "Álex Baena", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "David Raya", "role": "GK", "availability": 0.03},
+        {"name": "Dean Huijsen", "role": "DEF"},
+        {"name": "Mikel Merino", "role": "MID"},
+        {"name": "Pedri", "role": "MID"},
+        {"name": "Nico Williams", "role": "FWD"},
+        {"name": "Ferran Torres", "role": "FWD"},
+        {"name": "Samu Aghehowa", "role": "FWD"}
+      ]
+    },
+    "Argentina": {
+      "starting_xi": [
+        {"name": "Emiliano Martínez", "role": "GK"},
+        {"name": "Nahuel Molina", "role": "DEF"},
+        {"name": "Cristian Romero", "role": "DEF"},
+        {"name": "Lisandro Martínez", "role": "DEF"},
+        {"name": "Nicolás Tagliafico", "role": "DEF"},
+        {"name": "Leandro Paredes", "role": "MID"},
+        {"name": "Enzo Fernández", "role": "MID"},
+        {"name": "Alexis Mac Allister", "role": "MID"},
+        {"name": "Giuliano Simeone", "role": "FWD"},
+        {"name": "Lionel Messi", "role": "FWD", "tournament_assists": 4},
+        {"name": "Julián Alvarez", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Juan Musso", "role": "GK", "availability": 0.03},
+        {"name": "Rodrigo De Paul", "role": "MID"},
+        {"name": "Lautaro Martínez", "role": "FWD"},
+        {"name": "Facundo Medina", "role": "DEF"},
+        {"name": "Gonzalo Montiel", "role": "DEF"},
+        {"name": "Giovani Lo Celso", "role": "MID"},
+        {"name": "Exequiel Palacios", "role": "MID"},
+        {"name": "Thiago Almada", "role": "FWD"},
+        {"name": "Nico Gonzalez", "role": "FWD"}
+      ]
+    }
+  }
+}

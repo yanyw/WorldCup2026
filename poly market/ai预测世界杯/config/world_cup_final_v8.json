@@ -1,0 +1,110 @@
+{
+  "model_version": "v8.1",
+  "seed": 2026071919,
+  "simulations": 600000,
+  "scenario_simulations": 120000,
+  "cutoff_utc": "2026-07-19T15:22:00Z",
+  "historical_strength": {
+    "results": "data/raw/international/results.csv",
+    "training_start": "2014-01-01",
+    "cutoff_exclusive": "2026-06-11",
+    "half_life_days": 1095,
+    "ridge": 5.0,
+    "world_cup_weight": 2.0,
+    "major_tournament_weight": 1.5,
+    "friendly_weight": 0.45,
+    "current_form_prior_equivalent_minutes": 225
+  },
+  "data": {
+    "fifa_team_features": "data/curated/fifa_2026_final_four_team_match_features.csv",
+    "fifa_player_features": "data/curated/fifa_2026_final_four_player_match_features.csv",
+    "statsbomb_dynamics": "outputs/real_data_engine/statsbomb_historical_dynamics.json",
+    "statsbomb_player_history": "data/curated/statsbomb_2022_eng_arg_player_history.csv",
+    "lineups": "data/inputs/final_lineups_20260719.json",
+    "polymarket_latest_pointer": "data/raw/polymarket/LATEST_FINAL.txt"
+  },
+  "generic_referee_prior": {
+    "name": "Pooled elite referee fallback",
+    "career_matches": 1000,
+    "career_yellows": 3600,
+    "career_reds": 120,
+    "recent_fouls_per_match": 25.0,
+    "world_cup_2026_matches": 0,
+    "world_cup_2026_yellows": 0,
+    "world_cup_2026_reds": 0,
+    "world_cup_2026_fouls": 0,
+    "world_cup_2026_penalties": 0,
+    "career_effective_prior_matches": 50,
+    "penalty_prior_matches": 24
+  },
+  "external_validation": {
+    "fifwc-esp-arg-2026-07-19": {
+      "source": "Oddschecker best-price 1X2/total and FanDuel trophy market captured 2026-07-19",
+      "url": "https://www.oddschecker.com/us/soccer/world-cup/spain-v-argentina",
+      "fair_1x2": {"Spain": 0.4187, "Draw": 0.3210, "Argentina": 0.2603},
+      "fair_to_win": {"Spain": 0.5764, "Argentina": 0.4236},
+      "under_2_5_fair": 0.5902,
+      "guard_on_divergence_pp": 0.05,
+      "model_risk_groups": ["total_corners", "soccer_team_total_corners", "soccer_first_half_total_corners"],
+      "model_risk_reason": "The corner submodel produced the largest actionable miss in the third-place match; one new observation is insufficient to validate its recalibration for real-money execution.",
+      "reason": "Independent model and sharp sportsbook consensus diverge materially; candidate is withheld rather than treating disagreement as automatic edge."
+    }
+  },
+  "scenario_specs": [
+    {},
+    {"rate_multipliers": {"home_xg": 0.90, "away_xg": 0.90, "home_shots": 0.92, "away_shots": 0.92}, "regime_weights": {"cagey": 0.58, "normal": 0.34, "open": 0.08}},
+    {"rate_multipliers": {"home_xg": 1.10, "away_xg": 1.10, "home_shots": 1.08, "away_shots": 1.08}, "regime_weights": {"cagey": 0.08, "normal": 0.34, "open": 0.58}, "shared_finishing_sigma": 0.18},
+    {"rate_multipliers": {"home_xg": 0.90, "home_shots": 0.93}},
+    {"rate_multipliers": {"away_xg": 0.90, "away_shots": 0.93}},
+    {"rate_multipliers": {"home_xg": 0.96, "away_xg": 1.06}},
+    {"rate_multipliers": {"home_xg": 1.06, "away_xg": 0.96}}
+  ],
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "kickoff_utc": "2026-07-19T19:00:00Z",
+      "venue": "New York New Jersey Stadium, East Rutherford",
+      "stage": "final",
+      "regime_weights": {"cagey": 0.34, "normal": 0.52, "open": 0.14},
+      "regime_tempo": {"cagey": 0.76, "normal": 1.0, "open": 1.20},
+      "regime_conversion": {"cagey": 0.90, "normal": 1.0, "open": 1.09},
+      "regime_sot_multiplier": {"cagey": 0.96, "normal": 1.0, "open": 1.08},
+      "regime_corner_multiplier": {"cagey": 1.04, "normal": 1.0, "open": 0.86},
+      "central_rate_multipliers": {"home_xg": 1.08, "away_xg": 0.91, "home_shots": 1.02, "away_shots": 0.97},
+      "motivation_goal_multiplier": 1.0,
+      "lineup_attack_sigma": 0.08,
+      "lineup_certainty": 0.95,
+      "shared_finishing_sigma": 0.15,
+      "temperature_c": 28,
+      "weather_shot_multiplier": 0.99,
+      "home_late_fatigue_multiplier": 0.97,
+      "away_late_fatigue_multiplier": 0.945,
+      "score_policy": {"start_minute": 10, "trailing_boost": 0.24, "multi_goal_boost": 0.08, "substitution_boost": 0.025, "leading_drag": 0.22},
+      "extra_time_goal_multiplier": 0.98,
+      "team_shootout_weight": 0.10,
+      "referee": {
+        "name": "Slavko Vincic",
+        "career_matches": 449,
+        "career_yellows": 1835,
+        "career_reds": 40,
+        "recent_fouls_per_match": 23.7,
+        "world_cup_2026_matches": 3,
+        "world_cup_2026_yellows": 6,
+        "world_cup_2026_reds": 1,
+        "world_cup_2026_fouls": 71,
+        "world_cup_2026_penalties": 0,
+        "career_effective_prior_matches": 30,
+        "world_cup_match_weight": 2.0,
+        "penalty_prior_matches": 24
+      },
+      "notes": [
+        "Spain entered unbeaten in 37 matches and conceded one goal in seven tournament matches; the current-form adjustment remains shrunk toward long-run history.",
+        "Third-place calibration changes dispersion, event coupling and score feedback, not the final's central scoring multiplier.",
+        "Yamal and Pedro Porro were reported fully available, but the official XI was still pending at the cutoff.",
+        "Argentina has one fewer recovery day; the effect is stressed probabilistically rather than treated as deterministic."
+      ]
+    }
+  ]
+}

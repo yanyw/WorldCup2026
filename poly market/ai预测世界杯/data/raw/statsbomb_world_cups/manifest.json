@@ -1,0 +1,1176 @@
+{
+  "downloaded_at_utc": "2026-07-15T16:31:43.143988+00:00",
+  "source": "StatsBomb Open Data",
+  "source_repository": "https://github.com/statsbomb/open-data",
+  "license_note": "StatsBomb Open Data terms apply; attribution retained.",
+  "files": [
+    {
+      "kind": "matches",
+      "season": "2018",
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/matches/43/3.json",
+      "filename": "matches_2018.json.gz",
+      "bytes_uncompressed": 114527,
+      "sha256": "f89dbd4aedcaf9c9e4ec9d8e745d5d54596500ec357d7489c914a2f126805adf"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8650,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8650.json",
+      "filename": "2018\\events\\8650.json.gz",
+      "bytes_uncompressed": 3018417,
+      "sha256": "1e45557a50b3f7333e0d962cc4d4678c9b3edf2f52ee06b77f29fc3837020af3"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7584,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7584.json",
+      "filename": "2018\\events\\7584.json.gz",
+      "bytes_uncompressed": 3154010,
+      "sha256": "42b2a15f88146e6f549d4339f671a3847c5d55f2005c2cc43c2e8547b6308ad2"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7554,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7554.json",
+      "filename": "2018\\events\\7554.json.gz",
+      "bytes_uncompressed": 2998052,
+      "sha256": "ea3aea09aa464da831487d412548fe033625fd913bbb918c76469d0c2b355acd"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7539,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7539.json",
+      "filename": "2018\\events\\7539.json.gz",
+      "bytes_uncompressed": 2875197,
+      "sha256": "ee7b02c0f464cbe4b525c974aadb086f3d3ceebbb96093e958c62613938b8d53"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7550,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7550.json",
+      "filename": "2018\\events\\7550.json.gz",
+      "bytes_uncompressed": 2957831,
+      "sha256": "b15a39d3338316a7ef07902ae43261259e6865ae59b4f26d2f6516e58ff90226"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7538,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7538.json",
+      "filename": "2018\\events\\7538.json.gz",
+      "bytes_uncompressed": 2616373,
+      "sha256": "ac684143ef2c246c1745a078d03e0c7ab31b96a7ea3863e42ea539b7c6d3383e"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7534,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7534.json",
+      "filename": "2018\\events\\7534.json.gz",
+      "bytes_uncompressed": 3156035,
+      "sha256": "1b6b98fd6627e42174cc09416a131ef5d2f04951e43c9dcb6125b8c24b2b9eb2"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7543,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7543.json",
+      "filename": "2018\\events\\7543.json.gz",
+      "bytes_uncompressed": 3233434,
+      "sha256": "a71116f175234e1696cf28cc5e5123eceae8f224ae837226c01b785d552059e0"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7544,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7544.json",
+      "filename": "2018\\events\\7544.json.gz",
+      "bytes_uncompressed": 3357813,
+      "sha256": "c4309dfb9ad2a13b93f296fd98758fd0e1afae531b5580097fe21bbe9279cfb8"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7546,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7546.json",
+      "filename": "2018\\events\\7546.json.gz",
+      "bytes_uncompressed": 3152155,
+      "sha256": "5fd54c82f9f84d9b2b1d3f198d5b1f82c6752574ea6533acc22f93f53c286879"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7545,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7545.json",
+      "filename": "2018\\events\\7545.json.gz",
+      "bytes_uncompressed": 2929044,
+      "sha256": "f4512ba549a1c4704cf650e509d922284754b1ef51879eb91da24c6ba294d868"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7585,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7585.json",
+      "filename": "2018\\events\\7585.json.gz",
+      "bytes_uncompressed": 3417067,
+      "sha256": "6a0c480fc22762a147f3b3996c21a7953c2a813a9ec9dc06bd516568bf874646"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7569,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7569.json",
+      "filename": "2018\\events\\7569.json.gz",
+      "bytes_uncompressed": 2877462,
+      "sha256": "22a4bc3f31e7a1d79bd8975ab9e6c2b4ae0798e64c8d6a194b6c9455747d0825"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7572,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7572.json",
+      "filename": "2018\\events\\7572.json.gz",
+      "bytes_uncompressed": 3079764,
+      "sha256": "5e019e3e70721bb14b501dc75c05f8de47361084b8f3750708a3073d47d4852f"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7561,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7561.json",
+      "filename": "2018\\events\\7561.json.gz",
+      "bytes_uncompressed": 2812708,
+      "sha256": "f95f4a023ca825311e94cefef5fdb00ccfc8cdd70672e9bd21aecbd5cb143761"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7540,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7540.json",
+      "filename": "2018\\events\\7540.json.gz",
+      "bytes_uncompressed": 2839682,
+      "sha256": "f2bbcf6157a2f537c09f0423aa40940ec0ffcfa9f036c4b22ebd1eced8f0a1ab"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7531,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7531.json",
+      "filename": "2018\\events\\7531.json.gz",
+      "bytes_uncompressed": 3127866,
+      "sha256": "4fb8cc5585b17b8cdadad272697eb66029554b230fcc743aec9276a23093857a"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7570,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7570.json",
+      "filename": "2018\\events\\7570.json.gz",
+      "bytes_uncompressed": 3338104,
+      "sha256": "b9e70d1891617c960d2212a63d7703d5a9418c275cc35634197249579548b5e8"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7586,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7586.json",
+      "filename": "2018\\events\\7586.json.gz",
+      "bytes_uncompressed": 2818544,
+      "sha256": "8e959c90c20170e7fd50494dd66ebf70f402a9cef194b46ea6f7b22f60a0c91d"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7557,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7557.json",
+      "filename": "2018\\events\\7557.json.gz",
+      "bytes_uncompressed": 2709000,
+      "sha256": "993a23a8652d8e78581831cfa5c291e55e60fda9058b3b7944441d5a8506439b"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7542,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7542.json",
+      "filename": "2018\\events\\7542.json.gz",
+      "bytes_uncompressed": 2785870,
+      "sha256": "bf413501a7245ad9f69dbfc51b038b92457345a47f363d594887d6987ccf5e90"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8656,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8656.json",
+      "filename": "2018\\events\\8656.json.gz",
+      "bytes_uncompressed": 3495455,
+      "sha256": "3f6b7f638235421f6b2ca1b4b38f3cfedb89572a847a6a4e06d8ee4f4c137c13"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7548,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7548.json",
+      "filename": "2018\\events\\7548.json.gz",
+      "bytes_uncompressed": 3155332,
+      "sha256": "60f334286e04a6575ca8db14c7177abcc5bd2505d10070c1e36138f32def14a1"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7578,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7578.json",
+      "filename": "2018\\events\\7578.json.gz",
+      "bytes_uncompressed": 3194996,
+      "sha256": "e2a7f8738cbfb20c83b7e49badaf45cdac565df2047fd77f95cf6a17d9caccef"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7553,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7553.json",
+      "filename": "2018\\events\\7553.json.gz",
+      "bytes_uncompressed": 2806919,
+      "sha256": "20520d4bb5b6820dfe2c8ebb6fc651217721747638fe86647a9c4c8e772167ac"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7536,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7536.json",
+      "filename": "2018\\events\\7536.json.gz",
+      "bytes_uncompressed": 3088580,
+      "sha256": "656ad5f1b82b6b879d070eae5e65f7a0835a8c90959f1c05b51d9ebc8a669558"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7555,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7555.json",
+      "filename": "2018\\events\\7555.json.gz",
+      "bytes_uncompressed": 3140318,
+      "sha256": "2eb87c884c49202ff395d0614444f2592efc84f6e3ae10a5634c18bc12fc2089"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7576,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7576.json",
+      "filename": "2018\\events\\7576.json.gz",
+      "bytes_uncompressed": 3515009,
+      "sha256": "f1b386d53625b1c118cca037ef8dd39b100ce6eb3c6d4c839506cedfc401db79"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7565,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7565.json",
+      "filename": "2018\\events\\7565.json.gz",
+      "bytes_uncompressed": 3399979,
+      "sha256": "e5b6946b810598b946b8263230e7a5464207fae423c351cf8f9244ea7882f16f"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7551,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7551.json",
+      "filename": "2018\\events\\7551.json.gz",
+      "bytes_uncompressed": 2880084,
+      "sha256": "504191e8c993c96e4e1b69141a74e46b71266b9252f550a8aaf737048af4798f"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7537,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7537.json",
+      "filename": "2018\\events\\7537.json.gz",
+      "bytes_uncompressed": 2968940,
+      "sha256": "5e5b1f702eb190bd3120ebc26c8ce98c554bb755cd593ff04443fc46eb33acbf"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7580,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7580.json",
+      "filename": "2018\\events\\7580.json.gz",
+      "bytes_uncompressed": 2951426,
+      "sha256": "382dac9abfa4c3bb540e9599ad5f7fde5ec9675aab636452d3b1418a924d4321"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7581,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7581.json",
+      "filename": "2018\\events\\7581.json.gz",
+      "bytes_uncompressed": 3646449,
+      "sha256": "ac7cf56be3d394d49c9e864d427e2ea2e8927244544794ef4917e74d988a5104"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7549,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7549.json",
+      "filename": "2018\\events\\7549.json.gz",
+      "bytes_uncompressed": 2751166,
+      "sha256": "92c978cd230d5ef10df7f843b3526f6ad6f4350b113d84d252b3e347df6ae253"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7529,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7529.json",
+      "filename": "2018\\events\\7529.json.gz",
+      "bytes_uncompressed": 2790231,
+      "sha256": "20e43592bb389db6689447595d5f0dd82abf7c11189e70b68c3a3587d74bc214"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7562,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7562.json",
+      "filename": "2018\\events\\7562.json.gz",
+      "bytes_uncompressed": 3050134,
+      "sha256": "85b6e7448441d4843805091198cf0a07ac8c441e28058f4f7a91ae68409e6d0a"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7571,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7571.json",
+      "filename": "2018\\events\\7571.json.gz",
+      "bytes_uncompressed": 2342239,
+      "sha256": "dea2396406e4fd1e72fbf7ad8eb1e3da666faf2555253a0e589ea1997e3eac84"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7568,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7568.json",
+      "filename": "2018\\events\\7568.json.gz",
+      "bytes_uncompressed": 2847351,
+      "sha256": "df6e2bc09e75526f8afa13f01c435aff16a21b5ce79e2e3480dcd7f076d8e23d"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7530,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7530.json",
+      "filename": "2018\\events\\7530.json.gz",
+      "bytes_uncompressed": 2885464,
+      "sha256": "0e4a1f824d3539b210ba58de4bc4d6cb9f34466b4a7059df0d2b5bfe0a7a3370"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7558,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7558.json",
+      "filename": "2018\\events\\7558.json.gz",
+      "bytes_uncompressed": 2742464,
+      "sha256": "b863dad8dd9d75f136afccfd5b71160e3d73f0536962481b6a195c04cd7a2038"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7583,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7583.json",
+      "filename": "2018\\events\\7583.json.gz",
+      "bytes_uncompressed": 2903087,
+      "sha256": "8c3293ec7bb9bd7754eccacfb1c2a6fe10e4d5983f11808fc5c4887d30a059fb"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7547,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7547.json",
+      "filename": "2018\\events\\7547.json.gz",
+      "bytes_uncompressed": 2996484,
+      "sha256": "c1cdb35444c8a353bc9e2663ea578821ef6499d593e1764f4bb34823e7a751b8"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7535,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7535.json",
+      "filename": "2018\\events\\7535.json.gz",
+      "bytes_uncompressed": 2680183,
+      "sha256": "87e35700fdbb24b63577fa2ca6090ea672b49be0531bfe030c67d77c420371b7"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8649,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8649.json",
+      "filename": "2018\\events\\8649.json.gz",
+      "bytes_uncompressed": 2874209,
+      "sha256": "4b0c3bfd013a2ae10c3d4132dd597e5808439e97dfa8d01e3c7584b3776c5524"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8658,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8658.json",
+      "filename": "2018\\events\\8658.json.gz",
+      "bytes_uncompressed": 2490969,
+      "sha256": "a9aa72c042153fa351c3591ee11e7fba95b0c8841c4489da4aa6809de1edbdf5"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7582,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7582.json",
+      "filename": "2018\\events\\7582.json.gz",
+      "bytes_uncompressed": 4283466,
+      "sha256": "57de09afe0fc3f570129210e1fe76b333cd312b70ce5af5fb81a2e537191c28f"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7552,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7552.json",
+      "filename": "2018\\events\\7552.json.gz",
+      "bytes_uncompressed": 2933640,
+      "sha256": "31cb3931c4ceb69bc6df24c68f4572229b57f751e813494f1fe109359e4b5439"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7532,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7532.json",
+      "filename": "2018\\events\\7532.json.gz",
+      "bytes_uncompressed": 2641426,
+      "sha256": "963b9082b9e84915f4414e201db60293ea321dff575c5d3a6cf91f7487fca9bb"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7560,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7560.json",
+      "filename": "2018\\events\\7560.json.gz",
+      "bytes_uncompressed": 3041229,
+      "sha256": "20b6ca18e502f55801e9d0de5a5e476886e53ccec71a7c5026bb901d931ad7e1"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7533,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7533.json",
+      "filename": "2018\\events\\7533.json.gz",
+      "bytes_uncompressed": 3385418,
+      "sha256": "c3f4468ddeb33d0d6322a55eb0dbbf570782afb8cc044eab12c03fc004ee2832"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7564,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7564.json",
+      "filename": "2018\\events\\7564.json.gz",
+      "bytes_uncompressed": 2946888,
+      "sha256": "24a91a7964cd9b75effb9181fb4287878d9d1749b99bdf0f3a749ab305a1a5a7"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7579,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7579.json",
+      "filename": "2018\\events\\7579.json.gz",
+      "bytes_uncompressed": 2782022,
+      "sha256": "3c296f9f6588f85788b939c1f4503042c4986a25bec2648799c8dd4de06cc7a1"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7577,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7577.json",
+      "filename": "2018\\events\\7577.json.gz",
+      "bytes_uncompressed": 2424898,
+      "sha256": "12f628a05b12a15d0ed4721e9ef1ea0775db74fe8ad40ffeac0119644ee9ebf1"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7525,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7525.json",
+      "filename": "2018\\events\\7525.json.gz",
+      "bytes_uncompressed": 2817851,
+      "sha256": "bc04e7442328cc43d52e3e2e549d926b366f40ec0a443fa99e4d58210e8484e5"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7566,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7566.json",
+      "filename": "2018\\events\\7566.json.gz",
+      "bytes_uncompressed": 2481154,
+      "sha256": "2139ee5a437a66b53a23b5ad7522962dab41eb807fe6ac5926a9506fb14e6d0b"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8651,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8651.json",
+      "filename": "2018\\events\\8651.json.gz",
+      "bytes_uncompressed": 2758344,
+      "sha256": "903fe28488c56cbd041375f94571824aff6a64361c72645e2c97a0bec6773384"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7567,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7567.json",
+      "filename": "2018\\events\\7567.json.gz",
+      "bytes_uncompressed": 3142785,
+      "sha256": "30ea0f1dff7bf66c4b2c58b2fd73ba4bf11eec66061c849333c3eaf780e0b553"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7541,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7541.json",
+      "filename": "2018\\events\\7541.json.gz",
+      "bytes_uncompressed": 3241663,
+      "sha256": "ed25888e92193f0394e121a9101c4d3a7607a225b4c7416c9b13a647b54b9584"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8655,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8655.json",
+      "filename": "2018\\events\\8655.json.gz",
+      "bytes_uncompressed": 2807073,
+      "sha256": "531f7db538d1026ddef77178b939ee28c38ae7a15a91d07826e97d352d26464a"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8657,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8657.json",
+      "filename": "2018\\events\\8657.json.gz",
+      "bytes_uncompressed": 3655176,
+      "sha256": "6cc79ec754303d65ca3f2cbc4bd29384a8d6e6492e168991159a07a0ba7c626e"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 8652,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/8652.json",
+      "filename": "2018\\events\\8652.json.gz",
+      "bytes_uncompressed": 3402697,
+      "sha256": "0c17c5424fef71cd74c10a67eca55007c2da5594d85af159cd384b3d974c56cd"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7563,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7563.json",
+      "filename": "2018\\events\\7563.json.gz",
+      "bytes_uncompressed": 3006839,
+      "sha256": "098b337d5fe5e0ab65acf3eb622f6b5b8c800ac8e2e89cc4ffd5614b1777c003"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7556,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7556.json",
+      "filename": "2018\\events\\7556.json.gz",
+      "bytes_uncompressed": 2552791,
+      "sha256": "f2caf0325cf34afd47af2c8d0740a42bb3246b9f28069ed137b66da6fe781c8f"
+    },
+    {
+      "kind": "events",
+      "season": "2018",
+      "match_id": 7559,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/7559.json",
+      "filename": "2018\\events\\7559.json.gz",
+      "bytes_uncompressed": 3281126,
+      "sha256": "1833d363a3d7839c38a87035d8be17574f79f2fcd4d7b1368716fdbe21c5d560"
+    },
+    {
+      "kind": "matches",
+      "season": "2022",
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/matches/43/106.json",
+      "filename": "matches_2022.json.gz",
+      "bytes_uncompressed": 119132,
+      "sha256": "b9d7516dc9919a825f04c204ca85487958c8a2431e84140a48e944934661efc7"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857276,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857276.json",
+      "filename": "2022\\events\\3857276.json.gz",
+      "bytes_uncompressed": 2811450,
+      "sha256": "8320cf567b912bac1ff9f5a49deb1263ba5aa2610cf6f3dcf6db60f065bf1e99"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857271,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857271.json",
+      "filename": "2022\\events\\3857271.json.gz",
+      "bytes_uncompressed": 3063347,
+      "sha256": "3195e45476b96c3257e15043ac4fe17bbb640c548a4edb74d2c3b3eb8b3519e3"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857296,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857296.json",
+      "filename": "2022\\events\\3857296.json.gz",
+      "bytes_uncompressed": 3493039,
+      "sha256": "e86579ac60aa4fec884716d3cc438610cc1a61c8453cd339c9223098be665a7c"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857274,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857274.json",
+      "filename": "2022\\events\\3857274.json.gz",
+      "bytes_uncompressed": 3054360,
+      "sha256": "40f8b9d5fe6e8e2cb9ea823a99485d142a67eba46b228d237774a687ab3a9d66"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857255,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857255.json",
+      "filename": "2022\\events\\3857255.json.gz",
+      "bytes_uncompressed": 3753326,
+      "sha256": "dec08979312350b0c3910b5ed15c7e4f7c10f438b733be0231d47a487b74e7a0"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857272,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857272.json",
+      "filename": "2022\\events\\3857272.json.gz",
+      "bytes_uncompressed": 2962761,
+      "sha256": "9d560f65771f71885fb97643240f0c858d7ddd66410d7fbc6e2783533eb6919b"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857278,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857278.json",
+      "filename": "2022\\events\\3857278.json.gz",
+      "bytes_uncompressed": 3036508,
+      "sha256": "63962cc1cc2b6b0c7e9e12e3e9e9ee855ce7036b8f0aa123e3bdd297a99ec095"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857277,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857277.json",
+      "filename": "2022\\events\\3857277.json.gz",
+      "bytes_uncompressed": 3090039,
+      "sha256": "0bb3e4c8ad11587af05ca6734d50e6f7ea883db9ff73d79540c434bc50715a0f"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857273,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857273.json",
+      "filename": "2022\\events\\3857273.json.gz",
+      "bytes_uncompressed": 2675338,
+      "sha256": "7bee8a23bbf5bf6db47d7668289e80cf8eb4f49cab46b449073f5839b15f450b"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857275,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857275.json",
+      "filename": "2022\\events\\3857275.json.gz",
+      "bytes_uncompressed": 2980291,
+      "sha256": "8531cc2ce4bfab163e2660f8e5dea4f88d97794423ef3d894f789602b1fab610"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857261,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857261.json",
+      "filename": "2022\\events\\3857261.json.gz",
+      "bytes_uncompressed": 2805087,
+      "sha256": "ec4f9d3ebb2fe5dd32664a60fec79c4e5b4536748315f35fca050fd7f8bb23c2"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857290,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857290.json",
+      "filename": "2022\\events\\3857290.json.gz",
+      "bytes_uncompressed": 3045504,
+      "sha256": "eb446ea4a6227a31b589a2c9e4b3c557a15a763723326611e1c03ec90640e97c"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857298,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857298.json",
+      "filename": "2022\\events\\3857298.json.gz",
+      "bytes_uncompressed": 3193812,
+      "sha256": "1d83208ea85fbadbacf2a8886a62a14bb5202bd57b494606b0ccdbe10709ab51"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857285,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857285.json",
+      "filename": "2022\\events\\3857285.json.gz",
+      "bytes_uncompressed": 2689430,
+      "sha256": "b97e53a23b76d1fd7b4895cf68820539e24300e7e0032e4cfe429fca7a95b0fa"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857282,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857282.json",
+      "filename": "2022\\events\\3857282.json.gz",
+      "bytes_uncompressed": 3081742,
+      "sha256": "2a6d3d04b6257bfc35a2e0c5a35f05a8997a089191ce27d0c2a5f02108f3b9db"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857297,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857297.json",
+      "filename": "2022\\events\\3857297.json.gz",
+      "bytes_uncompressed": 2749959,
+      "sha256": "ba51d6820d4b5e19e3dc858d4e111b9214696c5d5ccd78eae6eb97306d26a49d"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857294,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857294.json",
+      "filename": "2022\\events\\3857294.json.gz",
+      "bytes_uncompressed": 3657424,
+      "sha256": "a5f13d9cb976c9e695ccd4ef449ff63ae1c5a1f7da2ecfb00603f23d6dc65a56"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857266,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857266.json",
+      "filename": "2022\\events\\3857266.json.gz",
+      "bytes_uncompressed": 3295503,
+      "sha256": "f375137a64c13b2c22e456fae9394bc810ca2bb98a439d94da18fea1365a98a8"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857284,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857284.json",
+      "filename": "2022\\events\\3857284.json.gz",
+      "bytes_uncompressed": 3184800,
+      "sha256": "669bc6550cbe4dfb70305b04b2b8eacb0de676e576c69e4be209826bb425f0c6"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857254,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857254.json",
+      "filename": "2022\\events\\3857254.json.gz",
+      "bytes_uncompressed": 3128208,
+      "sha256": "05b8584eea49fb178102bc067ccb5dad82c1c1988ec971a875a9229e27badb5a"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857265,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857265.json",
+      "filename": "2022\\events\\3857265.json.gz",
+      "bytes_uncompressed": 2702580,
+      "sha256": "ed76f94790148cc865622a26fd3d29df3d5253bd04bf053c0207dc0d15e6c0a6"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857301,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857301.json",
+      "filename": "2022\\events\\3857301.json.gz",
+      "bytes_uncompressed": 3014792,
+      "sha256": "6a211a48871d386e146b6cd416d47d1e94244c5798feedce121e6d169286f0a3"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857268,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857268.json",
+      "filename": "2022\\events\\3857268.json.gz",
+      "bytes_uncompressed": 2990522,
+      "sha256": "1e9c9f2cf8b229388e826a32bb04224ab9aadb91e5aa4614ecf66cc07c6caa48"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857269,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857269.json",
+      "filename": "2022\\events\\3857269.json.gz",
+      "bytes_uncompressed": 3217478,
+      "sha256": "20c7d2dd0ca6ff6dbfb5ccebfd8dfb4483783de6afded86060aa0043943e258e"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869321,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869321.json",
+      "filename": "2022\\events\\3869321.json.gz",
+      "bytes_uncompressed": 4007550,
+      "sha256": "dd0472e758207eea4dc1726c778f506e91c1f630b3020b101cf111267c2621ed"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857292,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857292.json",
+      "filename": "2022\\events\\3857292.json.gz",
+      "bytes_uncompressed": 3339556,
+      "sha256": "1836a8dbdd33472eb3f1e57a898abfd9a944870e45dce8a83984445281ac2fb0"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857295,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857295.json",
+      "filename": "2022\\events\\3857295.json.gz",
+      "bytes_uncompressed": 3226260,
+      "sha256": "a59119793b57b85db364f1c9148f2c8ba1243555c7a25972e947b4d0aa36bb37"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869685,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869685.json",
+      "filename": "2022\\events\\3869685.json.gz",
+      "bytes_uncompressed": 3757121,
+      "sha256": "a0b0036d50c10a4c8879d1ee9f24a7502ec2cfb264a61951c8d500dfc897ec35"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869684,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869684.json",
+      "filename": "2022\\events\\3869684.json.gz",
+      "bytes_uncompressed": 3002148,
+      "sha256": "2206de792571a821d762a34c63d189db62f7a9bdacab80ef497545f4191fdd28"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857256,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857256.json",
+      "filename": "2022\\events\\3857256.json.gz",
+      "bytes_uncompressed": 2758185,
+      "sha256": "e1c5c6d486cac99e336669951946b5d31983b28285089470943f42d16ced7337"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869151,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869151.json",
+      "filename": "2022\\events\\3869151.json.gz",
+      "bytes_uncompressed": 3516112,
+      "sha256": "0157c399b6ff7ec46b265024b5a98ee878d73a8a1a0d5966de3a3d1cfb56a414"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857257,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857257.json",
+      "filename": "2022\\events\\3857257.json.gz",
+      "bytes_uncompressed": 3072401,
+      "sha256": "a9cc7eef2a5f15d49f2fe5bc2b0040732862c500b1363b3c0f6694cf41498cbf"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857258,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857258.json",
+      "filename": "2022\\events\\3857258.json.gz",
+      "bytes_uncompressed": 3135863,
+      "sha256": "0b47aafb78f7a131cf536753291ec3be96a54509407ec7e400c143730ae4db74"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857288,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857288.json",
+      "filename": "2022\\events\\3857288.json.gz",
+      "bytes_uncompressed": 2862790,
+      "sha256": "850f40e36dfadd46ae4660e15558308b5855406821c32d477648272e3fd6be11"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857267,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857267.json",
+      "filename": "2022\\events\\3857267.json.gz",
+      "bytes_uncompressed": 2444264,
+      "sha256": "7c05c6fa755649d4d882f98817944d6f90613ca424af061d0cfbc080585ac95d"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857287,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857287.json",
+      "filename": "2022\\events\\3857287.json.gz",
+      "bytes_uncompressed": 2959038,
+      "sha256": "5cf5213afda5d31a431fb1dc26d8f5403aea0d7f9dec82a04fe4787ef0152f2c"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869486,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869486.json",
+      "filename": "2022\\events\\3869486.json.gz",
+      "bytes_uncompressed": 2901963,
+      "sha256": "455127b456021593874476ee8b5dad01b0166b8da814c095300b6ed608a08993"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857260,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857260.json",
+      "filename": "2022\\events\\3857260.json.gz",
+      "bytes_uncompressed": 2609391,
+      "sha256": "7d619884b464cb63bb5ae13085cc3e6f2390cb2c6ef42107e2f85abb751579e7"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857264,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857264.json",
+      "filename": "2022\\events\\3857264.json.gz",
+      "bytes_uncompressed": 3472343,
+      "sha256": "b5e2357a818badd8b294b854b2b327ea7a07cdf7a627973f20a81ebf98e494ce"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857289,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857289.json",
+      "filename": "2022\\events\\3857289.json.gz",
+      "bytes_uncompressed": 2873412,
+      "sha256": "8c0d993f9e80602812ec0e73959a4a88a617d14414a2decd3ecfbfebdfab2e08"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869254,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869254.json",
+      "filename": "2022\\events\\3869254.json.gz",
+      "bytes_uncompressed": 2970822,
+      "sha256": "8317fefc7c2c0e4e072064b844077849856860ef81ef29c97916fd1c19ba7d44"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869118,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869118.json",
+      "filename": "2022\\events\\3869118.json.gz",
+      "bytes_uncompressed": 2941665,
+      "sha256": "b9a98ce90b475f5308bca34d6dde87f332091e61fe78d45badbf3fed53dffc9f"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869519,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869519.json",
+      "filename": "2022\\events\\3869519.json.gz",
+      "bytes_uncompressed": 3225242,
+      "sha256": "4ee7a0a1484045f49d42e74b7ca1881446ca7245087c6b6d47e536d47d58da6d"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869354,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869354.json",
+      "filename": "2022\\events\\3869354.json.gz",
+      "bytes_uncompressed": 2744507,
+      "sha256": "50c32503dc49d25430e9cbf254160bce7e1c7ee0975be826dbf4da413f4c280e"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869552,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869552.json",
+      "filename": "2022\\events\\3869552.json.gz",
+      "bytes_uncompressed": 3001771,
+      "sha256": "a8d0c4c65503004d6e12403815b21f65c101b394b7b42bd6c84fc26357d3868e"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869420,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869420.json",
+      "filename": "2022\\events\\3869420.json.gz",
+      "bytes_uncompressed": 4348491,
+      "sha256": "0936838f0a1a27df11352a4b96c6265b3ef89b164ff96817e46ae6619f0ab164"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869220,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869220.json",
+      "filename": "2022\\events\\3869220.json.gz",
+      "bytes_uncompressed": 3975140,
+      "sha256": "ca1d27f3a1b2454bf9d0b0b5e44aedecf01f39dde8ee1f3b6198acad3f24f966"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869219,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869219.json",
+      "filename": "2022\\events\\3869219.json.gz",
+      "bytes_uncompressed": 3859204,
+      "sha256": "717f0a1e9923bc43528546c29267c5195e071fdc3f6d63563c0d58e58fb3ec40"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869253,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869253.json",
+      "filename": "2022\\events\\3869253.json.gz",
+      "bytes_uncompressed": 3443303,
+      "sha256": "c6081e65da563f21c7f902bcf2f70d4fe26f4ac7d34a867388c1d5e6f21091d5"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869152,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869152.json",
+      "filename": "2022\\events\\3869152.json.gz",
+      "bytes_uncompressed": 3074345,
+      "sha256": "750ec4a0672adb8c85e89c7bc9e150b911d21a4d2172652273094c8aa7d4c095"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3869117,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3869117.json",
+      "filename": "2022\\events\\3869117.json.gz",
+      "bytes_uncompressed": 3091255,
+      "sha256": "1b0e02160e25013b840c716b304ba1bc7b9254cb044e2ca216d582f0ede3eaf0"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857270,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857270.json",
+      "filename": "2022\\events\\3857270.json.gz",
+      "bytes_uncompressed": 2987918,
+      "sha256": "29d7a2c5f589c6fe7ffbc97ca0738d0959e900d1f0f3f488d3ff7f91f94c30fb"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857263,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857263.json",
+      "filename": "2022\\events\\3857263.json.gz",
+      "bytes_uncompressed": 3027325,
+      "sha256": "16617ba95154db870ba833156348acfafa037730391ec0f8fe3f2635eba135ad"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857259,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857259.json",
+      "filename": "2022\\events\\3857259.json.gz",
+      "bytes_uncompressed": 2823701,
+      "sha256": "54006e5292f8a12a121d39c68a796d8fbe94c0f93304558a40bb80d81972f264"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857283,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857283.json",
+      "filename": "2022\\events\\3857283.json.gz",
+      "bytes_uncompressed": 3043250,
+      "sha256": "9dd25252fdcfa200588ad3b8d66b618fa6a01633d34b0327776a006ffd6ba5a3"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857286,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857286.json",
+      "filename": "2022\\events\\3857286.json.gz",
+      "bytes_uncompressed": 2799478,
+      "sha256": "27c12e2f24a7679d7bf60690c0832e61e04e56bdf1d62323c33b93829c673ea9"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857300,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857300.json",
+      "filename": "2022\\events\\3857300.json.gz",
+      "bytes_uncompressed": 2865394,
+      "sha256": "76fa92d3cc2d235a47eed0a7a722332a7c3ec5d3386a8785102eeec69db80ee8"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857299,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857299.json",
+      "filename": "2022\\events\\3857299.json.gz",
+      "bytes_uncompressed": 2852604,
+      "sha256": "b5e3534f6838cba64bcc46dfbef5bc14b768f35ad5aea2038e2990fe19c989c0"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857293,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857293.json",
+      "filename": "2022\\events\\3857293.json.gz",
+      "bytes_uncompressed": 2975135,
+      "sha256": "a995a7ced8343eb536cbfd8cd16a42f8613312672b3485baed1d573fc2c341f7"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857291,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857291.json",
+      "filename": "2022\\events\\3857291.json.gz",
+      "bytes_uncompressed": 3651273,
+      "sha256": "85918fc69760bc1b208f5cfb49ef4f44337673558b5d1e00909844e91810a570"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857281,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857281.json",
+      "filename": "2022\\events\\3857281.json.gz",
+      "bytes_uncompressed": 3139104,
+      "sha256": "f99ed7e0cb4f7a9c28b05ecae768bd10812f52987060f0edb324fb77ac610375"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857280,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857280.json",
+      "filename": "2022\\events\\3857280.json.gz",
+      "bytes_uncompressed": 2849907,
+      "sha256": "78ea79b4145e6d694180fe8eef748531ea96b0d75d18c1f9ccebd0228c7bf017"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857279,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857279.json",
+      "filename": "2022\\events\\3857279.json.gz",
+      "bytes_uncompressed": 3354655,
+      "sha256": "6e35ec73c164565b99684ab534efed808f23f6cb2c75842c8f2b413501ec96fb"
+    },
+    {
+      "kind": "events",
+      "season": "2022",
+      "match_id": 3857262,
+      "url": "https://raw.githubusercontent.com/statsbomb/open-data/master/data/events/3857262.json",
+      "filename": "2022\\events\\3857262.json.gz",
+      "bytes_uncompressed": 2918457,
+      "sha256": "f67026e3be8362a24da7df778ca96cdfc631bef071b07b4edb6cef1cb1eafacf"
+    }
+  ]
+}

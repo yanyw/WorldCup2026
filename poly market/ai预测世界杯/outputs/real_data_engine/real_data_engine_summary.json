@@ -1,0 +1,564 @@
+{
+  "method": "real historical data minute-event engine; no game or market inputs",
+  "cutoff_utc": "2026-07-15T17:45:00Z",
+  "fixture": {
+    "home": "England",
+    "away": "Argentina",
+    "kickoff_utc": "2026-07-15T19:00:00Z",
+    "venue": "Mercedes-Benz Stadium, Atlanta",
+    "neutral": true,
+    "stage": "FIFA World Cup semi-final",
+    "regulation_modeled_minutes": 95,
+    "extra_time_minutes": 30
+  },
+  "simulations": 250000,
+  "seed": 2026071503,
+  "historical_fit": {
+    "matches": 11847,
+    "teams": 300,
+    "objective": 5606.757525390413,
+    "optimizer": "deterministic_adam",
+    "home_advantage_multiplier": 1.2953578528246295
+  },
+  "historical_training_matches": 11847,
+  "team_profiles": {
+    "England": {
+      "matches": 6,
+      "minutes": 570,
+      "historical_attack_residual_log": 0.06446930819914365,
+      "historical_defence_leak_residual_log": 0.01853540903492519,
+      "xg_for_per90": 1.8539573738193953,
+      "xg_against_per90": 0.8734684545221977,
+      "shots_per90": 14.12070231969743,
+      "shots_against_per90": 10.538483303580538,
+      "sot_rate": 0.4148936170212766,
+      "possession": 0.476713317320483,
+      "passes_per90": 486.132502924196,
+      "pass_completion": 0.8282188191713514,
+      "line_breaks_per90": 94.15407039001826,
+      "final_third_receptions_per90": 142.45537671340202,
+      "crosses_per90": 22.702241650712182,
+      "corners_per90": 5.166131297955806,
+      "corners_against_per90": 4.888149033317675,
+      "free_kicks_won_per90": 14.935591185254829,
+      "free_kicks_conceded_per90": 10.902238685342345,
+      "throw_ins_per90": 16.655670216741935,
+      "pressures_per90": 220.7960188223482,
+      "direct_pressures_per90": 39.99995518911806,
+      "forced_turnovers_per90": 32.96119655726329,
+      "regains_per90": 37.984194309240344,
+      "interceptions_per90": 6.77650232791792,
+      "tackles_per90": 21.73812357239661,
+      "distance_per90": 110.55013306395573,
+      "high_speed_distance_per90": 5.318284295374086,
+      "phase_profile": {
+        "phase_build_up_unopposed": 34.7769081178946,
+        "phase_build_up_opposed": 13.991974217268034,
+        "phase_progression": 17.196434637152716,
+        "phase_final_third": 17.72378618247717,
+        "phase_long_ball": 3.709755857292007,
+        "phase_attacking_transition": 10.741909391823908,
+        "phase_counter_attack": 1.0409899720388074,
+        "phase_set_piece": 5.589534501248814,
+        "phase_high_press": 7.7439769850493665,
+        "phase_mid_press": 3.3756287351121004,
+        "phase_low_press": 0.1367105512616902,
+        "phase_high_block": 4.89675736690488,
+        "phase_mid_block": 14.24764312679532,
+        "phase_low_block": 21.32202163706596,
+        "phase_recovery": 5.198776803705321,
+        "phase_defensive_transition": 14.382456455283581,
+        "phase_counter_press": 9.944688604729823
+      },
+      "historical_target_xg": 0.917474888340503,
+      "target_xg": 0.9141319335251255,
+      "target_shots": 10.364081542709664,
+      "target_possession": 0.4910733319606928
+    },
+    "Argentina": {
+      "matches": 6,
+      "minutes": 600,
+      "historical_attack_residual_log": 0.07982751800219064,
+      "historical_defence_leak_residual_log": -0.0977202386066904,
+      "xg_for_per90": 2.074580638332496,
+      "xg_against_per90": 0.5497983250259347,
+      "shots_per90": 15.14311756915434,
+      "shots_against_per90": 7.606858624453798,
+      "sot_rate": 0.41836734693877553,
+      "possession": 0.4945519074298083,
+      "passes_per90": 621.5061268331215,
+      "pass_completion": 0.8006450282021172,
+      "line_breaks_per90": 104.11477131168209,
+      "final_third_receptions_per90": 167.7941199596234,
+      "crosses_per90": 13.02652757579911,
+      "corners_per90": 4.922708147836843,
+      "corners_against_per90": 2.6694527404204944,
+      "free_kicks_won_per90": 11.81782343858166,
+      "free_kicks_conceded_per90": 13.408884372248764,
+      "throw_ins_per90": 14.554341585750674,
+      "pressures_per90": 208.36362742220936,
+      "direct_pressures_per90": 36.7244088909239,
+      "forced_turnovers_per90": 37.90977744458349,
+      "regains_per90": 37.34617317088083,
+      "interceptions_per90": 6.408060136956725,
+      "tackles_per90": 29.714610758834958,
+      "distance_per90": 105.83381115580148,
+      "high_speed_distance_per90": 4.607389423865611,
+      "phase_profile": {
+        "phase_build_up_unopposed": 39.34129056362736,
+        "phase_build_up_opposed": 18.709708399366587,
+        "phase_progression": 12.017480483481595,
+        "phase_final_third": 16.008338797410673,
+        "phase_long_ball": 1.661035471002416,
+        "phase_attacking_transition": 8.02715593637121,
+        "phase_counter_attack": 0.8289277275682251,
+        "phase_set_piece": 4.110275946225677,
+        "phase_high_press": 5.200612389286949,
+        "phase_mid_press": 4.001124387905625,
+        "phase_low_press": 0.5604366960017033,
+        "phase_high_block": 4.268550913814076,
+        "phase_mid_block": 17.915486713545356,
+        "phase_low_block": 21.238100941744516,
+        "phase_recovery": 3.003715747311299,
+        "phase_defensive_transition": 11.656354028138564,
+        "phase_counter_press": 8.437989269279456
+      },
+      "historical_target_xg": 1.1298831152265927,
+      "target_xg": 1.1926754033864737,
+      "target_shots": 12.63271513439174,
+      "target_possession": 0.5089266680393072
+    }
+  },
+  "derived_event_rates": {
+    "home_xg": 0.9141319335251255,
+    "away_xg": 1.1926754033864737,
+    "home_shots": 10.364081542709664,
+    "away_shots": 12.63271513439174,
+    "home_sot_rate": 0.4148936170212766,
+    "away_sot_rate": 0.41836734693877553,
+    "home_fouls": 11.072147144867174,
+    "away_fouls": 13.617858231048828,
+    "home_yellows": 1.575687248291019,
+    "away_yellows": 1.9379696894333447,
+    "home_reds": 0.05662451065509215,
+    "away_reds": 0.06964363356217022,
+    "home_penalties": 0.1922716749107664,
+    "away_penalties": 0.2343587598718423,
+    "home_corners": 3.7135890120879305,
+    "away_corners": 4.905398156536705,
+    "home_passes": 486.132502924196,
+    "home_line_breaks": 94.15407039001826,
+    "home_final_third_receptions": 142.45537671340202,
+    "home_crosses": 22.702241650712182,
+    "home_throw_ins": 16.655670216741935,
+    "home_pressures": 220.7960188223482,
+    "home_direct_pressures": 39.99995518911806,
+    "home_forced_turnovers": 32.96119655726329,
+    "home_regains": 37.984194309240344,
+    "home_interceptions": 6.77650232791792,
+    "home_tackles": 21.73812357239661,
+    "away_passes": 621.5061268331215,
+    "away_line_breaks": 104.11477131168209,
+    "away_final_third_receptions": 167.7941199596234,
+    "away_crosses": 13.02652757579911,
+    "away_throw_ins": 14.554341585750674,
+    "away_pressures": 208.36362742220936,
+    "away_direct_pressures": 36.7244088909239,
+    "away_forced_turnovers": 37.90977744458349,
+    "away_regains": 37.34617317088083,
+    "away_interceptions": 6.408060136956725,
+    "away_tackles": 29.714610758834958
+  },
+  "referee_posterior": {
+    "yellow_per_match": 3.5136569377243636,
+    "red_per_match": 0.12626814421726237,
+    "fouls_per_match": 25.0,
+    "penalties_per_match": 0.4266304347826087,
+    "career_yellow_rate": 3.577181208053691,
+    "career_red_rate": 0.11073825503355705,
+    "historical_wc_penalty_rate": 0.390625
+  },
+  "travel_km_measured_not_forced_into_base_rate": {
+    "England": 9180.820655182708,
+    "Argentina": 5630.302792800609
+  },
+  "environment": {
+    "roof": "closed",
+    "surface": "natural grass",
+    "controlled_temperature_c": 22.2,
+    "weather_multiplier": 1.0,
+    "altitude_multiplier": 1.0
+  },
+  "regulation": {
+    "england_win": 0.27564,
+    "draw": 0.309532,
+    "argentina_win": 0.414828,
+    "ci95_monte_carlo": {
+      "england_win": [
+        0.2738884020926244,
+        0.2773915979073756
+      ],
+      "draw": [
+        0.30771978124007787,
+        0.3113442187599221
+      ],
+      "argentina_win": [
+        0.41289664607286375,
+        0.4167593539271362
+      ]
+    },
+    "expected_goals_england": 0.942812,
+    "expected_goals_argentina": 1.212316,
+    "over_0_5": 0.878872,
+    "over_1_5": 0.634272,
+    "over_2_5": 0.365128,
+    "over_3_5": 0.173868,
+    "btts": 0.443348,
+    "scorelines": [
+      {
+        "score": "1-1",
+        "probability": 0.140516
+      },
+      {
+        "score": "0-1",
+        "probability": 0.138876
+      },
+      {
+        "score": "0-0",
+        "probability": 0.121128
+      },
+      {
+        "score": "1-0",
+        "probability": 0.105724
+      },
+      {
+        "score": "1-2",
+        "probability": 0.082316
+      },
+      {
+        "score": "0-2",
+        "probability": 0.081524
+      },
+      {
+        "score": "2-1",
+        "probability": 0.062948
+      },
+      {
+        "score": "2-0",
+        "probability": 0.047104
+      },
+      {
+        "score": "2-2",
+        "probability": 0.041724
+      },
+      {
+        "score": "0-3",
+        "probability": 0.031712
+      },
+      {
+        "score": "1-3",
+        "probability": 0.031428
+      },
+      {
+        "score": "3-1",
+        "probability": 0.018708
+      },
+      {
+        "score": "2-3",
+        "probability": 0.01608
+      },
+      {
+        "score": "3-0",
+        "probability": 0.014284
+      },
+      {
+        "score": "3-2",
+        "probability": 0.012832
+      },
+      {
+        "score": "0-4",
+        "probability": 0.009596
+      }
+    ]
+  },
+  "progression": {
+    "england_advance": 0.404176,
+    "argentina_advance": 0.595824,
+    "extra_time_given_draw": {
+      "england_win": 0.184316968843286,
+      "tied": 0.5643099905664035,
+      "argentina_win": 0.2513730405903105
+    },
+    "shootout_conversion_england": 0.8,
+    "shootout_conversion_argentina": 0.8421052631578947,
+    "england_shootout_win": 0.4092470458917285
+  },
+  "event_means_90m": {
+    "home_shots": 10.699876,
+    "away_shots": 12.859972,
+    "home_sot": 4.552928,
+    "away_sot": 5.516108,
+    "home_goals": 0.942812,
+    "away_goals": 1.212316,
+    "home_fouls": 11.17,
+    "away_fouls": 13.737228,
+    "home_yellows": 1.574428,
+    "away_yellows": 1.935316,
+    "home_reds": 0.056092,
+    "away_reds": 0.069596,
+    "home_penalties": 0.193516,
+    "away_penalties": 0.235368,
+    "home_corners": 3.69822,
+    "away_corners": 4.8623,
+    "var_reviews": 0.628144,
+    "injuries": 5.654996,
+    "substitutions": 9.619992
+  },
+  "first_goal": {
+    "england": 0.382868,
+    "none": 0.121128,
+    "argentina": 0.496004,
+    "mean_minute_given_goal": 34.528195232070196
+  },
+  "validation": {
+    "shots": {
+      "holdout_actual_total": 1408.0,
+      "holdout_predicted_total": 1620.0992085546054,
+      "calibration_ratio_actual_over_predicted": 0.8690825799835846,
+      "poisson_deviance": 0.5471973638244756,
+      "null_poisson_deviance": 0.5485207144526685
+    },
+    "xg": {
+      "holdout_actual_total": 151.256638489,
+      "holdout_predicted_total": 168.5188066924095,
+      "calibration_ratio_actual_over_predicted": 0.8975653308837072,
+      "poisson_deviance": 0.07308391774648257,
+      "null_poisson_deviance": 0.07316571029487129
+    },
+    "goals": {
+      "holdout_actual_total": 171.0,
+      "holdout_predicted_total": 177.96622721601403,
+      "calibration_ratio_actual_over_predicted": 0.9608564651564002,
+      "poisson_deviance": 0.12098015104875545,
+      "null_poisson_deviance": 0.12109483689138158
+    },
+    "fouls": {
+      "holdout_actual_total": 1718.0,
+      "holdout_predicted_total": 1832.3914776306624,
+      "calibration_ratio_actual_over_predicted": 0.9375725771336952,
+      "poisson_deviance": 0.5758772274095159,
+      "null_poisson_deviance": 0.575640029521922
+    },
+    "yellow_cards": {
+      "holdout_actual_total": 217.0,
+      "holdout_predicted_total": 200.81256020677012,
+      "calibration_ratio_actual_over_predicted": 1.0806096978025788,
+      "poisson_deviance": 0.144419476697981,
+      "null_poisson_deviance": 0.14516158780687077
+    },
+    "red_cards": {
+      "holdout_actual_total": 3.0,
+      "holdout_predicted_total": 4.000004867071054,
+      "calibration_ratio_actual_over_predicted": 0.7499990874252879,
+      "poisson_deviance": 0.004121358716423242,
+      "null_poisson_deviance": 0.004121519470921183
+    },
+    "penalties": {
+      "holdout_actual_total": 22.0,
+      "holdout_predicted_total": 27.99734174591897,
+      "calibration_ratio_actual_over_predicted": 0.7857888866612427,
+      "poisson_deviance": 0.022962383589504212,
+      "null_poisson_deviance": 0.022964055624603463
+    },
+    "corners": {
+      "holdout_actual_total": 547.0,
+      "holdout_predicted_total": 564.1972909882121,
+      "calibration_ratio_actual_over_predicted": 0.9695190117660962,
+      "poisson_deviance": 0.2854440307477331,
+      "null_poisson_deviance": 0.2854560494426719
+    },
+    "substitutions": {
+      "holdout_actual_total": 562.0,
+      "holdout_predicted_total": 362.9495134423855,
+      "calibration_ratio_actual_over_predicted": 1.5484247235096835,
+      "poisson_deviance": 0.31317909856881565,
+      "null_poisson_deviance": 0.3247170289592829
+    },
+    "injuries": {
+      "holdout_actual_total": 394.0,
+      "holdout_predicted_total": 282.912017584835,
+      "calibration_ratio_actual_over_predicted": 1.3926591148849086,
+      "poisson_deviance": 0.22554210983182457,
+      "null_poisson_deviance": 0.22565915065207678
+    },
+    "pressures": {
+      "holdout_actual_total": 16158.0,
+      "holdout_predicted_total": 22923.105701281682,
+      "calibration_ratio_actual_over_predicted": 0.7048783097089925,
+      "poisson_deviance": 2.0766681353351535,
+      "null_poisson_deviance": 2.083941203170652
+    }
+  },
+  "extra_time_empirics": {
+    "matches_reaching_extra_time": 10,
+    "rate_multiplier_vs_regulation": {
+      "shots": 1.0833553500660504,
+      "xg": 1.0269380268113801,
+      "goals": 0.9213166144200626,
+      "fouls": 1.0462535211267605,
+      "yellow_cards": 1.0511961722488037,
+      "red_cards": 0.5,
+      "penalties": 1.268,
+      "corners": 1.1394239423942394,
+      "substitutions": 1.3915766738660909,
+      "injuries": 0.9821270310192023,
+      "pressures": 0.9302314885788747
+    },
+    "shootout_penalties": 80,
+    "shootout_goals": 52,
+    "shootout_conversion": 0.6666666666666666,
+    "shootout_by_team": {
+      "Argentina": {
+        "taken": 9,
+        "scored": 8,
+        "beta_binomial_posterior": 0.8421052631578947
+      },
+      "Brazil": {
+        "taken": 4,
+        "scored": 2,
+        "beta_binomial_posterior": 0.7142857142857143
+      },
+      "Colombia": {
+        "taken": 5,
+        "scored": 3,
+        "beta_binomial_posterior": 0.7333333333333333
+      },
+      "Croatia": {
+        "taken": 18,
+        "scored": 14,
+        "beta_binomial_posterior": 0.7857142857142857
+      },
+      "Denmark": {
+        "taken": 5,
+        "scored": 2,
+        "beta_binomial_posterior": 0.6666666666666666
+      },
+      "England": {
+        "taken": 5,
+        "scored": 4,
+        "beta_binomial_posterior": 0.8
+      },
+      "France": {
+        "taken": 4,
+        "scored": 2,
+        "beta_binomial_posterior": 0.7142857142857143
+      },
+      "Japan": {
+        "taken": 4,
+        "scored": 1,
+        "beta_binomial_posterior": 0.6428571428571429
+      },
+      "Morocco": {
+        "taken": 4,
+        "scored": 3,
+        "beta_binomial_posterior": 0.7857142857142857
+      },
+      "Netherlands": {
+        "taken": 5,
+        "scored": 3,
+        "beta_binomial_posterior": 0.7333333333333333
+      },
+      "Russia": {
+        "taken": 9,
+        "scored": 7,
+        "beta_binomial_posterior": 0.7894736842105263
+      },
+      "Spain": {
+        "taken": 8,
+        "scored": 3,
+        "beta_binomial_posterior": 0.6111111111111112
+      }
+    }
+  },
+  "sensitivity": [
+    {
+      "scenario": "基准",
+      "england_win": 0.277,
+      "draw": 0.314275,
+      "argentina_win": 0.408725,
+      "england_goals": 0.950275,
+      "argentina_goals": 1.2009,
+      "over_2_5": 0.362525,
+      "btts": 0.44755
+    },
+    {
+      "scenario": "仅赛前历史实力",
+      "england_win": 0.286025,
+      "draw": 0.31495,
+      "argentina_win": 0.399025,
+      "england_goals": 0.937775,
+      "argentina_goals": 1.149,
+      "over_2_5": 0.348975,
+      "btts": 0.432075
+    },
+    {
+      "scenario": "移除比分状态反馈",
+      "england_win": 0.28445,
+      "draw": 0.291475,
+      "argentina_win": 0.424075,
+      "england_goals": 0.926775,
+      "argentina_goals": 1.196925,
+      "over_2_5": 0.356925,
+      "btts": 0.4217
+    },
+    {
+      "scenario": "低节奏/终结率-10%",
+      "england_win": 0.272775,
+      "draw": 0.324875,
+      "argentina_win": 0.40235,
+      "england_goals": 0.850925,
+      "argentina_goals": 1.08905,
+      "over_2_5": 0.307025,
+      "btts": 0.391475
+    },
+    {
+      "scenario": "开放比赛/终结率+10%",
+      "england_win": 0.278575,
+      "draw": 0.2939,
+      "argentina_win": 0.427525,
+      "england_goals": 1.034575,
+      "argentina_goals": 1.3336,
+      "over_2_5": 0.423025,
+      "btts": 0.4919
+    },
+    {
+      "scenario": "Rice缺阵压力情景",
+      "england_win": 0.26005,
+      "draw": 0.304,
+      "argentina_win": 0.43595,
+      "england_goals": 0.90755,
+      "argentina_goals": 1.247375,
+      "over_2_5": 0.36515,
+      "btts": 0.437275
+    },
+    {
+      "scenario": "阿根廷额外疲劳尾部",
+      "england_win": 0.2801,
+      "draw": 0.316625,
+      "argentina_win": 0.403275,
+      "england_goals": 0.943525,
+      "argentina_goals": 1.17945,
+      "over_2_5": 0.357025,
+      "btts": 0.4411
+    }
+  ],
+  "lineup_status": "projected at model cutoff; replace with official XI when published",
+  "prohibited_inputs_confirmed": [
+    "EA FC/eFootball/PES player or team ratings",
+    "gameplay balance parameters",
+    "betting odds or Polymarket prices",
+    "market-implied probabilities",
+    "Elo or FIFA ranking as a prediction input"
+  ],
+  "interpretation": "minute rows are conditional event hazards across simulations, not deterministic forecasts of an exact event at an exact minute"
+}

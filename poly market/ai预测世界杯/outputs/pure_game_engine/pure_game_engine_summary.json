@@ -1,0 +1,278 @@
+{
+  "method": "pure player/tactical minute-event game engine; no odds, Elo, FIFA ranking or prior Poisson forecast",
+  "simulations": 200000,
+  "seed": 20260715,
+  "fixture": {
+    "fixture_id": "fifwc-eng-arg-2026-07-15",
+    "home": "England",
+    "away": "Argentina",
+    "stage": "World Cup semi-final",
+    "neutral": true,
+    "regulation_modeled_minutes": 95,
+    "extra_time_minutes": 30,
+    "stadium": "Atlanta Stadium",
+    "surface": "temporary FIFA-approved natural grass",
+    "roof": "closed",
+    "indoor_temperature_c": 22.2,
+    "weather_multiplier": 1.0,
+    "pitch_speed_multiplier": 0.99,
+    "semi_final_caution_multiplier": 0.96
+  },
+  "team_engine": {
+    "England": {
+      "team": "England",
+      "profile": {
+        "attack": 79.88758166666666,
+        "defense": 78.78325,
+        "control": 79.42291666666667,
+        "physical": 76.49893333333334,
+        "strength": 79.20671683333333,
+        "starting_xi_ovr": 83.63636363636364
+      },
+      "creation": 59.88022670000001,
+      "defensive_resistance": 79.59816833333333,
+      "forward_finishing": 84.33333333333333,
+      "goalkeeper": 84.0,
+      "tactical_multiplier": 1.01756055488546,
+      "form_multiplier": 1.0310596604592788,
+      "fitness_multiplier": 0.995,
+      "pressing_multiplier": 1.08,
+      "set_piece_multiplier": 1.1,
+      "bench_quality": 81.0,
+      "possession_bias": -0.012,
+      "wide_edge": 5.291666666666657,
+      "central_edge": 7.212500000000006
+    },
+    "Argentina": {
+      "team": "Argentina",
+      "profile": {
+        "attack": 80.1823775,
+        "defense": 77.85287500000001,
+        "control": 79.04775,
+        "physical": 74.2841,
+        "strength": 78.78546850000001,
+        "starting_xi_ovr": 82.81818181818181
+      },
+      "creation": 59.746187033333335,
+      "defensive_resistance": 78.92542250000001,
+      "forward_finishing": 86.0,
+      "goalkeeper": 85.0,
+      "tactical_multiplier": 1.010220426121622,
+      "form_multiplier": 1.0590415448489165,
+      "fitness_multiplier": 0.99,
+      "pressing_multiplier": 0.96,
+      "set_piece_multiplier": 1.04,
+      "bench_quality": 81.14285714285714,
+      "possession_bias": 0.012,
+      "wide_edge": 8.1875,
+      "central_edge": 2.69583333333334
+    }
+  },
+  "derived_pregame_rates": {
+    "shots_home": 13.534913373129033,
+    "shots_away": 12.939627255903371,
+    "sot_rate_home": 0.3552237843418972,
+    "sot_rate_away": 0.3618632897297509,
+    "sot_conversion_home": 0.27160093884963216,
+    "sot_conversion_away": 0.28136905925770184,
+    "possession_home": 0.5044211810640536,
+    "foul_share_home": 0.5294117647058824,
+    "penalty_share_home": 0.5134375273183261
+  },
+  "regulation_90m": {
+    "home_win": 0.36433,
+    "draw": 0.272065,
+    "away_win": 0.36360499999999996,
+    "monte_carlo_95pct_ci": {
+      "home_win": [
+        0.36222086490467564,
+        0.36643913509532433
+      ],
+      "draw": [
+        0.2701145998943893,
+        0.2740154001056107
+      ],
+      "away_win": [
+        0.3614967632657711,
+        0.3657132367342288
+      ]
+    },
+    "expected_goals_home": 1.471365,
+    "expected_goals_away": 1.46713,
+    "over_0_5": 0.94638,
+    "over_1_5": 0.79381,
+    "over_2_5": 0.562425,
+    "over_3_5": 0.3397,
+    "btts": 0.623715,
+    "scorelines": [
+      {
+        "score": "1-1",
+        "probability": 0.12619
+      },
+      {
+        "score": "2-1",
+        "probability": 0.089045
+      },
+      {
+        "score": "1-2",
+        "probability": 0.088635
+      },
+      {
+        "score": "0-1",
+        "probability": 0.076875
+      },
+      {
+        "score": "1-0",
+        "probability": 0.075695
+      },
+      {
+        "score": "2-2",
+        "probability": 0.07212
+      },
+      {
+        "score": "0-0",
+        "probability": 0.05362
+      },
+      {
+        "score": "2-0",
+        "probability": 0.052865
+      },
+      {
+        "score": "0-2",
+        "probability": 0.05233
+      },
+      {
+        "score": "1-3",
+        "probability": 0.03981
+      },
+      {
+        "score": "3-1",
+        "probability": 0.03941
+      },
+      {
+        "score": "2-3",
+        "probability": 0.033695
+      },
+      {
+        "score": "3-2",
+        "probability": 0.033565
+      },
+      {
+        "score": "3-0",
+        "probability": 0.022625
+      },
+      {
+        "score": "0-3",
+        "probability": 0.02242
+      }
+    ]
+  },
+  "progression": {
+    "home_advance": 0.49981,
+    "away_advance": 0.50019,
+    "extra_time_given_draw": {
+      "home_win": 0.21549997243305827,
+      "still_tied": 0.5651774392148935,
+      "away_win": 0.21932258835204824
+    },
+    "shootout_conversion_home": 0.74544,
+    "shootout_conversion_away": 0.7447999999999999,
+    "home_shootout_win": 0.4997886385068123
+  },
+  "event_means_90m": {
+    "home_shots": 13.761805,
+    "away_shots": 13.11998,
+    "home_sot": 5.015335,
+    "away_sot": 4.870865,
+    "home_goals": 1.471365,
+    "away_goals": 1.46713,
+    "home_fouls": 11.470805,
+    "away_fouls": 10.18964,
+    "home_yellows": 1.671815,
+    "away_yellows": 1.489,
+    "home_reds": 0.103265,
+    "away_reds": 0.092155,
+    "home_penalties": 0.21091,
+    "away_penalties": 0.19624,
+    "home_corners": 3.640615,
+    "away_corners": 3.273005,
+    "var_reviews": 0.511125,
+    "injuries": 0.125255,
+    "substitutions": 6.66584
+  },
+  "first_goal": {
+    "home": 0.47332,
+    "none": 0.05362,
+    "away": 0.47306,
+    "expected_first_goal_minute_given_goal": 30.11746867009024
+  },
+  "sensitivity_scenarios": [
+    {
+      "scenario": "低节奏谨慎半决赛",
+      "simulations": 40000,
+      "home_win": 0.349,
+      "draw": 0.2955,
+      "away_win": 0.3555,
+      "xg_home": 1.244925,
+      "xg_away": 1.250825,
+      "over_2_5": 0.4551,
+      "btts": 0.538425
+    },
+    {
+      "scenario": "开放式攻防转换",
+      "simulations": 40000,
+      "home_win": 0.373175,
+      "draw": 0.259825,
+      "away_win": 0.367,
+      "xg_home": 1.691875,
+      "xg_away": 1.678025,
+      "over_2_5": 0.6533,
+      "btts": 0.696725
+    },
+    {
+      "scenario": "Rice状态受限",
+      "simulations": 40000,
+      "home_win": 0.3383,
+      "draw": 0.272225,
+      "away_win": 0.389475,
+      "xg_home": 1.40465,
+      "xg_away": 1.511,
+      "over_2_5": 0.55725,
+      "btts": 0.622
+    },
+    {
+      "scenario": "阿根廷切换4-3-3",
+      "simulations": 40000,
+      "home_win": 0.35605,
+      "draw": 0.26975,
+      "away_win": 0.3742,
+      "xg_home": 1.4955,
+      "xg_away": 1.535,
+      "over_2_5": 0.58605,
+      "btts": 0.6416
+    },
+    {
+      "scenario": "低点球/低红牌裁判实现",
+      "simulations": 40000,
+      "home_win": 0.35905,
+      "draw": 0.279375,
+      "away_win": 0.361575,
+      "xg_home": 1.4112,
+      "xg_away": 1.412375,
+      "over_2_5": 0.5339,
+      "btts": 0.6021
+    }
+  ],
+  "prohibited_inputs_confirmed": [
+    "sportsbook odds",
+    "Polymarket prices",
+    "team Elo or FIFA ranking",
+    "the earlier Poisson fair-probability output"
+  ],
+  "limitations": [
+    "Starting XIs are projected, not official; rerun after lineups are released.",
+    "FC 26 launch attributes are static and do not contain every hidden football skill or live-form update.",
+    "Minute probabilities are event hazards across simulations, not a claim that a named event will occur at an exact minute.",
+    "Substitutions and injuries are role-level hazards because confirmed bench usage is unknown."
+  ]
+}

@@ -1,0 +1,191 @@
+﻿season,match_id,team,player,player_normalized,position,minutes,shots,xg,goals,passes,key_passes,crosses,pressures,fouls,interceptions,tackles,cards
+2022,3857271,England,Harry Kane,harry kane,Center Forward,75,0.0,0.0,0.0,16.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0
+2022,3857271,England,John Stones,john stones,Right Center Back,90,0.0,0.0,0.0,119.0,0.0,0.0,3.0,2.0,0.0,1.0,0.0
+2022,3857271,England,Mason Mount,mason mount,Center Attacking Midfield,70,1.0,0.06697492,0.0,37.0,1.0,1.0,11.0,2.0,1.0,1.0,0.0
+2022,3857271,England,Raheem Sterling,raheem sterling,Left Wing,70,1.0,0.1885282,1.0,29.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+2022,3857271,England,Bukayo Saka,bukayo saka,Right Wing,70,3.0,0.169339465,2.0,29.0,1.0,1.0,14.0,2.0,1.0,3.0,0.0
+2022,3857271,England,Declan Rice,declan rice,Left Defensive Midfield,90,0.0,0.0,0.0,97.0,0.0,0.0,9.0,0.0,2.0,2.0,0.0
+2022,3857271,England,Jordan Pickford,jordan pickford,Goalkeeper,90,0.0,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857271,England,Luke Shaw,luke shaw,Left Back,90,1.0,0.021548782,0.0,118.0,1.0,2.0,4.0,0.0,1.0,0.0,0.0
+2022,3857271,England,Phil Foden,phil foden,Center Attacking Midfield,20,0.0,0.0,0.0,21.0,1.0,1.0,7.0,1.0,0.0,0.0,0.0
+2022,3857271,England,Harry Maguire,harry maguire,Left Center Back,70,2.0,0.30296091,0.0,72.0,1.0,0.0,4.0,0.0,0.0,0.0,0.0
+2022,3857271,England,Eric Dier,eric dier,Left Center Back,20,0.0,0.0,0.0,29.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2022,3857271,England,Jude Bellingham,jude bellingham,Right Defensive Midfield,90,1.0,0.08285139,1.0,102.0,0.0,2.0,13.0,1.0,0.0,3.0,0.0
+2022,3857271,England,Kieran Trippier,kieran trippier,Right Back,90,1.0,0.042866398,0.0,104.0,1.0,2.0,13.0,0.0,1.0,5.0,0.0
+2022,3857271,England,Jack Grealish,jack grealish,Left Wing,20,1.0,0.6262809,1.0,19.0,0.0,0.0,7.0,0.0,0.0,1.0,0.0
+2022,3857271,England,Marcus Rashford,marcus rashford,Right Wing,20,2.0,0.48580678,1.0,20.0,0.0,1.0,5.0,1.0,0.0,0.0,0.0
+2022,3857271,England,Callum Wilson,callum wilson,Center Forward,15,0.0,0.0,0.0,5.0,1.0,0.0,3.0,0.0,0.0,0.0,0.0
+2022,3857272,England,Harry Kane,harry kane,Center Forward,90,2.0,0.17599504,0.0,25.0,0.0,0.0,8.0,0.0,0.0,2.0,0.0
+2022,3857272,England,John Stones,john stones,Right Center Back,90,1.0,0.04222343,0.0,90.0,0.0,0.0,3.0,1.0,0.0,1.0,0.0
+2022,3857272,England,Mason Mount,mason mount,Center Attacking Midfield,90,2.0,0.090719145,0.0,32.0,0.0,1.0,23.0,3.0,0.0,1.0,0.0
+2022,3857272,England,Raheem Sterling,raheem sterling,Left Wing,67,0.0,0.0,0.0,21.0,0.0,0.0,9.0,0.0,1.0,0.0,0.0
+2022,3857272,England,Bukayo Saka,bukayo saka,Right Wing,77,1.0,0.08680134,0.0,27.0,1.0,1.0,9.0,1.0,0.0,1.0,0.0
+2022,3857272,England,Declan Rice,declan rice,Left Defensive Midfield,90,0.0,0.0,0.0,60.0,0.0,0.0,10.0,0.0,2.0,1.0,0.0
+2022,3857272,England,Jordan Brian Henderson,jordan brian henderson,Right Defensive Midfield,22,0.0,0.0,0.0,12.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0
+2022,3857272,England,Jordan Pickford,jordan pickford,Goalkeeper,90,0.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857272,England,Luke Shaw,luke shaw,Left Back,90,0.0,0.0,0.0,83.0,2.0,2.0,9.0,2.0,1.0,0.0,0.0
+2022,3857272,England,Harry Maguire,harry maguire,Left Center Back,90,1.0,0.05556727,0.0,79.0,0.0,1.0,3.0,2.0,2.0,1.0,0.0
+2022,3857272,England,Jude Bellingham,jude bellingham,Right Defensive Midfield,68,0.0,0.0,0.0,36.0,0.0,2.0,9.0,0.0,0.0,1.0,0.0
+2022,3857272,England,Kieran Trippier,kieran trippier,Right Back,90,0.0,0.0,0.0,74.0,2.0,1.0,13.0,2.0,0.0,1.0,0.0
+2022,3857272,England,Jack Grealish,jack grealish,Left Wing,23,0.0,0.0,0.0,13.0,1.0,0.0,2.0,0.0,1.0,0.0,0.0
+2022,3857272,England,Marcus Rashford,marcus rashford,Right Wing,13,1.0,0.009332121,0.0,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0
+2022,3857261,England,Harry Kane,harry kane,Center Forward,57,2.0,0.058247065,0.0,9.0,2.0,1.0,5.0,0.0,0.0,0.0,0.0
+2022,3857261,England,John Stones,john stones,Right Center Back,90,2.0,0.46152714100000003,0.0,82.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+2022,3857261,England,Kyle Walker,kyle walker,Right Back,56,0.0,0.0,0.0,55.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0
+2022,3857261,England,Jordan Brian Henderson,jordan brian henderson,Right Center Midfield,90,0.0,0.0,0.0,61.0,1.0,2.0,12.0,3.0,1.0,1.0,0.0
+2022,3857261,England,Declan Rice,declan rice,Center Defensive Midfield,57,0.0,0.0,0.0,48.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0
+2022,3857261,England,Jordan Pickford,jordan pickford,Goalkeeper,90,0.0,0.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857261,England,Luke Shaw,luke shaw,Left Back,64,0.0,0.0,0.0,60.0,2.0,3.0,4.0,0.0,0.0,0.0,0.0
+2022,3857261,England,Phil Foden,phil foden,Right Wing,90,5.0,1.22865907,1.0,36.0,1.0,0.0,7.0,2.0,0.0,0.0,0.0
+2022,3857261,England,Harry Maguire,harry maguire,Left Center Back,90,1.0,0.01084097,0.0,87.0,0.0,1.0,1.0,2.0,1.0,0.0,0.0
+2022,3857261,England,Jude Bellingham,jude bellingham,Left Center Midfield,90,2.0,0.49393251000000005,0.0,52.0,2.0,0.0,10.0,0.0,2.0,2.0,0.0
+2022,3857261,England,Kieran Trippier,kieran trippier,Left Back,26,0.0,0.0,0.0,17.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+2022,3857261,England,Jack Grealish,jack grealish,Right Wing,15,0.0,0.0,0.0,15.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0
+2022,3857261,England,Trent Alexander-Arnold,trent alexander-arnold,Right Back,34,0.0,0.0,0.0,23.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0
+2022,3857261,England,Marcus Rashford,marcus rashford,Left Wing,75,6.0,0.662278414,2.0,31.0,0.0,0.0,6.0,0.0,1.0,2.0,0.0
+2022,3857261,England,Kalvin Phillips,kalvin phillips,Center Defensive Midfield,33,0.0,0.0,0.0,15.0,1.0,0.0,8.0,1.0,1.0,0.0,0.0
+2022,3857261,England,Callum Wilson,callum wilson,Center Forward,33,0.0,0.0,0.0,7.0,2.0,0.0,7.0,0.0,0.0,0.0,0.0
+2022,3869321,Argentina,Alexis Mac Allister,alexis mac allister,Left Center Midfield,120,0.0,0.0,0.0,47.0,1.0,1.0,23.0,0.0,0.0,2.0,0.0
+2022,3869321,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Center Midfield,65,2.0,0.073533292,0.0,53.0,1.0,2.0,15.0,2.0,1.0,1.0,0.0
+2022,3869321,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Right Center Forward,120,7.0,1.7922190429999998,2.0,48.0,3.0,0.0,19.0,3.0,0.0,0.0,1.0
+2022,3869321,Argentina,Enzo Fernandez,enzo fernandez,Center Defensive Midfield,120,3.0,0.854526016,0.0,70.0,2.0,1.0,26.0,2.0,1.0,1.0,0.0
+2022,3869321,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Wing Back,77,0.0,0.0,0.0,26.0,0.0,2.0,11.0,1.0,1.0,4.0,1.0
+2022,3869321,Argentina,Gonzalo Ariel Montiel,gonzalo ariel montiel,Right Wing Back,15,1.0,0.7835,1.0,11.0,1.0,0.0,2.0,0.0,0.0,0.0,1.0
+2022,3869321,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,77,0.0,0.0,0.0,48.0,0.0,0.0,11.0,2.0,1.0,2.0,1.0
+2022,3869321,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,120,0.0,0.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869321,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Wing Back,43,0.0,0.0,0.0,11.0,0.0,0.0,7.0,1.0,0.0,1.0,0.0
+2022,3869321,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Wing Back,105,1.0,0.43442267,1.0,44.0,0.0,0.0,15.0,0.0,2.0,2.0,0.0
+2022,3869321,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Left Center Forward,40,3.0,1.09047173,1.0,12.0,0.0,0.0,3.0,1.0,1.0,0.0,0.0
+2022,3869321,Argentina,Germán Alejandro Pezzella,german alejandro pezzella,Right Center Back,43,1.0,0.04452438,0.0,30.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0
+2022,3869321,Argentina,Lisandro Martínez,lisandro martinez,Left Center Back,111,0.0,0.0,0.0,38.0,0.0,0.0,10.0,0.0,2.0,2.0,1.0
+2022,3869321,Argentina,Julián Álvarez,julian alvarez,Left Center Forward,80,0.0,0.0,0.0,17.0,1.0,0.0,23.0,2.0,0.0,2.0,0.0
+2022,3869321,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Center Back,120,0.0,0.0,0.0,87.0,0.0,0.0,11.0,3.0,1.0,2.0,1.0
+2022,3869321,Argentina,Ángel Fabián Di María Hernández,angel fabian di maria hernandez,Left Center Back,9,0.0,0.0,0.0,14.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869321,Argentina,Leandro Daniel Paredes,leandro daniel paredes,Right Center Midfield,55,1.0,0.7835,1.0,49.0,1.0,0.0,12.0,3.0,0.0,3.0,1.0
+2022,3869685,Argentina,Alexis Mac Allister,alexis mac allister,Left Center Midfield,115,3.0,0.054379339,0.0,52.0,1.0,0.0,7.0,0.0,0.0,2.0,0.0
+2022,3869685,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Center Midfield,101,2.0,0.103029609,0.0,68.0,1.0,4.0,11.0,2.0,2.0,1.0,0.0
+2022,3869685,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Right Wing,120,6.0,2.238779741,3.0,60.0,2.0,0.0,17.0,2.0,0.0,2.0,0.0
+2022,3869685,Argentina,Enzo Fernandez,enzo fernandez,Center Defensive Midfield,120,2.0,0.07174936,0.0,94.0,1.0,0.0,30.0,4.0,1.0,9.0,1.0
+2022,3869685,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Wing,57,0.0,0.0,0.0,28.0,2.0,3.0,10.0,2.0,0.0,1.0,1.0
+2022,3869685,Argentina,Gonzalo Ariel Montiel,gonzalo ariel montiel,Right Back,30,2.0,0.804104363,1.0,13.0,2.0,2.0,5.0,2.0,0.0,1.0,1.0
+2022,3869685,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,120,0.0,0.0,0.0,71.0,0.0,0.0,13.0,3.0,2.0,1.0,0.0
+2022,3869685,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,120,0.0,0.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+2022,3869685,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Back,120,0.0,0.0,0.0,56.0,1.0,1.0,19.0,3.0,2.0,7.0,0.0
+2022,3869685,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,90,0.0,0.0,0.0,56.0,0.0,0.0,12.0,0.0,1.0,1.0,0.0
+2022,3869685,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Center Forward,19,4.0,0.58352003,0.0,7.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2022,3869685,Argentina,Germán Alejandro Pezzella,german alejandro pezzella,Left Center Midfield,5,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869685,Argentina,Julián Álvarez,julian alvarez,Center Forward,101,1.0,0.05953379,0.0,32.0,1.0,1.0,27.0,8.0,2.0,0.0,0.0
+2022,3869685,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Left Center Back,120,0.0,0.0,0.0,75.0,0.0,0.0,4.0,2.0,1.0,0.0,0.0
+2022,3869685,Argentina,Ángel Fabián Di María Hernández,angel fabian di maria hernandez,Left Wing,63,2.0,0.410209694,1.0,29.0,4.0,6.0,5.0,0.0,2.0,0.0,0.0
+2022,3869685,Argentina,Paulo Bruno Exequiel Dybala,paulo bruno exequiel dybala,Left Wing Back,0,1.0,0.7835,1.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869685,Argentina,Leandro Daniel Paredes,leandro daniel paredes,Right Center Midfield,19,1.0,0.7835,1.0,15.0,0.0,0.0,5.0,1.0,0.0,1.0,1.0
+2022,3869151,Argentina,Alexis Mac Allister,alexis mac allister,Left Center Midfield,79,0.0,0.0,0.0,46.0,1.0,0.0,14.0,0.0,2.0,1.0,0.0
+2022,3869151,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Center Midfield,90,0.0,0.0,0.0,91.0,3.0,2.0,17.0,0.0,3.0,2.0,0.0
+2022,3869151,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Center Forward,90,6.0,0.342740973,1.0,61.0,4.0,1.0,11.0,0.0,0.0,1.0,0.0
+2022,3869151,Argentina,Enzo Fernandez,enzo fernandez,Center Defensive Midfield,90,0.0,0.0,0.0,100.0,0.0,0.0,14.0,1.0,1.0,3.0,0.0
+2022,3869151,Argentina,Alejandro Darío Gómez,alejandro dario gomez,Left Wing,49,1.0,0.011147299,0.0,33.0,0.0,0.0,7.0,0.0,0.0,0.0,0.0
+2022,3869151,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Back,71,0.0,0.0,0.0,60.0,0.0,1.0,11.0,3.0,0.0,3.0,0.0
+2022,3869151,Argentina,Gonzalo Ariel Montiel,gonzalo ariel montiel,Left Center Midfield,11,0.0,0.0,0.0,5.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
+2022,3869151,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,90,0.0,0.0,0.0,78.0,0.0,1.0,6.0,1.0,2.0,2.0,0.0
+2022,3869151,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,90,0.0,0.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869151,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Wing Back,19,1.0,0.05181273,0.0,13.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+2022,3869151,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,79,0.0,0.0,0.0,61.0,0.0,0.0,10.0,0.0,4.0,1.0,0.0
+2022,3869151,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Left Center Forward,19,4.0,0.7485856280000001,0.0,10.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+2022,3869151,Argentina,Exequiel Alejandro Palacios,exequiel alejandro palacios,Right Wing Back,11,1.0,0.046685893,0.0,7.0,1.0,0.0,3.0,0.0,1.0,0.0,0.0
+2022,3869151,Argentina,Julián Álvarez,julian alvarez,Right Wing,71,1.0,0.28060678,1.0,17.0,0.0,0.0,19.0,2.0,0.0,2.0,0.0
+2022,3869151,Argentina,Lisandro Martínez,lisandro martinez,Right Midfield,41,0.0,0.0,0.0,19.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+2022,3869151,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Left Center Back,90,0.0,0.0,0.0,96.0,1.0,0.0,5.0,1.0,2.0,0.0,0.0
+2022,3857264,Argentina,Alexis Mac Allister,alexis mac allister,Left Center Midfield,82,2.0,0.23764554400000001,1.0,54.0,3.0,1.0,7.0,0.0,0.0,2.0,0.0
+2022,3857264,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Center Midfield,90,1.0,0.3152717,0.0,153.0,1.0,4.0,11.0,3.0,3.0,2.0,0.0
+2022,3857264,Argentina,Enzo Fernandez,enzo fernandez,Center Defensive Midfield,78,1.0,0.024548035,0.0,93.0,2.0,1.0,4.0,0.0,2.0,2.0,0.0
+2022,3857264,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Center Forward,90,7.0,1.163422857,0.0,70.0,4.0,2.0,5.0,0.0,0.0,1.0,0.0
+2022,3857264,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Back,58,2.0,0.076122072,0.0,43.0,0.0,3.0,6.0,2.0,0.0,1.0,1.0
+2022,3857264,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,90,0.0,0.0,0.0,76.0,0.0,0.0,9.0,3.0,1.0,1.0,0.0
+2022,3857264,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,90,0.0,0.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857264,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Back,32,1.0,0.22421487,0.0,38.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0
+2022,3857264,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,90,0.0,0.0,0.0,78.0,2.0,3.0,11.0,1.0,0.0,3.0,0.0
+2022,3857264,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Center Forward,12,1.0,0.17955275,0.0,11.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+2022,3857264,Argentina,Germán Alejandro Pezzella,german alejandro pezzella,Left Center Midfield,12,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857264,Argentina,Julián Álvarez,julian alvarez,Left Wing,78,6.0,0.81140879,1.0,24.0,0.0,1.0,8.0,0.0,0.0,1.0,0.0
+2022,3857264,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Left Center Back,90,0.0,0.0,0.0,93.0,0.0,0.0,7.0,2.0,1.0,1.0,0.0
+2022,3857264,Argentina,Ángel Fabián Di María Hernández,angel fabian di maria hernandez,Right Wing,58,3.0,0.044473081,0.0,51.0,2.0,4.0,13.0,0.0,0.0,1.0,0.0
+2022,3857264,Argentina,Thiago Ezequiel Almada,thiago ezequiel almada,Left Wing,8,0.0,0.0,0.0,13.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0
+2022,3857264,Argentina,Leandro Daniel Paredes,leandro daniel paredes,Right Wing,32,0.0,0.0,0.0,80.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0
+2022,3857289,Argentina,Alexis Mac Allister,alexis mac allister,Left Midfield,68,0.0,0.0,0.0,38.0,0.0,0.0,7.0,1.0,1.0,2.0,0.0
+2022,3857289,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Defensive Midfield,90,0.0,0.0,0.0,70.0,0.0,0.0,13.0,0.0,0.0,3.0,0.0
+2022,3857289,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Right Center Forward,90,2.0,0.101247489,1.0,45.0,1.0,1.0,12.0,3.0,0.0,1.0,0.0
+2022,3857289,Argentina,Enzo Fernandez,enzo fernandez,Left Defensive Midfield,34,1.0,0.035064373,1.0,28.0,0.0,1.0,6.0,1.0,0.0,1.0,0.0
+2022,3857289,Argentina,Gonzalo Ariel Montiel,gonzalo ariel montiel,Right Back,62,0.0,0.0,0.0,53.0,0.0,0.0,10.0,2.0,0.0,0.0,1.0
+2022,3857289,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Back,90,0.0,0.0,0.0,37.0,1.0,3.0,12.0,1.0,1.0,2.0,0.0
+2022,3857289,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Midfield,22,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,1.0,0.0,0.0
+2022,3857289,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,90,0.0,0.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857289,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,28,1.0,0.050896797,0.0,13.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,3857289,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Left Center Forward,62,1.0,0.13799548,0.0,7.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0
+2022,3857289,Argentina,Exequiel Alejandro Palacios,exequiel alejandro palacios,Left Midfield,22,0.0,0.0,0.0,6.0,0.0,0.0,3.0,1.0,0.0,1.0,0.0
+2022,3857289,Argentina,Lisandro Martínez,lisandro martinez,Left Center Back,90,0.0,0.0,0.0,56.0,0.0,0.0,6.0,2.0,1.0,3.0,0.0
+2022,3857289,Argentina,Julián Álvarez,julian alvarez,Left Center Forward,28,0.0,0.0,0.0,8.0,0.0,1.0,7.0,1.0,0.0,0.0,0.0
+2022,3857289,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Right Center Back,90,0.0,0.0,0.0,84.0,0.0,0.0,12.0,3.0,1.0,2.0,0.0
+2022,3857289,Argentina,Ángel Fabián Di María Hernández,angel fabian di maria hernandez,Right Midfield,68,0.0,0.0,0.0,29.0,2.0,5.0,6.0,0.0,0.0,0.0,0.0
+2022,3857289,Argentina,Guido Rodríguez,guido rodriguez,Left Defensive Midfield,56,0.0,0.0,0.0,62.0,0.0,0.0,6.0,0.0,0.0,2.0,0.0
+2022,3869118,England,Harry Kane,harry kane,Center Forward,90,3.0,0.406086861,1.0,25.0,1.0,1.0,5.0,1.0,0.0,0.0,0.0
+2022,3869118,England,John Stones,john stones,Right Center Back,76,1.0,0.08366814,0.0,89.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0
+2022,3869118,England,Mason Mount,mason mount,Left Center Midfield,15,0.0,0.0,0.0,3.0,0.0,0.0,5.0,2.0,0.0,0.0,0.0
+2022,3869118,England,Kyle Walker,kyle walker,Right Back,90,0.0,0.0,0.0,76.0,0.0,0.0,9.0,2.0,4.0,0.0,0.0
+2022,3869118,England,Bukayo Saka,bukayo saka,Right Wing,64,2.0,0.2525772,1.0,30.0,1.0,3.0,5.0,1.0,0.0,3.0,0.0
+2022,3869118,England,Declan Rice,declan rice,Center Defensive Midfield,90,0.0,0.0,0.0,57.0,0.0,2.0,8.0,2.0,4.0,1.0,0.0
+2022,3869118,England,Jordan Brian Henderson,jordan brian henderson,Right Center Midfield,81,1.0,0.13174866,1.0,48.0,0.0,2.0,8.0,0.0,0.0,2.0,0.0
+2022,3869118,England,Jordan Pickford,jordan pickford,Goalkeeper,90,0.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869118,England,Luke Shaw,luke shaw,Left Back,90,0.0,0.0,0.0,67.0,2.0,1.0,9.0,3.0,1.0,1.0,0.0
+2022,3869118,England,Harry Maguire,harry maguire,Left Center Back,90,0.0,0.0,0.0,75.0,0.0,0.0,6.0,1.0,1.0,4.0,0.0
+2022,3869118,England,Eric Dier,eric dier,Right Center Back,14,0.0,0.0,0.0,13.0,0.0,0.0,2.0,1.0,0.0,1.0,0.0
+2022,3869118,England,Jude Bellingham,jude bellingham,Left Center Midfield,75,0.0,0.0,0.0,37.0,1.0,1.0,13.0,2.0,2.0,4.0,0.0
+2022,3869118,England,Jack Grealish,jack grealish,Left Wing,26,0.0,0.0,0.0,9.0,0.0,0.0,8.0,0.0,1.0,2.0,0.0
+2022,3869118,England,Philip Foden,philip foden,Left Wing,64,0.0,0.0,0.0,34.0,2.0,1.0,8.0,0.0,1.0,1.0,0.0
+2022,3869118,England,Marcus Rashford,marcus rashford,Right Wing,26,1.0,0.1459426,0.0,11.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0
+2022,3869118,England,Kalvin Phillips,kalvin phillips,Right Center Midfield,9,0.0,0.0,0.0,4.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+2022,3869519,Argentina,Alexis Mac Allister,alexis mac allister,Left Midfield,85,2.0,0.20981348,0.0,34.0,2.0,0.0,12.0,0.0,1.0,1.0,0.0
+2022,3869519,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Midfield,73,1.0,0.027667157,0.0,42.0,1.0,0.0,25.0,2.0,0.0,1.0,0.0
+2022,3869519,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Right Center Forward,90,2.0,0.88931502,1.0,41.0,2.0,1.0,18.0,2.0,0.0,0.0,0.0
+2022,3869519,Argentina,Enzo Fernandez,enzo fernandez,Left Defensive Midfield,90,1.0,0.027808638,0.0,47.0,1.0,0.0,23.0,1.0,0.0,4.0,0.0
+2022,3869519,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,90,0.0,0.0,0.0,34.0,0.0,0.0,11.0,3.0,1.0,1.0,1.0
+2022,3869519,Argentina,Juan Marcos Foyth,juan marcos foyth,Right Wing Back,5,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0
+2022,3869519,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,90,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869519,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Back,90,0.0,0.0,0.0,30.0,0.0,1.0,12.0,3.0,0.0,1.0,0.0
+2022,3869519,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,85,0.0,0.0,0.0,40.0,0.0,2.0,13.0,0.0,2.0,3.0,0.0
+2022,3869519,Argentina,Ángel Martín Correa,angel martin correa,Left Center Midfield,5,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0
+2022,3869519,Argentina,Exequiel Alejandro Palacios,exequiel alejandro palacios,Right Center Midfield,17,0.0,0.0,0.0,15.0,0.0,0.0,10.0,2.0,1.0,1.0,0.0
+2022,3869519,Argentina,Julián Álvarez,julian alvarez,Left Center Forward,73,2.0,0.69538802,2.0,18.0,0.0,0.0,27.0,3.0,0.0,0.0,0.0
+2022,3869519,Argentina,Lisandro Martínez,lisandro martinez,Right Defensive Midfield,29,0.0,0.0,0.0,9.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0
+2022,3869519,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Left Center Back,90,0.0,0.0,0.0,41.0,0.0,0.0,11.0,2.0,2.0,3.0,1.0
+2022,3869519,Argentina,Paulo Bruno Exequiel Dybala,paulo bruno exequiel dybala,Left Center Forward,17,0.0,0.0,0.0,10.0,1.0,0.0,8.0,1.0,0.0,3.0,0.0
+2022,3869519,Argentina,Leandro Daniel Paredes,leandro daniel paredes,Right Defensive Midfield,61,1.0,0.014370957,0.0,39.0,0.0,0.0,17.0,1.0,1.0,4.0,0.0
+2022,3869354,England,Harry Kane,harry kane,Center Forward,90,5.0,1.6906509769999998,1.0,22.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0
+2022,3869354,England,John Stones,john stones,Right Center Back,90,0.0,0.0,0.0,70.0,1.0,0.0,5.0,0.0,0.0,1.0,0.0
+2022,3869354,England,Mason Mount,mason mount,Right Center Midfield,12,1.0,0.024138648,0.0,2.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0
+2022,3869354,England,Kyle Walker,kyle walker,Right Back,90,0.0,0.0,0.0,46.0,0.0,0.0,6.0,0.0,2.0,1.0,0.0
+2022,3869354,England,Raheem Sterling,raheem sterling,Right Wing,12,0.0,0.0,0.0,8.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0
+2022,3869354,England,Bukayo Saka,bukayo saka,Right Wing,78,1.0,0.07073746,0.0,25.0,2.0,1.0,21.0,3.0,1.0,2.0,0.0
+2022,3869354,England,Declan Rice,declan rice,Center Defensive Midfield,90,0.0,0.0,0.0,65.0,1.0,1.0,7.0,0.0,4.0,3.0,0.0
+2022,3869354,England,Jordan Brian Henderson,jordan brian henderson,Right Center Midfield,78,1.0,0.017202334,0.0,45.0,3.0,2.0,13.0,3.0,0.0,0.0,0.0
+2022,3869354,England,Jordan Pickford,jordan pickford,Goalkeeper,90,0.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869354,England,Luke Shaw,luke shaw,Left Back,90,2.0,0.062845667,0.0,74.0,1.0,6.0,5.0,0.0,0.0,1.0,0.0
+2022,3869354,England,Harry Maguire,harry maguire,Left Center Back,90,2.0,0.120586513,0.0,95.0,0.0,0.0,3.0,1.0,1.0,1.0,1.0
+2022,3869354,England,Jude Bellingham,jude bellingham,Left Center Midfield,90,2.0,0.264472474,0.0,48.0,1.0,1.0,25.0,2.0,0.0,5.0,0.0
+2022,3869354,England,Jack Grealish,jack grealish,Right Center Back,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3869354,England,Philip Foden,philip foden,Left Wing,84,1.0,0.022691524,0.0,27.0,2.0,1.0,9.0,0.0,1.0,0.0,0.0
+2022,3869354,England,Marcus Rashford,marcus rashford,Left Wing,6,1.0,0.07922588,0.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857300,Argentina,Rodrigo Javier De Paul,rodrigo javier de paul,Right Defensive Midfield,90,1.0,0.050540753,0.0,86.0,0.0,3.0,19.0,1.0,1.0,1.0,0.0
+2022,3857300,Argentina,Lionel Andrés Messi Cuccittini,lionel andres messi cuccittini,Right Center Forward,90,4.0,1.070924102,1.0,46.0,3.0,2.0,7.0,1.0,0.0,0.0,0.0
+2022,3857300,Argentina,Enzo Fernandez,enzo fernandez,Left Defensive Midfield,32,1.0,0.036932193,0.0,38.0,0.0,0.0,4.0,0.0,0.0,0.0,0.0
+2022,3857300,Argentina,Alejandro Darío Gómez,alejandro dario gomez,Left Midfield,58,1.0,0.011924569,0.0,25.0,0.0,0.0,4.0,1.0,2.0,1.0,0.0
+2022,3857300,Argentina,Marcos Javier Acuña,marcos javier acuna,Left Back,20,0.0,0.0,0.0,23.0,2.0,2.0,2.0,0.0,1.0,0.0,0.0
+2022,3857300,Argentina,Cristian Gabriel Romero,cristian gabriel romero,Right Center Back,58,0.0,0.0,0.0,61.0,0.0,1.0,6.0,1.0,1.0,0.0,0.0
+2022,3857300,Argentina,Damián Emiliano Martínez,damian emiliano martinez,Goalkeeper,90,0.0,0.0,0.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2022,3857300,Argentina,Nicolás Alejandro Tagliafico,nicolas alejandro tagliafico,Left Back,70,1.0,0.63619345,0.0,34.0,0.0,0.0,12.0,0.0,2.0,2.0,0.0
+2022,3857300,Argentina,Nahuel Molina Lucero,nahuel molina lucero,Right Back,90,0.0,0.0,0.0,68.0,1.0,1.0,10.0,1.0,0.0,2.0,0.0
+2022,3857300,Argentina,Lautaro Javier Martínez,lautaro javier martinez,Left Center Forward,90,2.0,0.164921135,0.0,16.0,0.0,0.0,6.0,1.0,0.0,0.0,0.0
+2022,3857300,Argentina,Lisandro Martínez,lisandro martinez,Right Center Back,32,1.0,0.33156127,0.0,32.0,0.0,0.0,3.0,0.0,0.0,1.0,0.0
+2022,3857300,Argentina,Julián Álvarez,julian alvarez,Left Midfield,32,1.0,0.061390053,0.0,8.0,0.0,1.0,7.0,0.0,0.0,1.0,0.0
+2022,3857300,Argentina,Nicolás Hernán Otamendi,nicolas hernan otamendi,Left Center Back,90,1.0,0.048093256,0.0,89.0,1.0,1.0,4.0,0.0,2.0,1.0,0.0
+2022,3857300,Argentina,Ángel Fabián Di María Hernández,angel fabian di maria hernandez,Right Midfield,90,2.0,0.079152665,0.0,41.0,2.0,9.0,10.0,0.0,0.0,1.0,0.0
+2022,3857300,Argentina,Leandro Daniel Paredes,leandro daniel paredes,Left Defensive Midfield,58,0.0,0.0,0.0,57.0,1.0,0.0,13.0,1.0,2.0,3.0,0.0

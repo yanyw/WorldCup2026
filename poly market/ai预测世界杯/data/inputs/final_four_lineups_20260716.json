@@ -1,0 +1,102 @@
+{
+  "as_of_utc": "2026-07-16T04:00:00Z",
+  "status": "Projected from the confirmed semi-final XIs; official final/third-place XIs are not yet available.",
+  "teams": {
+    "France": {
+      "starting_xi": [
+        {"name": "Mike Maignan", "role": "GK"},
+        {"name": "Jules Koundé", "role": "DEF"},
+        {"name": "Dayot Upamecano", "role": "DEF"},
+        {"name": "Maxence Lacroix", "role": "DEF"},
+        {"name": "Lucas Digne", "role": "DEF"},
+        {"name": "Aurélien Tchouaméni", "role": "MID"},
+        {"name": "Adrien Rabiot", "role": "MID"},
+        {"name": "Ousmane Dembélé", "role": "FWD"},
+        {"name": "Michael Olise", "role": "FWD"},
+        {"name": "Bradley Barcola", "role": "FWD"},
+        {"name": "Kylian Mbappé", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "William Saliba", "role": "DEF"},
+        {"name": "Manu Koné", "role": "MID"},
+        {"name": "Désiré Doué", "role": "FWD"},
+        {"name": "Marcus Thuram", "role": "FWD"},
+        {"name": "Hugo Ekitiké", "role": "FWD"}
+      ]
+    },
+    "England": {
+      "starting_xi": [
+        {"name": "Jordan Pickford", "role": "GK"},
+        {"name": "Reece James", "role": "DEF"},
+        {"name": "John Stones", "role": "DEF"},
+        {"name": "Marc Guéhi", "role": "DEF"},
+        {"name": "Djed Spence", "role": "DEF"},
+        {"name": "Declan Rice", "role": "MID"},
+        {"name": "Elliot Anderson", "role": "MID"},
+        {"name": "Bukayo Saka", "role": "FWD"},
+        {"name": "Jude Bellingham", "role": "MID"},
+        {"name": "Anthony Gordon", "role": "FWD"},
+        {"name": "Harry Kane", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Morgan Rogers", "role": "MID"},
+        {"name": "Ezri Konsa", "role": "DEF"},
+        {"name": "Nico O'Reilly", "role": "DEF"},
+        {"name": "Eberechi Eze", "role": "MID"},
+        {"name": "Kobbie Mainoo", "role": "MID"},
+        {"name": "Noni Madueke", "role": "FWD"},
+        {"name": "Marcus Rashford", "role": "FWD"},
+        {"name": "Ollie Watkins", "role": "FWD"}
+      ]
+    },
+    "Spain": {
+      "starting_xi": [
+        {"name": "Unai Simón", "role": "GK"},
+        {"name": "Pedro Porro", "role": "DEF"},
+        {"name": "Pau Cubarsí", "role": "DEF"},
+        {"name": "Aymeric Laporte", "role": "DEF"},
+        {"name": "Marc Cucurella", "role": "DEF"},
+        {"name": "Rodri", "role": "MID"},
+        {"name": "Fabián Ruiz", "role": "MID"},
+        {"name": "Dani Olmo", "role": "MID"},
+        {"name": "Lamine Yamal", "role": "FWD"},
+        {"name": "Mikel Oyarzabal", "role": "FWD"},
+        {"name": "Álex Baena", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "David Raya", "role": "GK"},
+        {"name": "Dean Huijsen", "role": "DEF"},
+        {"name": "Pedri", "role": "MID"},
+        {"name": "Mikel Merino", "role": "MID"},
+        {"name": "Nico Williams", "role": "FWD"},
+        {"name": "Ferran Torres", "role": "FWD"},
+        {"name": "Samu Aghehowa", "role": "FWD"}
+      ]
+    },
+    "Argentina": {
+      "starting_xi": [
+        {"name": "Emiliano Martínez", "role": "GK"},
+        {"name": "Nahuel Molina", "role": "DEF"},
+        {"name": "Cristian Romero", "role": "DEF"},
+        {"name": "Lisandro Martínez", "role": "DEF"},
+        {"name": "Nicolás Tagliafico", "role": "DEF"},
+        {"name": "Leandro Paredes", "role": "MID"},
+        {"name": "Enzo Fernández", "role": "MID"},
+        {"name": "Alexis Mac Allister", "role": "MID"},
+        {"name": "Giuliano Simeone", "role": "FWD"},
+        {"name": "Lionel Messi", "role": "FWD"},
+        {"name": "Julián Alvarez", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Rodrigo De Paul", "role": "MID"},
+        {"name": "Lautaro Martínez", "role": "FWD"},
+        {"name": "Facundo Medina", "role": "DEF"},
+        {"name": "Gonzalo Montiel", "role": "DEF"},
+        {"name": "Giovani Lo Celso", "role": "MID"},
+        {"name": "Exequiel Palacios", "role": "MID"},
+        {"name": "Thiago Almada", "role": "FWD"},
+        {"name": "Nico Gonzalez", "role": "FWD"}
+      ]
+    }
+  }
+}

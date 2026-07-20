@@ -1,0 +1,34 @@
+{
+  "fixture_id": "fifwc-nor-eng-2026-07-11",
+  "home": "Norway",
+  "away": "England",
+  "kickoff_utc": "2026-07-11T21:00:00Z",
+  "kickoff_beijing": "2026-07-12T05:00:00+08:00",
+  "neutral": true,
+  "stage": "World Cup quarter-final",
+  "market_snapshot": "data/raw/polymarket_snapshot_20260711_2033.csv",
+  "market_as_of_beijing": "2026-07-11T20:33:00+08:00",
+  "sharp_benchmark": {
+    "source": "Oddschecker/VegasInsider snapshot; not Polymarket",
+    "as_of": "2026-07-11",
+    "decimal_1x2": {
+      "home": 3.90,
+      "draw": 3.80,
+      "away": 1.952381
+    },
+    "decimal_total_2_5": {
+      "over": 1.740741,
+      "under": 2.20
+    }
+  },
+  "knockout_assumptions": {
+    "away_share_if_90m_draw": 0.60,
+    "penalties_given_90m_draw": 0.55,
+    "first_half_goal_share": 0.40
+  },
+  "notes": [
+    "Jarell Quansah suspended for England.",
+    "Rice, Guehi and Reece James returned to training but late availability remains a risk.",
+    "Weather and lineup information widen uncertainty; no arbitrary directional goal adjustment is applied."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-07-15",
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-eng-arg-2026-07-15",
+      "home": "England",
+      "away": "Argentina",
+      "kickoff_utc": "2026-07-15T19:00:00Z",
+      "kickoff_beijing": "2026-07-16T03:00:00+08:00",
+      "neutral": true,
+      "stage": "World Cup semi-final",
+      "game_model": "data/inputs/game_model_eng_arg_20260715.json",
+      "fc26_ratings": "data/curated/fc26_eng_arg_20260715.json",
+      "event_slugs": [
+        "fifwc-eng-arg-2026-07-15",
+        "fifwc-eng-arg-2026-07-15-more-markets",
+        "fifwc-eng-arg-2026-07-15-exact-score",
+        "fifwc-eng-arg-2026-07-15-first-to-score"
+      ],
+      "sharp_benchmarks": [
+        {
+          "source": "Oddschecker best displayed prices, captured 2026-07-15",
+          "decimal_1x2": {"home": 2.75, "draw": 2.90, "away": 3.10},
+          "decimal_total_2_5": {"over": 2.42, "under": 1.613497}
+        },
+        {
+          "source": "DraftKings matchday prices via DK Network/Oddschecker, 2026-07-15",
+          "decimal_1x2": {"home": 2.65, "draw": 2.90, "away": 3.00},
+          "decimal_total_2_5": {"over": 2.35, "under": 1.645161}
+        }
+      ],
+      "derivative_benchmarks": {
+        "btts|Both teams to score": {
+          "source": "Betfair matchday odds 10/11 both sides, captured 2026-07-15",
+          "yes": 0.5,
+          "no": 0.5
+        },
+        "btts|Both teams to score first half": {
+          "source": "Betfair matchday odds Yes 4/1, No 1/7; normalized for overround, captured 2026-07-15",
+          "yes": 0.1860465116,
+          "no": 0.8139534884
+        }
+      },
+      "knockout_assumptions": {
+        "away_share_if_90m_draw": 0.47,
+        "penalties_given_90m_draw": 0.58,
+        "first_half_goal_share": 0.39
+      },
+      "notes": [
+        "Declan Rice is fit and ready to start; England report only Jarell Quansah suspended and Jordan Henderson injured.",
+        "Both teams played extra time in the quarter-final; England had several more hours of recovery.",
+        "Latest traditional odds shortened the draw and under relative to the 2026-07-12 snapshot."
+      ]
+    }
+  ]
+}

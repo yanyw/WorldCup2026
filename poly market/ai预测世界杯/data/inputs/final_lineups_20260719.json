@@ -1,0 +1,56 @@
+{
+  "as_of_utc": "2026-07-19T15:11:20Z",
+  "status": "Matchday projected XIs roughly four hours before kickoff. Spain reported Lamine Yamal and Pedro Porro fully available; official XIs are still pending.",
+  "teams": {
+    "Spain": {
+      "starting_xi": [
+        {"name": "Unai Simón", "role": "GK"},
+        {"name": "Pedro Porro", "role": "DEF", "availability": 1.0},
+        {"name": "Pau Cubarsí", "role": "DEF"},
+        {"name": "Aymeric Laporte", "role": "DEF"},
+        {"name": "Marc Cucurella", "role": "DEF"},
+        {"name": "Rodri", "role": "MID"},
+        {"name": "Fabián Ruiz", "role": "MID"},
+        {"name": "Dani Olmo", "role": "MID"},
+        {"name": "Lamine Yamal", "role": "FWD", "availability": 1.0},
+        {"name": "Mikel Oyarzabal", "role": "FWD"},
+        {"name": "Álex Baena", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "David Raya", "role": "GK", "availability": 0.03},
+        {"name": "Dean Huijsen", "role": "DEF"},
+        {"name": "Mikel Merino", "role": "MID"},
+        {"name": "Pedri", "role": "MID"},
+        {"name": "Nico Williams", "role": "FWD"},
+        {"name": "Ferran Torres", "role": "FWD"},
+        {"name": "Samu Aghehowa", "role": "FWD"}
+      ]
+    },
+    "Argentina": {
+      "starting_xi": [
+        {"name": "Emiliano Martínez", "role": "GK"},
+        {"name": "Nahuel Molina", "role": "DEF"},
+        {"name": "Cristian Romero", "role": "DEF"},
+        {"name": "Lisandro Martínez", "role": "DEF"},
+        {"name": "Nicolás Tagliafico", "role": "DEF"},
+        {"name": "Leandro Paredes", "role": "MID"},
+        {"name": "Enzo Fernández", "role": "MID"},
+        {"name": "Alexis Mac Allister", "role": "MID"},
+        {"name": "Giuliano Simeone", "role": "FWD"},
+        {"name": "Lionel Messi", "role": "FWD", "tournament_assists": 4},
+        {"name": "Julián Alvarez", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Juan Musso", "role": "GK", "availability": 0.03},
+        {"name": "Rodrigo De Paul", "role": "MID"},
+        {"name": "Lautaro Martínez", "role": "FWD"},
+        {"name": "Facundo Medina", "role": "DEF"},
+        {"name": "Gonzalo Montiel", "role": "DEF"},
+        {"name": "Giovani Lo Celso", "role": "MID"},
+        {"name": "Exequiel Palacios", "role": "MID"},
+        {"name": "Thiago Almada", "role": "FWD"},
+        {"name": "Nico Gonzalez", "role": "FWD"}
+      ]
+    }
+  }
+}

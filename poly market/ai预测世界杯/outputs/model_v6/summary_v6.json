@@ -1,0 +1,725 @@
+{
+  "generated_at_utc": "2026-07-16T08:34:51.424289+00:00",
+  "snapshot": "data\\raw\\polymarket\\semifinals_normalized_20260716_080158Z.csv",
+  "audit": {
+    "training_rows": 11948,
+    "cutoff_exclusive": "2026-07-16",
+    "latest_result": "2026-07-15",
+    "rho": 0.09
+  },
+  "construct": "v6 postmortem update: actual semifinal override, 20% independent-data weight, stage-specific pace, max-entropy coherent score matrix, specification ensemble",
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "home": "France",
+      "away": "England",
+      "stage": "World Cup third-place match",
+      "kickoff_beijing": "2026-07-19T05:00:00+08:00",
+      "raw_lambdas": [
+        1.2101929911302824,
+        1.100176332602288
+      ],
+      "stage_lambdas": [
+        1.6337605380258815,
+        1.4852380490130888
+      ],
+      "stage_goal_multiplier": 1.35,
+      "sharp_1x2": {
+        "home": 0.4731208440514926,
+        "draw": 0.2625707682435847,
+        "away": 0.2643083877049227
+      },
+      "sharp_total": {
+        "over": 0.6346853239013142,
+        "under": 0.36531467609868573
+      },
+      "independent": {
+        "home": 0.4241499738224591,
+        "draw": 0.21767632477476226,
+        "away": 0.3581737014027786,
+        "over2.5": 0.602881831179177,
+        "btts": 0.6128517298606293
+      },
+      "elo": {
+        "home": 0.5104172473660141,
+        "draw": 0.25883804102000063,
+        "away": 0.2307447116139852,
+        "home_elo": 1952.1479593335146,
+        "away_elo": 1879.486523405824
+      },
+      "central": {
+        "home": 0.4676400336828634,
+        "draw": 0.2556499653620821,
+        "away": 0.27671000095505444,
+        "over2.5": 0.6283246253568863,
+        "btts": 0.644792819659381
+      },
+      "specification_ranges": {
+        "home": {
+          "p10": 0.4565616420597793,
+          "p90": 0.478718425305948
+        },
+        "draw": {
+          "p10": 0.25314208374608355,
+          "p90": 0.25815784697808086
+        },
+        "away": {
+          "p10": 0.268539718636281,
+          "p90": 0.2848802832738271
+        },
+        "over2.5": {
+          "p10": 0.6133483964197035,
+          "p90": 0.6433008542940704
+        },
+        "btts": {
+          "p10": 0.6346193275244831,
+          "p90": 0.6550685807778056
+        }
+      },
+      "home_win_including_tiebreak": 0.6210300129001126,
+      "away_win_including_tiebreak": 0.3789699870998874,
+      "derived": {
+        "expected_goals_home": 1.7983080949264791,
+        "expected_goals_away": 1.424915901408783,
+        "over1.5": 0.822522727288795,
+        "over3.5": 0.40899699025028036,
+        "scoreless": 0.042112786979523226,
+        "first_goal_home": 0.534426503140899,
+        "first_goal_away": 0.42346070987957773,
+        "penalties": 0.14060748094914519
+      },
+      "top_scores": [
+        {
+          "score": "1-1",
+          "probability": 0.1041161136653167
+        },
+        {
+          "score": "2-1",
+          "probability": 0.09977539338637437
+        },
+        {
+          "score": "1-0",
+          "probability": 0.0829948924056623
+        },
+        {
+          "score": "2-2",
+          "probability": 0.0817283675965293
+        },
+        {
+          "score": "1-2",
+          "probability": 0.06367307386823495
+        },
+        {
+          "score": "2-0",
+          "probability": 0.05700857769950145
+        },
+        {
+          "score": "3-1",
+          "probability": 0.05429966968441544
+        },
+        {
+          "score": "0-1",
+          "probability": 0.05236959332601863
+        },
+        {
+          "score": "0-0",
+          "probability": 0.042112786979523226
+        },
+        {
+          "score": "3-2",
+          "probability": 0.04104190405157285
+        },
+        {
+          "score": "3-0",
+          "probability": 0.036584281442063174
+        },
+        {
+          "score": "0-2",
+          "probability": 0.03307341056709098
+        }
+      ],
+      "bets": [],
+      "maker_value": [
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "spread",
+          "contract": "France (-1.5)",
+          "side": "NO",
+          "central_probability": 0.766644,
+          "spec_p10": 0.760898,
+          "confidence_class": "standard",
+          "ask": 0.72,
+          "bid": 0.71,
+          "spread": 0.01,
+          "fee": 0.01008,
+          "central_net_edge": 0.036564,
+          "robust_edge": 0.020818,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.7106,
+          "ask_depth_1c_usd": 6538.43,
+          "market_volume": 7955.78,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.040898,
+          "maker_decision": "MAKER_PRIMARY",
+          "maker_queue_depth_at_price_usd": 4456.11,
+          "maker_recommended_amount_10k": 20.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "totals",
+          "contract": "Total over 2.5",
+          "side": "NO",
+          "central_probability": 0.371675,
+          "spec_p10": 0.356699,
+          "confidence_class": "standard",
+          "ask": 0.32,
+          "bid": 0.31,
+          "spread": 0.01,
+          "fee": 0.01088,
+          "central_net_edge": 0.040795,
+          "robust_edge": 0.015819,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.306,
+          "ask_depth_1c_usd": 5274.31,
+          "market_volume": 18469.65,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.036699,
+          "maker_decision": "MAKER_ALTERNATIVE",
+          "maker_queue_depth_at_price_usd": 2050.3,
+          "maker_recommended_amount_10k": 0.0
+        }
+      ],
+      "top_watch": [
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "spread",
+          "contract": "France (-1.5)",
+          "side": "NO",
+          "central_probability": 0.766644,
+          "spec_p10": 0.760898,
+          "confidence_class": "standard",
+          "ask": 0.72,
+          "bid": 0.71,
+          "spread": 0.01,
+          "fee": 0.01008,
+          "central_net_edge": 0.036564,
+          "robust_edge": 0.020818,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.7106,
+          "ask_depth_1c_usd": 6538.43,
+          "market_volume": 7955.78,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.040898,
+          "maker_decision": "MAKER_PRIMARY",
+          "maker_queue_depth_at_price_usd": 4456.11,
+          "maker_recommended_amount_10k": 20.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "totals",
+          "contract": "Total over 2.5",
+          "side": "NO",
+          "central_probability": 0.371675,
+          "spec_p10": 0.356699,
+          "confidence_class": "standard",
+          "ask": 0.32,
+          "bid": 0.31,
+          "spread": 0.01,
+          "fee": 0.01088,
+          "central_net_edge": 0.040795,
+          "robust_edge": 0.015819,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.306,
+          "ask_depth_1c_usd": 5274.31,
+          "market_volume": 18469.65,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.036699,
+          "maker_decision": "MAKER_ALTERNATIVE",
+          "maker_queue_depth_at_price_usd": 2050.3,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "totals",
+          "contract": "Total over 1.5",
+          "side": "NO",
+          "central_probability": 0.177477,
+          "spec_p10": 0.167952,
+          "confidence_class": "standard",
+          "ask": 0.15,
+          "bid": 0.14,
+          "spread": 0.01,
+          "fee": 0.006375,
+          "central_net_edge": 0.021102,
+          "robust_edge": 0.001577,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.1225,
+          "ask_depth_1c_usd": 2993.68,
+          "market_volume": 4528.85,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.017952,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 112.0,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "spread",
+          "contract": "France (-2.5)",
+          "side": "NO",
+          "central_probability": 0.898903,
+          "spec_p10": 0.89422,
+          "confidence_class": "standard",
+          "ask": 0.88,
+          "bid": 0.86,
+          "spread": 0.02,
+          "fee": 0.00528,
+          "central_net_edge": 0.013623,
+          "robust_edge": -0.00106,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.8477,
+          "ask_depth_1c_usd": 6653.85,
+          "market_volume": 614.49,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.02422,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 3777.9,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "totals",
+          "contract": "Total over 3.5",
+          "side": "NO",
+          "central_probability": 0.591003,
+          "spec_p10": 0.579646,
+          "confidence_class": "standard",
+          "ask": 0.56,
+          "bid": 0.55,
+          "spread": 0.01,
+          "fee": 0.01232,
+          "central_net_edge": 0.018683,
+          "robust_edge": -0.002674,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.5271,
+          "ask_depth_1c_usd": 33215.89,
+          "market_volume": 42149.63,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.019646,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 30962.66,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-fra-eng-2026-07-18",
+          "stage": "World Cup third-place match",
+          "group": "exact_score",
+          "contract": "France 0-1 England",
+          "side": "YES",
+          "central_probability": 0.05237,
+          "spec_p10": 0.047542,
+          "confidence_class": "medium",
+          "ask": 0.04,
+          "bid": 0.039,
+          "spread": 0.001,
+          "fee": 0.00192,
+          "central_net_edge": 0.01045,
+          "robust_edge": -0.006878,
+          "required_edge": 0.04,
+          "max_taker_entry": 0.0,
+          "ask_depth_1c_usd": 2765.51,
+          "market_volume": 22395.33,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": -0.003958,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 205.17,
+          "maker_recommended_amount_10k": 0.0
+        }
+      ]
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "stage": "World Cup final",
+      "kickoff_beijing": "2026-07-20T03:00:00+08:00",
+      "raw_lambdas": [
+        1.221695939757562,
+        1.0544998450376382
+      ],
+      "stage_lambdas": [
+        1.221695939757562,
+        1.0544998450376382
+      ],
+      "stage_goal_multiplier": 1.0,
+      "sharp_1x2": {
+        "home": 0.4241284054105544,
+        "draw": 0.31798120276878133,
+        "away": 0.25789039182066426
+      },
+      "sharp_total": {
+        "over": 0.39763242497942114,
+        "under": 0.6023675750205789
+      },
+      "independent": {
+        "home": 0.41303251533437807,
+        "draw": 0.2602867475017322,
+        "away": 0.3266807371638897,
+        "over2.5": 0.3975363327848105,
+        "btts": 0.44755735981031497
+      },
+      "elo": {
+        "home": 0.38684904585117885,
+        "draw": 0.27289468921886434,
+        "away": 0.3402562649299567,
+        "home_elo": 2002.7970052388625,
+        "away_elo": 1992.0591722531271
+      },
+      "central": {
+        "home": 0.42060005392316663,
+        "draw": 0.30707270880434734,
+        "away": 0.272327237272486,
+        "over2.5": 0.3976132065397682,
+        "btts": 0.46545883658743126
+      },
+      "specification_ranges": {
+        "home": {
+          "p10": 0.4107326506062421,
+          "p90": 0.4304674572360764
+        },
+        "draw": {
+          "p10": 0.30519659245836217,
+          "p90": 0.30894882514835914
+        },
+        "away": {
+          "p10": 0.2635178132603396,
+          "p90": 0.28113666129488574
+        },
+        "over2.5": {
+          "p10": 0.3901098433121273,
+          "p90": 0.4051165697673103
+        },
+        "btts": {
+          "p10": 0.45772490237021696,
+          "p90": 0.47331744031845635
+        }
+      },
+      "home_win_including_tiebreak": 0.5772071354133838,
+      "away_win_including_tiebreak": 0.42279286458661625,
+      "derived": {
+        "expected_goals_home": 1.2735876093342207,
+        "expected_goals_away": 1.005908076362924,
+        "over1.5": 0.6536118759447768,
+        "over3.5": 0.2064376821643932,
+        "scoreless": 0.11091628325317052,
+        "first_goal_home": 0.4967440879201645,
+        "first_goal_away": 0.39233962882666507,
+        "penalties": 0.17196071693043452
+      },
+      "top_scores": [
+        {
+          "score": "1-0",
+          "probability": 0.13867750248788763
+        },
+        {
+          "score": "1-1",
+          "probability": 0.1357939527596085
+        },
+        {
+          "score": "0-0",
+          "probability": 0.11091628325317052
+        },
+        {
+          "score": "0-1",
+          "probability": 0.09679433831416503
+        },
+        {
+          "score": "2-1",
+          "probability": 0.08322626888010501
+        },
+        {
+          "score": "2-0",
+          "probability": 0.07463580007603719
+        },
+        {
+          "score": "1-2",
+          "probability": 0.05887058598139085
+        },
+        {
+          "score": "2-2",
+          "probability": 0.051563842812941144
+        },
+        {
+          "score": "0-2",
+          "probability": 0.04556891656936283
+        },
+        {
+          "score": "3-1",
+          "probability": 0.03439463597915751
+        },
+        {
+          "score": "3-0",
+          "probability": 0.032140733274476765
+        },
+        {
+          "score": "1-3",
+          "probability": 0.020999718570667278
+        }
+      ],
+      "bets": [],
+      "maker_value": [
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "spread",
+          "contract": "Spain (-1.5)",
+          "side": "NO",
+          "central_probability": 0.822481,
+          "spec_p10": 0.818257,
+          "confidence_class": "standard",
+          "ask": 0.8,
+          "bid": 0.79,
+          "spread": 0.01,
+          "fee": 0.008,
+          "central_net_edge": 0.014481,
+          "robust_edge": 0.005257,
+          "required_edge": 0.02,
+          "max_taker_entry": 0.7848,
+          "ask_depth_1c_usd": 100058.93,
+          "market_volume": 36153.61,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.023257,
+          "maker_decision": "MAKER_ALTERNATIVE",
+          "maker_queue_depth_at_price_usd": 7720.46,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "totals",
+          "contract": "Total over 1.5",
+          "side": "NO",
+          "central_probability": 0.346388,
+          "spec_p10": 0.33875,
+          "confidence_class": "standard",
+          "ask": 0.31,
+          "bid": 0.3,
+          "spread": 0.01,
+          "fee": 0.010695,
+          "central_net_edge": 0.025693,
+          "robust_edge": 0.013055,
+          "required_edge": 0.02,
+          "max_taker_entry": 0.3031,
+          "ask_depth_1c_usd": 2276.32,
+          "market_volume": 4401.3,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.03375,
+          "maker_decision": "MAKER_PRIMARY",
+          "maker_queue_depth_at_price_usd": 3070.52,
+          "maker_recommended_amount_10k": 20.0
+        }
+      ],
+      "top_watch": [
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "extra_time",
+          "contract": "Match goes to penalties",
+          "side": "NO",
+          "central_probability": 0.828039,
+          "spec_p10": 0.826989,
+          "confidence_class": "low",
+          "ask": 0.78,
+          "bid": 0.75,
+          "spread": 0.03,
+          "fee": 0.00858,
+          "central_net_edge": 0.039459,
+          "robust_edge": 0.028409,
+          "required_edge": 0.04,
+          "max_taker_entry": 0.768,
+          "ask_depth_1c_usd": 571.67,
+          "market_volume": 436.16,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.066989,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 504.62,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "totals",
+          "contract": "Total over 1.5",
+          "side": "NO",
+          "central_probability": 0.346388,
+          "spec_p10": 0.33875,
+          "confidence_class": "standard",
+          "ask": 0.31,
+          "bid": 0.3,
+          "spread": 0.01,
+          "fee": 0.010695,
+          "central_net_edge": 0.025693,
+          "robust_edge": 0.013055,
+          "required_edge": 0.02,
+          "max_taker_entry": 0.3031,
+          "ask_depth_1c_usd": 2276.32,
+          "market_volume": 4401.3,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.03375,
+          "maker_decision": "MAKER_PRIMARY",
+          "maker_queue_depth_at_price_usd": 3070.52,
+          "maker_recommended_amount_10k": 20.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "exact_score",
+          "contract": "Spain 2-3 Argentina",
+          "side": "NO",
+          "central_probability": 0.986749,
+          "spec_p10": 0.985973,
+          "confidence_class": "medium",
+          "ask": 0.971,
+          "bid": 0.97,
+          "spread": 0.001,
+          "fee": 0.001408,
+          "central_net_edge": 0.014341,
+          "robust_edge": 0.006065,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.9459,
+          "ask_depth_1c_usd": 61710.88,
+          "market_volume": 340563.56,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.008473,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 15909.42,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "spread",
+          "contract": "Spain (-1.5)",
+          "side": "NO",
+          "central_probability": 0.822481,
+          "spec_p10": 0.818257,
+          "confidence_class": "standard",
+          "ask": 0.8,
+          "bid": 0.79,
+          "spread": 0.01,
+          "fee": 0.008,
+          "central_net_edge": 0.014481,
+          "robust_edge": 0.005257,
+          "required_edge": 0.02,
+          "max_taker_entry": 0.7848,
+          "ask_depth_1c_usd": 100058.93,
+          "market_volume": 36153.61,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.023257,
+          "maker_decision": "MAKER_ALTERNATIVE",
+          "maker_queue_depth_at_price_usd": 7720.46,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "first_score",
+          "contract": "Spain to score first",
+          "side": "NO",
+          "central_probability": 0.503256,
+          "spec_p10": 0.496285,
+          "confidence_class": "low",
+          "ask": 0.47,
+          "bid": 0.46,
+          "spread": 0.01,
+          "fee": 0.012455,
+          "central_net_edge": 0.020801,
+          "robust_edge": 0.00383,
+          "required_edge": 0.04,
+          "max_taker_entry": 0.434,
+          "ask_depth_1c_usd": 2443.13,
+          "market_volume": 689.77,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.026285,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 1065.44,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "exact_score",
+          "contract": "Spain 1-0 Argentina",
+          "side": "YES",
+          "central_probability": 0.138678,
+          "spec_p10": 0.131621,
+          "confidence_class": "medium",
+          "ask": 0.12,
+          "bid": 0.11,
+          "spread": 0.01,
+          "fee": 0.00528,
+          "central_net_edge": 0.013398,
+          "robust_edge": -0.001159,
+          "required_edge": 0.03,
+          "max_taker_entry": 0.09,
+          "ask_depth_1c_usd": 18022.73,
+          "market_volume": 7809.17,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.014121,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 4146.37,
+          "maker_recommended_amount_10k": 0.0
+        },
+        {
+          "fixture_id": "fifwc-esp-arg-2026-07-19",
+          "stage": "World Cup final",
+          "group": "first_score",
+          "contract": "Argentina to score first",
+          "side": "YES",
+          "central_probability": 0.39234,
+          "spec_p10": 0.385842,
+          "confidence_class": "low",
+          "ask": 0.37,
+          "bid": 0.34,
+          "spread": 0.03,
+          "fee": 0.011655,
+          "central_net_edge": 0.010685,
+          "robust_edge": -0.005813,
+          "required_edge": 0.04,
+          "max_taker_entry": 0.3248,
+          "ask_depth_1c_usd": 143.94,
+          "market_volume": 560.1,
+          "decision": "WATCH",
+          "recommended_amount_10k": 0.0,
+          "maker_robust_edge": 0.035842,
+          "maker_decision": "PASS",
+          "maker_queue_depth_at_price_usd": 340.0,
+          "maker_recommended_amount_10k": 0.0
+        }
+      ]
+    }
+  ]
+}

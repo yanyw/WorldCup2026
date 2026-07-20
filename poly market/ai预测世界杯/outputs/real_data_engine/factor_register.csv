@@ -1,0 +1,27 @@
+domain,factor,real_data_source,observed_or_estimated_value,how_used,uncertainty_treatment
+team_strength,pre_tournament_attack_defence,11847 international matches from 2014-01-01 to 2026-06-10,"England 0.9175 xG; Argentina 1.1299 xG for this neutral fixture",time-decayed regularized attack-defence Poisson base,"3-year half-life; ridge shrinkage; no Elo"
+current_form,opponent_adjusted_xG,FIFA 2026 performance reports (12 team-matches),"England 1.854 xGF/90 and 0.874 xGA/90; Argentina 2.075 and 0.550",log residual versus each opponent expectation then shrink to history,270 prior-equivalent minutes
+shooting,shot_volume,FIFA 2026 attempts and attempts conceded,"England 10.364; Argentina 12.633 expected shots",geometric creation-suppression blend,recency weighted
+shooting,on_target_rate,FIFA 2026 official reports,"England 41.49%; Argentina 41.84%",conditional probability after a shot,clipped only to plausible data support
+control,active_possession,FIFA 2026 official reports,"England 47.67%; Argentina 49.46% before pair normalization",logit matchup blend and score/red-state adjustment,contested possession retained separately in raw features
+progression,passes_linebreaks_final_third,FIFA 2026 official reports,"England 486 passes/90; Argentina 622",minute-level expected counts,observed recency-weighted rates
+width,crosses_and_wide_progression,FIFA 2026 official reports,"England 22.70 crosses/90; Argentina 13.03",minute-level attack events,no subjective formation bonus
+pressing,pressures_and_forced_turnovers,FIFA 2026 official reports,"England 220.80 pressures/90; Argentina 208.36",high-frequency minute events,StatsBomb pressure definition drift disclosed
+defence,regains_interceptions_tackles,FIFA 2026 official reports,"England 37.98 regains and 21.74 tackles/90; Argentina 37.35 and 29.71",minute-level defensive events,report extraction checked across 12 PDFs
+set_piece,corners,FIFA 2026 corners for and against,"England 3.714; Argentina 4.905",team creation versus opponent concession blend,recency weighted
+referee,fouls,Elfath recent/career plus WC 2026 and FIFA team free kicks,"24.69 expected total",empirical-Bayes referee rate blended with team tendency,long-run prior dominates 3-match sample
+referee,yellow_cards,Elfath 1066 yellows/298 career matches plus 8/3 at WC 2026,3.514 total,empirical-Bayes total split by team foul tendency,40 effective prior matches
+referee,red_cards,Elfath 33 reds/298 career matches plus 1/3 at WC 2026,0.126 total,empirical-Bayes rare-event total,wide structural uncertainty
+referee,penalties,StatsBomb WC base plus Elfath 2/3 at WC 2026,0.427 total,20-match prior plus current tournament sample,wide structural uncertainty
+dynamics,minute_shape,StatsBomb 2018 and 2022 World Cups,95 separate minute multipliers,normalizes each full-match event total,7-minute smoothing
+dynamics,score_state,StatsBomb 2018 and 2022 World Cups,"trailing shot multiplier 1.073; leading 0.963",updates hazards after every simulated goal,regularized Poisson factors
+dynamics,red_card_state,StatsBomb 2018 and 2022 World Cups,"short-handed shot 0.937; man-advantage 1.228",updates hazards after every simulated sending-off,400 neutral pseudo-minutes shrink rare states
+dynamics,extra_time,10 extra-time matches in StatsBomb sample,"shot rate multiplier 1.083; xG 1.027",conditional 30-minute simulation,600 pseudo-minute shrinkage
+dynamics,shootout,80 shootout kicks in StatsBomb sample,"England posterior 0.800; Argentina 0.842",beta-binomial team posterior and sudden death simulation,8 successes/10 prior kicks
+players,current_tournament_usage,FIFA 2026 player distributions and lineups,"169 player-match rows",minutes shots goals passing line breaks crosses take-ons,2022 history only 25% decayed prior
+players,availability,official England update and current team reporting,"Rice fit; Romero/Paredes not treated as absent",base XI appearance plus absence sensitivity,official XI still pending at cutoff
+fatigue,accumulated_match_minutes,FIFA official match durations,"England 570; Argentina 600",late-match tail adjustment after minute 65,small coefficient and separate sensitivity
+travel,tournament_route,venue-to-venue great-circle distances,"England 9181 km; Argentina 5630 km",measured and disclosed but not forced into base xG,no stable matched causal coefficient
+environment,roof_surface_temperature,Atlanta venue reporting,"closed roof; natural grass; about 22.2 C",weather and altitude multipliers fixed at 1,controlled environment
+tactics,phase_profile,FIFA official in/out-of-possession phase shares,34 team-phase rows,represented through observed progression pressure width and block events,no subjective tactical multiplier
+uncertainty,path_level_tempo_and_attack,model sampling,"tempo sigma 0.07; team attack sigma 0.09",lognormal per-simulation heterogeneity,sensitivity scenarios reported separately

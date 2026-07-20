@@ -1,0 +1,130 @@
+{
+  "seed": 2026071818,
+  "simulations": 450000,
+  "scenario_simulations": 90000,
+  "cutoff_utc": "2026-07-18T15:42:00Z",
+  "historical_strength": {
+    "results": "data/raw/international/results.csv",
+    "training_start": "2014-01-01",
+    "cutoff_exclusive": "2026-06-11",
+    "half_life_days": 1095,
+    "ridge": 5.0,
+    "world_cup_weight": 2.0,
+    "major_tournament_weight": 1.5,
+    "friendly_weight": 0.45,
+    "current_form_prior_equivalent_minutes": 270
+  },
+  "data": {
+    "fifa_team_features": "data/curated/fifa_2026_final_four_team_match_features.csv",
+    "fifa_player_features": "data/curated/fifa_2026_final_four_player_match_features.csv",
+    "statsbomb_dynamics": "outputs/real_data_engine/statsbomb_historical_dynamics.json",
+    "statsbomb_player_history": "data/curated/statsbomb_2022_eng_arg_player_history.csv",
+    "lineups": "data/inputs/final_four_lineups_20260718.json",
+    "polymarket_latest_pointer": "data/raw/polymarket/LATEST_REMAINING.txt"
+  },
+  "generic_referee_prior": {
+    "name": "Pooled elite referee fallback",
+    "career_matches": 1000,
+    "career_yellows": 3600,
+    "career_reds": 120,
+    "recent_fouls_per_match": 25.0,
+    "world_cup_2026_matches": 0,
+    "world_cup_2026_yellows": 0,
+    "world_cup_2026_reds": 0,
+    "world_cup_2026_fouls": 0,
+    "world_cup_2026_penalties": 0,
+    "career_effective_prior_matches": 50,
+    "penalty_prior_matches": 24
+  },
+  "external_validation": {
+    "fifwc-fra-eng-2026-07-18": {
+      "source": "Oddschecker and FanDuel consensus captured 2026-07-18",
+      "url": "https://www.oddschecker.com/us/soccer/world-cup/france-v-england",
+      "fair_1x2": {"France": 0.5137, "Draw": 0.2401, "England": 0.2462},
+      "fair_to_win": {"France": 0.6499, "England": 0.3501},
+      "under_3_5_fair": 0.5518,
+      "btts_yes_fair": 0.6798,
+      "guard_on_divergence_pp": 0.08,
+      "reason": "Independent structure remains materially divergent from the sharp pre-match consensus; correlated selections are downgraded until official XIs."
+    },
+    "fifwc-esp-arg-2026-07-19": {
+      "source": "Oddschecker and FOX consensus captured 2026-07-18",
+      "url": "https://www.oddschecker.com/insight/football/20260716-world-cup-final-2026-odds-who-is-favourite-spain-or-argentina",
+      "fair_1x2": {"Spain": 0.4195, "Draw": 0.3146, "Argentina": 0.2659},
+      "fair_to_win": {"Spain": 0.5798, "Argentina": 0.4202},
+      "under_2_5_fair": 0.5890,
+      "guard_on_divergence_pp": 0.07,
+      "reason": "A candidate that depends on the model's shootout or injury prior and conflicts with the sharp consensus is not executable at taker prices."
+    }
+  },
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "home": "France",
+      "away": "England",
+      "kickoff_utc": "2026-07-18T21:00:00Z",
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "stage": "third-place play-off",
+      "regime_weights": {"cagey": 0.08, "normal": 0.32, "open": 0.60},
+      "regime_tempo": {"cagey": 0.78, "normal": 1.0, "open": 1.30},
+      "regime_conversion": {"cagey": 0.91, "normal": 1.0, "open": 1.14},
+      "central_rate_multipliers": {"home_xg": 1.25, "away_xg": 1.18, "home_shots": 1.08, "away_shots": 1.08},
+      "motivation_goal_multiplier": 1.08,
+      "lineup_attack_sigma": 0.17,
+      "lineup_certainty": 0.76,
+      "temperature_c": 32,
+      "weather_shot_multiplier": 0.95,
+      "home_late_fatigue_multiplier": 0.92,
+      "away_late_fatigue_multiplier": 0.90,
+      "referee": {
+        "name": "Jesus Valenzuela",
+        "career_matches": 388,
+        "career_yellows": 1909,
+        "career_reds": 115,
+        "recent_fouls_per_match": 24.0,
+        "world_cup_2026_matches": 3,
+        "world_cup_2026_yellows": 4,
+        "world_cup_2026_reds": 0,
+        "world_cup_2026_fouls": 52,
+        "world_cup_2026_penalties": 0,
+        "career_effective_prior_matches": 55,
+        "penalty_prior_matches": 28
+      },
+      "notes": ["Historical men's World Cup third-place games average 3.84 goals across 19 matches; the stage prior is shrunk heavily toward current-team data.", "Saliba and Samba are out; France and England are both expected to rotate. Reece James is doubtful.", "Miami heat index and thunderstorm delay are live tail risks."]
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "kickoff_utc": "2026-07-19T19:00:00Z",
+      "venue": "New York New Jersey Stadium, East Rutherford",
+      "stage": "final",
+      "regime_weights": {"cagey": 0.31, "normal": 0.52, "open": 0.17},
+      "regime_tempo": {"cagey": 0.77, "normal": 1.0, "open": 1.20},
+      "regime_conversion": {"cagey": 0.90, "normal": 1.0, "open": 1.08},
+      "central_rate_multipliers": {"home_xg": 0.98, "away_xg": 1.01, "home_shots": 0.98, "away_shots": 0.99},
+      "motivation_goal_multiplier": 1.00,
+      "lineup_attack_sigma": 0.095,
+      "lineup_certainty": 0.90,
+      "temperature_c": 28,
+      "weather_shot_multiplier": 0.975,
+      "home_late_fatigue_multiplier": 0.965,
+      "away_late_fatigue_multiplier": 0.945,
+      "referee": {
+        "name": "Slavko Vincic",
+        "career_matches": 449,
+        "career_yellows": 1835,
+        "career_reds": 40,
+        "recent_fouls_per_match": 18.87,
+        "world_cup_2026_matches": 3,
+        "world_cup_2026_yellows": 7,
+        "world_cup_2026_reds": 0,
+        "world_cup_2026_fouls": 57,
+        "world_cup_2026_penalties": 0,
+        "career_effective_prior_matches": 60,
+        "penalty_prior_matches": 30
+      },
+      "notes": ["Yamal and Pedro Porro missed or were limited in training with muscular overload; both remain projected starters with reduced availability/minutes.", "Argentina reports no injuries or suspensions; De Paul versus Giuliano Simeone is the main XI choice.", "Wildfire smoke is forecast to improve but remains a performance tail risk; Argentina also has one less recovery day and a weather-delayed transfer from Atlanta."]
+    }
+  ]
+}

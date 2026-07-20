@@ -1,0 +1,627 @@
+{
+  "snapshot": "data\\raw\\polymarket\\semifinals_normalized_20260716_080158Z.csv",
+  "packages_scanned": 168,
+  "arbitrages": [],
+  "top_near_arbitrages": [
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942069",
+          "contract": "Argentina (-3.5)",
+          "side": "YES",
+          "ask": 0.011,
+          "fee": 0.0005439500000000001,
+          "unit_cost": 0.011543949999999999,
+          "depth_usd": 9.88889
+        },
+        {
+          "market_id": "2942069",
+          "contract": "Argentina (-3.5)",
+          "side": "NO",
+          "ask": 0.99,
+          "fee": 0.0004950000000000004,
+          "unit_cost": 0.990495,
+          "depth_usd": 10462.3851
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00203895,
+      "profit_per_bundle": -0.002038949999999984,
+      "roi_on_cost": -0.0020348011422110725,
+      "estimated_capital_capacity_usd": 899.8889899999999,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942024",
+          "contract": "Spain 3-3 Argentina",
+          "side": "YES",
+          "ask": 0.011,
+          "fee": 0.0005439500000000001,
+          "unit_cost": 0.011543949999999999,
+          "depth_usd": 2095.24536
+        },
+        {
+          "market_id": "2942024",
+          "contract": "Spain 3-3 Argentina",
+          "side": "NO",
+          "ask": 0.99,
+          "fee": 0.0004950000000000004,
+          "unit_cost": 0.990495,
+          "depth_usd": 85500.52544
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00203895,
+      "profit_per_bundle": -0.002038949999999984,
+      "roi_on_cost": -0.0020348011422110725,
+      "estimated_capital_capacity_usd": 86450.5312782222,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942015",
+          "contract": "Spain 0-3 Argentina",
+          "side": "YES",
+          "ask": 0.013,
+          "fee": 0.00064155,
+          "unit_cost": 0.013641549999999999,
+          "depth_usd": 2677.83009
+        },
+        {
+          "market_id": "2942015",
+          "contract": "Spain 0-3 Argentina",
+          "side": "NO",
+          "ask": 0.988,
+          "fee": 0.0005928000000000005,
+          "unit_cost": 0.9885927999999999,
+          "depth_usd": 59019.14043
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00223435,
+      "profit_per_bundle": -0.0022343499999999406,
+      "roi_on_cost": -0.0022293688097997644,
+      "estimated_capital_capacity_usd": 59795.70806723684,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942082",
+          "contract": "Total over 8.5",
+          "side": "YES",
+          "ask": 0.004,
+          "fee": 0.00019920000000000002,
+          "unit_cost": 0.0041992,
+          "depth_usd": 3.87952
+        },
+        {
+          "market_id": "2942082",
+          "contract": "Total over 8.5",
+          "side": "NO",
+          "ask": 0.998,
+          "fee": 9.98000000000001e-05,
+          "unit_cost": 0.9980998,
+          "depth_usd": 7467.0853
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.002299,
+      "profit_per_bundle": -0.002299000000000051,
+      "roi_on_cost": -0.0022937267222655623,
+      "estimated_capital_capacity_usd": 971.81976,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2941989",
+          "contract": "France 0-3 England",
+          "side": "YES",
+          "ask": 0.016,
+          "fee": 0.0007872,
+          "unit_cost": 0.016787200000000002,
+          "depth_usd": 1768.92836
+        },
+        {
+          "market_id": "2941989",
+          "contract": "France 0-3 England",
+          "side": "NO",
+          "ask": 0.985,
+          "fee": 0.0007387500000000007,
+          "unit_cost": 0.98573875,
+          "depth_usd": 57745.1354
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.0025259499999999,
+      "profit_per_bundle": -0.002525949999999888,
+      "roi_on_cost": -0.002519585652620651,
+      "estimated_capital_capacity_usd": 58683.12744710659,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942118",
+          "contract": "Total over 7.5",
+          "side": "YES",
+          "ask": 0.02,
+          "fee": 0.00098,
+          "unit_cost": 0.02098,
+          "depth_usd": 67.71943999999999
+        },
+        {
+          "market_id": "2942118",
+          "contract": "Total over 7.5",
+          "side": "NO",
+          "ask": 0.981,
+          "fee": 0.0009319500000000009,
+          "unit_cost": 0.98193195,
+          "depth_usd": 201915.72289
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00291195,
+      "profit_per_bundle": -0.0029119500000001075,
+      "roi_on_cost": -0.00290349516724784,
+      "estimated_capital_capacity_usd": 3389.357971999999,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2941998",
+          "contract": "France 3-3 England",
+          "side": "YES",
+          "ask": 0.021,
+          "fee": 0.0010279500000000001,
+          "unit_cost": 0.02202795,
+          "depth_usd": 2019.09196
+        },
+        {
+          "market_id": "2941998",
+          "contract": "France 3-3 England",
+          "side": "NO",
+          "ask": 0.98,
+          "fee": 0.0009800000000000008,
+          "unit_cost": 0.98098,
+          "depth_usd": 163121.9906
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00300795,
+      "profit_per_bundle": -0.0030079499999999815,
+      "roi_on_cost": -0.002998929370400286,
+      "estimated_capital_capacity_usd": 96243.38342666664,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942068",
+          "contract": "Spain (-3.5)",
+          "side": "YES",
+          "ask": 0.021,
+          "fee": 0.0010279500000000001,
+          "unit_cost": 0.02202795,
+          "depth_usd": 21.0
+        },
+        {
+          "market_id": "2942068",
+          "contract": "Spain (-3.5)",
+          "side": "NO",
+          "ask": 0.98,
+          "fee": 0.0009800000000000008,
+          "unit_cost": 0.98098,
+          "depth_usd": 11498.449999999999
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00300795,
+      "profit_per_bundle": -0.0030079499999999815,
+      "roi_on_cost": -0.002998929370400286,
+      "estimated_capital_capacity_usd": 1000.9999999999998,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942023",
+          "contract": "Spain 3-2 Argentina",
+          "side": "YES",
+          "ask": 0.021,
+          "fee": 0.0010279500000000001,
+          "unit_cost": 0.02202795,
+          "depth_usd": 2666.6251700000003
+        },
+        {
+          "market_id": "2942023",
+          "contract": "Spain 3-2 Argentina",
+          "side": "NO",
+          "ask": 0.98,
+          "fee": 0.0009800000000000008,
+          "unit_cost": 0.98098,
+          "depth_usd": 26369.93358
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00300795,
+      "profit_per_bundle": -0.0030079499999999815,
+      "roi_on_cost": -0.002998929370400286,
+      "estimated_capital_capacity_usd": 26935.003585285715,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942019",
+          "contract": "Spain 1-3 Argentina",
+          "side": "YES",
+          "ask": 0.022,
+          "fee": 0.0010758,
+          "unit_cost": 0.0230758,
+          "depth_usd": 3250.8586
+        },
+        {
+          "market_id": "2942019",
+          "contract": "Spain 1-3 Argentina",
+          "side": "NO",
+          "ask": 0.979,
+          "fee": 0.001027950000000001,
+          "unit_cost": 0.98002795,
+          "depth_usd": 24669.836499999998
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00310375,
+      "profit_per_bundle": -0.0031037499999999607,
+      "roi_on_cost": -0.0030941465426681546,
+      "estimated_capital_capacity_usd": 25224.214848314605,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942080",
+          "contract": "Total over 6.5",
+          "side": "YES",
+          "ask": 0.013,
+          "fee": 0.00064155,
+          "unit_cost": 0.013641549999999999,
+          "depth_usd": 26.311999999999998
+        },
+        {
+          "market_id": "2942080",
+          "contract": "Total over 6.5",
+          "side": "NO",
+          "ask": 0.989,
+          "fee": 0.0005439500000000005,
+          "unit_cost": 0.98954395,
+          "depth_usd": 6607.0835
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.0031854999999998,
+      "profit_per_bundle": -0.0031854999999998412,
+      "roi_on_cost": -0.0031753848116822282,
+      "estimated_capital_capacity_usd": 2028.048,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942110",
+          "contract": "England (-5.5)",
+          "side": "YES",
+          "ask": 0.006,
+          "fee": 0.00029820000000000004,
+          "unit_cost": 0.0062982,
+          "depth_usd": 45.1155
+        },
+        {
+          "market_id": "2942110",
+          "contract": "England (-5.5)",
+          "side": "NO",
+          "ask": 0.997,
+          "fee": 0.00014955000000000014,
+          "unit_cost": 0.99714955,
+          "depth_usd": 3364.68361
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00344775,
+      "profit_per_bundle": -0.0034477500000000827,
+      "roi_on_cost": -0.003435903862458292,
+      "estimated_capital_capacity_usd": 3384.9324582046133,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2941996",
+          "contract": "France 2-3 England",
+          "side": "YES",
+          "ask": 0.03,
+          "fee": 0.001455,
+          "unit_cost": 0.031455,
+          "depth_usd": 3010.4937
+        },
+        {
+          "market_id": "2941996",
+          "contract": "France 2-3 England",
+          "side": "NO",
+          "ask": 0.971,
+          "fee": 0.0014079500000000013,
+          "unit_cost": 0.97240795,
+          "depth_usd": 47397.4992
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00386295,
+      "profit_per_bundle": -0.0038629500000000316,
+      "roi_on_cost": -0.0038480850398951686,
+      "estimated_capital_capacity_usd": 48861.89155427394,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942022",
+          "contract": "Spain 2-3 Argentina",
+          "side": "YES",
+          "ask": 0.03,
+          "fee": 0.001455,
+          "unit_cost": 0.031455,
+          "depth_usd": 1614.80739
+        },
+        {
+          "market_id": "2942022",
+          "contract": "Spain 2-3 Argentina",
+          "side": "NO",
+          "ask": 0.971,
+          "fee": 0.0014079500000000013,
+          "unit_cost": 0.97240795,
+          "depth_usd": 61710.87857
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00386295,
+      "profit_per_bundle": -0.0038629500000000316,
+      "roi_on_cost": -0.0038480850398951686,
+      "estimated_capital_capacity_usd": 53880.739913,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2941993",
+          "contract": "France 1-3 England",
+          "side": "YES",
+          "ask": 0.032,
+          "fee": 0.0015488000000000001,
+          "unit_cost": 0.033548800000000004,
+          "depth_usd": 3180.00318
+        },
+        {
+          "market_id": "2941993",
+          "contract": "France 1-3 England",
+          "side": "NO",
+          "ask": 0.969,
+          "fee": 0.0015019500000000012,
+          "unit_cost": 0.97050195,
+          "depth_usd": 62720.89835999999
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00405075,
+      "profit_per_bundle": -0.004050749999999992,
+      "roi_on_cost": -0.004034407623319829,
+      "estimated_capital_capacity_usd": 64792.1767372136,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2941986",
+          "contract": "France 0-2 England",
+          "side": "YES",
+          "ask": 0.035,
+          "fee": 0.0016887500000000001,
+          "unit_cost": 0.036688750000000006,
+          "depth_usd": 3903.94035
+        },
+        {
+          "market_id": "2941986",
+          "contract": "France 0-2 England",
+          "side": "NO",
+          "ask": 0.966,
+          "fee": 0.0016422000000000016,
+          "unit_cost": 0.9676422,
+          "depth_usd": 35010.77063
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00433095,
+      "profit_per_bundle": -0.0043309499999999446,
+      "roi_on_cost": -0.0043122737579678735,
+      "estimated_capital_capacity_usd": 36279.27681224637,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942081",
+          "contract": "Total over 7.5",
+          "side": "YES",
+          "ask": 0.007,
+          "fee": 0.00034755000000000007,
+          "unit_cost": 0.0073475500000000004,
+          "depth_usd": 13.36656
+        },
+        {
+          "market_id": "2942081",
+          "contract": "Total over 7.5",
+          "side": "NO",
+          "ask": 0.997,
+          "fee": 0.00014955000000000014,
+          "unit_cost": 0.99714955,
+          "depth_usd": 8755.98236
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.0044971,
+      "profit_per_bundle": -0.004497100000000032,
+      "roi_on_cost": -0.004476966633353179,
+      "estimated_capital_capacity_usd": 1917.1466057142854,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942018",
+          "contract": "Spain 3-0 Argentina",
+          "side": "YES",
+          "ask": 0.037,
+          "fee": 0.00178155,
+          "unit_cost": 0.03878155,
+          "depth_usd": 6238.867979999999
+        },
+        {
+          "market_id": "2942018",
+          "contract": "Spain 3-0 Argentina",
+          "side": "NO",
+          "ask": 0.964,
+          "fee": 0.0017352000000000016,
+          "unit_cost": 0.9657352,
+          "depth_usd": 164752.07274
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00451675,
+      "profit_per_bundle": -0.004516750000000069,
+      "roi_on_cost": -0.004496440701461742,
+      "estimated_capital_capacity_usd": 168786.671567027,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942021",
+          "contract": "Spain 3-1 Argentina",
+          "side": "YES",
+          "ask": 0.038,
+          "fee": 0.0018277999999999999,
+          "unit_cost": 0.0398278,
+          "depth_usd": 5675.20782
+        },
+        {
+          "market_id": "2942021",
+          "contract": "Spain 3-1 Argentina",
+          "side": "NO",
+          "ask": 0.963,
+          "fee": 0.0017815500000000015,
+          "unit_cost": 0.96478155,
+          "depth_usd": 123242.24637000001
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.00460935,
+      "profit_per_bundle": -0.0046093499999999565,
+      "roi_on_cost": -0.004588201373996725,
+      "estimated_capital_capacity_usd": 128105.38797130842,
+      "is_arbitrage": false
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "type": "binary_complement",
+      "legs": [
+        {
+          "market_id": "2942119",
+          "contract": "Total over 8.5",
+          "side": "YES",
+          "ask": 0.009,
+          "fee": 0.00044594999999999997,
+          "unit_cost": 0.00944595,
+          "depth_usd": 82.08427999999999
+        },
+        {
+          "market_id": "2942119",
+          "contract": "Total over 8.5",
+          "side": "NO",
+          "ask": 0.995,
+          "fee": 0.0002487500000000002,
+          "unit_cost": 0.99524875,
+          "depth_usd": 13788.30247
+        }
+      ],
+      "leg_count": 2,
+      "guaranteed_payout": 1.0,
+      "all_in_cost": 1.0046947,
+      "profit_per_bundle": -0.004694699999999941,
+      "roi_on_cost": -0.00467276278057398,
+      "estimated_capital_capacity_usd": 9156.957457777777,
+      "is_arbitrage": false
+    }
+  ]
+}

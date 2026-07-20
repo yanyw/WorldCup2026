@@ -1,0 +1,126 @@
+{
+  "fixture": {
+    "fixture_id": "fifwc-nor-eng-2026-07-11",
+    "home": "Norway",
+    "away": "England",
+    "kickoff_utc": "2026-07-11T21:00:00Z",
+    "kickoff_beijing": "2026-07-12T05:00:00+08:00",
+    "neutral": true,
+    "stage": "World Cup quarter-final",
+    "market_snapshot": "data/raw/polymarket_snapshot_20260711_2033.csv",
+    "market_as_of_beijing": "2026-07-11T20:33:00+08:00",
+    "sharp_benchmark": {
+      "source": "Oddschecker/VegasInsider snapshot; not Polymarket",
+      "as_of": "2026-07-11",
+      "decimal_1x2": {
+        "home": 3.9,
+        "draw": 3.8,
+        "away": 1.952381
+      },
+      "decimal_total_2_5": {
+        "over": 1.740741,
+        "under": 2.2
+      }
+    },
+    "knockout_assumptions": {
+      "away_share_if_90m_draw": 0.6,
+      "penalties_given_90m_draw": 0.55,
+      "first_half_goal_share": 0.4
+    },
+    "notes": [
+      "Jarell Quansah suspended for England.",
+      "Rice, Guehi and Reece James returned to training but late availability remains a risk.",
+      "Weather and lineup information widen uncertainty; no arbitrary directional goal adjustment is applied."
+    ]
+  },
+  "cutoff_exclusive": "2026-07-11",
+  "no_leakage": true,
+  "training": {
+    "rows": 11945,
+    "latest_result": "2026-07-10",
+    "p1_fit": {
+      "matches": 11945,
+      "teams": 300,
+      "objective": 7150.560875100774,
+      "optimizer": "deterministic_adam",
+      "home_advantage_multiplier": 1.2852463415737874
+    }
+  },
+  "p1": {
+    "lambdas": {
+      "home": 0.9666611811155327,
+      "away": 1.8431777562235327
+    },
+    "rho": 0.09,
+    "markets": {
+      "home": 0.19890315220165966,
+      "draw": 0.20571560535241984,
+      "away": 0.5953812424459205,
+      "over2.5": 0.5306770334424081,
+      "btts": 0.5097716452350812
+    }
+  },
+  "p2_elo": {
+    "home": 0.18734585921935834,
+    "draw": 0.2440611696508301,
+    "away": 0.5685929711298116,
+    "home_elo": 1796.075360755557,
+    "away_elo": 1900.709112198816
+  },
+  "fused": {
+    "lambda_home": 1.1252912135317525,
+    "lambda_away": 1.745530697400003,
+    "rho": 0.09,
+    "markets": {
+      "home": 0.250941880285588,
+      "draw": 0.2156336883571526,
+      "away": 0.5334244313572594,
+      "over2.5": 0.5461829693215038,
+      "btts": 0.5464548736730839
+    },
+    "p1": {
+      "home": 0.19890315220165966,
+      "draw": 0.20571560535241984,
+      "away": 0.5953812424459205,
+      "over2.5": 0.5306770334424081,
+      "btts": 0.5097716452350812
+    },
+    "elo": {
+      "home": 0.18734585921935834,
+      "draw": 0.2440611696508301,
+      "away": 0.5685929711298116
+    },
+    "independent_1x2": {
+      "home": 0.19601382895608432,
+      "draw": 0.2153019964270224,
+      "away": 0.5886841746168933,
+      "over2.5": 0.5306770334424081
+    },
+    "sharp_1x2": {
+      "home": 0.24851656014550896,
+      "draw": 0.2550564696230223,
+      "away": 0.4964269702314686
+    },
+    "sharp_total_2_5": {
+      "over": 0.5582706399633978,
+      "under": 0.44172936003660224
+    },
+    "fusion_target": {
+      "home": 0.23276574078868156,
+      "draw": 0.24313012766422235,
+      "away": 0.524104131547096,
+      "over2.5": 0.5499925580071009
+    },
+    "fit_loss": 0.0012023201420365624
+  },
+  "signals": [],
+  "rules": {
+    "polymarket_used_in_fair_probability": false,
+    "required_robust_edge": 0.05,
+    "execution_buffer": 0.02,
+    "kelly_fraction": 0.05,
+    "max_stake_fraction": 0.0075,
+    "bankroll": 10000.0,
+    "low_confidence_extra_buffer": 0.02
+  }
+}

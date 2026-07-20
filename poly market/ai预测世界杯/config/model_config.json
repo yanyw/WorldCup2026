@@ -1,0 +1,30 @@
+{
+  "data": {
+    "historical_results": "data/raw/international/results.csv",
+    "training_start": "2014-01-01",
+    "validation_start": "2024-01-01",
+    "cutoff_exclusive": "2026-07-11"
+  },
+  "poisson": {
+    "half_life_days": 1460.0,
+    "ridge": 4.0,
+    "max_goals": 10,
+    "world_cup_weight": 2.0,
+    "major_tournament_weight": 1.5,
+    "friendly_weight": 0.5
+  },
+  "ensemble": {
+    "elo_weight_inside_independent": 0.25,
+    "independent_reliability_vs_sharp": 0.30,
+    "uncertainty_lambda_pct": 0.12,
+    "uncertainty_share_shift": 0.06
+  },
+  "execution": {
+    "required_robust_edge": 0.05,
+    "execution_buffer": 0.02,
+    "kelly_fraction": 0.05,
+    "max_stake_fraction": 0.0075,
+    "bankroll": 10000.0,
+    "low_confidence_extra_buffer": 0.02
+  }
+}

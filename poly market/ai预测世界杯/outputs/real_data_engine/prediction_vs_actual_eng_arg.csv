@@ -1,0 +1,10 @@
+metric,england_predicted,england_actual,argentina_predicted,argentina_actual,assessment
+goals,0.942812,1,1.212316,2,England close; Argentina late surge underestimated
+shots,10.699876,5,12.859972,15,major England overestimate
+shots_on_target,4.552928,2,5.516108,5,Argentina close; England overestimated
+possession_pct,49.4195,36,50.5805,64,major structural miss
+corners,3.698220,1,4.862300,6,territorial skew underestimated
+fouls,11.170000,11,13.737228,15,good full-match calibration
+yellow_cards,1.574428,1,1.935316,3,total close; team allocation too even
+red_cards,0.056092,0,0.069596,0,rare event did not occur
+penalties,0.193516,0,0.235368,0,rare event did not occur

@@ -1,0 +1,79 @@
+{
+  "as_of": "2026-07-12",
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-fra-esp-2026-07-14",
+      "home": "France",
+      "away": "Spain",
+      "kickoff_utc": "2026-07-14T19:00:00Z",
+      "kickoff_beijing": "2026-07-15T03:00:00+08:00",
+      "neutral": true,
+      "stage": "World Cup semi-final",
+      "event_slugs": [
+        "fifwc-fra-esp-2026-07-14",
+        "fifwc-fra-esp-2026-07-14-more-markets",
+        "fifwc-fra-esp-2026-07-14-exact-score",
+        "fifwc-fra-esp-2026-07-14-first-to-score"
+      ],
+      "sharp_benchmarks": [
+        {
+          "source": "FanDuel opening odds via Sports Illustrated, 2026-07-10",
+          "decimal_1x2": {"home": 2.30, "draw": 3.20, "away": 3.20},
+          "decimal_total_2_5": {"over": 2.00, "under": 1.819672}
+        },
+        {
+          "source": "DraftKings opening odds, 2026-07-11; over inferred from paired -105/-115 quote",
+          "decimal_1x2": {"home": 2.35, "draw": 3.25, "away": 3.15},
+          "decimal_total_2_5": {"over": 1.952381, "under": 1.869565}
+        }
+      ],
+      "knockout_assumptions": {
+        "away_share_if_90m_draw": 0.43,
+        "penalties_given_90m_draw": 0.56,
+        "first_half_goal_share": 0.40
+      },
+      "notes": [
+        "France captain Mbappe said the right-ankle knock was not serious; lineup confirmation is still pending.",
+        "Spain had conceded only once in the tournament through the quarter-final.",
+        "No directional injury adjustment is made outside sportsbook consensus."
+      ]
+    },
+    {
+      "fixture_id": "fifwc-eng-arg-2026-07-15",
+      "home": "England",
+      "away": "Argentina",
+      "kickoff_utc": "2026-07-15T19:00:00Z",
+      "kickoff_beijing": "2026-07-16T03:00:00+08:00",
+      "neutral": true,
+      "stage": "World Cup semi-final",
+      "event_slugs": [
+        "fifwc-eng-arg-2026-07-15",
+        "fifwc-eng-arg-2026-07-15-more-markets",
+        "fifwc-eng-arg-2026-07-15-exact-score",
+        "fifwc-eng-arg-2026-07-15-first-to-score"
+      ],
+      "sharp_benchmarks": [
+        {
+          "source": "DraftKings 1X2 opening odds plus FOX listed O/U, 2026-07-12",
+          "decimal_1x2": {"home": 2.55, "draw": 3.00, "away": 3.05},
+          "decimal_total_2_5": {"over": 2.30, "under": 1.595238}
+        },
+        {
+          "source": "VegasInsider 1X2 plus BetMGM listed O/U, 2026-07-12",
+          "decimal_1x2": {"home": 2.50, "draw": 3.10, "away": 2.90},
+          "decimal_total_2_5": {"over": 2.05, "under": 1.833333}
+        }
+      ],
+      "knockout_assumptions": {
+        "away_share_if_90m_draw": 0.47,
+        "penalties_given_90m_draw": 0.58,
+        "first_half_goal_share": 0.39
+      },
+      "notes": [
+        "Both quarter-finals went to extra time, so fatigue is symmetric but recovery time is shorter for Argentina.",
+        "Argentina's first-half chance creation was weak against Switzerland; this is treated as uncertainty rather than a manual point estimate shift.",
+        "Lineups and late injury news remain the largest pre-match model risk."
+      ]
+    }
+  ]
+}

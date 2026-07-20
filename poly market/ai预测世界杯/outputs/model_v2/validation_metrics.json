@@ -1,0 +1,10 @@
+{
+  "protocol": "fixed temporal holdout; not rolling walk-forward and not an untouched final test",
+  "train_end_exclusive": "2024-01-01",
+  "validation_end_exclusive": "2026-07-11",
+  "n": 2640,
+  "skipped_unseen": 2,
+  "log_loss": 0.8710989514581629,
+  "multiclass_brier": 0.5109742986713902,
+  "rps": 0.1685218699071847
+}

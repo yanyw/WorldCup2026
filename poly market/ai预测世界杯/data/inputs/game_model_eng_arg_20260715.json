@@ -1,0 +1,103 @@
+{
+  "as_of_utc": "2026-07-15T15:00:00Z",
+  "fixture_id": "fifwc-eng-arg-2026-07-15",
+  "method": {
+    "game_rating_reliability": 0.12,
+    "max_log_lambda_shift": 0.04,
+    "rating_edge_scale": 0.035,
+    "referee_total_goal_multiplier": 1.02,
+    "referee_uncertainty_extra": 0.02,
+    "notes": [
+      "FC 26 attributes are deliberately low-weight because public player strength is already embedded in sharp odds.",
+      "No directional referee bias is assumed; Elfath only increases event-tail uncertainty and the central goal rate slightly.",
+      "Formation, fatigue and availability multipliers are capped before they touch expected goals."
+    ]
+  },
+  "referee": {
+    "name": "Ismail Elfath",
+    "world_cup_2026_matches": 3,
+    "yellow_cards_per_match": 2.67,
+    "red_cards_per_match": 0.33,
+    "penalties_awarded": 2,
+    "directional_team_adjustment": 0.0,
+    "source": "U.S. Soccer appointment; FootyMetrics tournament summary captured 2026-07-15"
+  },
+  "teams": {
+    "England": {
+      "formation": "4-2-3-1",
+      "starting_xi_status": "projected",
+      "fitness_multiplier": 0.995,
+      "formation_attack_multiplier": 1.012,
+      "formation_defense_multiplier": 1.005,
+      "bench_depth_multiplier": 0.997,
+      "notes": [
+        "Declan Rice trained and is expected to start; availability is discounted slightly.",
+        "Jarell Quansah is suspended and Jordan Henderson is injured, mainly reducing bench flexibility.",
+        "The wide 4-2-3-1 can attack the channels outside Argentina's narrow midfield."
+      ],
+      "starting_xi": [
+        {"name": "Jordan Pickford", "role": "GK"},
+        {"name": "Ezri Konsa", "role": "DEF"},
+        {"name": "John Stones", "role": "DEF"},
+        {"name": "Marc Guéhi", "role": "DEF"},
+        {"name": "Nico O'Reilly", "role": "DEF"},
+        {"name": "Declan Rice", "role": "MID", "availability": 0.97},
+        {"name": "Elliot Anderson", "role": "MID"},
+        {"name": "Bukayo Saka", "role": "FWD"},
+        {"name": "Jude Bellingham", "role": "MID"},
+        {"name": "Anthony Gordon", "role": "FWD"},
+        {"name": "Harry Kane", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Reece James", "role": "DEF"},
+        {"name": "Eberechi Eze", "role": "MID"},
+        {"name": "Kobbie Mainoo", "role": "MID"},
+        {"name": "Morgan Rogers", "role": "MID"},
+        {"name": "Noni Madueke", "role": "FWD"},
+        {"name": "Marcus Rashford", "role": "FWD"},
+        {"name": "Ollie Watkins", "role": "FWD"}
+      ]
+    },
+    "Argentina": {
+      "formation": "4-1-3-2",
+      "starting_xi_status": "projected",
+      "fitness_multiplier": 0.990,
+      "formation_attack_multiplier": 1.008,
+      "formation_defense_multiplier": 0.998,
+      "bench_depth_multiplier": 1.000,
+      "notes": [
+        "No player is listed out or doubtful.",
+        "Cristian Romero and Leandro Paredes left the quarter-final during extra time but are expected to start.",
+        "The 4-1-3-2 creates a central overload and two-striker threat but can expose wide defensive channels."
+      ],
+      "starting_xi": [
+        {"name": "Emiliano Martínez", "role": "GK"},
+        {"name": "Nahuel Molina", "role": "DEF"},
+        {"name": "Cristian Romero", "role": "DEF", "availability": 0.98},
+        {"name": "Lisandro Martínez", "role": "DEF"},
+        {"name": "Nicolás Tagliafico", "role": "DEF"},
+        {"name": "Leandro Paredes", "role": "MID", "availability": 0.98},
+        {"name": "Rodrigo De Paul", "role": "MID"},
+        {"name": "Alexis Mac Allister", "role": "MID"},
+        {"name": "Enzo Fernández", "role": "MID"},
+        {"name": "Lionel Messi", "role": "FWD"},
+        {"name": "Julián Alvarez", "role": "FWD"}
+      ],
+      "bench": [
+        {"name": "Facundo Medina", "role": "DEF"},
+        {"name": "Gonzalo Montiel", "role": "DEF"},
+        {"name": "Giovani Lo Celso", "role": "MID"},
+        {"name": "Exequiel Palacios", "role": "MID"},
+        {"name": "Thiago Almada", "role": "FWD"},
+        {"name": "Nico Gonzalez", "role": "FWD"},
+        {"name": "Lautaro Martínez", "role": "FWD"}
+      ]
+    }
+  },
+  "sources": [
+    "EA SPORTS FC 26 national player ratings",
+    "Sports Mole predicted XIs and availability update, 2026-07-15 06:20",
+    "The Sporting News projected lineups and quarter-final fitness notes, 2026-07-15",
+    "U.S. Soccer referee appointment, 2026-07-14"
+  ]
+}

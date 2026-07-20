@@ -1,0 +1,94 @@
+{
+  "match_snapshot": "data\\raw\\polymarket\\semifinals_normalized_20260715_154440Z.csv",
+  "meta_snapshot": "data\\raw\\polymarket\\meta_markets_normalized_20260715_154458Z.csv",
+  "taker": {
+    "england_state": [
+      {
+        "name": "Final ESP-ENG YES",
+        "price": 0.53,
+        "cost": 0.542455,
+        "depth": 4801.7295
+      },
+      {
+        "name": "England to advance YES",
+        "price": 0.54,
+        "cost": 0.55242,
+        "depth": 687848.3661
+      },
+      {
+        "name": "Third FRA-ARG YES",
+        "price": 0.54,
+        "cost": 0.55242,
+        "depth": 8074.395800000001
+      }
+    ],
+    "argentina_state": [
+      {
+        "name": "England to advance NO",
+        "price": 0.4625,
+        "cost": 0.47492968750000003,
+        "depth": 820509.11635
+      },
+      {
+        "name": "Final ESP-ARG YES",
+        "price": 0.47,
+        "cost": 0.48245499999999997,
+        "depth": 7770.8415
+      },
+      {
+        "name": "Third FRA-ENG YES",
+        "price": 0.47,
+        "cost": 0.48245499999999997,
+        "depth": 1323.7127999999998
+      }
+    ],
+    "best_cost": 1.0173846875,
+    "locked_profit": -0.017384687500000107,
+    "executable_arbitrage": false
+  },
+  "maker_indication": {
+    "england_state": [
+      {
+        "name": "Final ESP-ENG YES",
+        "price": 0.52,
+        "cost": 0.52,
+        "depth": 0.0
+      },
+      {
+        "name": "Third FRA-ARG YES",
+        "price": 0.53,
+        "cost": 0.53,
+        "depth": 0.0
+      },
+      {
+        "name": "England to advance YES",
+        "price": 0.5375,
+        "cost": 0.5375,
+        "depth": 0.0
+      }
+    ],
+    "argentina_state": [
+      {
+        "name": "England to advance NO",
+        "price": 0.46,
+        "cost": 0.46,
+        "depth": 0.0
+      },
+      {
+        "name": "Final ESP-ARG YES",
+        "price": 0.46,
+        "cost": 0.46,
+        "depth": 0.0
+      },
+      {
+        "name": "Third FRA-ENG YES",
+        "price": 0.46,
+        "cost": 0.46,
+        "depth": 0.0
+      }
+    ],
+    "best_combined_bid": 0.98,
+    "potential_profit_if_both_fill": 0.020000000000000018,
+    "warning": "Not locked: both passive legs may not fill and prices can move."
+  }
+}

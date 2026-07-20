@@ -1,0 +1,190 @@
+{
+  "downloaded_at_utc": "2026-07-16T08:12:02.874119+00:00",
+  "cutoff": "2026-07-16T04:00:00Z",
+  "source": "FIFA Training Centre post-match summary reports",
+  "license_note": "Retained locally for research and reproducibility; source terms apply.",
+  "reports": [
+    {
+      "key": "ENG_CRO_M22",
+      "filename": "PMSR-M22-ENG-V-CRO.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M22-ENG-V-CRO.pdf",
+      "bytes": 5824147,
+      "sha256": "7417d70599307bcfc9e2de146da9293eea5ca05dd753d3cad68226152505c701"
+    },
+    {
+      "key": "ENG_GHA_M45",
+      "filename": "PMSR-M45-ENG-V-GHA.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M45-ENG-V-GHA.pdf",
+      "bytes": 5605171,
+      "sha256": "cf5ac74bf07a878d4400b1a58ea1222e9ef1048de5ed5aec1810e8ad348ce5cf"
+    },
+    {
+      "key": "PAN_ENG_M67",
+      "filename": "PMSR-M67-PAN-V-ENG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M67-PAN-V-ENG.pdf",
+      "bytes": 5838066,
+      "sha256": "d58e818ade9f00b14993995bdd3116d7b459c967f77c47d2465b21ad0cde84d6"
+    },
+    {
+      "key": "ENG_COD_M80",
+      "filename": "PMSR-M80-ENG-V-COD.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M80-ENG-V-COD.pdf",
+      "bytes": 5649956,
+      "sha256": "58edfc56a0294ac9c1ca3be58b16e4d270800798b38cdff8583ecd8f58829b05"
+    },
+    {
+      "key": "MEX_ENG_M92",
+      "filename": "PMSR-M92-MEX-V-ENG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M92-MEX-V-ENG.pdf",
+      "bytes": 5797495,
+      "sha256": "7c4f96f154cb3f7ca659e5a88e02a85fd4a6afbacfcfb3e2f9b2bcd61276e33a"
+    },
+    {
+      "key": "NOR_ENG_M99",
+      "filename": "PMSR-M99-NOR-V-ENG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M99-NOR-V-ENG.pdf",
+      "bytes": 6004901,
+      "sha256": "969b834022c1832684129aa048733292dd82663362600328a57752546b211ac3"
+    },
+    {
+      "key": "ARG_ALG_M19",
+      "filename": "PMSR-M19-ARG-V-ALG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M19-ARG-V-ALG.pdf",
+      "bytes": 5710735,
+      "sha256": "6c0c440e35827b4075f45d8de477ab8b70b0e44a581a2d8252aee4d1d63bba5d"
+    },
+    {
+      "key": "ARG_AUT_M43",
+      "filename": "PMSR-M43-ARG-V-AUT.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M43-ARG-V-AUT.pdf",
+      "bytes": 5688250,
+      "sha256": "a35ea802d168b38aa104504389f6ecc61dd58c02d4ec8e29eec16eeee7376d5b"
+    },
+    {
+      "key": "JOR_ARG_M70",
+      "filename": "PMSR-M70-JOR-V-ARG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M70-JOR-V-ARG.pdf",
+      "bytes": 5730226,
+      "sha256": "4c91179ee0bdac3883c9c4c690b49e69b2a1872501e427d9a1be5a0c26ad8bdb"
+    },
+    {
+      "key": "ARG_CPV_M86",
+      "filename": "PMSR-M86-ARG-V-CPV.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M86-ARG-V-CPV.pdf",
+      "bytes": 5994628,
+      "sha256": "405e646b135516af4b299a8e31e1b56a9f439685061cee4692fef6c4fb1c1f10"
+    },
+    {
+      "key": "ARG_EGY_M95",
+      "filename": "PMSR-M95-ARG-V-EGY.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M95-ARG-V-EGY.pdf",
+      "bytes": 5697200,
+      "sha256": "21bc978a6755c2db930156803b683e41e9b03d59b11041fe43d4e7a78b1aaf47"
+    },
+    {
+      "key": "ARG_SUI_M100",
+      "filename": "PMSR-M100-ARG-V-SUI.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M100-ARG-V-SUI.pdf",
+      "bytes": 6081609,
+      "sha256": "8048e87b60e4a235d05403b8312fa81128efe76dcb32e0f7b5a7816cdd91c668"
+    },
+    {
+      "key": "FRA_SEN_M17",
+      "filename": "PMSR-M17-FRA-V-SEN.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M17-FRA-V-SEN.pdf",
+      "bytes": 5491455,
+      "sha256": "b70af7a5dc5e2be286d79696c2852476de01c1888fbbd9e8560ccf6baecae1f4"
+    },
+    {
+      "key": "FRA_IRQ_M42",
+      "filename": "PMSR-M42-FRA-V-IRQ.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M42-FRA-V-IRQ.pdf",
+      "bytes": 5699535,
+      "sha256": "282ead2aee46e1fb3a9733a440067d83cb170bd12b6626ac301bfeda7c580ba2"
+    },
+    {
+      "key": "NOR_FRA_M61",
+      "filename": "PMSR-M61-NOR-V-FRA.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M61-NOR-V-FRA.pdf",
+      "bytes": 5786120,
+      "sha256": "ccf07c879fb39b1e6f53b7beb60785ab6f384be8cb2bcc2b8032045e9ceabc7b"
+    },
+    {
+      "key": "FRA_SWE_M77",
+      "filename": "PMSR-M77-FRA-V-SWE.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M77-FRA-V-SWE.pdf",
+      "bytes": 5833012,
+      "sha256": "3b5f90d435cf43049145a9266bfdf6cb6e933d560d2165158b09cd0ce39ecf2f"
+    },
+    {
+      "key": "PAR_FRA_M89",
+      "filename": "PMSR-M89-PAR-V-FRA.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M89-PAR-V-FRA.pdf",
+      "bytes": 5393452,
+      "sha256": "eb8d99f75e300c33a37ee56665e29d2a3fe9b188cdcc5cf2f3fc2fe19ef4cb2a"
+    },
+    {
+      "key": "FRA_MAR_M97",
+      "filename": "PMSR-M97-FRA-V-MAR.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M97-FRA-V-MAR.pdf",
+      "bytes": 5705231,
+      "sha256": "2b8b3dd5d1ff695daf357f0756ce12e7ac99f3f73f2037b89696aba995cb28a5"
+    },
+    {
+      "key": "ESP_CPV_M14",
+      "filename": "PMSR-M14-ESP-V-CPV.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M14-ESP-V-CPV.pdf",
+      "bytes": 5780870,
+      "sha256": "058506bfa1f40a4b856d8b30606577e475b790c16c808e4353df525d34399288"
+    },
+    {
+      "key": "ESP_KSA_M38",
+      "filename": "PMSR-M38-ESP-V-KSA.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M38-ESP-V-KSA.pdf",
+      "bytes": 5487603,
+      "sha256": "99b9c43b74392c76ae78acd33b307cb9c8d4d3871a06124978061ed343ee7d4a"
+    },
+    {
+      "key": "URU_ESP_M66",
+      "filename": "PMSR-M66-URU-V-ESP.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M66-URU-V-ESP.pdf",
+      "bytes": 5730630,
+      "sha256": "28c1f41f11adc0b20a8045c1de155630846c2ba7b2ec7706ed364896e25b16f8"
+    },
+    {
+      "key": "ESP_AUT_M84",
+      "filename": "PMSR-M84-ESP-V-AUT.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M84-ESP-V-AUT.pdf",
+      "bytes": 5842691,
+      "sha256": "c4606b48b5bde4a82eab5a16058daeb596da7a44bd8fed6b6e5eac77b8be0f9f"
+    },
+    {
+      "key": "POR_ESP_M93",
+      "filename": "PMSR-M93-POR-V-ESP.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M93-POR-V-ESP.pdf",
+      "bytes": 5706290,
+      "sha256": "233c81b23421092c3961357591f049d30f7508fdc339ac09da6d4b31651e41d4"
+    },
+    {
+      "key": "ESP_BEL_M98",
+      "filename": "PMSR-M98-ESP-V-BEL-ALT.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M98-ESP-V-BEL-ALT.pdf",
+      "bytes": 5732764,
+      "sha256": "cf5c5f5b46fa80a2d0870c007fd000f460f9552506f108448b6b741b5e4c105a"
+    },
+    {
+      "key": "FRA_ESP_M101",
+      "filename": "PMSR-M101-FRA-V-ESP.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M101-FRA-V-ESP.pdf",
+      "bytes": 5782403,
+      "sha256": "83e5bec0d2a5de1d20994641856e4b32d6c0b4a5d074e271dfdffb613d7e2d19"
+    },
+    {
+      "key": "ENG_ARG_M102",
+      "filename": "PMSR-M102-ENG-V-ARG.pdf",
+      "url": "https://www.fifatrainingcentre.com/media/native/tournaments/fifa-world-cup/2026/PMSR-M102-ENG-V-ARG.pdf",
+      "bytes": 5773335,
+      "sha256": "316ba42a972f2173e72d1383f94e5828c2ae4a1b68b829f725adceb43eca5419"
+    }
+  ]
+}

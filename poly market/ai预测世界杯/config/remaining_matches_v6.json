@@ -1,0 +1,96 @@
+{
+  "seed": 2026071606,
+  "simulations": 300000,
+  "scenario_simulations": 70000,
+  "cutoff_utc": "2026-07-16T08:20:00Z",
+  "historical_strength": {
+    "results": "data/raw/international/results.csv",
+    "training_start": "2014-01-01",
+    "cutoff_exclusive": "2026-06-11",
+    "half_life_days": 1095,
+    "ridge": 5.0,
+    "world_cup_weight": 2.0,
+    "major_tournament_weight": 1.5,
+    "friendly_weight": 0.45,
+    "current_form_prior_equivalent_minutes": 270
+  },
+  "data": {
+    "fifa_team_features": "data/curated/fifa_2026_final_four_team_match_features.csv",
+    "fifa_player_features": "data/curated/fifa_2026_final_four_player_match_features.csv",
+    "statsbomb_dynamics": "outputs/real_data_engine/statsbomb_historical_dynamics.json",
+    "statsbomb_player_history": "data/curated/statsbomb_2022_eng_arg_player_history.csv",
+    "lineups": "data/inputs/final_four_lineups_20260716.json",
+    "polymarket_latest_pointer": "data/raw/polymarket/LATEST_REMAINING.txt"
+  },
+  "generic_referee_prior": {
+    "name": "Appointment pending - pooled elite referee prior",
+    "career_matches": 1000,
+    "career_yellows": 3600,
+    "career_reds": 120,
+    "recent_fouls_per_match": 25.0,
+    "world_cup_2026_matches": 0,
+    "world_cup_2026_yellows": 0,
+    "world_cup_2026_reds": 0,
+    "world_cup_2026_fouls": 0,
+    "world_cup_2026_penalties": 0,
+    "career_effective_prior_matches": 50,
+    "penalty_prior_matches": 24
+  },
+  "external_validation": {
+    "fifwc-fra-eng-2026-07-18": {
+      "source": "Oddschecker consensus captured 2026-07-16",
+      "url": "https://www.oddschecker.com/us/soccer/world-cup/france-v-england",
+      "fair_1x2": {"France": 0.4838, "Draw": 0.2546, "England": 0.2616},
+      "under_3_5_fair": 0.5518,
+      "guard_all": true,
+      "guard_groups": ["moneyline", "totals", "spreads", "soccer_team_to_advance"],
+      "reason": "External sharp pricing implies a materially higher-scoring and more France-favoured match than the independent model; do not automate correlated contrarian totals or spread bets before lineups."
+    },
+    "fifwc-esp-arg-2026-07-19": {
+      "source": "Paddy Power prices reported by Squawka, captured 2026-07-16",
+      "url": "https://www.squawka.com/en/news/world-cup/world-cup-final-predictions-odds-spain-argentina-19-07-26/",
+      "fair_to_advance": {"Spain": 0.5951, "Argentina": 0.4049},
+      "under_2_5_fair": 0.5888,
+      "guard_questions": ["Spain vs. Argentina: Team to Advance"],
+      "reason": "The model's Argentina advancement edge is driven partly by uncertain shootout priors and conflicts with the sharp consensus."
+    }
+  },
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "home": "France",
+      "away": "England",
+      "kickoff_utc": "2026-07-18T21:00:00Z",
+      "venue": "Hard Rock Stadium, Miami Gardens",
+      "stage": "third-place play-off",
+      "regime_weights": {"cagey": 0.15, "normal": 0.40, "open": 0.45},
+      "regime_tempo": {"cagey": 0.76, "normal": 1.0, "open": 1.24},
+      "regime_conversion": {"cagey": 0.90, "normal": 1.0, "open": 1.10},
+      "motivation_goal_multiplier": 1.06,
+      "lineup_attack_sigma": 0.18,
+      "lineup_certainty": 0.70,
+      "temperature_c": 33,
+      "weather_shot_multiplier": 0.96,
+      "late_fatigue_multiplier": 0.94,
+      "notes": ["Third-place matches have unusually high rotation and motivation uncertainty.", "William Saliba left the semi-final injured; Maxence Lacroix is the projected replacement."]
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "home": "Spain",
+      "away": "Argentina",
+      "kickoff_utc": "2026-07-19T19:00:00Z",
+      "venue": "New York New Jersey Stadium, East Rutherford",
+      "stage": "final",
+      "regime_weights": {"cagey": 0.28, "normal": 0.54, "open": 0.18},
+      "regime_tempo": {"cagey": 0.78, "normal": 1.0, "open": 1.20},
+      "regime_conversion": {"cagey": 0.91, "normal": 1.0, "open": 1.08},
+      "motivation_goal_multiplier": 1.00,
+      "lineup_attack_sigma": 0.11,
+      "lineup_certainty": 0.86,
+      "temperature_c": 30,
+      "weather_shot_multiplier": 0.98,
+      "late_fatigue_multiplier": 0.96,
+      "notes": ["Spain's semi-final XI is the base projection; Nico Williams remains a lineup uncertainty.", "Argentina's semi-final XI is the base projection; De Paul and Lautaro are high-impact alternatives."]
+    }
+  ]
+}

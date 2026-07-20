@@ -1,0 +1,104 @@
+{
+  "snapshot": "data\\raw\\polymarket\\semifinals_normalized_20260716_080158Z.csv",
+  "fixtures": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "states": 156,
+      "securities": 82,
+      "minimum_superhedge_cost": 1.00048285,
+      "minimum_state_payoff": 1.0,
+      "locked_profit_per_bundle": -0.00048285000000003464,
+      "roi": -0.0004826169683968442,
+      "is_taker_arbitrage": false,
+      "estimated_capital_capacity_usd": 98941.10440585818,
+      "positions": [
+        {
+          "contract": "Total over 2.5",
+          "side": "NO",
+          "ask": 0.32,
+          "cost": 0.33088,
+          "depth": 5274.3122,
+          "shares_per_bundle": 0.1666666666666667
+        },
+        {
+          "contract": "France 0-0 England",
+          "side": "NO",
+          "ask": 0.959,
+          "cost": 0.96096595,
+          "depth": 19182.790129999998,
+          "shares_per_bundle": 0.16666666666666666
+        },
+        {
+          "contract": "France 0-1 England",
+          "side": "NO",
+          "ask": 0.961,
+          "cost": 0.96287395,
+          "depth": 83551.36658,
+          "shares_per_bundle": 0.16666666666666669
+        },
+        {
+          "contract": "France 1-0 England",
+          "side": "NO",
+          "ask": 0.94,
+          "cost": 0.94282,
+          "depth": 35561.436,
+          "shares_per_bundle": 0.16666666666666666
+        },
+        {
+          "contract": "France 0-2 England",
+          "side": "NO",
+          "ask": 0.966,
+          "cost": 0.9676422,
+          "depth": 35010.77063,
+          "shares_per_bundle": 0.16666666666666666
+        },
+        {
+          "contract": "France 1-1 England",
+          "side": "NO",
+          "ask": 0.89,
+          "cost": 0.894895,
+          "depth": 22855.8708,
+          "shares_per_bundle": 0.16666666666666666
+        },
+        {
+          "contract": "France 2-0 England",
+          "side": "NO",
+          "ask": 0.94,
+          "cost": 0.94282,
+          "depth": 29920.705299999998,
+          "shares_per_bundle": 0.16666666666666666
+        }
+      ]
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "states": 156,
+      "securities": 82,
+      "minimum_superhedge_cost": 1.00203895,
+      "minimum_state_payoff": 1.0,
+      "locked_profit_per_bundle": -0.002038949999999984,
+      "roi": -0.0020348011422110725,
+      "is_taker_arbitrage": false,
+      "estimated_capital_capacity_usd": 900.8229956604999,
+      "positions": [
+        {
+          "contract": "Argentina (-3.5)",
+          "side": "YES",
+          "ask": 0.011,
+          "cost": 0.011543949999999999,
+          "depth": 9.88889,
+          "shares_per_bundle": 1.0
+        },
+        {
+          "contract": "Argentina (-3.5)",
+          "side": "NO",
+          "ask": 0.99,
+          "cost": 0.990495,
+          "depth": 10462.3851,
+          "shares_per_bundle": 1.0
+        }
+      ]
+    }
+  ],
+  "any_taker_arbitrage": false
+}

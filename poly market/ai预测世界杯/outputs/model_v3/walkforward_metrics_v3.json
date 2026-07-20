@@ -1,0 +1,48 @@
+{
+  "protocol": "Poisson frozen pre-tournament; Elo pre-warmed on all prior matches and updated after prediction",
+  "sealed_historical_2014_2022": {
+    "n": 192,
+    "brier": 0.5927519798181317,
+    "logloss": 0.9961485418960779,
+    "rps": 0.21184304481694763,
+    "accuracy": 0.546875
+  },
+  "retrospective_monitor_2026": {
+    "n": 102,
+    "brier": 0.5163631753873448,
+    "logloss": 0.8769109232474981,
+    "rps": 0.16337184169933064,
+    "accuracy": 0.6372549019607843
+  },
+  "by_year": {
+    "2014": {
+      "n": 64,
+      "brier": 0.5926698271869391,
+      "logloss": 0.9900876001282968,
+      "rps": 0.21416024170829426,
+      "accuracy": 0.5625
+    },
+    "2018": {
+      "n": 64,
+      "brier": 0.5830402479147729,
+      "logloss": 0.9770200099819315,
+      "rps": 0.20860335565518762,
+      "accuracy": 0.546875
+    },
+    "2022": {
+      "n": 64,
+      "brier": 0.6025458643526828,
+      "logloss": 1.0213380155780052,
+      "rps": 0.21276553708736096,
+      "accuracy": 0.53125
+    },
+    "2026": {
+      "n": 102,
+      "brier": 0.5163631753873448,
+      "logloss": 0.8769109232474981,
+      "rps": 0.16337184169933064,
+      "accuracy": 0.6372549019607843
+    }
+  },
+  "warning": "2026 is retrospective monitoring, not an untouched final test; no historical Polymarket odds are used."
+}

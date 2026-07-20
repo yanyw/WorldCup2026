@@ -1,0 +1,29 @@
+{
+  "snapshot": "data\\raw\\polymarket\\semifinals_normalized_20260715_153750Z.csv",
+  "states": 156,
+  "securities": 95,
+  "minimum_superhedge_cost": 1.00114975,
+  "minimum_state_payoff": 1.0,
+  "locked_profit_per_bundle": -0.0011497499999999494,
+  "roi": -0.0011484295930753112,
+  "is_taker_arbitrage": false,
+  "estimated_capital_capacity_usd": 21733.70462956375,
+  "positions": [
+    {
+      "contract": "Total over 8.5",
+      "side": "YES",
+      "ask": 0.002,
+      "cost": 0.0020998,
+      "depth": 43.41749,
+      "shares_per_bundle": 1.0
+    },
+    {
+      "contract": "Total over 8.5",
+      "side": "NO",
+      "ask": 0.999,
+      "cost": 0.99904995,
+      "depth": 104259.69593999999,
+      "shares_per_bundle": 1.0
+    }
+  ]
+}

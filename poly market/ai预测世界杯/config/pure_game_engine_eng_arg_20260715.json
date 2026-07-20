@@ -1,0 +1,100 @@
+{
+  "seed": 20260715,
+  "simulations": 200000,
+  "match": {
+    "fixture_id": "fifwc-eng-arg-2026-07-15",
+    "home": "England",
+    "away": "Argentina",
+    "stage": "World Cup semi-final",
+    "neutral": true,
+    "regulation_modeled_minutes": 95,
+    "extra_time_minutes": 30,
+    "stadium": "Atlanta Stadium",
+    "surface": "temporary FIFA-approved natural grass",
+    "roof": "closed",
+    "indoor_temperature_c": 22.2,
+    "weather_multiplier": 1.0,
+    "pitch_speed_multiplier": 0.99,
+    "semi_final_caution_multiplier": 0.96
+  },
+  "universal_event_environment": {
+    "shots_per_match": 24.5,
+    "fouls_per_match": 20.5,
+    "corners_per_non_goal_shot": 0.27,
+    "shot_on_target_base": 0.35,
+    "goal_per_shot_on_target_base": 0.285,
+    "injuries_per_team_match": 0.055,
+    "var_review_given_goal": 0.08,
+    "var_review_given_penalty": 0.55,
+    "var_review_given_red": 0.35
+  },
+  "referee": {
+    "name": "Ismail Elfath",
+    "yellow_per_foul": 0.146,
+    "red_per_foul": 0.009,
+    "penalties_per_match_bayesian": 0.38,
+    "notes": "Tournament sample: 2.67 yellow, 0.33 red and 2 penalties in 3 matches; rates are shrunk toward longer-run values. No team-direction bias."
+  },
+  "teams": {
+    "England": {
+      "formation": "4-2-3-1",
+      "possession_bias": -0.012,
+      "width_multiplier": 1.045,
+      "central_progression_multiplier": 0.985,
+      "pressing_multiplier": 1.08,
+      "set_piece_multiplier": 1.10,
+      "fitness_multiplier": 0.995,
+      "bench_quality": 82.0,
+      "tournament_regulation_goals_for": 12,
+      "tournament_regulation_goals_against": 6,
+      "tournament_matches": 6,
+      "tournament_sprints": 663,
+      "notes": [
+        "Projected 4-2-3-1 attacks wide around Argentina's narrow 4-3-1-2 defensive block.",
+        "Rice availability is 0.97 in the player file; Quansah/Henderson mainly reduce bench flexibility.",
+        "Kane and Bellingham have supplied all but one of England's tournament goals."
+      ]
+    },
+    "Argentina": {
+      "formation": "4-1-3-2 / 4-3-1-2 out of possession",
+      "possession_bias": 0.012,
+      "width_multiplier": 0.975,
+      "central_progression_multiplier": 1.055,
+      "pressing_multiplier": 0.96,
+      "set_piece_multiplier": 1.04,
+      "fitness_multiplier": 0.990,
+      "bench_quality": 83.0,
+      "tournament_regulation_goals_for": 15,
+      "tournament_regulation_goals_against": 6,
+      "tournament_matches": 6,
+      "tournament_sprints": 316,
+      "notes": [
+        "Argentina's narrow midfield improves central combinations but concedes wide recovery space.",
+        "Romero and Paredes are expected to start after leaving the quarter-final during extra time.",
+        "Messi enters with eight tournament goals; Argentina have the stronger observed scoring form."
+      ]
+    }
+  },
+  "player_form_goals": {
+    "Harry Kane": 6,
+    "Jude Bellingham": 6,
+    "Anthony Gordon": 1,
+    "Lionel Messi": 8,
+    "Julián Alvarez": 4,
+    "Alexis Mac Allister": 1
+  },
+  "sources": [
+    "EA SPORTS FC 26 official nation rating pages",
+    "Sports Mole and Sporting News projected starting XIs, captured 2026-07-15",
+    "FIFA/competition results through 2026-07-14",
+    "Sofascore semifinal preview activity metrics",
+    "U.S. Soccer referee appointment and referee event-rate summaries",
+    "Atlanta venue reports: closed roof, climate control and temporary natural grass"
+  ],
+  "prohibited_inputs": [
+    "sportsbook odds",
+    "Polymarket prices",
+    "team Elo or FIFA ranking",
+    "the earlier Poisson fair-probability output"
+  ]
+}

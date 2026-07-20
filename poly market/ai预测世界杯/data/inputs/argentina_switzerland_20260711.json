@@ -1,0 +1,32 @@
+{
+  "fixture_id": "fifwc-arg-che-2026-07-11",
+  "home": "Argentina",
+  "away": "Switzerland",
+  "kickoff_utc": "2026-07-12T01:00:00Z",
+  "kickoff_beijing": "2026-07-12T09:00:00+08:00",
+  "neutral": true,
+  "stage": "World Cup quarter-final",
+  "sharp_benchmark": {
+    "source": "Oddschecker snapshot; not Polymarket",
+    "as_of": "2026-07-11",
+    "decimal_1x2": {
+      "home": 1.699301,
+      "draw": 3.60,
+      "away": 5.90
+    },
+    "decimal_total_2_5": {
+      "over": 2.36,
+      "under": 1.666667
+    }
+  },
+  "knockout_assumptions": {
+    "away_share_if_90m_draw": 0.38,
+    "penalties_given_90m_draw": 0.58,
+    "first_half_goal_share": 0.40
+  },
+  "notes": [
+    "Switzerland attacker Johan Manzambi is out with a knee injury.",
+    "Argentina reported no confirmed absences; Cristian Romero expected fit.",
+    "Lineup news widens uncertainty; no manual directional xG adjustment is added outside the sharp benchmark."
+  ]
+}

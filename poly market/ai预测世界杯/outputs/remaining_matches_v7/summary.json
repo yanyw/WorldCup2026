@@ -1,0 +1,2763 @@
+{
+  "generated_from_snapshot": "data/raw/polymarket/remaining_matches_normalized_20260718_161429Z.csv",
+  "cutoff_utc": "2026-07-18T15:42:00Z",
+  "method": "real-data latent-regime minute simulation v7; Polymarket excluded from probability engine; sharp books used only as a post-model conflict gate",
+  "summaries": {
+    "fifwc-fra-eng-2026-07-18": {
+      "fixture": {
+        "fixture_id": "fifwc-fra-eng-2026-07-18",
+        "home": "France",
+        "away": "England",
+        "kickoff_utc": "2026-07-18T21:00:00Z",
+        "venue": "Hard Rock Stadium, Miami Gardens",
+        "stage": "third-place play-off",
+        "regime_weights": {
+          "cagey": 0.08,
+          "normal": 0.32,
+          "open": 0.6
+        },
+        "regime_tempo": {
+          "cagey": 0.78,
+          "normal": 1.0,
+          "open": 1.3
+        },
+        "regime_conversion": {
+          "cagey": 0.91,
+          "normal": 1.0,
+          "open": 1.14
+        },
+        "central_rate_multipliers": {
+          "home_xg": 1.25,
+          "away_xg": 1.18,
+          "home_shots": 1.08,
+          "away_shots": 1.08
+        },
+        "motivation_goal_multiplier": 1.08,
+        "lineup_attack_sigma": 0.17,
+        "lineup_certainty": 0.76,
+        "temperature_c": 32,
+        "weather_shot_multiplier": 0.95,
+        "home_late_fatigue_multiplier": 0.92,
+        "away_late_fatigue_multiplier": 0.9,
+        "referee": {
+          "name": "Jesus Valenzuela",
+          "career_matches": 388,
+          "career_yellows": 1909,
+          "career_reds": 115,
+          "recent_fouls_per_match": 24.0,
+          "world_cup_2026_matches": 3,
+          "world_cup_2026_yellows": 4,
+          "world_cup_2026_reds": 0,
+          "world_cup_2026_fouls": 52,
+          "world_cup_2026_penalties": 0,
+          "career_effective_prior_matches": 55,
+          "penalty_prior_matches": 28
+        },
+        "notes": [
+          "Historical men's World Cup third-place games average 3.84 goals across 19 matches; the stage prior is shrunk heavily toward current-team data.",
+          "Saliba and Samba are out; France and England are both expected to rotate. Reece James is doubtful.",
+          "Miami heat index and thunderstorm delay are live tail risks."
+        ]
+      },
+      "n": 450000,
+      "team_profiles": {
+        "France": {
+          "matches": 7,
+          "minutes": 630,
+          "historical_attack_residual_log": 0.09807530177966955,
+          "historical_defence_leak_residual_log": -0.2071605477040249,
+          "xg_for_per90": 1.9615203118736049,
+          "xg_against_per90": 0.8679769915944421,
+          "shots_per90": 17.092224040831617,
+          "shots_against_per90": 6.979900880499918,
+          "sot_rate": 0.4166666666666667,
+          "possession": 0.5181876191276328,
+          "passes_per90": 546.4088741220885,
+          "pass_completion": 0.892245493685784,
+          "line_breaks_per90": 110.91456984030776,
+          "final_third_receptions_per90": 177.6474984744372,
+          "crosses_per90": 17.670851763685416,
+          "corners_per90": 6.9798099179270565,
+          "corners_against_per90": 2.6490556141161687,
+          "free_kicks_won_per90": 11.568441465386138,
+          "free_kicks_conceded_per90": 11.435847200125044,
+          "throw_ins_per90": 15.445855139537935,
+          "pressures_per90": 233.98115597766778,
+          "direct_pressures_per90": 37.93215295864573,
+          "forced_turnovers_per90": 42.659131083789894,
+          "regains_per90": 42.0519321095583,
+          "interceptions_per90": 10.325264712365216,
+          "tackles_per90": 28.271172776768374,
+          "distance_per90": 110.08579237806354,
+          "high_speed_distance_per90": 5.3878533353626565,
+          "phase_profile": {
+            "phase_build_up_unopposed": 35.973895527478575,
+            "phase_build_up_opposed": 17.202549886706816,
+            "phase_progression": 19.275736014481268,
+            "phase_final_third": 24.163369452705684,
+            "phase_long_ball": 1.414031263820279,
+            "phase_attacking_transition": 11.345317921887268,
+            "phase_counter_attack": 1.6846502878479988,
+            "phase_set_piece": 6.141206517698474,
+            "phase_high_press": 6.0545464056587885,
+            "phase_mid_press": 3.75358606217845,
+            "phase_low_press": 0.5435614511037409,
+            "phase_high_block": 8.679343560868109,
+            "phase_mid_block": 24.109524702001284,
+            "phase_low_block": 12.191994751283207,
+            "phase_recovery": 2.9913883518849955,
+            "phase_defensive_transition": 15.466225060464266,
+            "phase_counter_press": 11.51851720152953
+          },
+          "historical_target_xg": 1.0727169182311116,
+          "target_xg": 1.155698316889943,
+          "target_shots": 13.907967254219946,
+          "target_possession": 0.5316401166967023
+        },
+        "England": {
+          "matches": 7,
+          "minutes": 660,
+          "historical_attack_residual_log": -0.004584278079706857,
+          "historical_defence_leak_residual_log": 0.0419678178101034,
+          "xg_for_per90": 1.610738380191276,
+          "xg_against_per90": 0.9775518396267237,
+          "shots_per90": 12.529313600758114,
+          "shots_against_per90": 11.31693293291532,
+          "sot_rate": 0.41414141414141414,
+          "possession": 0.4549532204190966,
+          "passes_per90": 462.9034186002654,
+          "pass_completion": 0.8285296012775692,
+          "line_breaks_per90": 90.6375692330714,
+          "final_third_receptions_per90": 132.7794704275837,
+          "crosses_per90": 21.358347283387353,
+          "corners_per90": 4.439220790760695,
+          "corners_against_per90": 5.082145835701938,
+          "free_kicks_won_per90": 15.470272117387857,
+          "free_kicks_conceded_per90": 11.09377711198975,
+          "throw_ins_per90": 17.064711082212707,
+          "pressures_per90": 238.10522276150505,
+          "direct_pressures_per90": 39.99996300776289,
+          "forced_turnovers_per90": 32.793486077927874,
+          "regains_per90": 36.59110457687354,
+          "interceptions_per90": 7.338941233505265,
+          "tackles_per90": 22.13277789882377,
+          "distance_per90": 110.05283916635098,
+          "high_speed_distance_per90": 5.245301658112673,
+          "phase_profile": {
+            "phase_build_up_unopposed": 35.16479528034565,
+            "phase_build_up_opposed": 13.644412682348484,
+            "phase_progression": 16.81319865587267,
+            "phase_final_third": 16.89957552654547,
+            "phase_long_ball": 4.109359809331005,
+            "phase_attacking_transition": 11.833826926994808,
+            "phase_counter_attack": 1.0338380031656078,
+            "phase_set_piece": 5.835633848041247,
+            "phase_high_press": 7.439686240453567,
+            "phase_mid_press": 3.310088680123586,
+            "phase_low_press": 0.28733810621812295,
+            "phase_high_block": 4.914771238629028,
+            "phase_mid_block": 14.553396002157905,
+            "phase_low_block": 24.929934749872846,
+            "phase_recovery": 4.989613099521841,
+            "phase_defensive_transition": 13.443320390660375,
+            "phase_counter_press": 9.43089656743947
+          },
+          "historical_target_xg": 1.1711084063604706,
+          "target_xg": 1.0706697046626257,
+          "target_shots": 9.351650497852834,
+          "target_possession": 0.4683598833032977
+        }
+      },
+      "rates": {
+        "home_xg": 1.155698316889943,
+        "away_xg": 1.0706697046626257,
+        "home_shots": 13.907967254219946,
+        "away_shots": 9.351650497852834,
+        "home_sot_rate": 0.4166666666666667,
+        "away_sot_rate": 0.41414141414141414,
+        "home_fouls": 11.750072495712615,
+        "away_fouls": 11.39860327232525,
+        "home_yellows": 2.40323312195994,
+        "away_yellows": 2.3313473970589014,
+        "home_reds": 0.1426642655015779,
+        "away_reds": 0.13839687918381138,
+        "home_penalties": 0.21096842392111062,
+        "away_penalties": 0.1418541567240507,
+        "home_corners": 5.9558720527210856,
+        "away_corners": 3.4292481330556757,
+        "home_passes": 546.4088741220885,
+        "home_line_breaks": 110.91456984030776,
+        "home_final_third_receptions": 177.6474984744372,
+        "home_crosses": 17.670851763685416,
+        "home_throw_ins": 15.445855139537935,
+        "home_pressures": 233.98115597766778,
+        "home_direct_pressures": 37.93215295864573,
+        "home_forced_turnovers": 42.659131083789894,
+        "home_regains": 42.0519321095583,
+        "home_interceptions": 10.325264712365216,
+        "home_tackles": 28.271172776768374,
+        "away_passes": 462.9034186002654,
+        "away_line_breaks": 90.6375692330714,
+        "away_final_third_receptions": 132.7794704275837,
+        "away_crosses": 21.358347283387353,
+        "away_throw_ins": 17.064711082212707,
+        "away_pressures": 238.10522276150505,
+        "away_direct_pressures": 39.99996300776289,
+        "away_forced_turnovers": 32.793486077927874,
+        "away_regains": 36.59110457687354,
+        "away_interceptions": 7.338941233505265,
+        "away_tackles": 22.13277789882377
+      },
+      "referee_prior": {
+        "yellow_per_match": 4.7345805190188415,
+        "red_per_match": 0.2810611446853893,
+        "fouls_per_match": 23.655172413793103,
+        "penalties_per_match": 0.3528225806451613,
+        "career_yellow_rate": 4.920103092783505,
+        "career_red_rate": 0.2963917525773196,
+        "historical_wc_penalty_rate": 0.390625
+      },
+      "core": {
+        "home_win": 0.41472,
+        "draw": 0.26472666666666667,
+        "away_win": 0.32055333333333336,
+        "home_xg": 1.9439333333333333,
+        "away_xg": 1.72526,
+        "over_1_5": 0.8457133333333333,
+        "over_2_5": 0.6741777777777778,
+        "over_3_5": 0.48592,
+        "btts": 0.70592,
+        "scorelines": [
+          {
+            "score": "1-1",
+            "probability": 0.09782
+          },
+          {
+            "score": "2-1",
+            "probability": 0.07994888888888889
+          },
+          {
+            "score": "2-2",
+            "probability": 0.07675333333333334
+          },
+          {
+            "score": "1-2",
+            "probability": 0.06837777777777777
+          },
+          {
+            "score": "1-0",
+            "probability": 0.06088222222222222
+          },
+          {
+            "score": "0-1",
+            "probability": 0.05116
+          },
+          {
+            "score": "3-2",
+            "probability": 0.046553333333333335
+          },
+          {
+            "score": "3-1",
+            "probability": 0.04280222222222222
+          },
+          {
+            "score": "2-0",
+            "probability": 0.04241333333333333
+          },
+          {
+            "score": "0-0",
+            "probability": 0.042244444444444446
+          },
+          {
+            "score": "2-3",
+            "probability": 0.040348888888888886
+          },
+          {
+            "score": "3-3",
+            "probability": 0.035235555555555555
+          },
+          {
+            "score": "1-3",
+            "probability": 0.03190222222222222
+          },
+          {
+            "score": "0-2",
+            "probability": 0.031302222222222224
+          },
+          {
+            "score": "3-0",
+            "probability": 0.024251111111111112
+          },
+          {
+            "score": "4-2",
+            "probability": 0.020833333333333332
+          }
+        ]
+      },
+      "progression": {
+        "home": 0.5445666666666666,
+        "away": 0.45543333333333336,
+        "extra_time": 0.26472666666666667,
+        "penalties": 0.1304911111111111,
+        "shootout_home_win": 0.43750957919653954,
+        "shootout_conversion_home": 0.6880952380952381,
+        "shootout_conversion_away": 0.7266666666666667
+      },
+      "means": {
+        "home_shots": 17.545662222222223,
+        "away_shots": 11.948993333333334,
+        "home_sot": 7.525071111111111,
+        "away_sot": 5.102155555555556,
+        "home_fouls": 12.334453333333334,
+        "away_fouls": 11.968588888888888,
+        "home_yellows": 2.652057777777778,
+        "away_yellows": 2.572582222222222,
+        "home_corners": 7.467,
+        "away_corners": 4.362557777777778,
+        "stoppage": 8.647722222222223
+      },
+      "first_goal": {
+        "home": 0.5100933333333333,
+        "away": 0.44766222222222224,
+        "none": 0.042244444444444446
+      },
+      "scenario_core": [
+        {
+          "home_win": 0.4174333333333333,
+          "draw": 0.2620222222222222,
+          "away_win": 0.32054444444444447,
+          "home_xg": 1.9515777777777779,
+          "away_xg": 1.7235777777777779,
+          "over_1_5": 0.8464333333333334,
+          "over_2_5": 0.6743222222222223,
+          "over_3_5": 0.4855888888888889,
+          "btts": 0.7057333333333333,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.09802222222222222
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07971111111111111
+            },
+            {
+              "score": "2-2",
+              "probability": 0.07546666666666667
+            },
+            {
+              "score": "1-2",
+              "probability": 0.06894444444444445
+            },
+            {
+              "score": "1-0",
+              "probability": 0.05993333333333333
+            },
+            {
+              "score": "0-1",
+              "probability": 0.052422222222222224
+            },
+            {
+              "score": "3-2",
+              "probability": 0.04801111111111111
+            },
+            {
+              "score": "2-0",
+              "probability": 0.042466666666666666
+            },
+            {
+              "score": "3-1",
+              "probability": 0.04195555555555556
+            },
+            {
+              "score": "0-0",
+              "probability": 0.04121111111111111
+            },
+            {
+              "score": "2-3",
+              "probability": 0.040077777777777775
+            },
+            {
+              "score": "3-3",
+              "probability": 0.03535555555555556
+            },
+            {
+              "score": "0-2",
+              "probability": 0.031622222222222225
+            },
+            {
+              "score": "1-3",
+              "probability": 0.03135555555555555
+            },
+            {
+              "score": "3-0",
+              "probability": 0.024511111111111112
+            },
+            {
+              "score": "4-2",
+              "probability": 0.02202222222222222
+            }
+          ]
+        },
+        {
+          "home_win": 0.38345555555555555,
+          "draw": 0.31855555555555554,
+          "away_win": 0.2979888888888889,
+          "home_xg": 1.2756666666666667,
+          "away_xg": 1.1090111111111112,
+          "over_1_5": 0.6583777777777777,
+          "over_2_5": 0.4139,
+          "over_3_5": 0.22853333333333334,
+          "btts": 0.4961333333333333,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.13753333333333334
+            },
+            {
+              "score": "1-0",
+              "probability": 0.12216666666666667
+            },
+            {
+              "score": "0-0",
+              "probability": 0.11598888888888889
+            },
+            {
+              "score": "0-1",
+              "probability": 0.10346666666666667
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07952222222222222
+            },
+            {
+              "score": "1-2",
+              "probability": 0.06636666666666667
+            },
+            {
+              "score": "2-0",
+              "probability": 0.06256666666666667
+            },
+            {
+              "score": "2-2",
+              "probability": 0.05146666666666667
+            },
+            {
+              "score": "0-2",
+              "probability": 0.04437777777777778
+            },
+            {
+              "score": "3-1",
+              "probability": 0.030766666666666668
+            },
+            {
+              "score": "3-0",
+              "probability": 0.024244444444444443
+            },
+            {
+              "score": "3-2",
+              "probability": 0.02217777777777778
+            },
+            {
+              "score": "1-3",
+              "probability": 0.021555555555555557
+            },
+            {
+              "score": "2-3",
+              "probability": 0.019688888888888888
+            },
+            {
+              "score": "0-3",
+              "probability": 0.015233333333333333
+            },
+            {
+              "score": "3-3",
+              "probability": 0.011222222222222222
+            }
+          ]
+        },
+        {
+          "home_win": 0.42062222222222223,
+          "draw": 0.25635555555555556,
+          "away_win": 0.3230222222222222,
+          "home_xg": 2.0908333333333333,
+          "away_xg": 1.8587777777777779,
+          "over_1_5": 0.8677222222222222,
+          "over_2_5": 0.7120666666666666,
+          "over_3_5": 0.5336111111111111,
+          "btts": 0.7367555555555556,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.08887777777777778
+            },
+            {
+              "score": "2-2",
+              "probability": 0.07757777777777777
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07468888888888889
+            },
+            {
+              "score": "1-2",
+              "probability": 0.06636666666666667
+            },
+            {
+              "score": "1-0",
+              "probability": 0.052922222222222225
+            },
+            {
+              "score": "3-2",
+              "probability": 0.05054444444444445
+            },
+            {
+              "score": "0-1",
+              "probability": 0.044955555555555554
+            },
+            {
+              "score": "3-1",
+              "probability": 0.0427
+            },
+            {
+              "score": "2-3",
+              "probability": 0.04247777777777778
+            },
+            {
+              "score": "2-0",
+              "probability": 0.03914444444444445
+            },
+            {
+              "score": "3-3",
+              "probability": 0.038844444444444445
+            },
+            {
+              "score": "0-0",
+              "probability": 0.0344
+            },
+            {
+              "score": "1-3",
+              "probability": 0.031244444444444443
+            },
+            {
+              "score": "0-2",
+              "probability": 0.027633333333333333
+            },
+            {
+              "score": "4-2",
+              "probability": 0.023166666666666665
+            },
+            {
+              "score": "3-0",
+              "probability": 0.02277777777777778
+            }
+          ]
+        },
+        {
+          "home_win": 0.38376666666666664,
+          "draw": 0.27053333333333335,
+          "away_win": 0.3457,
+          "home_xg": 1.807711111111111,
+          "away_xg": 1.7176111111111112,
+          "over_1_5": 0.8320333333333333,
+          "over_2_5": 0.6519666666666667,
+          "over_3_5": 0.46011111111111114,
+          "btts": 0.6909444444444445,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.1034888888888889
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07824444444444445
+            },
+            {
+              "score": "2-2",
+              "probability": 0.07713333333333333
+            },
+            {
+              "score": "1-2",
+              "probability": 0.07386666666666666
+            },
+            {
+              "score": "1-0",
+              "probability": 0.062155555555555554
+            },
+            {
+              "score": "0-1",
+              "probability": 0.059033333333333333
+            },
+            {
+              "score": "0-0",
+              "probability": 0.04677777777777778
+            },
+            {
+              "score": "3-2",
+              "probability": 0.042633333333333336
+            },
+            {
+              "score": "2-3",
+              "probability": 0.040855555555555555
+            },
+            {
+              "score": "2-0",
+              "probability": 0.040633333333333334
+            },
+            {
+              "score": "3-1",
+              "probability": 0.0398
+            },
+            {
+              "score": "0-2",
+              "probability": 0.035944444444444446
+            },
+            {
+              "score": "1-3",
+              "probability": 0.03476666666666667
+            },
+            {
+              "score": "3-3",
+              "probability": 0.032733333333333337
+            },
+            {
+              "score": "3-0",
+              "probability": 0.021622222222222223
+            },
+            {
+              "score": "0-3",
+              "probability": 0.018122222222222224
+            }
+          ]
+        },
+        {
+          "home_win": 0.4401888888888889,
+          "draw": 0.2659111111111111,
+          "away_win": 0.2939,
+          "home_xg": 1.9457333333333333,
+          "away_xg": 1.6122666666666667,
+          "over_1_5": 0.8365555555555556,
+          "over_2_5": 0.6581222222222223,
+          "over_3_5": 0.46507777777777776,
+          "btts": 0.692,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.10164444444444444
+            },
+            {
+              "score": "2-1",
+              "probability": 0.08535555555555556
+            },
+            {
+              "score": "2-2",
+              "probability": 0.07607777777777777
+            },
+            {
+              "score": "1-2",
+              "probability": 0.06624444444444444
+            },
+            {
+              "score": "1-0",
+              "probability": 0.06601111111111112
+            },
+            {
+              "score": "0-1",
+              "probability": 0.05223333333333333
+            },
+            {
+              "score": "3-2",
+              "probability": 0.047655555555555555
+            },
+            {
+              "score": "2-0",
+              "probability": 0.04711111111111111
+            },
+            {
+              "score": "3-1",
+              "probability": 0.04548888888888889
+            },
+            {
+              "score": "0-0",
+              "probability": 0.0452
+            },
+            {
+              "score": "2-3",
+              "probability": 0.03634444444444444
+            },
+            {
+              "score": "3-3",
+              "probability": 0.032322222222222224
+            },
+            {
+              "score": "0-2",
+              "probability": 0.02967777777777778
+            },
+            {
+              "score": "1-3",
+              "probability": 0.029133333333333334
+            },
+            {
+              "score": "3-0",
+              "probability": 0.026933333333333333
+            },
+            {
+              "score": "4-2",
+              "probability": 0.021933333333333332
+            }
+          ]
+        }
+      ],
+      "historical_training_matches": 11847
+    },
+    "fifwc-esp-arg-2026-07-19": {
+      "fixture": {
+        "fixture_id": "fifwc-esp-arg-2026-07-19",
+        "home": "Spain",
+        "away": "Argentina",
+        "kickoff_utc": "2026-07-19T19:00:00Z",
+        "venue": "New York New Jersey Stadium, East Rutherford",
+        "stage": "final",
+        "regime_weights": {
+          "cagey": 0.31,
+          "normal": 0.52,
+          "open": 0.17
+        },
+        "regime_tempo": {
+          "cagey": 0.77,
+          "normal": 1.0,
+          "open": 1.2
+        },
+        "regime_conversion": {
+          "cagey": 0.9,
+          "normal": 1.0,
+          "open": 1.08
+        },
+        "central_rate_multipliers": {
+          "home_xg": 0.98,
+          "away_xg": 1.01,
+          "home_shots": 0.98,
+          "away_shots": 0.99
+        },
+        "motivation_goal_multiplier": 1.0,
+        "lineup_attack_sigma": 0.095,
+        "lineup_certainty": 0.9,
+        "temperature_c": 28,
+        "weather_shot_multiplier": 0.975,
+        "home_late_fatigue_multiplier": 0.965,
+        "away_late_fatigue_multiplier": 0.945,
+        "referee": {
+          "name": "Slavko Vincic",
+          "career_matches": 449,
+          "career_yellows": 1835,
+          "career_reds": 40,
+          "recent_fouls_per_match": 18.87,
+          "world_cup_2026_matches": 3,
+          "world_cup_2026_yellows": 7,
+          "world_cup_2026_reds": 0,
+          "world_cup_2026_fouls": 57,
+          "world_cup_2026_penalties": 0,
+          "career_effective_prior_matches": 60,
+          "penalty_prior_matches": 30
+        },
+        "notes": [
+          "Yamal and Pedro Porro missed or were limited in training with muscular overload; both remain projected starters with reduced availability/minutes.",
+          "Argentina reports no injuries or suspensions; De Paul versus Giuliano Simeone is the main XI choice.",
+          "Wildfire smoke is forecast to improve but remains a performance tail risk; Argentina also has one less recovery day and a weather-delayed transfer from Atlanta."
+        ]
+      },
+      "n": 450000,
+      "team_profiles": {
+        "Spain": {
+          "matches": 7,
+          "minutes": 630,
+          "historical_attack_residual_log": 0.12899219557948055,
+          "historical_defence_leak_residual_log": -0.4722865786034047,
+          "xg_for_per90": 2.117908473362392,
+          "xg_against_per90": 0.3779642891766097,
+          "shots_per90": 16.47354716144549,
+          "shots_against_per90": 6.567265905642047,
+          "sot_rate": 0.35,
+          "possession": 0.5667464517424424,
+          "passes_per90": 641.704487062838,
+          "pass_completion": 0.8974648277167993,
+          "line_breaks_per90": 138.13118693546429,
+          "final_third_receptions_per90": 191.0109289978071,
+          "crosses_per90": 20.627893739207625,
+          "corners_per90": 6.020227764962385,
+          "corners_against_per90": 2.2663889657683387,
+          "free_kicks_won_per90": 13.808217930900028,
+          "free_kicks_conceded_per90": 14.12805899163495,
+          "throw_ins_per90": 16.46372003526093,
+          "pressures_per90": 239.63194400924104,
+          "direct_pressures_per90": 36.7706540427251,
+          "forced_turnovers_per90": 48.94388602451827,
+          "regains_per90": 50.333559895884335,
+          "interceptions_per90": 9.487690542925188,
+          "tackles_per90": 29.768826704328507,
+          "distance_per90": 114.24217659271169,
+          "high_speed_distance_per90": 5.7355231880531194,
+          "phase_profile": {
+            "phase_build_up_unopposed": 36.03206978406788,
+            "phase_build_up_opposed": 17.614440605552367,
+            "phase_progression": 18.738851410470577,
+            "phase_final_third": 20.665524007841423,
+            "phase_long_ball": 2.2269190062203577,
+            "phase_attacking_transition": 10.434991776553478,
+            "phase_counter_attack": 0.8308963661074139,
+            "phase_set_piece": 5.291331901435296,
+            "phase_high_press": 8.757688495139146,
+            "phase_mid_press": 4.770329816272539,
+            "phase_low_press": 0.18304436697005425,
+            "phase_high_block": 9.081872380715351,
+            "phase_mid_block": 17.076055923313085,
+            "phase_low_block": 13.709274612803116,
+            "phase_recovery": 4.790930191833451,
+            "phase_defensive_transition": 17.171337823018003,
+            "phase_counter_press": 11.95960027371773
+          },
+          "historical_target_xg": 1.1074408501210664,
+          "target_xg": 1.1235820627493618,
+          "target_shots": 10.871744217985805,
+          "target_possession": 0.5304222106218506
+        },
+        "Argentina": {
+          "matches": 7,
+          "minutes": 690,
+          "historical_attack_residual_log": 0.09461996756001981,
+          "historical_defence_leak_residual_log": -0.14367960582641362,
+          "xg_for_per90": 1.974383794844363,
+          "xg_against_per90": 0.5349160940253914,
+          "shots_per90": 15.119398766784965,
+          "shots_against_per90": 7.174825262766094,
+          "sot_rate": 0.40707964601769914,
+          "possession": 0.5062272341897947,
+          "passes_per90": 619.5992222510749,
+          "pass_completion": 0.8171110774399121,
+          "line_breaks_per90": 105.91877475814394,
+          "final_third_receptions_per90": 178.10346900467067,
+          "crosses_per90": 14.182237634565826,
+          "corners_per90": 5.101247181769434,
+          "corners_against_per90": 2.392775181899752,
+          "free_kicks_won_per90": 11.848015467988997,
+          "free_kicks_conceded_per90": 14.16976764376485,
+          "throw_ins_per90": 15.456847801178457,
+          "pressures_per90": 204.9887737462773,
+          "direct_pressures_per90": 37.10154145479156,
+          "forced_turnovers_per90": 38.09045947742793,
+          "regains_per90": 39.11182650422469,
+          "interceptions_per90": 6.50616203114791,
+          "tackles_per90": 30.09336716217936,
+          "distance_per90": 105.96079124553152,
+          "high_speed_distance_per90": 4.738748373869399,
+          "phase_profile": {
+            "phase_build_up_unopposed": 40.444835111579394,
+            "phase_build_up_opposed": 18.92354777391106,
+            "phase_progression": 12.346042440504634,
+            "phase_final_third": 18.327169733713042,
+            "phase_long_ball": 1.5514823966419573,
+            "phase_attacking_transition": 8.188384891123421,
+            "phase_counter_attack": 0.8572794487766356,
+            "phase_set_piece": 4.423458958129631,
+            "phase_high_press": 5.16736499944892,
+            "phase_mid_press": 3.6694790549550267,
+            "phase_low_press": 0.4675558057549228,
+            "phase_high_block": 4.55550309537043,
+            "phase_mid_block": 17.43230457470852,
+            "phase_low_block": 21.861558570486643,
+            "phase_recovery": 3.3345589270997835,
+            "phase_defensive_transition": 12.541953773071405,
+            "phase_counter_press": 8.86259001221583
+          },
+          "historical_target_xg": 1.1999727228050634,
+          "target_xg": 1.0395813080831158,
+          "target_shots": 9.964592918675269,
+          "target_possession": 0.4695777893781494
+        }
+      },
+      "rates": {
+        "home_xg": 1.1235820627493618,
+        "away_xg": 1.0395813080831158,
+        "home_shots": 10.871744217985805,
+        "away_shots": 9.964592918675269,
+        "home_sot_rate": 0.35,
+        "away_sot_rate": 0.40707964601769914,
+        "home_fouls": 11.540927893422527,
+        "away_fouls": 11.574998854412147,
+        "home_yellows": 1.998728907264914,
+        "away_yellows": 2.004629525937617,
+        "home_reds": 0.04235978716067036,
+        "away_reds": 0.04248484111380202,
+        "home_penalties": 0.18528710672815202,
+        "away_penalties": 0.16982652963548434,
+        "home_corners": 3.795398738655243,
+        "away_corners": 3.400207394324511,
+        "home_passes": 641.704487062838,
+        "home_line_breaks": 138.13118693546429,
+        "home_final_third_receptions": 191.0109289978071,
+        "home_crosses": 20.627893739207625,
+        "home_throw_ins": 16.46372003526093,
+        "home_pressures": 239.63194400924104,
+        "home_direct_pressures": 36.7706540427251,
+        "home_forced_turnovers": 48.94388602451827,
+        "home_regains": 50.333559895884335,
+        "home_interceptions": 9.487690542925188,
+        "home_tackles": 29.768826704328507,
+        "away_passes": 619.5992222510749,
+        "away_line_breaks": 105.91877475814394,
+        "away_final_third_receptions": 178.10346900467067,
+        "away_crosses": 14.182237634565826,
+        "away_throw_ins": 15.456847801178457,
+        "away_pressures": 204.9887737462773,
+        "away_direct_pressures": 37.10154145479156,
+        "away_forced_turnovers": 38.09045947742793,
+        "away_regains": 39.11182650422469,
+        "away_interceptions": 6.50616203114791,
+        "away_tackles": 30.09336716217936
+      },
+      "referee_prior": {
+        "yellow_per_match": 4.003358433202531,
+        "red_per_match": 0.08484462827447238,
+        "fouls_per_match": 18.876190476190477,
+        "penalties_per_match": 0.35511363636363635,
+        "career_yellow_rate": 4.086859688195991,
+        "career_red_rate": 0.08908685968819599,
+        "historical_wc_penalty_rate": 0.390625
+      },
+      "core": {
+        "home_win": 0.3457511111111111,
+        "draw": 0.33781555555555554,
+        "away_win": 0.31643333333333334,
+        "home_xg": 1.1045888888888888,
+        "away_xg": 1.050788888888889,
+        "over_1_5": 0.6160933333333334,
+        "over_2_5": 0.3638711111111111,
+        "over_3_5": 0.18303333333333333,
+        "btts": 0.4601222222222222,
+        "scorelines": [
+          {
+            "score": "1-1",
+            "probability": 0.14462444444444444
+          },
+          {
+            "score": "0-0",
+            "probability": 0.13616
+          },
+          {
+            "score": "1-0",
+            "probability": 0.12755111111111112
+          },
+          {
+            "score": "0-1",
+            "probability": 0.12019555555555556
+          },
+          {
+            "score": "2-1",
+            "probability": 0.07473777777777778
+          },
+          {
+            "score": "1-2",
+            "probability": 0.06963111111111112
+          },
+          {
+            "score": "2-0",
+            "probability": 0.05685333333333333
+          },
+          {
+            "score": "0-2",
+            "probability": 0.050744444444444446
+          },
+          {
+            "score": "2-2",
+            "probability": 0.047377777777777776
+          },
+          {
+            "score": "3-1",
+            "probability": 0.02426888888888889
+          },
+          {
+            "score": "1-3",
+            "probability": 0.02160888888888889
+          },
+          {
+            "score": "3-0",
+            "probability": 0.01979777777777778
+          },
+          {
+            "score": "3-2",
+            "probability": 0.017393333333333334
+          },
+          {
+            "score": "0-3",
+            "probability": 0.016671111111111112
+          },
+          {
+            "score": "2-3",
+            "probability": 0.01638
+          },
+          {
+            "score": "3-3",
+            "probability": 0.008604444444444444
+          }
+        ]
+      },
+      "progression": {
+        "home": 0.48566,
+        "away": 0.51434,
+        "extra_time": 0.33781555555555554,
+        "penalties": 0.18751777777777776,
+        "shootout_home_win": 0.3342142374648922,
+        "shootout_conversion_home": 0.6416666666666667,
+        "shootout_conversion_away": 0.7456140350877193
+      },
+      "means": {
+        "home_shots": 10.60824888888889,
+        "away_shots": 9.83206,
+        "home_sot": 3.908891111111111,
+        "away_sot": 4.18342,
+        "home_fouls": 12.01744888888889,
+        "away_fouls": 12.043242222222222,
+        "home_yellows": 2.1686555555555556,
+        "away_yellows": 2.1703355555555555,
+        "home_corners": 3.901571111111111,
+        "away_corners": 3.5063733333333333,
+        "stoppage": 7.941224444444445
+      },
+      "first_goal": {
+        "home": 0.44246444444444444,
+        "away": 0.42137555555555556,
+        "none": 0.13616
+      },
+      "scenario_core": [
+        {
+          "home_win": 0.3454111111111111,
+          "draw": 0.33694444444444444,
+          "away_win": 0.31764444444444445,
+          "home_xg": 1.1052555555555557,
+          "away_xg": 1.0527666666666666,
+          "over_1_5": 0.6162666666666666,
+          "over_2_5": 0.36327777777777776,
+          "over_3_5": 0.1828,
+          "btts": 0.4608888888888889,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.14536666666666667
+            },
+            {
+              "score": "0-0",
+              "probability": 0.13572222222222222
+            },
+            {
+              "score": "1-0",
+              "probability": 0.12806666666666666
+            },
+            {
+              "score": "0-1",
+              "probability": 0.11994444444444445
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07395555555555555
+            },
+            {
+              "score": "1-2",
+              "probability": 0.07042222222222222
+            },
+            {
+              "score": "2-0",
+              "probability": 0.05606666666666667
+            },
+            {
+              "score": "0-2",
+              "probability": 0.051555555555555556
+            },
+            {
+              "score": "2-2",
+              "probability": 0.04672222222222222
+            },
+            {
+              "score": "3-1",
+              "probability": 0.024144444444444444
+            },
+            {
+              "score": "1-3",
+              "probability": 0.0209
+            },
+            {
+              "score": "3-0",
+              "probability": 0.019655555555555555
+            },
+            {
+              "score": "3-2",
+              "probability": 0.017666666666666667
+            },
+            {
+              "score": "2-3",
+              "probability": 0.01741111111111111
+            },
+            {
+              "score": "0-3",
+              "probability": 0.016444444444444446
+            },
+            {
+              "score": "3-3",
+              "probability": 0.00811111111111111
+            }
+          ]
+        },
+        {
+          "home_win": 0.3268111111111111,
+          "draw": 0.37194444444444447,
+          "away_win": 0.3012444444444444,
+          "home_xg": 0.9157888888888889,
+          "away_xg": 0.8720666666666667,
+          "over_1_5": 0.5223,
+          "over_2_5": 0.2698333333333333,
+          "over_3_5": 0.11807777777777778,
+          "btts": 0.37633333333333335,
+          "scorelines": [
+            {
+              "score": "0-0",
+              "probability": 0.1887888888888889
+            },
+            {
+              "score": "1-0",
+              "probability": 0.1481888888888889
+            },
+            {
+              "score": "1-1",
+              "probability": 0.14475555555555555
+            },
+            {
+              "score": "0-1",
+              "probability": 0.14072222222222222
+            },
+            {
+              "score": "2-1",
+              "probability": 0.06346666666666667
+            },
+            {
+              "score": "1-2",
+              "probability": 0.057944444444444444
+            },
+            {
+              "score": "2-0",
+              "probability": 0.056133333333333334
+            },
+            {
+              "score": "0-2",
+              "probability": 0.05157777777777778
+            },
+            {
+              "score": "2-2",
+              "probability": 0.03383333333333333
+            },
+            {
+              "score": "3-1",
+              "probability": 0.017944444444444443
+            },
+            {
+              "score": "3-0",
+              "probability": 0.016766666666666666
+            },
+            {
+              "score": "1-3",
+              "probability": 0.015366666666666667
+            },
+            {
+              "score": "0-3",
+              "probability": 0.013577777777777777
+            },
+            {
+              "score": "3-2",
+              "probability": 0.010544444444444445
+            },
+            {
+              "score": "2-3",
+              "probability": 0.01
+            },
+            {
+              "score": "3-3",
+              "probability": 0.004088888888888889
+            }
+          ]
+        },
+        {
+          "home_win": 0.3696,
+          "draw": 0.30075555555555555,
+          "away_win": 0.32964444444444446,
+          "home_xg": 1.4250555555555555,
+          "away_xg": 1.3464888888888888,
+          "over_1_5": 0.7412444444444445,
+          "over_2_5": 0.5142111111111111,
+          "over_3_5": 0.3083,
+          "btts": 0.5848,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.13091111111111112
+            },
+            {
+              "score": "1-0",
+              "probability": 0.0931
+            },
+            {
+              "score": "0-1",
+              "probability": 0.08615555555555555
+            },
+            {
+              "score": "2-1",
+              "probability": 0.08594444444444445
+            },
+            {
+              "score": "0-0",
+              "probability": 0.0795
+            },
+            {
+              "score": "1-2",
+              "probability": 0.07763333333333333
+            },
+            {
+              "score": "2-2",
+              "probability": 0.06854444444444445
+            },
+            {
+              "score": "2-0",
+              "probability": 0.050888888888888886
+            },
+            {
+              "score": "0-2",
+              "probability": 0.045233333333333334
+            },
+            {
+              "score": "3-1",
+              "probability": 0.034866666666666664
+            },
+            {
+              "score": "3-2",
+              "probability": 0.030555555555555555
+            },
+            {
+              "score": "1-3",
+              "probability": 0.030355555555555556
+            },
+            {
+              "score": "2-3",
+              "probability": 0.029433333333333332
+            },
+            {
+              "score": "3-0",
+              "probability": 0.023255555555555557
+            },
+            {
+              "score": "0-3",
+              "probability": 0.019077777777777777
+            },
+            {
+              "score": "3-3",
+              "probability": 0.01838888888888889
+            }
+          ]
+        },
+        {
+          "home_win": 0.32516666666666666,
+          "draw": 0.3446444444444444,
+          "away_win": 0.33018888888888887,
+          "home_xg": 1.0358555555555555,
+          "away_xg": 1.0479555555555555,
+          "over_1_5": 0.5996777777777778,
+          "over_2_5": 0.34634444444444445,
+          "over_3_5": 0.1684,
+          "btts": 0.44576666666666664,
+          "scorelines": [
+            {
+              "score": "1-1",
+              "probability": 0.14616666666666667
+            },
+            {
+              "score": "0-0",
+              "probability": 0.14508888888888888
+            },
+            {
+              "score": "0-1",
+              "probability": 0.12795555555555554
+            },
+            {
+              "score": "1-0",
+              "probability": 0.12727777777777777
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07155555555555555
+            },
+            {
+              "score": "1-2",
+              "probability": 0.07068888888888888
+            },
+            {
+              "score": "0-2",
+              "probability": 0.05397777777777778
+            },
+            {
+              "score": "2-0",
+              "probability": 0.05318888888888889
+            },
+            {
+              "score": "2-2",
+              "probability": 0.04487777777777778
+            },
+            {
+              "score": "1-3",
+              "probability": 0.021733333333333334
+            },
+            {
+              "score": "3-1",
+              "probability": 0.020655555555555555
+            },
+            {
+              "score": "0-3",
+              "probability": 0.01807777777777778
+            },
+            {
+              "score": "3-0",
+              "probability": 0.017622222222222223
+            },
+            {
+              "score": "2-3",
+              "probability": 0.015655555555555555
+            },
+            {
+              "score": "3-2",
+              "probability": 0.015277777777777777
+            },
+            {
+              "score": "3-3",
+              "probability": 0.007666666666666666
+            }
+          ]
+        },
+        {
+          "home_win": 0.3605777777777778,
+          "draw": 0.3410888888888889,
+          "away_win": 0.29833333333333334,
+          "home_xg": 1.0984333333333334,
+          "away_xg": 0.9836666666666667,
+          "over_1_5": 0.5983777777777778,
+          "over_2_5": 0.34525555555555554,
+          "over_3_5": 0.16856666666666667,
+          "btts": 0.4432111111111111,
+          "scorelines": [
+            {
+              "score": "0-0",
+              "probability": 0.1446111111111111
+            },
+            {
+              "score": "1-1",
+              "probability": 0.14451111111111112
+            },
+            {
+              "score": "1-0",
+              "probability": 0.1363
+            },
+            {
+              "score": "0-1",
+              "probability": 0.12071111111111112
+            },
+            {
+              "score": "2-1",
+              "probability": 0.07622222222222222
+            },
+            {
+              "score": "1-2",
+              "probability": 0.06467777777777778
+            },
+            {
+              "score": "2-0",
+              "probability": 0.060455555555555554
+            },
+            {
+              "score": "0-2",
+              "probability": 0.048155555555555556
+            },
+            {
+              "score": "2-2",
+              "probability": 0.043533333333333334
+            },
+            {
+              "score": "3-1",
+              "probability": 0.024411111111111113
+            },
+            {
+              "score": "3-0",
+              "probability": 0.021611111111111112
+            },
+            {
+              "score": "1-3",
+              "probability": 0.01927777777777778
+            },
+            {
+              "score": "3-2",
+              "probability": 0.016555555555555556
+            },
+            {
+              "score": "2-3",
+              "probability": 0.014455555555555555
+            },
+            {
+              "score": "0-3",
+              "probability": 0.014177777777777777
+            },
+            {
+              "score": "3-3",
+              "probability": 0.007733333333333333
+            }
+          ]
+        }
+      ],
+      "historical_training_matches": 11847
+    }
+  },
+  "strict_arbitrage": [],
+  "external_validation": {
+    "fifwc-fra-eng-2026-07-18": {
+      "source": "Oddschecker and FanDuel consensus captured 2026-07-18",
+      "url": "https://www.oddschecker.com/us/soccer/world-cup/france-v-england",
+      "fair_1x2": {
+        "France": 0.5137,
+        "Draw": 0.2401,
+        "England": 0.2462
+      },
+      "fair_to_win": {
+        "France": 0.6499,
+        "England": 0.3501
+      },
+      "under_3_5_fair": 0.5518,
+      "btts_yes_fair": 0.6798,
+      "guard_on_divergence_pp": 0.08,
+      "reason": "Independent structure remains materially divergent from the sharp pre-match consensus; correlated selections are downgraded until official XIs."
+    },
+    "fifwc-esp-arg-2026-07-19": {
+      "source": "Oddschecker and FOX consensus captured 2026-07-18",
+      "url": "https://www.oddschecker.com/insight/football/20260716-world-cup-final-2026-odds-who-is-favourite-spain-or-argentina",
+      "fair_1x2": {
+        "Spain": 0.4195,
+        "Draw": 0.3146,
+        "Argentina": 0.2659
+      },
+      "fair_to_win": {
+        "Spain": 0.5798,
+        "Argentina": 0.4202
+      },
+      "under_2_5_fair": 0.589,
+      "guard_on_divergence_pp": 0.07,
+      "reason": "A candidate that depends on the model's shootout or injury prior and conflicts with the sharp consensus is not executable at taker prices."
+    }
+  },
+  "bets": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-total-corners",
+      "event_title": "France vs. England - Total Corners",
+      "market_id": "2947015",
+      "sports_market_type": "soccer_team_total_corners",
+      "group_item_title": "France Corners: O/U 4.5",
+      "question": "France vs. England: France O/U 4.5 Corners",
+      "outcome_0": "Over",
+      "outcome_1": "Under",
+      "token_0": "82367935695271461091842544831042500995171565208217097814510970576182220600228",
+      "token_1": "66328927893536243259635380550379774537742523978137930011822422551599068027776",
+      "market_volume": "1048.261679",
+      "market_liquidity": "73197.5854",
+      "gamma_best_bid": "0.59",
+      "gamma_best_ask": "0.6",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.6",
+      "outcome_0_bid": "0.59",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "34.884",
+      "outcome_0_ask_depth_2c_usd": "2475.4874",
+      "outcome_0_bid_depth_best_usd": "378.6679",
+      "outcome_1_ask": "0.41",
+      "outcome_1_bid": "0.4",
+      "outcome_1_spread": "0.009999999999999953",
+      "outcome_1_ask_depth_best_usd": "263.14209999999997",
+      "outcome_1_ask_depth_2c_usd": "348.71209999999996",
+      "outcome_1_bid_depth_best_usd": "23.256",
+      "side": "Over",
+      "model_probability": 0.844733,
+      "scenario_p10": 0.732927,
+      "scenario_p90": 0.844562,
+      "ask": 0.6,
+      "bid": 0.59,
+      "spread": 0.01,
+      "estimated_fee": 0.012,
+      "central_net_edge": 0.232733,
+      "robust_edge": 0.095927,
+      "required_edge": 0.06,
+      "max_entry": 0.636,
+      "depth_2c_usd": 2475.49,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "BET",
+      "stake_per_10k": 12.38
+    }
+  ],
+  "model_external_conflicts": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18",
+      "event_title": "France vs. England",
+      "market_id": "2941971",
+      "sports_market_type": "moneyline",
+      "group_item_title": "France",
+      "question": "Will France win on 2026-07-18?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "27017352779469567119021515174282416893555366624071034758236558815968401338728",
+      "token_1": "24700818764893371447983775874874488061572200819525844393509377284018768095208",
+      "market_volume": "3572778.6220699274",
+      "market_liquidity": "3250376.6402",
+      "gamma_best_bid": "0.51",
+      "gamma_best_ask": "0.52",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.52",
+      "outcome_0_bid": "0.51",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "326884.37080000003",
+      "outcome_0_ask_depth_2c_usd": "1514673.2866000002",
+      "outcome_0_bid_depth_best_usd": "1231665.5499000002",
+      "outcome_1_ask": "0.49",
+      "outcome_1_bid": "0.48",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "1183364.9401",
+      "outcome_1_ask_depth_2c_usd": "1464160.4696",
+      "outcome_1_bid_depth_best_usd": "301728.37440000003",
+      "side": "No",
+      "model_probability": 0.58528,
+      "scenario_p10": 0.567638,
+      "scenario_p90": 0.61642,
+      "ask": 0.49,
+      "bid": 0.48,
+      "spread": 0.01,
+      "estimated_fee": 0.012495,
+      "central_net_edge": 0.082785,
+      "robust_edge": 0.053143,
+      "required_edge": 0.025,
+      "max_entry": 0.518,
+      "depth_2c_usd": 1464160.47,
+      "external_probability": 0.4863,
+      "external_validation_source": "Oddschecker and FanDuel consensus captured 2026-07-18",
+      "external_conflict_reason": "Independent structure remains materially divergent from the sharp pre-match consensus; correlated selections are downgraded until official XIs.",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "EXTERNAL_CONFLICT_PASS",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2943451",
+      "sports_market_type": "soccer_team_to_advance",
+      "group_item_title": "Team to Win",
+      "question": "France vs. England: Team to Win",
+      "outcome_0": "France",
+      "outcome_1": "England",
+      "token_0": "68383229798738153843260173110368067454393737148304707811610243859638727205428",
+      "token_1": "19937769871419809473954673695368929587069246301853660575164489787400178851999",
+      "market_volume": "3587751.401987924",
+      "market_liquidity": "1974866.4108",
+      "gamma_best_bid": "0.66",
+      "gamma_best_ask": "0.67",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.67",
+      "outcome_0_bid": "0.66",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "134033.1784",
+      "outcome_0_ask_depth_2c_usd": "873810.1086",
+      "outcome_0_bid_depth_best_usd": "534051.9954",
+      "outcome_1_ask": "0.34",
+      "outcome_1_bid": "0.33",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "275117.6946",
+      "outcome_1_ask_depth_2c_usd": "674747.1525999999",
+      "outcome_1_bid_depth_best_usd": "66016.3416",
+      "side": "England",
+      "model_probability": 0.455433,
+      "scenario_p10": 0.4372,
+      "scenario_p90": 0.476751,
+      "ask": 0.34,
+      "bid": 0.33,
+      "spread": 0.01,
+      "estimated_fee": 0.01122,
+      "central_net_edge": 0.104213,
+      "robust_edge": 0.07398,
+      "required_edge": 0.025,
+      "max_entry": 0.388,
+      "depth_2c_usd": 674747.15,
+      "external_probability": 0.3501,
+      "external_validation_source": "Oddschecker and FanDuel consensus captured 2026-07-18",
+      "external_conflict_reason": "Independent structure remains materially divergent from the sharp pre-match consensus; correlated selections are downgraded until official XIs.",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "EXTERNAL_CONFLICT_PASS",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "event_slug": "fifwc-esp-arg-2026-07-19",
+      "event_title": "Spain vs. Argentina",
+      "market_id": "2941974",
+      "sports_market_type": "moneyline",
+      "group_item_title": "Spain",
+      "question": "Will Spain win on 2026-07-19?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "105042264974012349507628582341465372921413790307165600767293079103508862620927",
+      "token_1": "26950933687061136665045692928866901705470041092212665620581588770356803034388",
+      "market_volume": "651947.9002339987",
+      "market_liquidity": "5325781.9951",
+      "gamma_best_bid": "0.42",
+      "gamma_best_ask": "0.43",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.43",
+      "outcome_0_bid": "0.42",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "751005.6769000001",
+      "outcome_0_ask_depth_2c_usd": "1684368.0271",
+      "outcome_0_bid_depth_best_usd": "1143646.3878",
+      "outcome_1_ask": "0.58",
+      "outcome_1_bid": "0.57",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "1579321.2021999997",
+      "outcome_1_ask_depth_2c_usd": "4069475.6480999994",
+      "outcome_1_bid_depth_best_usd": "995519.1531",
+      "side": "No",
+      "model_probability": 0.654249,
+      "scenario_p10": 0.634009,
+      "scenario_p90": 0.674176,
+      "ask": 0.58,
+      "bid": 0.57,
+      "spread": 0.01,
+      "estimated_fee": 0.01218,
+      "central_net_edge": 0.062069,
+      "robust_edge": 0.029829,
+      "required_edge": 0.025,
+      "max_entry": 0.584,
+      "depth_2c_usd": 4069475.65,
+      "external_probability": 0.5805,
+      "external_validation_source": "Oddschecker and FOX consensus captured 2026-07-18",
+      "external_conflict_reason": "A candidate that depends on the model's shootout or injury prior and conflicts with the sharp consensus is not executable at taker prices.",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "EXTERNAL_CONFLICT_PASS",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-esp-arg-2026-07-19",
+      "event_slug": "fifwc-esp-arg-2026-07-19-more-markets",
+      "event_title": "Spain vs. Argentina - More Markets",
+      "market_id": "2942083",
+      "sports_market_type": "soccer_team_to_advance",
+      "group_item_title": "Team to Advance",
+      "question": "Spain vs. Argentina: Team to Advance",
+      "outcome_0": "Spain",
+      "outcome_1": "Argentina",
+      "token_0": "21489275813654264105403246157265887827595023709508765470113828829105196462288",
+      "token_1": "59470269118682771304947535994646971819417763580663925170396066961563339373816",
+      "market_volume": "2067351.7333499978",
+      "market_liquidity": "6846352.0341",
+      "gamma_best_bid": "0.59",
+      "gamma_best_ask": "0.6",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.6",
+      "outcome_0_bid": "0.59",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "3042172.854",
+      "outcome_0_ask_depth_2c_usd": "3487821.8186",
+      "outcome_0_bid_depth_best_usd": "1596440.5732",
+      "outcome_1_ask": "0.41",
+      "outcome_1_bid": "0.4",
+      "outcome_1_spread": "0.009999999999999953",
+      "outcome_1_ask_depth_best_usd": "1109274.8768",
+      "outcome_1_ask_depth_2c_usd": "3074091.6640999997",
+      "outcome_1_bid_depth_best_usd": "2024113.236",
+      "side": "Argentina",
+      "model_probability": 0.51434,
+      "scenario_p10": 0.499056,
+      "scenario_p90": 0.531009,
+      "ask": 0.41,
+      "bid": 0.4,
+      "spread": 0.01,
+      "estimated_fee": 0.012095,
+      "central_net_edge": 0.092245,
+      "robust_edge": 0.064961,
+      "required_edge": 0.025,
+      "max_entry": 0.449,
+      "depth_2c_usd": 3074091.66,
+      "external_probability": 0.4202,
+      "external_validation_source": "Oddschecker and FOX consensus captured 2026-07-18",
+      "external_conflict_reason": "A candidate that depends on the model's shootout or injury prior and conflicts with the sharp consensus is not executable at taker prices.",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "EXTERNAL_CONFLICT_PASS",
+      "stake_per_10k": 0
+    }
+  ],
+  "watch": [
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18",
+      "event_title": "France vs. England",
+      "market_id": "2941972",
+      "sports_market_type": "moneyline",
+      "group_item_title": "Draw (France vs. England)",
+      "question": "Will France vs. England end in a draw?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "85239138404163331579594125846576574312907099172264868553957025875753281044940",
+      "token_1": "112547101819436418115775183743525115211037676921707460770609242558856503450400",
+      "market_volume": "1325006.430497997",
+      "market_liquidity": "3212258.0207",
+      "gamma_best_bid": "0.23",
+      "gamma_best_ask": "0.24",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.24",
+      "outcome_0_bid": "0.23",
+      "outcome_0_spread": "0.009999999999999981",
+      "outcome_0_ask_depth_best_usd": "240509.9184",
+      "outcome_0_ask_depth_2c_usd": "738464.9784",
+      "outcome_0_bid_depth_best_usd": "77627.52080000001",
+      "outcome_1_ask": "0.77",
+      "outcome_1_bid": "0.76",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "259883.43920000002",
+      "outcome_1_ask_depth_2c_usd": "1100670.7017",
+      "outcome_1_bid_depth_best_usd": "761614.7416000001",
+      "side": "Yes",
+      "model_probability": 0.264727,
+      "scenario_p10": 0.258622,
+      "scenario_p90": 0.299347,
+      "ask": 0.24,
+      "bid": 0.23,
+      "spread": 0.01,
+      "estimated_fee": 0.00912,
+      "central_net_edge": 0.015607,
+      "robust_edge": -0.002498,
+      "required_edge": 0.025,
+      "max_entry": 0.213,
+      "depth_2c_usd": 738464.98,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18",
+      "event_title": "France vs. England",
+      "market_id": "2941973",
+      "sports_market_type": "moneyline",
+      "group_item_title": "England",
+      "question": "Will England win on 2026-07-18?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "104204269101315799616235020335758894730330540969530162829399554926283403684718",
+      "token_1": "34385162543059510571975707768358382063196208867331187336985212373807572088934",
+      "market_volume": "764056.5114869988",
+      "market_liquidity": "2969937.2397",
+      "gamma_best_bid": "0.24",
+      "gamma_best_ask": "0.25",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.25",
+      "outcome_0_bid": "0.24",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "217943.4775",
+      "outcome_0_ask_depth_2c_usd": "671977.0345000001",
+      "outcome_0_bid_depth_best_usd": "205209.2352",
+      "outcome_1_ask": "0.76",
+      "outcome_1_bid": "0.75",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "649833.0448",
+      "outcome_1_ask_depth_2c_usd": "1821620.4795000001",
+      "outcome_1_bid_depth_best_usd": "653845.6875",
+      "side": "Yes",
+      "model_probability": 0.320553,
+      "scenario_p10": 0.295536,
+      "scenario_p90": 0.336629,
+      "ask": 0.25,
+      "bid": 0.24,
+      "spread": 0.01,
+      "estimated_fee": 0.009375,
+      "central_net_edge": 0.061178,
+      "robust_edge": 0.024161,
+      "required_edge": 0.025,
+      "max_entry": 0.249,
+      "depth_2c_usd": 671977.03,
+      "external_probability": 0.2462,
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-halftime-result",
+      "event_title": "France vs. England - Halftime Result",
+      "market_id": "2941977",
+      "sports_market_type": "soccer_halftime_result",
+      "group_item_title": "France",
+      "question": "France leading at halftime?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "61811493468803204160632540963577001178772148991316628543392506941734077645782",
+      "token_1": "78490391201114733703387667755358493334495392218047392522111826426630817820622",
+      "market_volume": "18628.769661999988",
+      "market_liquidity": "463692.8706",
+      "gamma_best_bid": "0.4",
+      "gamma_best_ask": "0.41",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.41",
+      "outcome_0_bid": "0.4",
+      "outcome_0_spread": "0.009999999999999953",
+      "outcome_0_ask_depth_best_usd": "6995.3625999999995",
+      "outcome_0_ask_depth_2c_usd": "52802.576199999996",
+      "outcome_0_bid_depth_best_usd": "32436.976000000002",
+      "outcome_1_ask": "0.6",
+      "outcome_1_bid": "0.59",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "48655.464",
+      "outcome_1_ask_depth_2c_usd": "94155.2358",
+      "outcome_1_bid_depth_best_usd": "10066.4974",
+      "side": "No",
+      "model_probability": 0.6583,
+      "scenario_p10": 0.647276,
+      "scenario_p90": 0.69922,
+      "ask": 0.6,
+      "bid": 0.59,
+      "spread": 0.01,
+      "estimated_fee": 0.012,
+      "central_net_edge": 0.0463,
+      "robust_edge": 0.017276,
+      "required_edge": 0.04,
+      "max_entry": 0.577,
+      "depth_2c_usd": 94155.24,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-halftime-result",
+      "event_title": "France vs. England - Halftime Result",
+      "market_id": "2941979",
+      "sports_market_type": "soccer_halftime_result",
+      "group_item_title": "England",
+      "question": "England leading at halftime?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "101466604796646303063065849483250957756641188696476792686552742499161794954374",
+      "token_1": "34680546878445570238499787418316253879485183282717196136763719253922561001547",
+      "market_volume": "8312.065805",
+      "market_liquidity": "480171.791",
+      "gamma_best_bid": "0.22",
+      "gamma_best_ask": "0.23",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.23",
+      "outcome_0_bid": "0.22",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "17818.100000000002",
+      "outcome_0_ask_depth_2c_usd": "43814.660200000006",
+      "outcome_0_bid_depth_best_usd": "11668.14",
+      "outcome_1_ask": "0.78",
+      "outcome_1_bid": "0.77",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "41368.86",
+      "outcome_1_ask_depth_2c_usd": "119492.94630000001",
+      "outcome_1_bid_depth_best_usd": "59651.9",
+      "side": "Yes",
+      "model_probability": 0.284858,
+      "scenario_p10": 0.248998,
+      "scenario_p90": 0.293842,
+      "ask": 0.23,
+      "bid": 0.22,
+      "spread": 0.01,
+      "estimated_fee": 0.008855,
+      "central_net_edge": 0.046003,
+      "robust_edge": -0.007857,
+      "required_edge": 0.04,
+      "max_entry": 0.183,
+      "depth_2c_usd": 43814.66,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-second-half-result",
+      "event_title": "France vs. England - Second Half Result",
+      "market_id": "2941980",
+      "sports_market_type": "soccer_second_half_result",
+      "group_item_title": "France",
+      "question": "France to win the second half?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "81269570913916644194690320611023537431288854349067468910267873985178587398268",
+      "token_1": "19496067462963110205036243822692095717194745632900824355345130843698426625482",
+      "market_volume": "17063.550973999998",
+      "market_liquidity": "203536.1206",
+      "gamma_best_bid": "0.45",
+      "gamma_best_ask": "0.46",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.46",
+      "outcome_0_bid": "0.45",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "13880.725400000001",
+      "outcome_0_ask_depth_2c_usd": "32825.6744",
+      "outcome_0_bid_depth_best_usd": "494.0415",
+      "outcome_1_ask": "0.55",
+      "outcome_1_bid": "0.54",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "603.8285",
+      "outcome_1_ask_depth_2c_usd": "9555.565200000001",
+      "outcome_1_bid_depth_best_usd": "16294.764600000002",
+      "side": "No",
+      "model_probability": 0.631922,
+      "scenario_p10": 0.62014,
+      "scenario_p90": 0.670378,
+      "ask": 0.55,
+      "bid": 0.54,
+      "spread": 0.01,
+      "estimated_fee": 0.012375,
+      "central_net_edge": 0.069547,
+      "robust_edge": 0.039765,
+      "required_edge": 0.04,
+      "max_entry": 0.549,
+      "depth_2c_usd": 9555.57,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-second-half-result",
+      "event_title": "France vs. England - Second Half Result",
+      "market_id": "2941982",
+      "sports_market_type": "soccer_second_half_result",
+      "group_item_title": "England",
+      "question": "England to win the second half?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "101422564053483390522515281259389536590147788317745214542827734122694877131448",
+      "token_1": "3632568448728797759836781450537073325968641255413176100873102585419543925335",
+      "market_volume": "3529.544356",
+      "market_liquidity": "153463.5314",
+      "gamma_best_bid": "0.26",
+      "gamma_best_ask": "0.27",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.27",
+      "outcome_0_bid": "0.26",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "7312.8339000000005",
+      "outcome_0_ask_depth_2c_usd": "12515.103900000002",
+      "outcome_0_bid_depth_best_usd": "165.4172",
+      "outcome_1_ask": "0.74",
+      "outcome_1_bid": "0.73",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "470.8028",
+      "outcome_1_ask_depth_2c_usd": "4262.1888",
+      "outcome_1_bid_depth_best_usd": "19771.7361",
+      "side": "Yes",
+      "model_probability": 0.303984,
+      "scenario_p10": 0.271196,
+      "scenario_p90": 0.315384,
+      "ask": 0.27,
+      "bid": 0.26,
+      "spread": 0.01,
+      "estimated_fee": 0.009855,
+      "central_net_edge": 0.024129,
+      "robust_edge": -0.026659,
+      "required_edge": 0.04,
+      "max_entry": 0.205,
+      "depth_2c_usd": 12515.1,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "event_title": "France vs. England - Exact Score",
+      "market_id": "2941988",
+      "sports_market_type": "soccer_exact_score",
+      "group_item_title": "France 2 - 0 England",
+      "question": "Exact Score: France 2 - 0 England?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "83738293003989061909432987812246099956283553688616457850473263255666340995863",
+      "token_1": "24422286319743612424586161606143185900928449498626548494888494659350127767379",
+      "market_volume": "275744.0420239956",
+      "market_liquidity": "2266644.8476",
+      "gamma_best_bid": "0.06",
+      "gamma_best_ask": "0.07",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.07",
+      "outcome_0_bid": "0.06",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "75115.51460000001",
+      "outcome_0_ask_depth_2c_usd": "158785.19180000003",
+      "outcome_0_bid_depth_best_usd": "12295.302599999999",
+      "outcome_1_ask": "0.94",
+      "outcome_1_bid": "0.93",
+      "outcome_1_spread": "0.009999999999999898",
+      "outcome_1_ask_depth_best_usd": "192626.40739999997",
+      "outcome_1_ask_depth_2c_usd": "333749.29819999996",
+      "outcome_1_bid_depth_best_usd": "997963.2654",
+      "side": "No",
+      "model_probability": 0.957587,
+      "scenario_p10": 0.943616,
+      "scenario_p90": 0.96026,
+      "ask": 0.94,
+      "bid": 0.93,
+      "spread": 0.01,
+      "estimated_fee": 0.00282,
+      "central_net_edge": 0.014767,
+      "robust_edge": -0.024204,
+      "required_edge": 0.065,
+      "max_entry": 0.847,
+      "depth_2c_usd": 333749.3,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "event_title": "France vs. England - Exact Score",
+      "market_id": "2941991",
+      "sports_market_type": "soccer_exact_score",
+      "group_item_title": "France 2 - 1 England",
+      "question": "Exact Score: France 2 - 1 England?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "70617876534332603001051872118464962749830433834266462871549496979917149356185",
+      "token_1": "71824415369050529903604664265312348624339165546736865434786631559172922399295",
+      "market_volume": "978087.3834479987",
+      "market_liquidity": "2187457.8118",
+      "gamma_best_bid": "0.11",
+      "gamma_best_ask": "0.12",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.12",
+      "outcome_0_bid": "0.11",
+      "outcome_0_spread": "0.009999999999999995",
+      "outcome_0_ask_depth_best_usd": "139822.36440000002",
+      "outcome_0_ask_depth_2c_usd": "272183.73030000005",
+      "outcome_0_bid_depth_best_usd": "14329.6252",
+      "outcome_1_ask": "0.89",
+      "outcome_1_bid": "0.88",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "115939.69480000001",
+      "outcome_1_ask_depth_2c_usd": "416094.0112",
+      "outcome_1_bid_depth_best_usd": "1025315.1656000001",
+      "side": "No",
+      "model_probability": 0.920051,
+      "scenario_p10": 0.916902,
+      "scenario_p90": 0.923889,
+      "ask": 0.89,
+      "bid": 0.88,
+      "spread": 0.01,
+      "estimated_fee": 0.004895,
+      "central_net_edge": 0.025156,
+      "robust_edge": -0.002993,
+      "required_edge": 0.065,
+      "max_entry": 0.819,
+      "depth_2c_usd": 416094.01,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "event_title": "France vs. England - Exact Score",
+      "market_id": "2941992",
+      "sports_market_type": "soccer_exact_score",
+      "group_item_title": "France 3 - 0 England",
+      "question": "Exact Score: France 3 - 0 England?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "71579935885238729370531508632170367735300675638008874113954459647621456394107",
+      "token_1": "111864925266071288591217886296151901343503794465466677078902429990890941550054",
+      "market_volume": "237888.19105699964",
+      "market_liquidity": "493954.26226",
+      "gamma_best_bid": "0.045",
+      "gamma_best_ask": "0.046",
+      "fee_rate": "0.05",
+      "tick_size": "0.001",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.046",
+      "outcome_0_bid": "0.045",
+      "outcome_0_spread": "0.0010000000000000009",
+      "outcome_0_ask_depth_best_usd": "95.03784",
+      "outcome_0_ask_depth_2c_usd": "10438.25099",
+      "outcome_0_bid_depth_best_usd": "722.51775",
+      "outcome_1_ask": "0.955",
+      "outcome_1_bid": "0.954",
+      "outcome_1_spread": "0.0010000000000000009",
+      "outcome_1_ask_depth_best_usd": "15333.43225",
+      "outcome_1_ask_depth_2c_usd": "175185.24369",
+      "outcome_1_bid_depth_best_usd": "1971.0021599999998",
+      "side": "No",
+      "model_probability": 0.975749,
+      "scenario_p10": 0.974036,
+      "scenario_p90": 0.977916,
+      "ask": 0.955,
+      "bid": 0.954,
+      "spread": 0.001,
+      "estimated_fee": 0.002149,
+      "central_net_edge": 0.0186,
+      "robust_edge": -0.008113,
+      "required_edge": 0.065,
+      "max_entry": 0.878,
+      "depth_2c_usd": 175185.24,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "event_title": "France vs. England - Exact Score",
+      "market_id": "2941995",
+      "sports_market_type": "soccer_exact_score",
+      "group_item_title": "France 3 - 1 England",
+      "question": "Exact Score: France 3 - 1 England?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "57716287394748798766806223253182132223051854128703406873399535626224142146187",
+      "token_1": "21068985420988296968126799664296613266675922370351368397019455239267146952705",
+      "market_volume": "1221083.907275998",
+      "market_liquidity": "1996400.3054",
+      "gamma_best_bid": "0.07",
+      "gamma_best_ask": "0.08",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.08",
+      "outcome_0_bid": "0.07",
+      "outcome_0_spread": "0.009999999999999995",
+      "outcome_0_ask_depth_best_usd": "69475.5392",
+      "outcome_0_ask_depth_2c_usd": "163799.1625",
+      "outcome_0_bid_depth_best_usd": "25950.2187",
+      "outcome_1_ask": "0.93",
+      "outcome_1_bid": "0.92",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "344767.1913",
+      "outcome_1_ask_depth_2c_usd": "556180.7135",
+      "outcome_1_bid_depth_best_usd": "800239.2944",
+      "side": "No",
+      "model_probability": 0.957198,
+      "scenario_p10": 0.955627,
+      "scenario_p90": 0.96562,
+      "ask": 0.93,
+      "bid": 0.92,
+      "spread": 0.01,
+      "estimated_fee": 0.003255,
+      "central_net_edge": 0.023943,
+      "robust_edge": -0.002628,
+      "required_edge": 0.065,
+      "max_entry": 0.859,
+      "depth_2c_usd": 556180.71,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-exact-score",
+      "event_title": "France vs. England - Exact Score",
+      "market_id": "2941999",
+      "sports_market_type": "soccer_exact_score",
+      "group_item_title": "Any Other Score",
+      "question": "Exact Score: Any Other Score?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "77643273423189704343736039854784640042698303451885684346802301629042882281876",
+      "token_1": "53921125910881474618616951274438881938303285021466303057535621782422136228777",
+      "market_volume": "278398.0073309987",
+      "market_liquidity": "400155.0713",
+      "gamma_best_bid": "0.13",
+      "gamma_best_ask": "0.14",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.14",
+      "outcome_0_bid": "0.13",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "7766.831800000001",
+      "outcome_0_ask_depth_2c_usd": "27294.111800000002",
+      "outcome_0_bid_depth_best_usd": "61636.3462",
+      "outcome_1_ask": "0.87",
+      "outcome_1_bid": "0.86",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "412489.39379999996",
+      "outcome_1_ask_depth_2c_usd": "554179.7714",
+      "outcome_1_bid_depth_best_usd": "47710.5382",
+      "side": "Yes",
+      "model_probability": 0.212324,
+      "scenario_p10": 0.119869,
+      "scenario_p90": 0.23548,
+      "ask": 0.14,
+      "bid": 0.13,
+      "spread": 0.01,
+      "estimated_fee": 0.00602,
+      "central_net_edge": 0.066304,
+      "robust_edge": -0.051151,
+      "required_edge": 0.065,
+      "max_entry": 0.028,
+      "depth_2c_usd": 27294.11,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-first-to-score",
+      "event_title": "France vs. England - First Team to Score",
+      "market_id": "2942000",
+      "sports_market_type": "soccer_first_to_score",
+      "group_item_title": "France",
+      "question": "France to score first vs. England?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "56735302916010239099392370155194320325205863232630645733151226259169129115252",
+      "token_1": "95263391672314592162431977061052599293576507269153256221263204964044788438733",
+      "market_volume": "15726.355561000004",
+      "market_liquidity": "235336.4015",
+      "gamma_best_bid": "0.59",
+      "gamma_best_ask": "0.6",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.6",
+      "outcome_0_bid": "0.59",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "9821.358",
+      "outcome_0_ask_depth_2c_usd": "38284.060999999994",
+      "outcome_0_bid_depth_best_usd": "13799.852200000001",
+      "outcome_1_ask": "0.41",
+      "outcome_1_bid": "0.4",
+      "outcome_1_spread": "0.009999999999999953",
+      "outcome_1_ask_depth_best_usd": "9589.7278",
+      "outcome_1_ask_depth_2c_usd": "22240.1222",
+      "outcome_1_bid_depth_best_usd": "6547.572",
+      "side": "No",
+      "model_probability": 0.489907,
+      "scenario_p10": 0.478044,
+      "scenario_p90": 0.518938,
+      "ask": 0.41,
+      "bid": 0.4,
+      "spread": 0.01,
+      "estimated_fee": 0.012095,
+      "central_net_edge": 0.067812,
+      "robust_edge": 0.037949,
+      "required_edge": 0.04,
+      "max_entry": 0.407,
+      "depth_2c_usd": 22240.12,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-first-to-score",
+      "event_title": "France vs. England - First Team to Score",
+      "market_id": "2942001",
+      "sports_market_type": "soccer_first_to_score",
+      "group_item_title": "England",
+      "question": "England to score first vs. France?",
+      "outcome_0": "Yes",
+      "outcome_1": "No",
+      "token_0": "17610346931792627261599618639002865196881194394001571997005448094628240795040",
+      "token_1": "90577939647849931338599586745796772026982380820389118649272944839985294328791",
+      "market_volume": "31867.851626999993",
+      "market_liquidity": "206597.4071",
+      "gamma_best_bid": "0.36",
+      "gamma_best_ask": "0.37",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.37",
+      "outcome_0_bid": "0.36",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "6882.74",
+      "outcome_0_ask_depth_2c_usd": "17981.1783",
+      "outcome_0_bid_depth_best_usd": "2872.6092",
+      "outcome_1_ask": "0.64",
+      "outcome_1_bid": "0.63",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "5106.8608",
+      "outcome_1_ask_depth_2c_usd": "29037.4938",
+      "outcome_1_bid_depth_best_usd": "11719.26",
+      "side": "Yes",
+      "model_probability": 0.447662,
+      "scenario_p10": 0.415691,
+      "scenario_p90": 0.459578,
+      "ask": 0.37,
+      "bid": 0.36,
+      "spread": 0.01,
+      "estimated_fee": 0.011655,
+      "central_net_edge": 0.066007,
+      "robust_edge": 0.016036,
+      "required_edge": 0.04,
+      "max_entry": 0.346,
+      "depth_2c_usd": 17981.18,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942102",
+      "sports_market_type": "spreads",
+      "group_item_title": "England (-1.5)",
+      "question": "Spread: England (-1.5)",
+      "outcome_0": "England",
+      "outcome_1": "France",
+      "token_0": "59081023737975607500628528400166797136144717449042303459139811438678429594435",
+      "token_1": "99901836617520718258160716567558126987507829345477748705868933930827338302389",
+      "market_volume": "37988.527819999996",
+      "market_liquidity": "386805.9964",
+      "gamma_best_bid": "0.1",
+      "gamma_best_ask": "0.11",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.11",
+      "outcome_0_bid": "0.1",
+      "outcome_0_spread": "0.009999999999999995",
+      "outcome_0_ask_depth_best_usd": "6602.6037",
+      "outcome_0_ask_depth_2c_usd": "14589.1863",
+      "outcome_0_bid_depth_best_usd": "236.3",
+      "outcome_1_ask": "0.9",
+      "outcome_1_bid": "0.89",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "2126.7000000000003",
+      "outcome_1_ask_depth_2c_usd": "103549.8293",
+      "outcome_1_bid_depth_best_usd": "53421.0663",
+      "side": "England",
+      "model_probability": 0.141402,
+      "scenario_p10": 0.111636,
+      "scenario_p90": 0.150536,
+      "ask": 0.11,
+      "bid": 0.1,
+      "spread": 0.01,
+      "estimated_fee": 0.004895,
+      "central_net_edge": 0.026507,
+      "robust_edge": -0.021259,
+      "required_edge": 0.04,
+      "max_entry": 0.051,
+      "depth_2c_usd": 14589.19,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942103",
+      "sports_market_type": "spreads",
+      "group_item_title": "France (-2.5)",
+      "question": "Spread: France (-2.5)",
+      "outcome_0": "France",
+      "outcome_1": "England",
+      "token_0": "93539866195124165694729688965730248046184193746602191832197809660776251335744",
+      "token_1": "4110944043952185402670353611530369910123429462051198103756625151142374961601",
+      "market_volume": "18796.857719999996",
+      "market_liquidity": "378779.5386",
+      "gamma_best_bid": "0.13",
+      "gamma_best_ask": "0.14",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.14",
+      "outcome_0_bid": "0.13",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "6640.5836",
+      "outcome_0_ask_depth_2c_usd": "17657.3089",
+      "outcome_0_bid_depth_best_usd": "3001.5427000000004",
+      "outcome_1_ask": "0.87",
+      "outcome_1_bid": "0.86",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "20087.2473",
+      "outcome_1_ask_depth_2c_usd": "134744.7774",
+      "outcome_1_bid_depth_best_usd": "40792.1564",
+      "side": "England",
+      "model_probability": 0.908727,
+      "scenario_p10": 0.902113,
+      "scenario_p90": 0.937982,
+      "ask": 0.87,
+      "bid": 0.86,
+      "spread": 0.01,
+      "estimated_fee": 0.005655,
+      "central_net_edge": 0.033072,
+      "robust_edge": 0.008458,
+      "required_edge": 0.04,
+      "max_entry": 0.837,
+      "depth_2c_usd": 134744.78,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942104",
+      "sports_market_type": "spreads",
+      "group_item_title": "England (-2.5)",
+      "question": "Spread: England (-2.5)",
+      "outcome_0": "England",
+      "outcome_1": "France",
+      "token_0": "107356637311190267360783850642751181429643542425881821170401275479962938083788",
+      "token_1": "55935298681955775296732900074490808079328769995256102977083593930399895110771",
+      "market_volume": "132878.85890700013",
+      "market_liquidity": "459195.18565",
+      "gamma_best_bid": "0.029",
+      "gamma_best_ask": "0.03",
+      "fee_rate": "0.05",
+      "tick_size": "0.001",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.03",
+      "outcome_0_bid": "0.029",
+      "outcome_0_spread": "0.0009999999999999974",
+      "outcome_0_ask_depth_best_usd": "358.6044",
+      "outcome_0_ask_depth_2c_usd": "2916.2967",
+      "outcome_0_bid_depth_best_usd": "270.8136",
+      "outcome_1_ask": "0.971",
+      "outcome_1_bid": "0.97",
+      "outcome_1_spread": "0.0010000000000000009",
+      "outcome_1_ask_depth_best_usd": "9067.5864",
+      "outcome_1_ask_depth_2c_usd": "659212.89829",
+      "outcome_1_bid_depth_best_usd": "11594.8756",
+      "side": "England",
+      "model_probability": 0.056131,
+      "scenario_p10": 0.03732,
+      "scenario_p90": 0.061089,
+      "ask": 0.03,
+      "bid": 0.029,
+      "spread": 0.001,
+      "estimated_fee": 0.001455,
+      "central_net_edge": 0.024676,
+      "robust_edge": -0.012135,
+      "required_edge": 0.04,
+      "max_entry": 0.0,
+      "depth_2c_usd": 2916.3,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942105",
+      "sports_market_type": "spreads",
+      "group_item_title": "France (-3.5)",
+      "question": "Spread: France (-3.5)",
+      "outcome_0": "France",
+      "outcome_1": "England",
+      "token_0": "30524596259337981680587728552664553209709035817148238328444855292983132704753",
+      "token_1": "12386495218367275181874695555531833907696459056042848951693399856367821752395",
+      "market_volume": "97200.742493",
+      "market_liquidity": "406179.07629",
+      "gamma_best_bid": "0.048",
+      "gamma_best_ask": "0.049",
+      "fee_rate": "0.05",
+      "tick_size": "0.001",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.049",
+      "outcome_0_bid": "0.048",
+      "outcome_0_spread": "0.0010000000000000009",
+      "outcome_0_ask_depth_best_usd": "417.00225",
+      "outcome_0_ask_depth_2c_usd": "2365.91291",
+      "outcome_0_bid_depth_best_usd": "139.54848",
+      "outcome_1_ask": "0.952",
+      "outcome_1_bid": "0.951",
+      "outcome_1_spread": "0.0010000000000000009",
+      "outcome_1_ask_depth_best_usd": "2720.11152",
+      "outcome_1_ask_depth_2c_usd": "360205.07516",
+      "outcome_1_bid_depth_best_usd": "8093.2477499999995",
+      "side": "England",
+      "model_probability": 0.964522,
+      "scenario_p10": 0.96106,
+      "scenario_p90": 0.97968,
+      "ask": 0.952,
+      "bid": 0.951,
+      "spread": 0.001,
+      "estimated_fee": 0.002285,
+      "central_net_edge": 0.010237,
+      "robust_edge": -0.011225,
+      "required_edge": 0.04,
+      "max_entry": 0.898,
+      "depth_2c_usd": 360205.08,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942115",
+      "sports_market_type": "totals",
+      "group_item_title": "O/U 4.5",
+      "question": "France vs. England: O/U 4.5",
+      "outcome_0": "Over",
+      "outcome_1": "Under",
+      "token_0": "7267436150570971620568374104121715758612572881063684710694300709246542320993",
+      "token_1": "64143894378963589272843637530029731499807712614460216549109031708733298999931",
+      "market_volume": "301695.05161700025",
+      "market_liquidity": "471476.972",
+      "gamma_best_bid": "0.25",
+      "gamma_best_ask": "0.26",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.26",
+      "outcome_0_bid": "0.25",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "20769.1978",
+      "outcome_0_ask_depth_2c_usd": "45717.829600000005",
+      "outcome_0_bid_depth_best_usd": "14882.8675",
+      "outcome_1_ask": "0.75",
+      "outcome_1_bid": "0.74",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "14155.1025",
+      "outcome_1_ask_depth_2c_usd": "127803.9335",
+      "outcome_1_bid_depth_best_usd": "59369.8522",
+      "side": "Over",
+      "model_probability": 0.31778,
+      "scenario_p10": 0.184336,
+      "scenario_p90": 0.347258,
+      "ask": 0.26,
+      "bid": 0.25,
+      "spread": 0.01,
+      "estimated_fee": 0.00962,
+      "central_net_edge": 0.04816,
+      "robust_edge": -0.097284,
+      "required_edge": 0.025,
+      "max_entry": 0.141,
+      "depth_2c_usd": 45717.83,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942116",
+      "sports_market_type": "totals",
+      "group_item_title": "O/U 5.5",
+      "question": "France vs. England: O/U 5.5",
+      "outcome_0": "Over",
+      "outcome_1": "Under",
+      "token_0": "2837693008135583864003951653173854105705739433929544841571301661558210743572",
+      "token_1": "99391303792561285756495149589862050061661277188853613284256324718757101288129",
+      "market_volume": "218379.838828",
+      "market_liquidity": "432551.0526",
+      "gamma_best_bid": "0.12",
+      "gamma_best_ask": "0.13",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.13",
+      "outcome_0_bid": "0.12",
+      "outcome_0_spread": "0.010000000000000009",
+      "outcome_0_ask_depth_best_usd": "7878.9607000000005",
+      "outcome_0_ask_depth_2c_usd": "20608.832400000003",
+      "outcome_0_bid_depth_best_usd": "6607.1448",
+      "outcome_1_ask": "0.88",
+      "outcome_1_bid": "0.87",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "48452.3952",
+      "outcome_1_ask_depth_2c_usd": "117526.6416",
+      "outcome_1_bid_depth_best_usd": "52728.429299999996",
+      "side": "Over",
+      "model_probability": 0.190893,
+      "scenario_p10": 0.099309,
+      "scenario_p90": 0.216096,
+      "ask": 0.13,
+      "bid": 0.12,
+      "spread": 0.01,
+      "estimated_fee": 0.005655,
+      "central_net_edge": 0.055238,
+      "robust_edge": -0.048346,
+      "required_edge": 0.025,
+      "max_entry": 0.059,
+      "depth_2c_usd": 20608.83,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    },
+    {
+      "fixture_id": "fifwc-fra-eng-2026-07-18",
+      "event_slug": "fifwc-fra-eng-2026-07-18-more-markets",
+      "event_title": "France vs. England - More Markets",
+      "market_id": "2942117",
+      "sports_market_type": "totals",
+      "group_item_title": "O/U 6.5",
+      "question": "France vs. England: O/U 6.5",
+      "outcome_0": "Over",
+      "outcome_1": "Under",
+      "token_0": "25098640277282139188067828879686561255823846168955945665383818259964582022663",
+      "token_1": "74656679432355534623655040730607466184987767891880084920922552797033526495351",
+      "market_volume": "292960.6705860002",
+      "market_liquidity": "450823.3528",
+      "gamma_best_bid": "0.05",
+      "gamma_best_ask": "0.06",
+      "fee_rate": "0.05",
+      "tick_size": "0.01",
+      "accepting_orders": "True",
+      "outcome_0_ask": "0.06",
+      "outcome_0_bid": "0.05",
+      "outcome_0_spread": "0.009999999999999995",
+      "outcome_0_ask_depth_best_usd": "3453.1854",
+      "outcome_0_ask_depth_2c_usd": "10944.1842",
+      "outcome_0_bid_depth_best_usd": "65.0475",
+      "outcome_1_ask": "0.95",
+      "outcome_1_bid": "0.94",
+      "outcome_1_spread": "0.010000000000000009",
+      "outcome_1_ask_depth_best_usd": "1235.9025",
+      "outcome_1_ask_depth_2c_usd": "836010.9467999999",
+      "outcome_1_bid_depth_best_usd": "54099.904599999994",
+      "side": "Over",
+      "model_probability": 0.103498,
+      "scenario_p10": 0.049169,
+      "scenario_p90": 0.122202,
+      "ask": 0.06,
+      "bid": 0.05,
+      "spread": 0.01,
+      "estimated_fee": 0.00282,
+      "central_net_edge": 0.040678,
+      "robust_edge": -0.025651,
+      "required_edge": 0.025,
+      "max_entry": 0.011,
+      "depth_2c_usd": 10944.18,
+      "external_probability": "",
+      "external_validation_source": "",
+      "external_conflict_reason": "",
+      "lineup_pending_reason": "",
+      "player_data_quality_reason": "",
+      "decision": "WATCH",
+      "stake_per_10k": 0
+    }
+  ]
+}

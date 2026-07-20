@@ -1,0 +1,66 @@
+﻿group,contract,quoted_outcome,market_probability,source_url,market_probability_normalized,model_probability,edge,scenario_low,scenario_high,signal
+main_90m,Norway win,Norway,0.244,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11,0.244000,0.261903,0.017903,0.205955,0.323116,观望
+main_90m,Draw,Draw,0.251,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11,0.251000,0.235347,-0.015653,0.221941,0.249548,观望
+main_90m,England win,England,0.505,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11,0.505000,0.502750,-0.002250,0.433630,0.572104,观望
+advance,Norway to advance,Norway,0.350,https://explorer.struct.to/markets/fifwc-nor-eng-2026-07-11-team-to-advance,0.350000,0.356042,0.006042,0.294732,0.420418,观望
+totals,Total over 0.5,Over,0.940,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.940000,0.947660,0.007660,0.929349,0.961226,观望
+totals,Total over 1.5,Over,0.810,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.810000,0.793258,-0.016742,0.742123,0.835210,观望
+totals,Total over 2.5,Over,0.570,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.570000,0.565515,-0.004485,0.494049,0.630433,观望
+totals,Total over 3.5,Over,0.350,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.350000,0.341568,-0.008432,0.274917,0.408592,观望
+totals,Total over 4.5,Over,0.180,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.180000,0.176406,-0.003594,0.129742,0.228347,观望
+totals,Total over 5.5,Over,0.080,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.080000,0.078961,-0.001039,0.052799,0.111187,观望
+totals,Total over 6.5,Over,0.030,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.030000,0.031051,0.001051,0.018816,0.047725,观望
+totals,Total over 7.5,Over,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.010000,0.010860,0.000860,0.005951,0.018261,观望
+totals,Total over 8.5,Over,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.000000,0.003414,0.003414,0.001690,0.006291,观望
+team_total,Norway over 0.5,Over,0.720,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.720000,0.698806,-0.021194,0.650062,0.740760,观望
+team_total,Norway over 1.5,Over,0.350,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.350000,0.337373,-0.012627,0.282628,0.390785,观望
+team_total,Norway over 2.5,Over,0.120,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.120000,0.120513,0.000513,0.089724,0.154553,观望
+team_total,England over 0.5,Over,0.850,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.850000,0.826226,-0.023774,0.798103,0.850431,观望
+team_total,England over 1.5,Over,0.540,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.540000,0.522122,-0.017878,0.475069,0.566251,观望
+team_total,England over 2.5,Over,0.250,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.250000,0.256030,0.006030,0.216642,0.296280,观望
+half_total,First half over 0.5,Over,0.690,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.690000,0.692721,0.002721,0.653544,0.727468,观望
+half_total,First half over 1.5,Over,0.330,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.330000,0.330132,0.000132,0.286301,0.373177,观望
+half_total,First half over 2.5,Over,0.120,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.120000,0.116205,-0.003795,0.091662,0.142888,观望
+half_total,Second half over 0.5,Over,0.840,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.840000,0.829667,-0.010333,0.796074,0.857726,观望
+half_total,Second half over 1.5,Over,0.530,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.530000,0.528178,-0.001822,0.471833,0.580291,观望
+half_total,Second half over 2.5,Over,0.260,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.260000,0.261360,0.001360,0.214060,0.309793,观望
+half_team,Norway first half over 0.5,Over,0.380,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.380000,0.381217,0.001217,0.342953,0.417252,观望
+half_team,Norway first half over 1.5,Over,0.090,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.090000,0.084201,-0.005799,0.066994,0.102568,观望
+half_team,Norway second half over 0.5,Over,0.530,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.530000,0.513248,-0.016752,0.467408,0.555142,观望
+half_team,Norway second half over 1.5,Over,0.180,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.180000,0.162786,-0.017214,0.131875,0.194807,观望
+half_team,England first half over 0.5,Over,0.510,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.510000,0.503415,-0.006585,0.472708,0.532334,观望
+half_team,England first half over 1.5,Over,0.160,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.160000,0.155805,-0.004195,0.135240,0.176907,观望
+half_team,England second half over 0.5,Over,0.650,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.650000,0.650062,0.000062,0.617107,0.680181,观望
+half_team,England second half over 1.5,Over,0.270,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.270000,0.282628,0.012628,0.249530,0.315587,观望
+btts,Both teams to score,Yes,0.610,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.610000,0.577372,-0.032628,0.518817,0.629965,观望
+btts,Both teams to score first half,Yes,0.220,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.220000,0.191910,-0.028090,0.162117,0.222117,观望
+btts,Both teams to score second half,Yes,0.340,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.340000,0.333643,-0.006357,0.288441,0.377597,观望
+spread,England -1.5,England,0.260,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.260000,0.274766,0.014766,0.220342,0.334410,观望
+spread,England -2.5,England,0.100,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.100000,0.121539,0.021539,0.090032,0.159178,观望
+spread,England -3.5,England,0.040,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.040000,0.044440,0.004440,0.030299,0.062841,观望
+spread,England -4.5,England,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.010000,0.013731,0.003731,0.008598,0.021004,观望
+spread,England -5.5,England,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.000000,0.003656,0.003656,0.002100,0.006057,观望
+spread,Norway -1.5,Norway,0.090,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.090000,0.105571,0.015571,0.074598,0.143155,观望
+spread,Norway -2.5,Norway,0.020,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.020000,0.033523,0.013523,0.021082,0.050385,观望
+spread,Norway -3.5,Norway,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.010000,0.008665,-0.001335,0.004823,0.014505,观望
+spread,Norway -4.5,Norway,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.000000,0.001875,0.001875,0.000921,0.003507,观望
+spread,Norway -5.5,Norway,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.000000,0.000348,0.000348,0.000150,0.000728,观望
+extra_time,Match goes to extra time,Yes,0.270,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.270000,0.235347,-0.034653,0.221941,0.249548,观望
+extra_time,Match goes to penalties,Yes,0.140,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets,0.140000,0.129441,-0.010559,0.122067,0.137252,观望
+exact_score,Norway 0-0 England,Yes,0.060,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.055556,0.052340,-0.007660,0.038774,0.070651,观望
+exact_score,Norway 0-1 England,Yes,0.090,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.083333,0.091594,0.001594,0.073671,0.113042,观望
+exact_score,Norway 0-2 England,Yes,0.080,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.074074,0.080145,0.000145,0.066995,0.094473,观望
+exact_score,Norway 0-3 England,Yes,0.050,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.046296,0.046751,-0.003249,0.035731,0.059833,观望
+exact_score,Norway 1-0 England,Yes,0.060,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.055556,0.062808,0.002808,0.052345,0.074184,观望
+exact_score,Norway 1-1 England,Yes,0.130,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.120370,0.109913,-0.020087,0.099456,0.118694,观望
+exact_score,Norway 1-2 England,Yes,0.120,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.111111,0.096174,-0.023826,0.090443,0.099197,观望
+exact_score,Norway 1-3 England,Yes,0.070,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.064815,0.056102,-0.013898,0.048236,0.062825,观望
+exact_score,Norway 2-0 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.027778,0.037685,0.007685,0.028852,0.047695,观望
+exact_score,Norway 2-1 England,Yes,0.080,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.074074,0.065948,-0.014052,0.054819,0.076311,观望
+exact_score,Norway 2-2 England,Yes,0.070,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.064815,0.057705,-0.012295,0.049851,0.063776,观望
+exact_score,Norway 2-3 England,Yes,0.040,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.037037,0.033661,-0.006339,0.026587,0.040392,观望
+exact_score,Norway 3-0 England,Yes,0.010,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.009259,0.015074,0.005074,0.010098,0.021463,观望
+exact_score,Norway 3-1 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.027778,0.026379,-0.003621,0.019187,0.034340,观望
+exact_score,Norway 3-2 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.027778,0.023082,-0.006918,0.017448,0.028699,观望
+exact_score,Norway 3-3 England,Yes,0.020,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.018519,0.013464,-0.006536,0.009306,0.018176,观望
+exact_score,Any other score,Yes,0.110,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score,0.101852,0.131175,0.021175,0.099271,0.167500,观望

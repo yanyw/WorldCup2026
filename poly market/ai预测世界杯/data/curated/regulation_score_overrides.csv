@@ -1,0 +1,6 @@
+date,home_team,away_team,regulation_home_score,regulation_away_score,tournament,neutral,reason,source
+2026-07-11,Norway,England,1,1,FIFA World Cup,TRUE,Public feed was pending and match finished 2-1 after extra time,AP match report
+2026-07-11,Argentina,Switzerland,1,1,FIFA World Cup,TRUE,Public feed was pending and match finished 3-1 after extra time,AP match report
+2026-07-14,France,Spain,0,2,FIFA World Cup,TRUE,Public feed pending; semifinal finished in regulation,AP match report
+2026-07-15,England,Argentina,1,2,FIFA World Cup,TRUE,Public feed pending; semifinal finished in regulation,AP match report
+2026-07-15,England,Argentina,1,2,FIFA World Cup,TRUE,Public feed pending; semifinal finished in regulation,AP match report

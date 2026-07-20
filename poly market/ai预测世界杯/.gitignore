@@ -1,0 +1,49 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Editors and operating-system files
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+*.bak
+
+# Local logs and scratch artifacts
+*.log
+logs/
+tmp/
+temp/
+
+# Credentials and private material: never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa*
+credentials*.json
+secrets*.json
+wallet*.json
+
+# Build/package artifacts
+build/
+dist/
+*.egg-info/
+
+# Intentionally NOT ignored:
+# - outputs/ contains the historical prediction record.
+# - data/ contains frozen research snapshots required for reproducibility.

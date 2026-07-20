@@ -1,0 +1,66 @@
+group,contract,quoted_outcome,market_probability,source_url
+main_90m,Norway win,Norway,0.244,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11
+main_90m,Draw,Draw,0.251,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11
+main_90m,England win,England,0.505,https://polyinsider.io/en/markets/fifwc-nor-eng-2026-07-11
+advance,Norway to advance,Norway,0.350,https://explorer.struct.to/markets/fifwc-nor-eng-2026-07-11-team-to-advance
+totals,Total over 0.5,Over,0.940,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 1.5,Over,0.810,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 2.5,Over,0.570,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 3.5,Over,0.350,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 4.5,Over,0.180,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 5.5,Over,0.080,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 6.5,Over,0.030,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 7.5,Over,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+totals,Total over 8.5,Over,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,Norway over 0.5,Over,0.720,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,Norway over 1.5,Over,0.350,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,Norway over 2.5,Over,0.120,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,England over 0.5,Over,0.850,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,England over 1.5,Over,0.540,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+team_total,England over 2.5,Over,0.250,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,First half over 0.5,Over,0.690,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,First half over 1.5,Over,0.330,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,First half over 2.5,Over,0.120,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,Second half over 0.5,Over,0.840,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,Second half over 1.5,Over,0.530,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_total,Second half over 2.5,Over,0.260,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,Norway first half over 0.5,Over,0.380,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,Norway first half over 1.5,Over,0.090,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,Norway second half over 0.5,Over,0.530,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,Norway second half over 1.5,Over,0.180,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,England first half over 0.5,Over,0.510,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,England first half over 1.5,Over,0.160,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,England second half over 0.5,Over,0.650,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+half_team,England second half over 1.5,Over,0.270,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+btts,Both teams to score,Yes,0.610,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+btts,Both teams to score first half,Yes,0.220,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+btts,Both teams to score second half,Yes,0.340,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,England -1.5,England,0.260,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,England -2.5,England,0.100,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,England -3.5,England,0.040,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,England -4.5,England,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,England -5.5,England,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,Norway -1.5,Norway,0.090,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,Norway -2.5,Norway,0.020,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,Norway -3.5,Norway,0.010,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,Norway -4.5,Norway,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+spread,Norway -5.5,Norway,0.000,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+extra_time,Match goes to extra time,Yes,0.270,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+extra_time,Match goes to penalties,Yes,0.140,https://polymarket.com.se/event/sports/fifwc-nor-eng-2026-07-11-more-markets
+exact_score,Norway 0-0 England,Yes,0.060,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 0-1 England,Yes,0.090,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 0-2 England,Yes,0.080,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 0-3 England,Yes,0.050,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 1-0 England,Yes,0.060,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 1-1 England,Yes,0.130,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 1-2 England,Yes,0.120,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 1-3 England,Yes,0.070,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 2-0 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 2-1 England,Yes,0.080,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 2-2 England,Yes,0.070,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 2-3 England,Yes,0.040,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 3-0 England,Yes,0.010,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 3-1 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 3-2 England,Yes,0.030,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Norway 3-3 England,Yes,0.020,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
+exact_score,Any other score,Yes,0.110,https://polymarket.com.se/event/sports/general/fifwc-nor-eng-2026-07-11-exact-score
